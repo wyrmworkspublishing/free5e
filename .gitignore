@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,notepadpp,visualstudiocode,textmate,sublimetext,emacs,vim,obsidian
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,notepadpp,visualstudiocode,textmate,sublimetext,emacs,vim,obsidian
+# Created by https://www.toptal.com/developers/gitignore/api/vim,emacs,linux,macos,windows,obsidian,textmate,notepadpp,sublimetext,visualstudiocode,libreoffice,microsoftoffice
+# Edit at https://www.toptal.com/developers/gitignore?templates=vim,emacs,linux,macos,windows,obsidian,textmate,notepadpp,sublimetext,visualstudiocode,libreoffice,microsoftoffice
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
@@ -52,6 +52,10 @@ flycheck_*.el
 /network-security.data
 
 
+### LibreOffice ###
+# LibreOffice locks
+.~lock.*#
+
 ### Linux ###
 
 # temporary files which can be created if a process still has a handle open of a deleted file
@@ -98,6 +102,27 @@ Temporary Items
 ### macOS Patch ###
 # iCloud generated files
 *.icloud
+
+### MicrosoftOffice ###
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
 
 ### NotepadPP ###
 # Notepad++ backups #
@@ -210,4 +235,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,notepadpp,visualstudiocode,textmate,sublimetext,emacs,vim,obsidian
+# End of https://www.toptal.com/developers/gitignore/api/vim,emacs,linux,macos,windows,obsidian,textmate,notepadpp,sublimetext,visualstudiocode,libreoffice,microsoftoffice
