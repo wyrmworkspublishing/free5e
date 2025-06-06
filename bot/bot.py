@@ -5,7 +5,6 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 from functools import lru_cache
 
 import pandas as pd
-from flask import Flask  # You can remove Flask entirely if you want
 import discord
 from discord.ext import commands
 from discord import app_commands
@@ -48,7 +47,8 @@ async def on_ready():
     print(f'Bot is ready. Logged in as {bot.user}')
 
 # Load and sanitize glossary data
-glossary_df = pd.read_csv('free5e_glossary.csv')
+glossary_path = os.path.join(os.path.dirname(__file__), 'free5e_glossary.csv')
+glossary_df = pd.read_csv(glossary_path)
 glossary_df['category'] = glossary_df['category'].str.strip().str.lower()
 glossary_df['name'] = glossary_df['name'].str.strip()
 glossary_df['definition'] = glossary_df['definition'].str.strip()
