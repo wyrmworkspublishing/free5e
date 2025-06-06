@@ -1,2 +1,4 @@
 discord.py
 Flask
+pandas
+rapidfuzz
