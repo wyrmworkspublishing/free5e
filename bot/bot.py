@@ -1,37 +1,50 @@
 import os
 import threading
-from flask import Flask
+import logging
+from http.server import BaseHTTPRequestHandler, HTTPServer
+from functools import lru_cache
+
+import pandas as pd
+from flask import Flask  # You can remove Flask entirely if you want
 import discord
 from discord.ext import commands
+from discord import app_commands
+from rapidfuzz import process
 
-# ENV VARS
+# Environment variables
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
-PORT = int(os.environ.get("PORT", 8000))
+GUILD_ID = 1380206789525766194  # Your test server
 
-# Flask app
-app = Flask(__name__)
+# Minimal dummy server to keep Render alive
+class HealthHandler(BaseHTTPRequestHandler):
+    def do_HEAD(self):
+        self.send_response(200)
+        self.end_headers()
+    def do_GET(self):
+        self.send_response(200)
+        self.end_headers()
+        self.wfile.write(b"Bot is running!")
 
-@app.route("/")
-def index():
-    return "Bot is running!"
+def run_server():
+    port = int(os.environ.get("PORT", 8000))
+    server = HTTPServer(("", port), HealthHandler)
+    server.serve_forever()
 
-# Run Flask server in separate thread
-def run_flask():
-    app.run(host="0.0.0.0", port=PORT)
-
-# Start Flask server in background
-flask_thread = threading.Thread(target=run_flask)
-flask_thread.start()
+threading.Thread(target=run_server, daemon=True).start()
 
 # Discord setup
 intents = discord.Intents.default()
 intents.message_content = True
-
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 @bot.event
 async def on_ready():
-    await bot.tree.sync()
+    try:
+        guild = discord.Object(id=GUILD_ID)
+        await bot.tree.sync(guild=guild)
+        print(f"Synced commands to guild {GUILD_ID}")
+    except Exception as e:
+        print(f"Failed to sync commands: {e}")
     print(f'Bot is ready. Logged in as {bot.user}')
 
 # Load and sanitize glossary data
@@ -67,107 +80,75 @@ def search_all_entries(term: str):
         logging.error(f"Error in search_all_entries: {e}")
         return None
 
+# Text Commands
 @bot.command(name='define')
 async def define(ctx, category: str, *, entry: str):
-    try:
-        category = category.strip().lower()
-        entry = entry.strip()
-        result = get_entry(category, entry)
-        if result is not None:
-            await ctx.send(f"**{result['name']}**: {result['definition']}")
-        else:
-            await ctx.send(f"Couldn't find a matching entry for `{entry}` in category `{category}`.")
-    except Exception as e:
-        logging.error(f"Error in define command: {e}")
-        await ctx.send("An error occurred while processing your request.")
+    result = get_entry(category.strip().lower(), entry.strip())
+    if result:
+        await ctx.send(f"**{result['name']}**: {result['definition']}")
+    else:
+        await ctx.send(f"Couldn't find `{entry}` in `{category}`.")
 
 @bot.command(name='search')
 async def search(ctx, *, search_term: str):
-    try:
-        search_term = search_term.strip()
-        result = search_all_entries(search_term)
-        if result is not None:
-            await ctx.send(f"**{result['name']}**: {result['definition']}")
-        else:
-            await ctx.send(f"Couldn't find a matching entry for `{search_term}`.")
-    except Exception as e:
-        logging.error(f"Error in search command: {e}")
-        await ctx.send("An error occurred while processing your request.")
+    result = search_all_entries(search_term.strip())
+    if result:
+        await ctx.send(f"**{result['name']}**: {result['definition']}")
+    else:
+        await ctx.send(f"Couldn't find `{search_term}`.")
 
 @bot.command(name='categories')
 async def list_categories(ctx):
-    try:
-        category_list = sorted(glossary.groups.keys())
-        await ctx.send("**Available categories:**\n" + ", ".join(f"`{cat}`" for cat in category_list))
-    except Exception as e:
-        logging.error(f"Error in categories command: {e}")
-        await ctx.send("An error occurred while retrieving the category list.")
+    cats = sorted(glossary.groups.keys())
+    await ctx.send("**Available categories:**\n" + ", ".join(f"`{c}`" for c in cats))
 
 @bot.command(name='glossaryhelp')
 async def glossary_help(ctx):
     help_text = (
         "**Glossary Bot Commands**\n"
-        "`!define [category] [entry name]` – Look up a glossary entry in a specific category.\n"
-        "  Example: `!define feat resilient`\n"
-        "`!search [entry name]` – Search all categories for a glossary entry.\n"
-        "  Example: `!search spellcasting`\n"
-        "`!categories` – List all available glossary categories.\n"
-        "`!glossaryhelp` – Show this help message.\n"
-        "All commands are also available as slash commands.\n"
+        "`!define [category] [entry name]`\n"
+        "`!search [entry name]`\n"
+        "`!categories`\n"
+        "`!glossaryhelp`\n"
+        "All commands are also available as slash commands."
     )
     await ctx.send(help_text)
 
-# Slash commands
+# Slash Commands
 @bot.tree.command(name="define", description="Look up a glossary entry by category")
 @app_commands.describe(category="The glossary category", entry="The entry name")
 async def slash_define(interaction: discord.Interaction, category: str, entry: str):
-    try:
-        category = category.strip().lower()
-        entry = entry.strip()
-        result = get_entry(category, entry)
-        if result is not None:
-            await interaction.response.send_message(f"**{result['name']}**: {result['definition']}")
-        else:
-            await interaction.response.send_message(f"No match for `{entry}` in `{category}`.")
-    except Exception as e:
-        logging.error(f"Error in slash_define: {e}")
-        await interaction.response.send_message("An error occurred while processing your request.")
+    result = get_entry(category.strip().lower(), entry.strip())
+    if result:
+        await interaction.response.send_message(f"**{result['name']}**: {result['definition']}")
+    else:
+        await interaction.response.send_message(f"No match for `{entry}` in `{category}`.")
 
-@bot.tree.command(name="search", description="Search for a glossary entry in all categories")
+@bot.tree.command(name="search", description="Search all categories for a glossary entry")
 @app_commands.describe(entry="The entry name to search for")
 async def slash_search(interaction: discord.Interaction, entry: str):
-    try:
-        entry = entry.strip()
-        result = search_all_entries(entry)
-        if result is not None:
-            await interaction.response.send_message(f"**{result['name']}**: {result['definition']}")
-        else:
-            await interaction.response.send_message(f"No match for `{entry}`.")
-    except Exception as e:
-        logging.error(f"Error in slash_search: {e}")
-        await interaction.response.send_message("An error occurred while processing your request.")
+    result = search_all_entries(entry.strip())
+    if result:
+        await interaction.response.send_message(f"**{result['name']}**: {result['definition']}")
+    else:
+        await interaction.response.send_message(f"No match for `{entry}`.")
 
 @bot.tree.command(name="categories", description="List all available glossary categories")
 async def slash_categories(interaction: discord.Interaction):
-    try:
-        category_list = sorted(glossary.groups.keys())
-        await interaction.response.send_message("**Categories:**\n" + ", ".join(f"`{cat}`" for cat in category_list))
-    except Exception as e:
-        logging.error(f"Error in slash_categories: {e}")
-        await interaction.response.send_message("An error occurred while retrieving the category list.")
+    cats = sorted(glossary.groups.keys())
+    await interaction.response.send_message("**Categories:**\n" + ", ".join(f"`{c}`" for c in cats))
 
 @bot.tree.command(name="glossaryhelp", description="Show glossary bot help message")
 async def slash_glossary_help(interaction: discord.Interaction):
     help_text = (
         "**Glossary Bot Commands**\n"
-        "`/define [category] [entry name]` – Look up a glossary entry in a specific category.\n"
-        "`/search [entry name]` – Search all categories for a glossary entry.\n"
-        "`/categories` – List all available glossary categories.\n"
-        "`/glossaryhelp` – Show this help message.\n"
-        "These commands are also available with `!` if you prefer text commands.\n"
+        "`/define [category] [entry name]`\n"
+        "`/search [entry name]`\n"
+        "`/categories`\n"
+        "`/glossaryhelp`\n"
+        "These commands are also available with `!` if you prefer text commands."
     )
     await interaction.response.send_message(help_text, ephemeral=True)
 
-# Start bot
-token = os.environ["DISCORD_TOKEN"]
-bot.run(token)
+# Run the bot
+bot.run(DISCORD_TOKEN)
