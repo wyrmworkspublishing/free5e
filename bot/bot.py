@@ -38,8 +38,8 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 @bot.event
 async def on_ready():
     try:
-    await bot.tree.sync()
-print("Synced global commands.")
+        await bot.tree.sync()
+        print("Synced global commands.")
     except Exception as e:
         print(f"Failed to sync commands: {e}")
     print(f'Bot is ready. Logged in as {bot.user}')
