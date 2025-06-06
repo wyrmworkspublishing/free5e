@@ -12,7 +12,6 @@ from rapidfuzz import process
 
 # Environment variables
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
-GUILD_ID = 1380206789525766194  # Your test server
 
 # Minimal dummy server to keep Render alive
 class HealthHandler(BaseHTTPRequestHandler):
@@ -39,9 +38,8 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 @bot.event
 async def on_ready():
     try:
-        guild = discord.Object(id=GUILD_ID)
-        await bot.tree.sync(guild=guild)
-        print(f"Synced commands to guild {GUILD_ID}")
+await bot.tree.sync()
+print("Synced global commands.")
     except Exception as e:
         print(f"Failed to sync commands: {e}")
     print(f'Bot is ready. Logged in as {bot.user}')
