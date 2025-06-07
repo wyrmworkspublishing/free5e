@@ -78,12 +78,23 @@ def search_all_entries(term: str):
         logging.error(f"Error in search_all_entries: {e}")
         return None
 
+# Utility to split and send long messages
+async def send_long_message(send_func, content: str):
+    max_len = 2000
+    if len(content) <= max_len:
+        await send_func(content)
+    else:
+        chunks = [content[i:i+max_len] for i in range(0, len(content), max_len)]
+        for chunk in chunks:
+            await send_func(chunk)
+
 # Text Commands
 @bot.command(name='define')
 async def define(ctx, category: str, *, entry: str):
     result = get_entry(category.strip().lower(), entry.strip())
     if result:
-        await ctx.send(f"**{result['name']}**: {result['definition']}")
+        msg = f"**{result['name']}**: {result['definition']}"
+        await send_long_message(ctx.send, msg)
     else:
         await ctx.send(f"Couldn't find `{entry}` in `{category}`.")
 
@@ -91,14 +102,16 @@ async def define(ctx, category: str, *, entry: str):
 async def search(ctx, *, search_term: str):
     result = search_all_entries(search_term.strip())
     if result:
-        await ctx.send(f"**{result['name']}**: {result['definition']}")
+        msg = f"**{result['name']}**: {result['definition']}"
+        await send_long_message(ctx.send, msg)
     else:
         await ctx.send(f"Couldn't find `{search_term}`.")
 
 @bot.command(name='categories')
 async def list_categories(ctx):
     cats = sorted(glossary.groups.keys())
-    await ctx.send("**Available categories:**\n" + ", ".join(f"`{c}`" for c in cats))
+    msg = "**Available categories:**\n" + ", ".join(f"`{c}`" for c in cats)
+    await send_long_message(ctx.send, msg)
 
 @bot.command(name='glossaryhelp')
 async def glossary_help(ctx):
@@ -118,7 +131,10 @@ async def glossary_help(ctx):
 async def slash_define(interaction: discord.Interaction, category: str, entry: str):
     result = get_entry(category.strip().lower(), entry.strip())
     if result:
-        await interaction.response.send_message(f"**{result['name']}**: {result['definition']}")
+        msg = f"**{result['name']}**: {result['definition']}"
+        await interaction.response.send_message(msg[:2000])
+        for i in range(2000, len(msg), 2000):
+            await interaction.followup.send(msg[i:i+2000])
     else:
         await interaction.response.send_message(f"No match for `{entry}` in `{category}`.")
 
@@ -127,14 +143,20 @@ async def slash_define(interaction: discord.Interaction, category: str, entry: s
 async def slash_search(interaction: discord.Interaction, entry: str):
     result = search_all_entries(entry.strip())
     if result:
-        await interaction.response.send_message(f"**{result['name']}**: {result['definition']}")
+        msg = f"**{result['name']}**: {result['definition']}"
+        await interaction.response.send_message(msg[:2000])
+        for i in range(2000, len(msg), 2000):
+            await interaction.followup.send(msg[i:i+2000])
     else:
         await interaction.response.send_message(f"No match for `{entry}`.")
 
 @bot.tree.command(name="categories", description="List all available glossary categories")
 async def slash_categories(interaction: discord.Interaction):
     cats = sorted(glossary.groups.keys())
-    await interaction.response.send_message("**Categories:**\n" + ", ".join(f"`{c}`" for c in cats))
+    msg = "**Available categories:**\n" + ", ".join(f"`{c}`" for c in cats)
+    await interaction.response.send_message(msg[:2000])
+    for i in range(2000, len(msg), 2000):
+        await interaction.followup.send(msg[i:i+2000])
 
 @bot.tree.command(name="glossaryhelp", description="Show glossary bot help message")
 async def slash_glossary_help(interaction: discord.Interaction):
