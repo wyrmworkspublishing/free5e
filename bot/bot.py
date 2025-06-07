@@ -92,7 +92,7 @@ async def send_long_message(send_func, content: str):
 @bot.command(name='define')
 async def define(ctx, category: str, *, entry: str):
     result = get_entry(category.strip().lower(), entry.strip())
-    if result:
+    if result is not None:
         msg = f"**{result['name']}**: {result['definition']}"
         await send_long_message(ctx.send, msg)
     else:
@@ -101,7 +101,7 @@ async def define(ctx, category: str, *, entry: str):
 @bot.command(name='search')
 async def search(ctx, *, search_term: str):
     result = search_all_entries(search_term.strip())
-    if result:
+    if result is not None:
         msg = f"**{result['name']}**: {result['definition']}"
         await send_long_message(ctx.send, msg)
     else:
@@ -130,7 +130,7 @@ async def glossary_help(ctx):
 @app_commands.describe(category="The glossary category", entry="The entry name")
 async def slash_define(interaction: discord.Interaction, category: str, entry: str):
     result = get_entry(category.strip().lower(), entry.strip())
-    if result:
+    if result is not None:
         msg = f"**{result['name']}**: {result['definition']}"
         await interaction.response.send_message(msg[:2000])
         for i in range(2000, len(msg), 2000):
@@ -142,7 +142,7 @@ async def slash_define(interaction: discord.Interaction, category: str, entry: s
 @app_commands.describe(entry="The entry name to search for")
 async def slash_search(interaction: discord.Interaction, entry: str):
     result = search_all_entries(entry.strip())
-    if result:
+    if result is not None:
         msg = f"**{result['name']}**: {result['definition']}"
         await interaction.response.send_message(msg[:2000])
         for i in range(2000, len(msg), 2000):
