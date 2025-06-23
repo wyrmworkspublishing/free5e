@@ -24,3 +24,5 @@ You may modify the logo (e.g. in form of the Photoshop file) to fit your product
 
 You may obtain a layered PSD file for easy customization or creating new variations.
 Since GitHub won't allow me to upload the file due to its file size, you can [download the original Photoshop file here](https://drive.google.com/file/d/1sDcJL40qsTT8501t5-vJH7P1p2ccKZ69/view?usp=sharing)
+
+> 💡 **Tip:** Don’t have Photoshop? You can edit the layered PSD file using [GIMP](https://www.gimp.org/), a free and open-source image editor that works on Windows, macOS, and Linux.
