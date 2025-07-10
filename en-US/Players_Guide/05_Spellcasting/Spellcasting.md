@@ -329,6 +329,8 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 
 [Hex](./Spell_Descriptions/Hex.md)
 
+[Iz’zart's Swarm Limb](./Spell_Descriptions/Izzarts_Swarm_Limb.md)
+
 [Melestrua's Marvelous Marquee](./Spell_Descriptions/Melestruas_Marvelous_Marquee.md)
 
 <!--[Morscheck's Hand](./Spell_Descriptions/Morschecks_Hand.md)-->
