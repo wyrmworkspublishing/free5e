@@ -4,9 +4,6 @@
 - Chill Touch
 - Dancing Lights
 - Fire Bolt
-<!-- This is not a Sorcerer spell in the WotC SRD
-- Friends
--->
 - Light
 - Mage Hand
 - Mending
@@ -17,6 +14,7 @@
 - Ray of Frost
 - Shocking Grasp
 - True Strike
+
 ##### 1st Level
 - Burning Hands
 - Charm Person
@@ -28,6 +26,7 @@
 - False Life
 - Feather Fall
 - Fog Cloud
+- Grease
 - Jump
 - Mage Armor
 - Magic Missile
@@ -35,6 +34,7 @@
 - Silent Image
 - Sleep
 - Thunderwave
+
 ##### 2nd Level
 - Alter Self
 - Blindness/Deafness
@@ -44,122 +44,86 @@
 - Detect Thoughts
 - Enhance Ability
 - Enlarge/Reduce
+- Flame Blade
+- Flaming Sphere
 - Gust of Wind
 - Hold Person
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Invisibility
--->
 - Knock
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Levitate
--->
+- Magic Weapon
 - Mirror Image
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Misty Step
--->
 - Scorching Ray
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - See Invisiblity
--->
 - Shatter
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Spider Climb
--->
 - Suggestion
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Web
--->
+
 ##### 3rd Level
 - Blink
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Clairvoyance
--->
 - Counterspell
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Daylight
--->
 - Dispel Magic
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Fear
--->
 - Fireball
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Fly
--->
 - Gaseous Form
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Haste
--->
 - Hypnotic Pattern
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Lightning Bolt
--->
 - Major Image
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Protection from Energy
--->
 - Sleet Storm
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Slow
--->
 - Stinking Cloud
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Tongues
--->
+- Vampiric Touch
 - Water Breathing
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Water Walk
--->
+
 ##### 4th Level
 - Banishment
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Blight
--->
-<!-- This is not a Bard spell in the WotC SRD
-- Charm Monster
--->
 - Confusion
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Dimension Door
--->
 - Dominate Beast
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
+- Fire Shield
 - Greater Invisibility
--->
 - Ice Storm
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Polymorph
--->
 - Stoneskin
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Wall of Fire
--->
+
 ##### 5th Level
 - Animate Objects
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Cloudkill
--->
 - Cone of Cold
 - Creation
-<!-- This is currently missing from the Sorcerer spell list in the Google Doc
 - Dominate Person
--->
 - Hold Monster
 - Insect Plague
+- Morscheck‘s Hand <!-- previously "Arcane Hand" -->
 - Seeming
 - Telekinesis
 - Teleportation Circle
 - Wall of Stone
+
 ##### 6th Level
 - Chain Lightning
 - Circle of Death
 - Disintegrate
 - Eyebite
+- Flesh to Stone
+- Freezing Sphere <!-- Might be renamed -->
 - Globe of Invulnerability
 - Mass Suggestion
 - Move Earth
 - Sunbeam
 - True Seeing
+
 ##### 7th Level
 - Delayed Blast Fireball
 - Etherealness
@@ -169,12 +133,15 @@
 - Prismatic Spray
 - Reverse Gravity
 - Teleport
+
 ##### 8th Level
+- Demiplane
 - Dominate Monster
 - Earthquake
 - Incendiary Cloud
 - Power Word Stun
 - Sunburst
+
 ##### 9th Level
 - Gate
 - Meteor Swarm
