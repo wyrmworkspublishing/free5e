@@ -11,15 +11,20 @@
 - Protection from Evil and Good
 - Purify Food and Drink
 - Shield of Faith
+
 ##### 2nd Level
 - Aid
 - Branding Smite
 - Find Steed
+- Gentle Repose
 - Lesser Restoration
 - Locate Object
 - Magic Weapon
+- Prayer of Healing
 - Protection from Poison
+- Warding Bond
 - Zone of Truth
+
 ##### 3rd Level
 - Create Food and Water
 - Daylight
@@ -27,15 +32,13 @@
 - Magic Circle
 - Remove Curse
 - Revivify
+
 ##### 4th Level
 - Banishment
-<!-- This is currently missing from the Vanguard spell list in the Google Doc
 - Death Ward
--->
 - Locate Creature
+
 ##### 5th Level
 - Dispel Evil and Good
-<!-- This is currently missing from the Vanguard spell list in the Google Doc
 - Geas
--->
 - Raise Dead
