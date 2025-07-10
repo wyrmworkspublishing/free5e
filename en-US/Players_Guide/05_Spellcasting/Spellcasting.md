@@ -297,15 +297,46 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 -->
 
 [Bard Spells](./Spell_Lists/Bard_Spells.md)
+
 [Cleric Spells](./Spell_Lists/Cleric_Spells.md)
+
 [Ranger Spells](./Spell_Lists/Ranger_Spells.md)
+
 [Sorcerer Spells](./Spell_Lists/Sorcerer_Spells.md)
+
 [Vanguard Spells](./Spell_Lists/Vanguard_Spells.md)
+
 [Warlock Spells](./Spell_Lists/Warlock_Spells.md)
+
 [Wizard Spells](./Spell_Lists/Wizard_Spells.md)
+
 [Wodewose Spells](./Spell_Lists/Wodewose_Spells.md)
 
 ### Spell Descriptions
-[Acid Splash](./Spell_Descriptions/Acid_Splash.md)
-[Aid](./Spell_Descriptions/Aid.md)
-[Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)
+<!--[Acid Splash](./Spell_Descriptions/Acid_Splash.md)-->
+
+<!--[Aid](./Spell_Descriptions/Aid.md)-->
+
+<!--[Alia's Magnificant Mansion](./Spell_Descriptions/Alias_Magnificant_Mansion.md)-->
+
+<!--[Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)-->
+
+[Cerilsen's Secret Chest](./Spell_Descriptions/Cerilsens_Secret_Chest.md)
+
+<!--[Coreador's Black Tentacles](./Spell_Descriptions/Coreadors_Black_Tentacles.md)-->
+
+<!--[DT's Magic Aura](./Spell_Descriptions/DTs_Magic_Aura.md)-->
+
+[Hex](./Spell_Descriptions/Hex.md)
+
+[Melestrua's Marvelous Marquee](./Spell_Descriptions/Melestruas_Marvelous_Marquee.md)
+
+<!--[Morscheck's Hand](./Spell_Descriptions/Morschecks_Hand.md)-->
+
+<!--[Naturecraft](./Spell_Descriptions/Naturecraft.md)-->
+
+<!--[Paoliello's Hideous Laughter](./Spell_Descriptions/Paoliellos_Hideous_Laughter.md)-->
+
+[Pelham's Hovering Platter](./Spell_Descriptions/Pelhams_Hovering_Platter.md)
+
+<!--[Rantock's Telepathic Bond](./Spell_Descriptions/Rantocks_Telepathic_Bond.md)-->
