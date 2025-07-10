@@ -1,8 +1,6 @@
 # Free5e Player’s Guide
 (Title Pending, Preview Work-in-Progress)
 
-Updated June 4, 2025
-\
 <mark>Highlighted Portions</mark> are scheduled for significant modification.
 \
 Sign up to receive email updates at [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard)
@@ -21,8 +19,8 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [**Conditions**](./06_Conditions/Conditions.md)
 
-[**Appendix: Cross-System Character Conversion**](./07_Appendix_Cross-System_Character_Conversion/Cross-System_Character_Conversion.md)
+[**Appendix: Cross-System Character Conversion**](./Appendix/01_Cross-System_Character_Conversion/Cross-System_Character_Conversion.md)
 
-[**Credits**](./08_Credits/Credits.md)
+[**Credits**](./Credits/Credits.md)
 
-[**Legal**](./09_Legal/Legal.md)
+[**Legal**](./Legal.md)
