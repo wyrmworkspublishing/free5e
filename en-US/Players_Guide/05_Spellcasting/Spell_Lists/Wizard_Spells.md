@@ -1,1 +1,229 @@
 #### Wizard Spells
+##### Cantrips (0 Level)
+- Acid Splash
+- Chill Touch
+- Dancing Lights
+- Fire Bolt
+- Light
+- Mage Hand
+- Mending
+- Message
+- Minor Illusion
+- Poison Spray
+- Prestidigitation
+- Ray of Frost
+- Shocking Grasp
+- True Strike
+
+##### 1st Level
+- Alarm
+- Burning Hands
+- Charm Person
+- Color Spray
+- Comprehend Languages
+- Detect Magic
+- Disguise Self
+- Expeditious Retreat
+- False Life
+- Feather Fall
+- Find Familiar
+- Fog Cloud
+- Grease
+- Identify
+- Illusory Script
+- Iz’zart's Swarm Limb
+- Jump
+- Longstrider
+- Mage Armor
+- Magic Missile
+- Paoliello's Hideous Laughter <!-- previously "Hideous Laughter" -->
+- Pelham's Hovering Platter <!-- previously "Floating Disk" -->
+- Protection from Evil and Good
+- Shield
+- Silent Image
+- Sleep
+- Thunderwave
+- Unseen Servant
+
+##### 2nd Level
+- Alter Self
+- Arcane Lock
+- Augury
+- Blindness/Deafness
+- Blur
+- Bragolbeleg's Acid Bolt <!-- previously "Acid Arrow" -->
+- Continual Flame
+- Darkness
+- Darkvision
+- Detect Thoughts
+- DT's Magic Aura <!-- previously "Arcanist's Magic Aura -->
+- Enhance Ability
+- Enlarge/Reduce
+- Flaming Sphere
+- Gentle Repose
+- Gust of Wind
+- Hold Person
+- Invisibility
+- Knock
+- Levitate
+- Locate Object
+- Magic Mouth
+- Magic Weapon
+- Mirror Image
+- Misty Step
+- Ray of Enfeeblement
+- Rope Trick
+- Scorching Ray
+- See Invisibility
+- Shatter
+- Spider Climb
+- Suggestion
+- Web
+
+##### 3rd Level
+- Animate Dead
+- Bestow Curse
+- Blink
+- Clairvoyance
+- Counterspell
+- Dispel Magic
+- Fear
+- Fireball
+- Fly
+- Gaseous Form
+- Glyph of Warding
+- Haste
+- Hypnotic Pattern
+- Lightning Bolt
+- Magic Circle
+- Major Image
+- Melestrua's Marvelous Marquee <!-- previously "Tiny Hut" -->
+- Nondetection
+- Phantom Steed
+- Protection from Energy
+- Remove Curse
+- Sending
+- Sleet Storm
+- Slow
+- Speak with Dead
+- Stinking Cloud
+- Tongues
+- Vampiric Touch
+- Water Breathing
+
+##### 4th Level
+- Arcane Eye
+- Banishment
+- Blight
+- Cerilsen's Secret Chest <!-- previously "Secret Chest" -->
+- Confusion
+- Conjure Minor Elementals
+- Control Water
+- Coreador's Black Tentacles <!-- previously "Black Tentacles" -->
+- Dimension Door
+- Divination
+- Fabricate
+- Faithful Hound <!-- Might be renamed -->
+- Fire Shield
+- Greater Invisibility
+- Hallucinatory Terrain
+- Ice Storm
+- Locate Creature
+- Phantasmal Killer
+- Polymorph
+- Private Sanctum <!-- Might be renamed -->
+- Resilient Sphere <!-- Might be renamed -->
+- Stone Shape
+- Stoneskin
+- Wall of Fire
+
+##### 5th Level
+- Animate Objects
+- Cloudkill
+- Cone of Cold
+- Conjure Elemental
+- Contact Other Plane
+- Creation
+- Dominate Person
+- Dream
+- Geas
+- Hold Monster
+- Legend Lore
+- Mislead
+- Modify Memory
+- Morscheck‘s Hand <!-- previously "Arcane Hand" -->
+- Passwall
+- Planar Binding
+- Rantock's Telepathic Bond <!-- previously "Telepathic Bond" -->
+- Scrying
+- Seeming
+- Telekinesis
+- Teleportation Circle
+- Wall of Force
+- Wall of Stone
+
+##### 6th Level
+- Chain Lightning
+- Circle of Death
+- Contingency
+- Create Undead
+- Disintegrate
+- Eyebite
+- Flesh to Stone
+- Freezing Sphere <!-- Might be renamed -->
+- Globe of Invulnerability
+- Guards and Wards
+- Instant Summons <!-- Shouldn't this be renamed? -->
+- Irresistible Dance <!-- Might be renamed -->
+- Magic Jar
+- Mass Suggestion
+- Move Earth
+- Programmed Illusion
+- Sunbeam
+- True Seeing
+- Wall of Ice
+
+##### 7th Level
+- Alia's Magnificent Mansion
+- Arcane Sword <!-- Might be renamed -->
+- Delayed Blast Fireball
+- Etherealness
+- Finger of Death
+- Forcecage
+- Mirage Arcane
+- Plane Shift
+- Prismatic Spray
+- Project Image
+- Reverse Gravity
+- Sequester
+- Simulacrum
+- Symbol
+- Teleport
+
+##### 8th Level
+- Antimagic Field
+- Antipathy/Sympathy
+- Clone
+- Control Weather
+- Demiplane
+- Dominate Monster
+- Feeblemind
+- Incendiary Cloud
+- Maze
+- Mind Blank
+- Power Word Stun
+- Sunburst
+
+##### 9th Level
+- Astral Projection
+- Foresight
+- Gate
+- Imprisonment
+- Meteor Swarm
+- Power Word Kill
+- Prismatic Wall
+- Shapechange
+- Time Stop
+- True Polymorph
+- Weird
+- Wish
