@@ -211,6 +211,24 @@ function convert_docbook_to_odt {
       "${docbook_filepath}"
 }
 
+function convert_docbook_to_latex {
+  MD_BASE_FILE_NAME="${MD_BASE_FILE##*/}"
+  DOCBOOK_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.xml"
+  LATEX_BASE_FILE_DIR="../latex/"
+  LATEX_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.tex"
+
+  docbook_filepath="$(pwd)/${DOCBOOK_BASE_FILE_NAME}"
+  latex_filepath="$(pwd)/${LATEX_BASE_FILE_DIR}/${LATEX_BASE_FILE_NAME}"
+
+  mkdir -p "${LATEX_BASE_FILE_DIR}"
+
+  pandoc \
+      --from docbook \
+      --to latex \
+      --output "${latex_filepath}" \
+      "${docbook_filepath}"
+}
+
 # Check the languages to be read
 IFS=', ' read -r -a languages <<< "${LANGUAGES_TO_RENDER}"
 
@@ -275,20 +293,23 @@ for language in "${languages[@]}"; do
 
   popd
 
-  # Generate DOCX and ODT files formats for the books
+  # Generate DOCX, ODT, and LaTeX files formats for the books
   pushd "generated/${language}/docbook"
 
   MD_BASE_FILE="${!BASEFILE_PLAYER_BOOK}"
   convert_docbook_to_docx
   convert_docbook_to_odt
+  convert_docbook_to_latex
 
   MD_BASE_FILE="${!BASEFILE_CONDUCTOR_BOOK}"
   convert_docbook_to_docx
   convert_docbook_to_odt
+  convert_docbook_to_latex
 
   MD_BASE_FILE="${!BASEFILE_MONSTER_BOOK}"
   convert_docbook_to_docx
   convert_docbook_to_odt
+  convert_docbook_to_latex
 
   popd
 done
