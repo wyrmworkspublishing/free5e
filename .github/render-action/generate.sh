@@ -175,6 +175,24 @@ function convert_asciidoc_to_docbook {
       -o "${docbook_filepath}"
 }
 
+function convert_docbook_to_docx {
+  MD_BASE_FILE_NAME="${MD_BASE_FILE##*/}"
+  DOCBOOK_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.xml"
+  DOCX_BASE_FILE_DIR="../docx/"
+  DOCX_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.docx"
+
+  docbook_filepath="$(pwd)/${DOCBOOK_BASE_FILE_NAME}"
+  docx_filepath="$(pwd)/${DOCX_BASE_FILE_DIR}/${DOCX_BASE_FILE_NAME}"
+
+  mkdir -p "${DOCX_BASE_FILE_DIR}"
+
+  pandoc \
+      --from docbook \
+      --to docx \
+      --output "${docx_filepath}" \
+      "${docbook_filepath}"
+}
+
 # Check the languages to be read
 IFS=', ' read -r -a languages <<< "${LANGUAGES_TO_RENDER}"
 
@@ -236,6 +254,20 @@ for language in "${languages[@]}"; do
   convert_asciidoc_to_pdf
   convert_asciidoc_to_epub
   convert_asciidoc_to_docbook
+
+  popd
+
+  # Generate DOCX files formats for the books
+  pushd "generated/${language}/docbook"
+
+  MD_BASE_FILE="${!BASEFILE_PLAYER_BOOK}"
+  convert_docbook_to_docx
+
+  MD_BASE_FILE="${!BASEFILE_CONDUCTOR_BOOK}"
+  convert_docbook_to_docx
+
+  MD_BASE_FILE="${!BASEFILE_MONSTER_BOOK}"
+  convert_docbook_to_docx
 
   popd
 done
