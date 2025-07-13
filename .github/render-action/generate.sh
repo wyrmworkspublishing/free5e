@@ -116,6 +116,35 @@ function convert_asciidoc_to_pdf {
       -o "${pdf_filepath}"
 }
 
+function convert_asciidoc_to_epub {
+  MD_BASE_FILE_NAME="${MD_BASE_FILE##*/}"
+  ADOC_BASE_FILE_DIR="$(dirname -- ${MD_BASE_FILE#*/})"
+  ADOC_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.adoc"
+  EPUB_BASE_FILE_DIR="../epub/"
+  EPUB_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.epub"
+
+  adoc_filepath="$(pwd)/${ADOC_BASE_FILE_DIR}/${ADOC_BASE_FILE_NAME}"
+  epub_filepath="$(pwd)/${EPUB_BASE_FILE_DIR}/${EPUB_BASE_FILE_NAME}"
+
+  mkdir -p "${EPUB_BASE_FILE_DIR}"
+
+  asciidoctor-epub3 \
+      -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
+      -a doctype=book \
+      -a icons=font \
+      -a lang=$language \
+      -a partnums \
+      -a reproducible \
+      -a revdate="$(git log -1 --pretty="format:%cs" .)" \
+      -a sectnums \
+      -a sectnumelevels=1 \
+      -a table-stripes=even \
+      -a toc \
+      -a toclevels=4 \
+      "${adoc_filepath}" \
+      -o "${epub_filepath}"
+}
+
 # Check the languages to be read
 IFS=', ' read -r -a languages <<< "${LANGUAGES_TO_RENDER}"
 
@@ -159,18 +188,21 @@ for language in "${languages[@]}"; do
   pushd "generated/${language}/adoc"
   echo "Currently in $(pwd)..."
 
-  # Generate HTML and PDF formats for the books
+  # Generate HTML, PDF, and EPUB3 formats for the books
   MD_BASE_FILE="${!BASEFILE_PLAYER_BOOK}"
   convert_asciidoc_to_html
   convert_asciidoc_to_pdf
+  convert_asciidoc_to_epub
 
   MD_BASE_FILE="${!BASEFILE_CONDUCTOR_BOOK}"
   convert_asciidoc_to_html
   convert_asciidoc_to_pdf
+  convert_asciidoc_to_epub
 
   MD_BASE_FILE="${!BASEFILE_MONSTER_BOOK}"
   convert_asciidoc_to_html
   convert_asciidoc_to_pdf
+  convert_asciidoc_to_epub
 
   popd
 done
