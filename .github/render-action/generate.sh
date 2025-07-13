@@ -29,18 +29,62 @@ function convert_markdown_to_asciidoc {
     adoc_filename="${md_filename%.md}.adoc"
     mkdir -p "${adoc_filepath}"
 
-    echo "converting ${md_filename} to ${adoc_filepath}/${adoc_filename}..."
+    echo "Converting ${md_filename} to ${adoc_filepath}/${adoc_filename}..."
     kramdoc \
+      -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
       -a doctype=book \
       -a icons=font \
       -a lang=$language \
-      -a stem \
+      -a partnums \
+      -a reproducible \
       -a revdate="$(git log -1 --pretty="format:%cs" $md)" \
+      -a sectnums \
+      -a sectnumelevels=1 \
+      -a stem \
+      -a table-stripes=even \
+      -a toc \
+      -a toclevels=4 \
       --auto-ids \
       --auto-id-prefix="${md_filename%.md}_" \
       -o "${adoc_filepath}/${adoc_filename}" \
       $md
   done
+}
+
+function convert_asciidoc_to_html {
+  MD_BASE_FILE_NAME="${MD_BASE_FILE##*/}"
+  ADOC_BASE_FILE_DIR="$(dirname -- ${MD_BASE_FILE#*/})"
+  ADOC_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.adoc"
+  HTML_BASE_FILE_DIR="../html/${ADOC_BASE_FILE_DIR}"
+  HTML_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.html"
+
+  adoc_filepath="$(pwd)/${ADOC_BASE_FILE_DIR}/${ADOC_BASE_FILE_NAME}"
+  html_filepath="$(pwd)/${HTML_BASE_FILE_DIR}/${HTML_BASE_FILE_NAME}"
+  css_filesdir="$(pwd)/${HTML_BASE_FILE_DIR}/css"
+
+  echo "Converting ${adoc_filepath} to ${html_filepath}..."
+
+  mkdir -p "${HTML_BASE_FILE_DIR}"
+  cp -r ../../../css "${css_filesdir}"
+
+  asciidoctor \
+      -b html \
+      -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
+      -a doctype=book \
+      -a icons=font \
+      -a lang=$language \
+      -a partnums \
+      -a reproducible \
+      -a revdate="$(git log -1 --pretty="format:%cs" .)" \
+      -a sectnums \
+      -a sectnumelevels=1 \
+      -a stylesdir="${css_filesdir}" \
+      -a stylesheet=adoc-golo.css \
+      -a table-stripes=even \
+      -a toc=left \
+      -a toclevels=4 \
+      "${adoc_filepath}" \
+      -o "${html_filepath}"
 }
 
 # Check the languages to be read
@@ -81,6 +125,20 @@ for language in "${languages[@]}"; do
   for adoc in $(find . -name '*.adoc'); do
     sed -i'.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
   done
+  popd
+
+  pushd "generated/${language}/adoc"
+  echo "Currently in $(pwd)..."
+
+  # Generate HTML formats for the books
+  MD_BASE_FILE="${!BASEFILE_PLAYER_BOOK}"
+  convert_asciidoc_to_html
+
+  MD_BASE_FILE="${!BASEFILE_CONDUCTOR_BOOK}"
+  convert_asciidoc_to_html
+
+  MD_BASE_FILE="${!BASEFILE_MONSTER_BOOK}"
+  convert_asciidoc_to_html
 
   popd
 done
