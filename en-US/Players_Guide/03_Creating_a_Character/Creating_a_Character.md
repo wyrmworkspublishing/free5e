@@ -17,19 +17,19 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
    It's just for your friends!
    (If you'd like to commission a professional portrait of your character, check the credits of this book for some great artists who love illustrating characters!)
 
-[Classes](./Classes/Classes.md)
+[**Classes**](./Classes/Classes.md)
 
-[Ancestries](./Ancestries/Ancestries.md)
+[**Ancestries**](./Ancestries/Ancestries.md)
 
-[Cultures](./Cultures/Cultures.md)
+[**Cultures**](./Cultures/Cultures.md)
 
-[Backgrounds](./Backgrounds/Backgrounds.md)
+[**Backgrounds**](./Backgrounds/Backgrounds.md)
 
-[Determine Ability Scores](./Determine_Ability_Scores/Determine_Ability_Scores.md)
+[**Determine Ability Scores**](./Determine_Ability_Scores/Determine_Ability_Scores.md)
 
-[Using Ability Scores](./Using_Ability_Scores/Using_Ability_Scores.md)
+[**Using Ability Scores**](./Using_Ability_Scores/Using_Ability_Scores.md)
 
-[Variant Rule: Disabilities](./Disabilities/Disabilities.md)
+[**Variant Rule: Disabilities**](./Disabilities/Disabilities.md)
 
 [Level Advancement](./Level_Advancement/Level_Advancement.md)
 
