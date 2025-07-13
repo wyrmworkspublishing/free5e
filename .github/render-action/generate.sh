@@ -320,3 +320,5 @@ for bak in $(find . -name '*.bak'); do
   rm $bak
 done
 popd
+
+echo "Completed generating files"

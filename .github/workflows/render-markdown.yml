@@ -1,6 +1,9 @@
 name: Render Markdown to various formats
 run-name: ${{ github.actor }} triggered a rendering on branch ${{ github.ref }}...
-on: [push]
+on:
+  push:
+    branches:
+      - main
 jobs:
   render-separate-files:
     runs-on: ubuntu-latest
