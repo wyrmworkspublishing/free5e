@@ -2,7 +2,6 @@
 
 (Title Pending, <mark>Preview Work-in-Progress</mark>)
 
-Updated Saturday, February 22, 2025  \
 Sign up to receive email updates at [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard)
 Follow and Back the Kickstarter to make this a reality at [https://www.kickstarter.com/projects/wyrmworkspublishing/free5e-a-free-open-source-dungeons-and-dragons-alternative?ref=dmx0j9](https://www.kickstarter.com/projects/wyrmworkspublishing/free5e-a-free-open-source-dungeons-and-dragons-alternative?ref=dmx0j9)
 

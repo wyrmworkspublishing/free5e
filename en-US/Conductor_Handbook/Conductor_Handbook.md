@@ -1,9 +1,7 @@
-# Free5e GM Handbook
+# Free5e Conductor Handbook
 
 (Title Pending, Preview Work-in-Progress)
 
-Updated Saturday, February 22, 2025
-\
 <mark>Highlighted Portions</mark> are scheduled for significant modification.
 \
 Sign up to receive email updates at [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard)
@@ -34,7 +32,7 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [Appendix 1: Random Generators](./Appendix/01_Random_Generators/Random_Generators.md)
 
-[Appendix 2: Sample Location](./Appendix/02_Sample_Location/Sample_Locations.md)
+[Appendix 2: Sample Location](./Appendix/02_Sample_Location/Sample_Location.md)
 
 [Appendix 3: Sample Adventure](./Appendix/03_Sample_Adventure/Sample_Adventure.md)
 
