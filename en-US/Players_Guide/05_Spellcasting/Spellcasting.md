@@ -325,7 +325,11 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 
 <!--[Coreador's Black Tentacles](./Spell_Descriptions/Coreadors_Black_Tentacles.md)-->
 
+[Darkness](./Spell_Descriptions/Darkness.md)
+
 <!--[DT's Magic Aura](./Spell_Descriptions/DTs_Magic_Aura.md)-->
+
+[Hellish Rebuke](./Spell_Descriptions/Hellish_Rebuke.md)
 
 [Hex](./Spell_Descriptions/Hex.md)
 
@@ -342,3 +346,5 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 [Pelham's Hovering Platter](./Spell_Descriptions/Pelhams_Hovering_Platter.md)
 
 <!--[Rantock's Telepathic Bond](./Spell_Descriptions/Rantocks_Telepathic_Bond.md)-->
+
+[Thaumaturgy](./Spell_Descriptions/Thaumaturgy.md)
