@@ -15,6 +15,7 @@ For instance, a Dreadnought multiclassing into Wodewose must have 13 or higher S
 Without the training of a beginning character, you must be a quick learner with natural aptitude reflected by higher-than-average ability scores.
 
 _Multiclassing Prerequisites (table)_
+
 | Class       | Ability Score Minimum       |
 |:------------|:----------------------------|
 | Adept       | Dexterity 13 and Wisdom 13  |

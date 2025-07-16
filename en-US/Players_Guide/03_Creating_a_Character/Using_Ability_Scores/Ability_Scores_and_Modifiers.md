@@ -10,6 +10,7 @@ Each ability has a modifier, ranging from −5 for a 1 to +10 for a 30, based on
 The Ability Scores and Modifiers table lists these modifiers for scores from 1 to 30.
 
 _Ability Scores and Modifiers (table)_
+
 | Score | Modifier |
 |:-----:|---------:|
 |   1   |       −5 |

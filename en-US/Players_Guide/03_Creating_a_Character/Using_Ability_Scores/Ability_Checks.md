@@ -10,6 +10,7 @@ The more difficult a task, the higher its DC.
 The Typical Difficulty Classes table shows the most common DCs.
 
 _Typical Difficulty Classes (table)_
+
 | Task Difficulty   | DC |
 |:------------------|---:|
 | Very easy         |  5 |

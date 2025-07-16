@@ -16,6 +16,7 @@ The cost of each score is shown on the Ability Score Point Cost table.
 Then add 3 points to the character’s abilities, no more than two to any single ability.
 
 _Ability Score Point Cost_
+
 | Score | Cost |
 |:-----:|:----:|
 |   8   |   0  |

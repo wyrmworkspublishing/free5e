@@ -6,6 +6,7 @@ When your Constitution modifier increases, your hit point maximum increases by 1
 Refer to your character’s class description for other level-based improvements.
 
 _Character Advancement (table)_
+
 | Experience Points | Level | Proficiency Bonus |
 |------------------:|------:|:------------------|
 |                 0 |     1 | +2                |
