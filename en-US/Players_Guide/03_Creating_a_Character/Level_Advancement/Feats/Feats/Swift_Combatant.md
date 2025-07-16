@@ -1,1 +1,0 @@
-##### Swift Combatant

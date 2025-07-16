@@ -1,1 +1,0 @@
-##### Rallying Speaker
