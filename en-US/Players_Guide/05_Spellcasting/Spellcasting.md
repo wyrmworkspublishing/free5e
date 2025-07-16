@@ -286,6 +286,7 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 > - Secret Chest → Cerilsen's Secret Chest
 > - Telepathic Bond → Rantock's Telepathic Bond
 > - Tiny Hut → Melestrua's Marvelous Marquee
+
 <!-- Not yet renamed:
 > - Arcane Sword → ???
 > - Faithful Hound → ???

@@ -98,7 +98,9 @@ Such a check can represent the average result for a task done repeatedly, such a
 
 Here’s how to determine a character’s total for a passive check:
 
-> **10 + all modifiers that normally apply to the check**
+```
+10 + all modifiers that normally apply to the check
+```
 
 If the character has advantage on the check, add 5.
 For disadvantage, subtract 5. The game refers to a passive check total as a score.
