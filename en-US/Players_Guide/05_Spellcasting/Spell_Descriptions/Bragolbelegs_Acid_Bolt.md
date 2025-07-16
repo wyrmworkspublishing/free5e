@@ -1,2 +1,5 @@
 #### Bragolbeleg's Acid Bolt
 <!-- previously "Acid Arrow" -->
+
+> **Warning:**
+> This spell has not yet been transfered from the Google Doc.
