@@ -2,7 +2,8 @@
 
 As your character gains experience points and levels up, they gain additional features and proficiency bonuses.
 Each level also grants an extra Hit Die, which can be rolled and added to your hit point maximum, or used as a fixed value.
-When your Constitution modifier increases, your hit point maximum increases by 1 for each level. The Character Advancement table summarizes the XP needed to level up from 1 to 20 and the proficiency bonus for each level.
+When your Constitution modifier increases, your hit point maximum increases by 1 for each level.
+The Character Advancement table summarizes the XP needed to level up from 1 to 20 and the proficiency bonus for each level.
 Refer to your character’s class description for other level-based improvements.
 
 _Character Advancement (table)_

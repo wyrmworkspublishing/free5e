@@ -1,16 +1,17 @@
 ### Backgrounds
 
-Every story begins somewhere. Your character's background shapes their origins, path to adventuring, and role in the world.
+Every story begins somewhere.
+Your character's background shapes their origins, path to adventuring, and role in the world.
 A Fighter might be a knight or soldier, a Wizard might be a sage or artisan, or a Rogue might be a thief or jester.
 While cultures reflect the environment and values of the community that your character considers home, backgrounds reflect your character’s individual experiences before adventuring.
 
 Their background offers vital story cues: what changed to drive them to adventure, why they left their past life, how they obtained their gear, or why they lack wealth despite family riches.
 Consider how their background ties to their class skills and unique traits.
 
-1. **Skill Proficiencies** \
+1. **Skill Proficiencies**
   - Choose two skills that your character didn’t learn from their class.
     Your character is now proficient in these skills.
-2. **Tool Proficiencies and/or Languages** \
+2. **Tool Proficiencies and/or Languages**
   - Your character learned many things before becoming an adventurer, like a craft or how to barter and converse with people in their own languages.
     Choose either:
       - **One tool proficiency** and **one language**, or
@@ -36,7 +37,7 @@ Consider how their background ties to their class skills and unique traits.
   - Create a unique, narrative-focused ability that helps the character interact with the world through storytelling opportunities, such as connections, advantages in specific situations, or access to resources.
   A larger feature’s range implies less specificity, so a local expert knows more specific details than a national expert.
   A local militia member receives more aid from fellow members than an empire soldier.
-  - **Contacts** \
+  - **Contacts**
     - **Local Expert.**
       Knowledgeable about a specific region, its customs and people.
     - **Guild Connection.**

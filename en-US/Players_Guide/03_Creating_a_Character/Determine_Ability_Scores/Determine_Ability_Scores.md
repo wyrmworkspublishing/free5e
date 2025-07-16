@@ -6,7 +6,8 @@ Then add 3 points to the character’s abilities, no more than two to any single
 
 ##### Variant: Rolling Scores
 Roll 4d6, dropping the lowest die, and record the total.
-Repeat 6 times. Assign each of these numbers to one of your character's six abilities.
+Repeat 6 times.
+Assign each of these numbers to one of your character's six abilities.
 (Alternately, use the scores above but randomly assign them.)
 Then add 3 points to the character’s abilities, no more than two to any single ability.
 

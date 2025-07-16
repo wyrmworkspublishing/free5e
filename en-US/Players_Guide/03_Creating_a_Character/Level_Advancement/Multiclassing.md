@@ -104,7 +104,6 @@ However, you don’t know any 3rd-level spells, nor do you know any 2nd-level Ra
 You can use the spell slots of those levels to cast the spells you do know—and potentially enhance their effects.
 
 **Pact Magic.**
-
 If you have both the Spellcasting class feature and the Pact Magic class feature from the Warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast Warlock spells you know.
 
 <!-- TODO Add the multiclass spellcaster spell slots per spell level table -->
