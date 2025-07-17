@@ -1,1 +1,0 @@
-##### Lightly Outfitted
