@@ -14,9 +14,7 @@ The Kibbles’ Compendium of Legends and Legacies is licensed under the Creative
 
 This work includes material taken from the Black Flag Reference Document 1.0 (“BFRD 1.0”) by Kobold Press
 and available at [https://koboldpress.com/Black-Flag-Roleplaying](https://koboldpress.com/Black-Flag-Roleplaying).
-The BFRD 1.0 is licensed under the Creative Commons Attribution 4.0 International License available at [https://
-creativecommons.org/licenses/by/4.0/legalcode](https://
-creativecommons.org/licenses/by/4.0/legalcode).
+The BFRD 1.0 is licensed under the Creative Commons Attribution 4.0 International License available at [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 The text of Free5e Player's Guide © 2025 by Wyrmworks Publishing and available at [https://free5e.com](https://free5e.com) is licensed under Creative Commons Attribution 4.0 International.
 To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
