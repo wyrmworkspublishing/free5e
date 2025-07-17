@@ -229,6 +229,28 @@ function convert_docbook_to_latex {
       "${docbook_filepath}"
 }
 
+function convert_html_to_pdfua {
+  MD_BASE_FILE_NAME="${MD_BASE_FILE##*/}"
+  BOOK_BASE_FILE_DIR="$(dirname -- ${MD_BASE_FILE#*/})"
+  HTML_BASE_FILE_DIR="../html/${BOOK_BASE_FILE_DIR}"
+  HTML_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.html"
+  PDFUA_BASE_FILE_DIR="../pdf/"
+  PDFUA_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}_accessible.pdf"
+
+  html_filepath="$(pwd)/${HTML_BASE_FILE_DIR}/${HTML_BASE_FILE_NAME}"
+  pdfua_filepath="$(pwd)/${PDFUA_BASE_FILE_DIR}/${PDFUA_BASE_FILE_NAME}"
+
+  mkdir -p "${PDFUA_BASE_FILE_DIR}"
+
+  pandoc \
+      --from html \
+      --to pdf \
+      --pdf-engine=weasyprint \
+       --pdf-engine-opt=--pdf-variant=pdf/ua-1 \
+      --output "${pdfua_filepath}" \
+      "${html_filepath}"
+}
+
 # Check the languages to be read
 IFS=', ' read -r -a languages <<< "${LANGUAGES_TO_RENDER}"
 
@@ -300,16 +322,19 @@ for language in "${languages[@]}"; do
   convert_docbook_to_docx
   convert_docbook_to_odt
   convert_docbook_to_latex
+  convert_html_to_pdfua
 
   MD_BASE_FILE="${!BASEFILE_CONDUCTOR_BOOK}"
   convert_docbook_to_docx
   convert_docbook_to_odt
   convert_docbook_to_latex
+  convert_html_to_pdfua
 
   MD_BASE_FILE="${!BASEFILE_MONSTER_BOOK}"
   convert_docbook_to_docx
   convert_docbook_to_odt
   convert_docbook_to_latex
+  convert_html_to_pdfua
 
   popd
 done
