@@ -46,7 +46,7 @@ function convert_markdown_to_asciidoc {
       -a stem \
       -a table-stripes=even \
       -a toc \
-      -a toclevels=4 \
+      -a toclevels=3 \
       --auto-ids \
       --auto-id-prefix="${md_filename%.md}_" \
       --auto-id-separator="_" \
@@ -85,7 +85,6 @@ function convert_asciidoc_to_html {
       -a stylesdir="${css_filesdir}" \
       -a stylesheet=free5e.css \
       -a toc=left \
-      -a toclevels=3 \
       "${adoc_filepath}" \
       -o "${html_filepath}"
 }
@@ -199,6 +198,28 @@ function convert_docbook_to_latex {
       "${docbook_filepath}"
 }
 
+function convert_html_to_pdfua {
+  MD_BASE_FILE_NAME="${MD_BASE_FILE##*/}"
+  BOOK_BASE_FILE_DIR="$(dirname -- ${MD_BASE_FILE#*/})"
+  HTML_BASE_FILE_DIR="../html/${BOOK_BASE_FILE_DIR}"
+  HTML_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.html"
+  PDFUA_BASE_FILE_DIR="../pdf/"
+  PDFUA_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}_accessible.pdf"
+
+  html_filepath="$(pwd)/${HTML_BASE_FILE_DIR}/${HTML_BASE_FILE_NAME}"
+  pdfua_filepath="$(pwd)/${PDFUA_BASE_FILE_DIR}/${PDFUA_BASE_FILE_NAME}"
+
+  mkdir -p "${PDFUA_BASE_FILE_DIR}"
+
+  pandoc \
+      --from html \
+      --to pdf \
+      --pdf-engine=weasyprint \
+       --pdf-engine-opt=--pdf-variant=pdf/ua-1 \
+      --output "${pdfua_filepath}" \
+      "${html_filepath}"
+}
+
 clean_up_generated
 
 # Check the languages to be read
@@ -293,6 +314,8 @@ for language in "${languages[@]}"; do
   convert_docbook_to_docx
   convert_docbook_to_odt
   convert_docbook_to_latex
+  convert_html_to_pdfua
+
   popd
 
   MD_BASE_DIR="$(pwd)/$(dirname -- $BASEFILE_CONDUCTOR_BOOK)"
@@ -301,6 +324,8 @@ for language in "${languages[@]}"; do
   convert_docbook_to_docx
   convert_docbook_to_odt
   convert_docbook_to_latex
+  convert_html_to_pdfua
+
   popd
 
   MD_BASE_DIR="$(pwd)/$(dirname -- $BASEFILE_MONSTER_BOOK)"
@@ -309,6 +334,8 @@ for language in "${languages[@]}"; do
   convert_docbook_to_docx
   convert_docbook_to_odt
   convert_docbook_to_latex
+  convert_html_to_pdfua
+
   popd
 done
 
