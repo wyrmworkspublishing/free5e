@@ -107,7 +107,7 @@ For disadvantage, subtract 5. The game refers to a passive check total as a scor
 
 For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
 
-The rules on hiding in the [“Dexterity”](#dexterity) section below rely on passive checks, as do the exploration rules.
+The rules on hiding in the [“Dexterity”](#Using_Dexterity_dexterity) section below rely on passive checks, as do the exploration rules.
 
 ##### Working Together
 

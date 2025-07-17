@@ -51,7 +51,7 @@ _Tools (table)_
 | Tieves’ tools                        | 25 gp |  1 lb. |
 | Vehicles (land or water)             |    \* |     \* |
 
-\* See the ["Mounts and Vehicles"](#Mounts_and_Vehicles-mounts-and-vehicles) section.
+\* See the ["Mounts and Vehicles"](#Mounts_and_Vehicles_mounts-and-vehicles) section.
 ___
 
 > **Warning:**
