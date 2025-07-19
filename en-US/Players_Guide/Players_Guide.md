@@ -15,9 +15,11 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [**Adventuring**](./04_Adventuring/04_Adventuring.md)
 
-[**Spellcasting**](./05_Spellcasting/Spellcasting.md)
+[**Planes of Existence**](./05_Planes_of_Existence/Planes_of_Existence.md)
 
-[**Conditions**](./06_Conditions/Conditions.md)
+[**Spellcasting**](./06_Spellcasting/Spellcasting.md)
+
+[**Conditions**](./07_Conditions/Conditions.md)
 
 [**Appendix: Cross-System Character Conversion**](./Appendix/01_Cross-System_Character_Conversion/Cross-System_Character_Conversion.md)
 
