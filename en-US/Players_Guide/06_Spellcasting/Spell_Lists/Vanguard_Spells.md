@@ -1,25 +1,27 @@
 #### Vanguard Spells
+<!-- Since Vanguards don't have ritual casting, ritual spells are not marked as such. -->
+
 ##### 1st Level
-- Bless
+- Bless (concentration)
 - Command
 - Cure Wounds
-- Detect Evil and Good
-- Detect Magic
-- Detect Poison and Disease
+- Detect Evil and Good (concentration)
+- Detect Magic (concentration)
+- Detect Poison and Disease (concentration)
 - Divine Favor
-- Heroism
-- Protection from Evil and Good
+- Heroism (concentration)
+- Protection from Evil and Good (concentration)
 - Purify Food and Drink
-- Shield of Faith
+- Shield of Faith (concentration)
 
 ##### 2nd Level
-- Aid
-- Branding Smite
+- [Aid](#Aid_aid)
+- Branding Smite (concentration)
 - Find Steed
 - Gentle Repose
 - Lesser Restoration
-- Locate Object
-- Magic Weapon
+- Locate Object (concentration)
+- Magic Weapon (concentration)
 - Prayer of Healing
 - Protection from Poison
 - Warding Bond
@@ -34,11 +36,11 @@
 - Revivify
 
 ##### 4th Level
-- Banishment
+- Banishment (concentration)
 - Death Ward
-- Locate Creature
+- Locate Creature (concentration)
 
 ##### 5th Level
-- Dispel Evil and Good
+- Dispel Evil and Good (concentration)
 - Geas
 - Raise Dead

@@ -1,11 +1,13 @@
 #### Wodewose Spells
+<!-- Since Wodewoses have ritual casting, all ritual spells are marked as such. -->
+
 ##### Cantrips (0 Level)
-- Guidance
+- Guidance (concentration)
 - Mending
-- Naturecraft
+- [Naturecraft](#Naturecraft_naturecraft)
 - Poison Spray
 - Produce Flame
-- Resistance
+- Resistance (concentration)
 - Shillelagh
 
 ##### 1st Level
@@ -13,103 +15,103 @@
 - Charm Person
 - Create or Destroy Water
 - Cure Wounds
-- Detect Magic
-- Detect Poison and Disease
-- Entangle
-- Faerie Fire
-- Fog Cloud
+- Detect Magic (ritual, concentration)
+- Detect Poison and Disease (ritual, concentration)
+- Entangle (concentration)
+- Faerie Fire (concentration)
+- Fog Cloud (concentration)
 - Goodberry
 - Healing Word
-- Iz’zart's Swarm Limb
+- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
-- Protection from Evil and Good
-- Purify Food and Drink
-- Speak with Animals
+- Protection from Evil and Good (concentration)
+- Purify Food and Drink (ritual)
+- Speak with Animals (ritual)
 - Thunderwave
 
 ##### 2nd Level
-- Animal Messenger
-- Augury
-- Barkskin
+- Animal Messenger (ritual)
+- Augury (ritual)
+- Barkskin (concentration)
 - Continual Flame
 - Darkvision
-- Enhance Ability
-- Enlarge/Reduce
+- Enhance Ability (concentration)
+- Enlarge/Reduce (concentration)
 - Find Traps
-- Flame Blade
-- Flaming Sphere
-- Gust of Wind
-- Heat Metal
-- Hold Person
+- Flame Blade (concentration)
+- Flaming Sphere (concentration)
+- Gust of Wind (concentration)
+- Heat Metal (concentration)
+- Hold Person (concentration)
 - Lesser Restoration
-- Locate Animals or Plants
-- Locate Object
-- Moonbeam
-- Pass without Trace
+- Locate Animals or Plants (ritual)
+- Locate Object (concentration)
+- Moonbeam (concentration)
+- Pass without Trace (concentration)
 - Protection from Poison
-- Spike Growth
+- Spike Growth (concentration)
 
 ##### 3rd Level
-- Call Lightning
-- Conjure Animals
+- Call Lightning (concentration)
+- Conjure Animals (concentration)
 - Daylight
 - Dispel Magic
-- Meld into Stone
+- Meld into Stone (ritual)
 - Plant Growth
-- Protection from Energy
+- Protection from Energy (concentration)
 - Revivify
-- Sleet Storm
+- Sleet Storm (concentration)
 - Speak with Plants
-- Water Breathing
-- Water Walk
-- Wind Walk
+- Water Breathing (ritual)
+- Water Walk (ritual)
+- Wind Wall (concentration)
 
 ##### 4th Level
 - Blight
-- Confusion
-- Conjure Minor Elementals
-- Conjure Woodland Beings
-- Control Water
-- Divination
-- Dominate Beast
+- Confusion (concentration)
+- Conjure Minor Elementals (concentration)
+- Conjure Woodland Beings (concentration)
+- Control Water (concentration)
+- Divination (ritual)
+- Dominate Beast (concentration)
 - Fire Shield
 - Freedom of Movement
-- Giant Insect
+- Giant Insect (concentration)
 - Hallucinatory Terrain
 - Ice Storm
-- Locate Creature
-- Polymorph
+- Locate Creature (concentration)
+- Polymorph (concentration)
 - Stone Shape
-- Stoneskin
-- Wall of Fire
+- Stoneskin (concentration)
+- Wall of Fire (concentration)
 
 ##### 5th Level
-- Antilife Shell
+- Antilife Shell (concentration)
 - Awaken
-- Commune with Nature
+- Commune with Nature (ritual)
 - Cone of Cold
-- Conjure Elemental
+- Conjure Elemental (concentration)
 - Contagion
 - Geas
 - Greater Restoration
-- Insect Plague
+- Insect Plague (concentration)
 - Mass Cure Wounds
 - Planar Binding
-- Scrying
-- Tree Stride
-- Wall of Stone
+- Scrying (concentration)
+- Tree Stride (concentration)
+- Wall of Stone (concentration)
 
 ##### 6th Level
-- Conjure Fey
-- Find the Path
-- Flesh to Stone
+- Conjure Fey (concentration)
+- Find the Path (concentration)
+- Flesh to Stone (concentration)
 - Heal
 - Heroes' Feast
-- Move Earth
-- Sunbeam
+- Move Earth (concentration)
+- Sunbeam (concentration)
 - Transport via Plants
-- Wall of Thorns
+- Wall of Thorns (concentration)
 - Wind Walk
 
 ##### 7th Level
@@ -117,20 +119,20 @@
 - Mirage Arcane
 - Plane Shift
 - Regenerate
-- Reverse Gravity
+- Reverse Gravity (concentration)
 - Symbol
 
 ##### 8th Level
-- Animal Shapes
+- Animal Shapes (concentration)
 - Antipathy/Sympathy
-- Control Weather
-- Earthquake
+- Control Weather (concentration)
+- Earthquake (concentration)
 - Feeblemind
-- Incendiary Cloud
+- Incendiary Cloud (concentration)
 - Sunburst
 
 ##### 9th Level
 - Foresight
-- Shapechange
-- Storm of Vengeance
+- Shapechange (concentration)
+- Storm of Vengeance (concentration)
 - True Resurrection

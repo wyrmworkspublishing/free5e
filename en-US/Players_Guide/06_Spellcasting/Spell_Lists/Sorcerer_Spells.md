@@ -1,8 +1,10 @@
 #### Sorcerer Spells
+<!-- Since Sorcerers don't have ritual casting, ritual spells are not marked as such. -->
+
 ##### Cantrips (0 Level)
-- Acid Splash
+- [Acid Splash](#Acid_Splash_acid_splash)
 - Chill Touch
-- Dancing Lights
+- Dancing Lights (concentration)
 - Fire Bolt
 - Light
 - Mage Hand
@@ -13,137 +15,137 @@
 - Prestidigitation
 - Ray of Frost
 - Shocking Grasp
-- True Strike
+- True Strike (concentration)
 
 ##### 1st Level
 - Burning Hands
 - Charm Person
 - Color Spray
 - Comprehend Languages
-- Detect Magic
+- Detect Magic (concentration)
 - Disguise Self
-- Expeditious Retreat
+- Expeditious Retreat (concentration)
 - False Life
 - Feather Fall
-- Fog Cloud
+- Fog Cloud (concentration)
 - Grease
 - Jump
 - Mage Armor
 - Magic Missile
 - Shield
-- Silent Image
+- Silent Image (concentration)
 - Sleep
 - Thunderwave
 
 ##### 2nd Level
-- Alter Self
+- Alter Self (concentration)
 - Blindness/Deafness
-- Blur
-- Darkness
+- Blur (concentration)
+- [Darkness](#Darkness_darkness) (concentration)
 - Darkvision
-- Detect Thoughts
-- Enhance Ability
-- Enlarge/Reduce
-- Flame Blade
-- Flaming Sphere
-- Gust of Wind
-- Hold Person
-- Invisibility
+- Detect Thoughts (concentration)
+- Enhance Ability (concentration)
+- Enlarge/Reduce (concentration)
+- Flame Blade (concentration)
+- Flaming Sphere (concentration)
+- Gust of Wind (concentration)
+- Hold Person (concentration)
+- Invisibility (concentration)
 - Knock
-- Levitate
-- Magic Weapon
+- Levitate (concentration)
+- Magic Weapon (concentration)
 - Mirror Image
 - Misty Step
 - Scorching Ray
 - See Invisiblity
 - Shatter
-- Spider Climb
-- Suggestion
-- Web
+- Spider Climb (concentration)
+- Suggestion (concentration)
+- Web (concentration)
 
 ##### 3rd Level
 - Blink
-- Clairvoyance
+- Clairvoyance (concentration)
 - Counterspell
 - Daylight
 - Dispel Magic
-- Fear
+- Fear (concentration)
 - Fireball
-- Fly
-- Gaseous Form
-- Haste
-- Hypnotic Pattern
+- Fly (concentration)
+- Gaseous Form (concentration)
+- Haste (concentration)
+- Hypnotic Pattern (concentration)
 - Lightning Bolt
-- Major Image
-- Protection from Energy
-- Sleet Storm
-- Slow
-- Stinking Cloud
+- Major Image (concentration)
+- Protection from Energy (concentration)
+- Sleet Storm (concentration)
+- Slow (concentration)
+- Stinking Cloud (concentration)
 - Tongues
-- Vampiric Touch
+- Vampiric Touch (concentration)
 - Water Breathing
 - Water Walk
 
 ##### 4th Level
-- Banishment
+- Banishment (concentration)
 - Blight
-- Confusion
+- Confusion (concentration)
 - Dimension Door
-- Dominate Beast
+- Dominate Beast (concentration)
 - Fire Shield
-- Greater Invisibility
+- Greater Invisibility (concentration)
 - Ice Storm
-- Polymorph
-- Stoneskin
-- Wall of Fire
+- Polymorph (concentration)
+- Stoneskin (concentration)
+- Wall of Fire (concentration)
 
 ##### 5th Level
-- Animate Objects
-- Cloudkill
+- Animate Objects (concentration)
+- Cloudkill (concentration)
 - Cone of Cold
 - Creation
-- Dominate Person
-- Hold Monster
-- Insect Plague
-- Morscheck‘s Hand <!-- previously "Arcane Hand" -->
+- Dominate Person (concentration)
+- Hold Monster (concentration)
+- Insect Plague (concentration)
+- [Morscheck‘s Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
 - Seeming
-- Telekinesis
+- Telekinesis (concentration)
 - Teleportation Circle
-- Wall of Stone
+- Wall of Stone (concentration)
 
 ##### 6th Level
 - Chain Lightning
 - Circle of Death
 - Disintegrate
-- Eyebite
-- Flesh to Stone
+- Eyebite (concentration)
+- Flesh to Stone (concentration)
 - Freezing Sphere <!-- Might be renamed -->
-- Globe of Invulnerability
+- Globe of Invulnerability (concentration)
 - Mass Suggestion
-- Move Earth
-- Sunbeam
+- Move Earth (concentration)
+- Sunbeam (concentration)
 - True Seeing
 
 ##### 7th Level
-- Delayed Blast Fireball
+- Delayed Blast Fireball (concentration)
 - Etherealness
 - Finger of Death
 - Fire Storm
 - Plane Shift
 - Prismatic Spray
-- Reverse Gravity
+- Reverse Gravity (concentration)
 - Teleport
 
 ##### 8th Level
 - Demiplane
-- Dominate Monster
-- Earthquake
-- Incendiary Cloud
+- Dominate Monster (concentration)
+- Earthquake (concentration)
+- Incendiary Cloud (concentration)
 - Power Word Stun
 - Sunburst
 
 ##### 9th Level
-- Gate
+- Gate (concentration)
 - Meteor Swarm
 - Power Word Kill
 - Time Stop
