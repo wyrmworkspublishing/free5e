@@ -59,4 +59,4 @@ However, the Conductor may allow you to stay hidden if the creature is distracte
 > If the creature has advantage, add 5. For disadvantage, subtract 5.
 > For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
 > **What Can You Perceive?**
-> One of the main factors in determining whether you can sense or pinpoint a hidden creature or object is how effectively your senses function in the area, which may be lightly or heavily obscured, as described in [chapter XX, “Adventuring.”](#adventuring)
+> One of the main factors in determining whether you can sense or pinpoint a hidden creature or object is how effectively your senses function in the area, which may be lightly or heavily obscured, as described in [chapter XX, “Adventuring”](#Adventuring_adventuring).
