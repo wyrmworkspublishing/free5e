@@ -1,8 +1,10 @@
 #### Wizard Spells
+<!-- Since Wizards have ritual casting, all ritual spells are marked as such. -->
+
 ##### Cantrips (0 Level)
 - [Acid Splash](#Acid_Splash_acid_splash)
 - Chill Touch
-- Dancing Lights
+- Dancing Lights (concentration)
 - Fire Bolt
 - Light
 - Mage Hand
@@ -13,154 +15,154 @@
 - Prestidigitation
 - Ray of Frost
 - Shocking Grasp
-- True Strike
+- True Strike (concentration)
 
 ##### 1st Level
-- Alarm
+- Alarm (ritual)
 - Burning Hands
 - Charm Person
 - Color Spray
-- Comprehend Languages
-- Detect Magic
+- Comprehend Languages (ritual)
+- Detect Magic (ritual, concentration)
 - Disguise Self
-- Expeditious Retreat
+- Expeditious Retreat (concentration)
 - False Life
 - Feather Fall
-- Find Familiar
-- Fog Cloud
+- Find Familiar (ritual)
+- Fog Cloud (concentration)
 - Grease
-- Identify
-- Illusory Script
+- Identify (ritual)
+- Illusory Script (ritual)
 - [Iz'zart‘s Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
 - Mage Armor
 - Magic Missile
-- [Paoliello‘s Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" -->
-- [Pelham‘s Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" -->
-- Protection from Evil and Good
+- [Paoliello‘s Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
+- [Pelham‘s Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" --> (ritual)
+- Protection from Evil and Good (concentration)
 - Shield
-- Silent Image
+- Silent Image (concentration)
 - Sleep
 - Thunderwave
-- Unseen Servant
+- Unseen Servant (ritual)
 
 ##### 2nd Level
-- Alter Self
+- Alter Self (concentration)
 - Arcane Lock
-- Augury
+- Augury (ritual)
 - Blindness/Deafness
-- Blur
+- Blur (concentration)
 - [Bragolbeleg‘s Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
 - Continual Flame
-- [Darkness](#Darkness_darkness)
+- [Darkness](#Darkness_darkness) (concentration)
 - Darkvision
-- Detect Thoughts
-- [DT‘s Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist‘s Magic Aura -->
-- Enhance Ability
-- Enlarge/Reduce
-- Flaming Sphere
-- Gentle Repose
-- Gust of Wind
-- Hold Person
-- Invisibility
+- Detect Thoughts (concentration)
+- [DT‘s Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist‘s Magic Aura --> (concentration)
+- Enhance Ability (concentration)
+- Enlarge/Reduce (concentration)
+- Flaming Sphere (concentration)
+- Gentle Repose (ritual)
+- Gust of Wind (concentration)
+- Hold Person (concentration)
+- Invisibility (concentration)
 - Knock
-- Levitate
-- Locate Object
-- Magic Mouth
-- Magic Weapon
+- Levitate (concentration)
+- Locate Object (concentration)
+- Magic Mouth (ritual)
+- Magic Weapon (concentration)
 - Mirror Image
 - Misty Step
-- Ray of Enfeeblement
+- Ray of Enfeeblement (concentration)
 - Rope Trick
 - Scorching Ray
 - See Invisibility
 - Shatter
-- Spider Climb
-- Suggestion
-- Web
+- Spider Climb (concentration)
+- Suggestion (concentration)
+- Web (concentration)
 
 ##### 3rd Level
 - Animate Dead
-- Bestow Curse
+- Bestow Curse (concentration)
 - Blink
-- Clairvoyance
+- Clairvoyance (concentration)
 - Counterspell
 - Dispel Magic
-- Fear
+- Fear (concentration)
 - Fireball
-- Fly
-- Gaseous Form
+- Fly (concentration)
+- Gaseous Form (concentration)
 - Glyph of Warding
-- Haste
-- Hypnotic Pattern
+- Haste (concentration)
+- Hypnotic Pattern (concentration)
 - Lightning Bolt
 - Magic Circle
-- Major Image
-- [Melestrua‘s Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" -->
+- Major Image (concentration)
+- [Melestrua‘s Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - Nondetection
-- Phantom Steed
-- Protection from Energy
+- Phantom Steed (ritual)
+- Protection from Energy (concentration)
 - Remove Curse
 - Sending
-- Sleet Storm
-- Slow
+- Sleet Storm (concentration)
+- Slow (concentration)
 - Speak with Dead
-- Stinking Cloud
+- Stinking Cloud (concentration)
 - Tongues
-- Vampiric Touch
-- Water Breathing
+- Vampiric Touch (concentration)
+- Water Breathing (ritual)
 
 ##### 4th Level
-- Arcane Eye
-- Banishment
+- Arcane Eye (concentration)
+- Banishment (concentration)
 - Blight
 - [Cerilsen‘s Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
-- Confusion
-- Conjure Minor Elementals
-- Control Water
-- [Coreador‘s Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" -->
+- Confusion (concentration)
+- Conjure Minor Elementals (concentration)
+- Control Water (concentration)
+- [Coreador‘s Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
 - Dimension Door
-- Divination
+- Divination (ritual)
 - Fabricate
 - Faithful Hound <!-- Might be renamed -->
 - Fire Shield
-- Greater Invisibility
+- Greater Invisibility (concentration)
 - Hallucinatory Terrain
 - Ice Storm
-- Locate Creature
-- Phantasmal Killer
-- Polymorph
+- Locate Creature (concentration)
+- Phantasmal Killer (concentration)
+- Polymorph (concentration)
 - Private Sanctum <!-- Might be renamed -->
-- Resilient Sphere <!-- Might be renamed -->
+- Resilient Sphere <!-- Might be renamed --> (concentration)
 - Stone Shape
-- Stoneskin
-- Wall of Fire
+- Stoneskin (concentration)
+- Wall of Fire (concentration)
 
 ##### 5th Level
-- Animate Objects
-- Cloudkill
+- Animate Objects (concentration)
+- Cloudkill (concentration)
 - Cone of Cold
-- Conjure Elemental
-- Contact Other Plane
+- Conjure Elemental (concentration)
+- Contact Other Plane (ritual)
 - Creation
-- Dominate Person
+- Dominate Person (concentration)
 - Dream
 - Geas
-- Hold Monster
+- Hold Monster (concentration)
 - Legend Lore
-- Mislead
-- Modify Memory
-- [Morscheck‘s Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" -->
+- Mislead (concentration)
+- Modify Memory (concentration)
+- [Morscheck‘s Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
 - Passwall
 - Planar Binding
-- [Rantock‘s Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" -->
-- Scrying
+- [Rantock‘s Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
+- Scrying (concentration)
 - Seeming
-- Telekinesis
+- Telekinesis (concentration)
 - Teleportation Circle
-- Wall of Force
-- Wall of Stone
+- Wall of Force (concentration)
+- Wall of Stone (concentration)
 
 ##### 6th Level
 - Chain Lightning
@@ -168,48 +170,48 @@
 - Contingency
 - Create Undead
 - Disintegrate
-- Eyebite
-- Flesh to Stone
+- Eyebite (concentration)
+- Flesh to Stone (concentration)
 - Freezing Sphere <!-- Might be renamed -->
-- Globe of Invulnerability
+- Globe of Invulnerability (concentration)
 - Guards and Wards
-- Instant Summons <!-- Shouldn't this be renamed? -->
-- Irresistible Dance <!-- Might be renamed -->
+- Instant Summons <!-- Might be renamed? --> (ritual)
+- Irresistible Dance <!-- Might be renamed --> (concentration)
 - Magic Jar
 - Mass Suggestion
-- Move Earth
+- Move Earth (concentration)
 - Programmed Illusion
-- Sunbeam
+- Sunbeam (concentration)
 - True Seeing
-- Wall of Ice
+- Wall of Ice (concentration)
 
 ##### 7th Level
 - [Alia‘s Magnificent Mansion](#Alias_Magnificant_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- Arcane Sword <!-- Might be renamed -->
-- Delayed Blast Fireball
+- Arcane Sword (concentration) <!-- Might be renamed -->
+- Delayed Blast Fireball (concentration)
 - Etherealness
 - Finger of Death
 - Forcecage
 - Mirage Arcane
 - Plane Shift
 - Prismatic Spray
-- Project Image
-- Reverse Gravity
+- Project Image (concentration)
+- Reverse Gravity (concentration)
 - Sequester
 - Simulacrum
 - Symbol
 - Teleport
 
 ##### 8th Level
-- Antimagic Field
+- Antimagic Field (concentration)
 - Antipathy/Sympathy
 - Clone
-- Control Weather
+- Control Weather (concentration)
 - Demiplane
-- Dominate Monster
+- Dominate Monster (concentration)
 - Feeblemind
-- Incendiary Cloud
-- Maze
+- Incendiary Cloud (concentration)
+- Maze (concentration)
 - Mind Blank
 - Power Word Stun
 - Sunburst
@@ -217,13 +219,13 @@
 ##### 9th Level
 - Astral Projection
 - Foresight
-- Gate
+- Gate (concentration)
 - Imprisonment
 - Meteor Swarm
 - Power Word Kill
 - Prismatic Wall
-- Shapechange
+- Shapechange (concentration)
 - Time Stop
-- True Polymorph
-- Weird
+- True Polymorph (concentration)
+- Weird (concentration)
 - Wish
