@@ -1,4 +1,5 @@
 # Free5e Repository
+<!-- spell-checker:words BASEFILE blalasaadri Guía Jugador languagecode Libro Monstruos -->
 
 This repository contains:
 
@@ -21,7 +22,7 @@ Use this repo to contribute, build tools, translate, or develop your own project
 The books in this repository are written in the Markdown format, specifically in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 These files are then automatically converted into a number of formats.
 Specifically:
-- [AsciiDoc](https://asciidoc.org/) (mostly as an itermediate file type)
+- [AsciiDoc](https://asciidoc.org/) (mostly as an intermediate file type)
 - HTML
 - PDF (version 1.4)
 - [EPUB](https://en.wikipedia.org/wiki/EPUB) (version 3)
@@ -44,9 +45,11 @@ It is documented [in the cspell GitHub repository](https://github.com/streetside
 
 The results of spell checking can be found in the [Actions tab](https://github.com/wyrmworkspublishing/free5e/actions).
 If unknown words are found during the spell check, there will sometimes be suggestions for fixes, e.g.:
+<!-- spell-checker:disable -->
 ```
 Unknown word (Proficieny) Suggestions: (proficient, proficiency, proficients, proficiently, profiling)
 ```
+<!-- spell-checker:enable -->
 Completely unknown words will be reported without suggestions on how to fix them.
 
 If the spelling of a word is correct but not known to the spell checker (e.g. because it is a fantasy word), we can add that word to the language specific dictionary `<language>/dictionary.txt`.
@@ -86,9 +89,9 @@ For each book you added, modify the `.env` file in the base repository in the fo
    ```
 2. Add variables for the paths to each book that has been added.
    Specifically:
-   - For the Player's book, add a variable starting with `BASEFILE_PLAYER_BOOK_` and followed by the regional language as above, nowever separated by an underscore (`_`) rather than by a dash.
-   - For the Conductor's book, add a variable starting with `BASEFILE_CONDUCTOR_BOOK_` and followed by the regional language as above, nowever separated by an underscore (`_`) rather than by a dash.
-   - For the Monster book, add a variable starting with `BASEFILE_MONSTER_BOOK_` and followed by the regional language as above, nowever separated by an underscore (`_`) rather than by a dash.
+   - For the Player's book, add a variable starting with `BASEFILE_PLAYER_BOOK_` and followed by the regional language as above, however separated by an underscore (`_`) rather than by a dash.
+   - For the Conductor's book, add a variable starting with `BASEFILE_CONDUCTOR_BOOK_` and followed by the regional language as above, however separated by an underscore (`_`) rather than by a dash.
+   - For the Monster book, add a variable starting with `BASEFILE_MONSTER_BOOK_` and followed by the regional language as above, however separated by an underscore (`_`) rather than by a dash.
 
    For example, the new entries for Mexican Spanish may look like this:
    ```env
