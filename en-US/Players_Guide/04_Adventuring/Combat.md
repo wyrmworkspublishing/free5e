@@ -20,3 +20,5 @@ Once everyone has taken a turn, the fight continues to the next round if neither
 [**Damage and Healing**](./Combat_Damage_and_Healing.md)
 
 [**Mounted Combat**](./Combat_Mounted_Combat.md)
+
+[**Underwater Combat**](./Combat_Underwater_Combat.md)
