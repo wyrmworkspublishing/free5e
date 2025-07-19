@@ -1,14 +1,16 @@
 #### Ranger Spells
+<!-- Since Rangers don't have ritual casting, ritual spells are not marked as such. -->
+
 ##### 1st Level
 - Alarm
 - Animal Friendship
 - Cure Wounds
-- Detect Magic
-- Detect Poison and Disease
-- Entangle
-- Fog Cloud
+- Detect Magic (concentration)
+- Detect Poison and Disease (concentration)
+- Entangle (concentration)
+- Fog Cloud (concentration)
 - Goodberry
-- Hunter's Mark
+- Hunter's Mark (concentration)
 - Jump
 - [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Longstrider
@@ -17,41 +19,41 @@
 ##### 2nd Level
 - [Aid](#Aid_aid)
 - Animal Messenger
-- Barkskin
+- Barkskin (concentration)
 - Darkvision
-- Enhance Ability
+- Enhance Ability (concentration)
 - Find Traps
-- Gust of Wind
+- Gust of Wind (concentration)
 - Lesser Restoration
 - Locate Animals or Plants
-- Locate Object
-- Magic Weapon
-- Pass without Trace
+- Locate Object (concentration)
+- Magic Weapon (concentration)
+- Pass without Trace (concentration)
 - Protection from Poison
 - Silence
-- Spike Growth
+- Spike Growth (concentration)
 
 ##### 3rd Level
-- Conjure Animals
+- Conjure Animals (concentration)
 - Daylight
 - Meld into Stone
 - Nondetection
 - Plant Growth
-- Protection from Energy
+- Protection from Energy (concentration)
 - Revivify
 - Speak with Plants
 - Water Breathing
 - Water Walk
-- Wind Wall
+- Wind Wall (concentration)
 
 ##### 4th Level
-- Conjure Woodland Beings
-- Dominate Beast
+- Conjure Woodland Beings (concentration)
+- Dominate Beast (concentration)
 - Freedom of Movement
 - Greater Restauration
-- Locate Creature
-- Stoneskin
+- Locate Creature (concentration)
+- Stoneskin (concentration)
 
 ##### 5th Level
 - Commune with Nature
-- Tree Stride
+- Tree Stride (concentration)
