@@ -60,10 +60,10 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 
 ### Grappled
 - A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
-- The condition ends if the grappler is [incapacitated](#incapacitated) (see the condition).
+- The condition ends if the grappler is [incapacitated](#Conditions_incapacitated) (see the condition).
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the Thunderwave spell.
 
-### Incapacitated
+### Incapacitated {#Conditions_incapacitated}
 - An incapacitated creature can’t take actions or reactions.
 
 ### Invisible
@@ -76,7 +76,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 > **Note:**
 > This condition is not the same as paralysis, the permanent disability, as paralysis has a spectrum of experiences, and people with this disability learn to adapt in creative ways to accomplish their goals.
 
-- A paralyzed creature is [incapacitated](#incapacitated) (see the condition) and can’t move or speak.
+- A paralyzed creature is [incapacitated](#Conditions_incapacitated) (see the condition) and can’t move or speak.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
@@ -84,7 +84,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 ### Petrified
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone).
   Its weight increases by a factor of ten, and it ceases aging.
-- The creature is [incapacitated](#incapacitated) (see the condition), can’t move or speak, and is unaware of its surroundings.
+- The creature is [incapacitated](#Conditions_incapacitated) (see the condition), can’t move or speak, and is unaware of its surroundings.
 - Attack rolls against the creature have advantage.
 - The creature automatically fails Strength and Dexterity saving throws.
 - The creature has resistance to all damage.
@@ -105,12 +105,12 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 - The creature has disadvantage on Dexterity saving throws.
 
 ### Stunned
-- A stunned creature is [incapacitated](#incapacitated) (see the condition), can’t move, and can speak only falteringly.
+- A stunned creature is [incapacitated](#Conditions_incapacitated) (see the condition), can’t move, and can speak only falteringly.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
 
 ### Unconscious
-- An unconscious creature is [incapacitated](#incapacitated) (see the condition), can’t move or speak, and is unaware of its surroundings
+- An unconscious creature is [incapacitated](#Conditions_incapacitated) (see the condition), can’t move or speak, and is unaware of its surroundings
 - The creature drops whatever it’s holding and falls prone.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
