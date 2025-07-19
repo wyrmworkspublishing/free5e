@@ -1,4 +1,4 @@
 #### Human
 
 > **Warning:**
-> This ancestry has not yet been transfered from the Google Doc.
+> This ancestry has not yet been transferred from the Google Doc.

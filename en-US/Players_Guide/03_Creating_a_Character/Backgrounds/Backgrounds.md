@@ -25,13 +25,13 @@ Consider how their background ties to their class skills and unique traits.
    \
    _Table of Ability Scores and Proficiencies commonly associated with them_
 
-|      Ability | Commonly associated Tool / Vehicles Proficieny |
-|-------------:|:-----------------------------------------------|
-|     Strength | Artisan Tools (by type) |
+|      Ability | Commonly associated Tool / Vehicles Proficiency |
+|-------------:|:------------------------------------------------|
+|     Strength | Artisan Tools (by type)                         |
 |    Dexterity | Artisan Tools (by type), Land Vehicles, Musical Instruments (by type), Thieves Tools |
 | Intelligence | Artisan Tools (by type), Disguise Kit, Forgery Kit, Gaming Set, Navigator’s Tools, Poisoner’s Kit, Water Vehicles |
-|       Wisdom | Herbalism Kit |
-|     Charisma | Musical Instruments |
+|       Wisdom | Herbalism Kit                                   |
+|     Charisma | Musical Instruments                             |
 
 3. **Feature**
   - Create a unique, narrative-focused ability that helps the character interact with the world through storytelling opportunities, such as connections, advantages in specific situations, or access to resources.

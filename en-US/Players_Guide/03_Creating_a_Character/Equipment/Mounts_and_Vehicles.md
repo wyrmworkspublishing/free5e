@@ -52,7 +52,7 @@ A rowboat weighs 100 pounds, in case adventurers carry it over land.
 | Chariot               | 250 gp | 100 lb. |
 | Feed (per day)        |   5 cp |  10 lb. |
 | **Saddle**
-| &nbsp;&nbsp; Exoctic  |  60 gp |  40 lb. |
+| &nbsp;&nbsp; Exotic   |  60 gp |  40 lb. |
 | &nbsp;&nbsp; Military |  20 gp |  30 lb. |
 | &nbsp;&nbsp; Pack     |   5 gp |  15 lb. |
 | &nbsp;&nbsp; Riding   |  10 gp |  25 lb. |
