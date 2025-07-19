@@ -10,12 +10,12 @@
 - Goodberry
 - Hunter's Mark
 - Jump
-- Iz’zart's Swarm Limb
+- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Longstrider
 - Speak with Animals
 
 ##### 2nd Level
-- Aid
+- [Aid](#Aid_aid)
 - Animal Messenger
 - Barkskin
 - Darkvision

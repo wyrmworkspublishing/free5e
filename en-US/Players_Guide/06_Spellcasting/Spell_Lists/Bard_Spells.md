@@ -27,7 +27,7 @@
 - Identify
 - Illusory Script
 - Longstrider
-- Paoliello's Hideous Laughter <!-- previously "Hideous Laughter" -->
+- [Paoliello‘s Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" -->
 - Silent Image
 - Sleep
 - Speak with Animals
@@ -35,7 +35,7 @@
 - Unseen Servant
 
 ##### 2nd Level
-- Aid
+- [Aid](#Aid_aid)
 - Animal Messenger
 - Blindness/Deafness
 - Calm Emotions
@@ -67,7 +67,7 @@
 - Hypnotic Pattern
 - Major Image
 - Mass Healing Word
-- Melestrua's Marvelous Marquee <!-- previously "Tiny Hut" -->
+- [Melestrua‘s Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" -->
 - Nondetection
 - Plant Growth
 - Sending
@@ -102,7 +102,7 @@
 - Modify Memory
 - Planar Binding
 - Raise Dead
-- Rantock's Telepathic Bond
+- [Rantock‘s Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" -->
 - Scrying
 - Seeming
 - Teleportation Circle
@@ -117,7 +117,7 @@
 - True Seeing
 
 ##### 7th Level
-- Alia's Magnificant Mansion
+- [Alia‘s Magnificent Mansion](#Alias_Magnificant_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - Arcane Sword <!-- Might be renamed -->
 - Etherealness
 - Forcecage

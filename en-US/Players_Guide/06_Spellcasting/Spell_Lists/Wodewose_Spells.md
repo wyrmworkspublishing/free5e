@@ -2,7 +2,7 @@
 ##### Cantrips (0 Level)
 - Guidance
 - Mending
-- Naturecraft
+- [Naturecraft](#Naturecraft_naturecraft)
 - Poison Spray
 - Produce Flame
 - Resistance
@@ -20,7 +20,7 @@
 - Fog Cloud
 - Goodberry
 - Healing Word
-- Iz’zart's Swarm Limb
+- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
 - Protection from Evil and Good

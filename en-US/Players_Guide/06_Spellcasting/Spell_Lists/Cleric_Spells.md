@@ -6,7 +6,7 @@
 - Resistance
 - Sacred Flame
 - Spare the Dying
-- Thaumaturgy
+- [Thaumaturgy](#Thaumaturgy_thaumaturgy)
 
 ##### 1st Level
 - Bane
@@ -26,7 +26,7 @@
 - Shield of Faith
 
 ##### 2nd Level
-- Aid
+- [Aid](#Aid_aid)
 - Augury
 - Blindness/Deafness
 - Calm Emotions

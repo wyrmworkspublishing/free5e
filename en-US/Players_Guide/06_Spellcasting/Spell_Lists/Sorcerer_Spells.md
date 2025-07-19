@@ -1,6 +1,6 @@
 #### Sorcerer Spells
 ##### Cantrips (0 Level)
-- Acid Splash
+- [Acid Splash](#Acid_Splash_acid_splash)
 - Chill Touch
 - Dancing Lights
 - Fire Bolt
@@ -39,7 +39,7 @@
 - Alter Self
 - Blindness/Deafness
 - Blur
-- Darkness
+- [Darkness](#Darkness_darkness)
 - Darkvision
 - Detect Thoughts
 - Enhance Ability
@@ -105,7 +105,7 @@
 - Dominate Person
 - Hold Monster
 - Insect Plague
-- Morscheck‘s Hand <!-- previously "Arcane Hand" -->
+- [Morscheck‘s Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" -->
 - Seeming
 - Telekinesis
 - Teleportation Circle

@@ -11,16 +11,16 @@
 ##### 1st Level
 - Charm Person
 - Comprehend Languages
-- Hex
+- [Hex](#Hex_hex)
 - Expeditious Retreat
-- Hellish Rebuke
+- [Hellish Rebuke](#Hellish_Rebuke_hellish_rebuke)
 - Illusory Script
-- Iz’zart's Swarm Limb
+- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Protection from Evil and Good
 - Unseen Servant
 
 ##### 2nd Level
-- Darkness
+- [Darkness](#Darkness_darkness)
 - Enthrall
 - Hold Person
 - Invisibility

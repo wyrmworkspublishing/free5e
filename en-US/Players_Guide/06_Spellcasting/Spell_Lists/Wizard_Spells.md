@@ -1,6 +1,6 @@
 #### Wizard Spells
 ##### Cantrips (0 Level)
-- Acid Splash
+- [Acid Splash](#Acid_Splash_acid_splash)
 - Chill Touch
 - Dancing Lights
 - Fire Bolt
@@ -31,13 +31,13 @@
 - Grease
 - Identify
 - Illusory Script
-- Iz’zart's Swarm Limb
+- [Iz'zart‘s Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
 - Mage Armor
 - Magic Missile
-- Paoliello's Hideous Laughter <!-- previously "Hideous Laughter" -->
-- Pelham's Hovering Platter <!-- previously "Floating Disk" -->
+- [Paoliello‘s Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" -->
+- [Pelham‘s Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" -->
 - Protection from Evil and Good
 - Shield
 - Silent Image
@@ -51,12 +51,12 @@
 - Augury
 - Blindness/Deafness
 - Blur
-- Bragolbeleg's Acid Bolt <!-- previously "Acid Arrow" -->
+- [Bragolbeleg‘s Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
 - Continual Flame
-- Darkness
+- [Darkness](#Darkness_darkness)
 - Darkvision
 - Detect Thoughts
-- DT's Magic Aura <!-- previously "Arcanist's Magic Aura -->
+- [DT‘s Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist‘s Magic Aura -->
 - Enhance Ability
 - Enlarge/Reduce
 - Flaming Sphere
@@ -97,7 +97,7 @@
 - Lightning Bolt
 - Magic Circle
 - Major Image
-- Melestrua's Marvelous Marquee <!-- previously "Tiny Hut" -->
+- [Melestrua‘s Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" -->
 - Nondetection
 - Phantom Steed
 - Protection from Energy
@@ -115,11 +115,11 @@
 - Arcane Eye
 - Banishment
 - Blight
-- Cerilsen's Secret Chest <!-- previously "Secret Chest" -->
+- [Cerilsen‘s Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
 - Confusion
 - Conjure Minor Elementals
 - Control Water
-- Coreador's Black Tentacles <!-- previously "Black Tentacles" -->
+- [Coreador‘s Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" -->
 - Dimension Door
 - Divination
 - Fabricate
@@ -151,10 +151,10 @@
 - Legend Lore
 - Mislead
 - Modify Memory
-- Morscheck‘s Hand <!-- previously "Arcane Hand" -->
+- [Morscheck‘s Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" -->
 - Passwall
 - Planar Binding
-- Rantock's Telepathic Bond <!-- previously "Telepathic Bond" -->
+- [Rantock‘s Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" -->
 - Scrying
 - Seeming
 - Telekinesis
@@ -184,7 +184,7 @@
 - Wall of Ice
 
 ##### 7th Level
-- Alia's Magnificent Mansion
+- [Alia‘s Magnificent Mansion](#Alias_Magnificant_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - Arcane Sword <!-- Might be renamed -->
 - Delayed Blast Fireball
 - Etherealness

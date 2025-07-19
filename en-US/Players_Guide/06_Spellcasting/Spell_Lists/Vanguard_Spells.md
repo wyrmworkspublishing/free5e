@@ -13,7 +13,7 @@
 - Shield of Faith
 
 ##### 2nd Level
-- Aid
+- [Aid](#Aid_aid)
 - Branding Smite
 - Find Steed
 - Gentle Repose
