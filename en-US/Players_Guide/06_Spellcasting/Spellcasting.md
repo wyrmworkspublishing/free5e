@@ -274,7 +274,7 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 > **Spell Name Changes**
 >
 > Some spells have been renamed in Free5e, in most cases to honor those who supported the project financially.
-> If a product (e.g. an adventure or a monster stat block) mentiones one of these spells, you can use the renamed version instead.
+> If a product (e.g. an adventure or a monster stat block) mentions one of these spells, you can use the renamed version instead.
 > - Acid Arrow → Bragolbeleg's Acid Bolt
 > - Arcane Hand → Morscheck‘s Hand
 > - Arcanist’s Magic Aura → DT's Magic Aura
@@ -318,7 +318,7 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 
 [Aid](./Spell_Descriptions/Aid.md)
 
-[Alia's Magnificant Mansion](./Spell_Descriptions/Alias_Magnificant_Mansion.md)
+[Alia's Magnificent Mansion](./Spell_Descriptions/Alias_Magnificent_Mansion.md)
 
 [Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)
 

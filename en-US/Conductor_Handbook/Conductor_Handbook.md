@@ -12,9 +12,9 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [2. Building a TTRPG Group](./02_Bulding_a_TTRPG_Group/Building_a_TTRPG_Group.md)
 
-[3. RPG Preperation Process](./03_RPG_Preperation_Process/RPG_Preperation_Process.md)
+[3. RPG Preparation Process](./03_RPG_Preparation_Process/RPG_Preparation_Process.md)
 
-[4. RPG Preperation Process](./04_Session_Zero_Checklist/Session_Zero_Checklist.md)
+[4. RPG Preparation Process](./04_Session_Zero_Checklist/Session_Zero_Checklist.md)
 
 [5. GM Prep in Eight Steps](./05_GM_Prep_in_Eight_Steps/GM_Prep_in_Eight_Steps.md)
 

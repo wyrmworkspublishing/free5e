@@ -1,4 +1,4 @@
 #### Warlock
 
 > **Warning:**
-> This class has not yet been transfered from the Google Doc.
+> This class has not yet been transferred from the Google Doc.
