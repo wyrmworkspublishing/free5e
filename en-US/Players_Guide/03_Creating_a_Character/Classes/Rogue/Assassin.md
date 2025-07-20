@@ -30,7 +30,7 @@ Select one of the following benefits:
 
 If you gain expertise in a skill you already have expertise in, you can instead select another skill or tool you have proficiency in to gain expertise in.
 
-##### Favored Approach (13th Level) {#Assassin_favored_approach}
+###### Favored Approach (13th Level) {#Assassin_favored_approach}
 
 Starting at 13th level, you hone your skills gaining a favored approach to dealing death.
 Select one of the following benefits:
