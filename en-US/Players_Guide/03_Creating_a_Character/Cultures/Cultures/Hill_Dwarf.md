@@ -1,4 +1,4 @@
 #### Hill Dwarf
 
 > **Warning:**
-> This culture has not yet been transfered from the Google Doc.
+> This culture has not yet been transferred from the Google Doc.
