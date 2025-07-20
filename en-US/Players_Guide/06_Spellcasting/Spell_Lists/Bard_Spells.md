@@ -112,7 +112,7 @@
 ##### 6th Level
 - Eyebite (concentration)
 - Find the Path (concentration)
-- Heroe's Feast
+- Heroes’ Feast
 - Irresistible Dance <!-- Might be renamed --> (concentration)
 - Mass Suggestion
 - Programmed Illusion
@@ -120,7 +120,7 @@
 
 ##### 7th Level
 - [Alia‘s Magnificent Mansion](#Alias_Magnificant_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- Arcane Sword (concentration) <!-- Might be renamed -->
+- Arcane Sword <!-- Might be renamed --> (concentration)
 - Etherealness
 - Forcecage
 - Mirage Arcane
