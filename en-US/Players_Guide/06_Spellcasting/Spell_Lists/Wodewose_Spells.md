@@ -22,7 +22,7 @@
 - Fog Cloud (concentration)
 - Goodberry
 - Healing Word
-- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
+- [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
 - Protection from Evil and Good (concentration)

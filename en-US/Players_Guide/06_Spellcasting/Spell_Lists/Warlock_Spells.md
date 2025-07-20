@@ -17,7 +17,7 @@
 - Expeditious Retreat (concentration)
 - [Hellish Rebuke](#Hellish_Rebuke_hellish_rebuke)
 - Illusory Script (ritual)
-- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
+- [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Protection from Evil and Good (concentration)
 - Unseen Servant (ritual)
 

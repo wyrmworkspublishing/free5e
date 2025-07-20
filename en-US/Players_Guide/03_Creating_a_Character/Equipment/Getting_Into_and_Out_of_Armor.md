@@ -20,5 +20,6 @@ _Donning and Doffing Armor (table)_
 | Medium Armor |  5 minutes |  1 minute |
 | Heavy Armor  | 10 minutes | 5 minutes |
 | Shield       |   1 action |  1 action |
+
 ___
 

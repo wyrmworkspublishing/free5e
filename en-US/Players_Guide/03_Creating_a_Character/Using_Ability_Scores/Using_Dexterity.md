@@ -54,7 +54,7 @@ If you approach a creature while hidden, it usually notices you.
 However, the Conductor may allow you to stay hidden if the creature is distracted, giving you an advantage on an attack roll before being noticed.
 
 There is a chance that when one creature is hidden another creature might notice them even if not searching.
-To determine whether that happens, the Conductor compares the [Dexterity (Stealth)](#Using_Dexterity_dexterity-checks) check of the hiding creature with the passive [Wisdom (Perception)](#Using_Wisdom_wisdom-checks) score of any creature which has a chance of noticing.
+To determine whether that happens, the Conductor compares the [Dexterity (Stealth)](#Using_Dexterity_dexterity-checks) check of the hiding creature with the passive [Wisdom (Perception)](#Using_Wisdom_wisdom_checks) score of any creature which has a chance of noticing.
 Check the section on [Passive Checks](#Ability_Checks_passive-checks) under [section XX, "Ability Checks"](#Ability_Checks_ability-checks) for more details.
 
 > **What Can You Perceive?**

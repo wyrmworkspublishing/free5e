@@ -6,7 +6,7 @@
    The Conductor determines whether anyone involved in the combat encounter is surprised.
 2. **Establish positions.**
    The Conductor decides where all the characters and monsters are located.
-   Given the adventurers’ marching order or their stated positions in the room or other location, the Conductor figures out where the adversaries are̶how far away and in what direction.
+   Given the adventurers’ marching order or their stated positions in the room or other location, the Conductor figures out where the adversaries are, how far away, and in what direction.
 3. **Roll [initiative](#Combat_General_Terms_initiative).**
    Everyone involved in the combat encounter rolls initiative, determining the order of combatants’ turns.
 4. **Take [turns](#Combat_General_Terms_your_turn).**

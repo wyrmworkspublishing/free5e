@@ -94,7 +94,7 @@ Similarly, when your dwarf Dreadnought uses raw strength to intimidate an enemy,
 
 ##### Passive Checks
 A passive check is a special kind of ability check that doesn’t involve any die rolls.
-Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the Conductor wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster (passive [Wisdom (Perception)](#Using_Wisdom_wisdom-checks)), noticing that someone is acting suspicious (passive [Wisdom (Insight)](#Using_Wisdom_wisdom-checks)), or noticing something out of place (passive [Intelligence (Investigation)](#Using_Intelligence_intelligence-checks)).
+Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the Conductor wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster (passive [Wisdom (Perception)](#Using_Wisdom_wisdom_checks)), noticing that someone is acting suspicious (passive [Wisdom (Insight)](#Using_Wisdom_wisdom_checks)), or noticing something out of place (passive [Intelligence (Investigation)](#Using_Intelligence_intelligence)).
 
 Here’s how to determine a character’s total for a passive check:
 

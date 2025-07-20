@@ -118,7 +118,7 @@ When you drop to 0 hit points, you either die outright or fall unconscious, as e
 ###### Instant Death
 
 > **Warning:**
-> This section has not yet been transfered from the Google Doc.
+> This section has not yet been transferred from the Google Doc.
 
 ###### Falling Unconscious
 

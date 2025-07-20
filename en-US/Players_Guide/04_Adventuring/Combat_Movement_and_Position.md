@@ -108,6 +108,7 @@ _Size Categories (table)_
 | Large      | 10 by 10 ft.           |
 | Huge       | 15 by 15 ft.           |
 | Gargantuan | 20 by 20 ft. or larger |
+
 ___
 
 ###### Space

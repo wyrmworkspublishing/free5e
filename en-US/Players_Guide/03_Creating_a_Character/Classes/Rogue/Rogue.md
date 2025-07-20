@@ -6,11 +6,14 @@ Rogues are quick-thinking and skilled, exploiting weaknesses, evading danger, an
 
 As a Rogue, you have the following class features.
 ###### Hit Points
-**Hit Dice:** 1d8 per Rogue level
+**Hit Dice:**
+`1d8` per Rogue level
 \
-**Hit Points at 1st Level:** 8 + your Constitution modifier
+**Hit Points at 1st Level:**
+`8 + your Constitution modifier`
 \
-**Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per Rogue level after 1st
+**Hit Points at Higher Levels:**
+`1d8 (or 5) + your Constitution modifier per Rogue level after 1st`
 
 ###### Proficiencies
 **Armor:**

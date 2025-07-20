@@ -12,7 +12,7 @@
 - Goodberry
 - Hunter's Mark (concentration)
 - Jump
-- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
+- [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Longstrider
 - Speak with Animals
 
