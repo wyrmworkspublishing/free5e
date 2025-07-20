@@ -20,7 +20,7 @@ Consider how their background ties to their class skills and unique traits.
     
     These should represent logical character abilities based on the background’s concept, e.g. a sailor would need climbing and swimming so would take athletics and would need to be able to stay upright on unstable surfaces so would take acrobatics.
     It would also be sensible for the character to be proficient in using water vehicles and navigational tools.
-   [Chapter XX: Using Ability Scores](#Using_Ability_Scores_using-ability-scores) has more information on what each Skill does and how they are used with the ability scores.
+   [Chapter XX: Using Ability Scores](#Using_Ability_Scores_using_ability_scores) has more information on what each Skill does and how they are used with the ability scores.
    \
    \
    _Table of Ability Scores and Proficiencies commonly associated with them_

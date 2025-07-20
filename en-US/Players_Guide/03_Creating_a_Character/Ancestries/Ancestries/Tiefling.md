@@ -24,6 +24,6 @@ You have resistance to fire damage.
 \
 **Infernal Legacy.**
 You know the [Thaumaturgy](#Thaumaturgy_thaumaturgy) cantrip.
-When you reach 3rd level, you can cast the [Hellish Rebuke](#Hellish_Rebuke_hellish-rebuke) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest.
+When you reach 3rd level, you can cast the [Hellish Rebuke](#Hellish_Rebuke_hellish_rebuke) spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest.
 When you reach 5th level, you can cast the [Darkness](#Darkness_darkness) spell once with this trait and regain the ability to do so when you finish a long rest.
 Charisma is your spellcasting ability for these spells.

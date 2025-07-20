@@ -58,4 +58,4 @@ To determine whether that happens, the Conductor compares the [Dexterity (Stealt
 Check the section on [Passive Checks](#Ability_Checks_passive-checks) under [section XX, "Ability Checks"](#Ability_Checks_ability-checks) for more details.
 
 > **What Can You Perceive?**
-> One of the main factors in determining whether you can sense or pinpoint a hidden creature or object is how effectively your senses function in the area, which may be lightly or heavily obscured, as described in [chapter XX, “Adventuring.”](#adventuring)
+> One of the main factors in determining whether you can sense or pinpoint a hidden creature or object is how effectively your senses function in the area, which may be lightly or heavily obscured, as described in [chapter XX, “Adventuring”](#Adventuring_adventuring).

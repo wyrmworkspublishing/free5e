@@ -49,7 +49,7 @@ If you are a Vanguard 5/Cleric 5, for example, you have five d10 Hit Dice and fi
 
 ##### Proficiency Bonus
 
-Your proficiency bonus is always based on your total character level, as shown in the [Character Advancement table in chapter XX](#Level_Advancement_level-advancement), not your level in a particular class.
+Your proficiency bonus is always based on your total character level, as shown in the [Character Advancement table in chapter XX](#Level_Advancement_level_advancement), not your level in a particular class.
 For example, if you are a Fighter 3/Rogue 2, you have the proficiency bonus of a 5th-level character, which is +3.
 
 <!-- TODO Add the multiclassing proficiencies table -->

@@ -46,6 +46,7 @@ function convert_markdown_to_asciidoc {
       -a toclevels=4 \
       --auto-ids \
       --auto-id-prefix="${md_filename%.md}_" \
+      --auto-id-separator="_" \
       -o "${adoc_filepath}/${adoc_filename}" \
       $md
   done

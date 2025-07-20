@@ -13,7 +13,7 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [**Creating a Character**](./03_Creating_a_Character/Creating_a_Character.md)
 
-[**Adventuring**](./04_Adventuring/04_Adventuring.md)
+[**Adventuring**](./04_Adventuring/Adventuring.md)
 
 [**Planes of Existence**](./05_Planes_of_Existence/Planes_of_Existence.md)
 
