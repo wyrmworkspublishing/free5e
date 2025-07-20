@@ -18,7 +18,7 @@ _Tools (table)_
 | &nbsp;&nbsp; Carpenter’s tools       |  8 gp |  6 lb. |
 | &nbsp;&nbsp; Cartographer’s tools    | 15 gp |  6 lb. |
 | &nbsp;&nbsp; Cobbler’s tools         |  5 gp |  5 lb. |
-| &nbsp;&nbsp; Cook’s utentsils        |  1 gp |  8 lb. |
+| &nbsp;&nbsp; Cook’s utensils         |  1 gp |  8 lb. |
 | &nbsp;&nbsp; Glassblower’s tools     | 30 gp |  5 lb. |
 | &nbsp;&nbsp; Jeweler’s tools         | 25 gp |  2 lb. |
 | &nbsp;&nbsp; Leatherworker’s tools   |  5 gp |  5 lb. |
@@ -48,11 +48,11 @@ _Tools (table)_
 | &nbsp;&nbsp; Viol                    | 30 gp |  1 lb. |
 | Navigator’s tools                    | 25 gp |  2 lb. |
 | Poisoner’s kit                       | 50 gp |  2 lb. |
-| Tieves’ tools                        | 25 gp |  1 lb. |
+| Thieves’ tools                       | 25 gp |  1 lb. |
 | Vehicles (land or water)             |    \* |     \* |
 
 \* See the ["Mounts and Vehicles"](#Mounts_and_Vehicles_mounts_and_vehicles) section.
 ___
 
 > **Warning:**
-> This section has not yet been fully transfered from the Google Doc.
+> This section has not yet been fully transferred from the Google Doc.

@@ -1,5 +1,5 @@
 #### Bard Spells
-##### Cantrils (0 Level)
+##### Cantrips (0 Level)
 - Dancing Lights
 - Light
 - Mage Hand
@@ -110,14 +110,14 @@
 ##### 6th Level
 - Eyebite
 - Find the Path
-- Heroe's Feast
+- Heroes’ Feast
 - Irresistible Dance <!-- Might be renamed -->
 - Mass Suggestion
 - Programmed Illusion
 - True Seeing
 
 ##### 7th Level
-- Alia's Magnificant Mansion
+- Alia's Magnificent Mansion
 - Arcane Sword <!-- Might be renamed -->
 - Etherealness
 - Forcecage
