@@ -53,10 +53,9 @@ In combat, most creatures stay alert for danger.
 If you approach a creature while hidden, it usually notices you.
 However, the Conductor may allow you to stay hidden if the creature is distracted, giving you an advantage on an attack roll before being noticed.
 
-> **Passive Perception.**
-> When you hide, there’s a chance someone will notice you even if they aren’t searching.
-> To determine whether such a creature notices you, the Conductor compares your Dexterity (Stealth) check with that creature’s passive Wisdom (Perception) score, which equals 10 + the creature’s Wisdom modifier, as well as any other bonuses or penalties.
-> If the creature has advantage, add 5. For disadvantage, subtract 5.
-> For example, if a 1st-level character (with a proficiency bonus of +2) has a Wisdom of 15 (a +2 modifier) and proficiency in Perception, he or she has a passive Wisdom (Perception) of 14.
+There is a chance that when one creature is hidden another creature might notice them even if not searching.
+To determine whether that happens, the Conductor compares the [Dexterity (Stealth)](#Using_Dexterity_dexterity-checks) check of the hiding creature with the passive [Wisdom (Perception)](#Using_Wisdom_wisdom-checks) score of any creature which has a chance of noticing.
+Check the section on [Passive Checks](#Ability_Checks_passive-checks) under [section XX, "Ability Checks"](#Ability_Checks_ability-checks) for more details.
+
 > **What Can You Perceive?**
 > One of the main factors in determining whether you can sense or pinpoint a hidden creature or object is how effectively your senses function in the area, which may be lightly or heavily obscured, as described in [chapter XX, “Adventuring.”](#adventuring)
