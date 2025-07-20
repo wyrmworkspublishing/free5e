@@ -8,6 +8,7 @@ Arcanist
 backstab
 Barkskin
 BFRD
+Blindsense
 bloodlust
 Bragolbeleg
 celestials
@@ -46,7 +47,8 @@ Invisiblity
 Iz’zart
 Kickstarter
 Longstrider
-Longsword
+longsword
+longswords
 multiclass
 Melestrua
 midjump
@@ -70,7 +72,8 @@ Scrying
 Shadowfell
 Shapechange
 Shortbow
-Shortsword
+shortsword
+shortswords
 spellbook
 spellbooks
 Spellbreaker
