@@ -7,14 +7,16 @@ git config --global --add safe.directory $PWD
 # Load .env file, copied from https://gist.github.com/mihow/9c7f559807069a03e302605691f85572
 set -a && source $(pwd)/.env && set +a
 
-# Cleanup old generated files, if the exist
-rm -rf "${GENERATED_FILES_TARGET_DIR}"
-for bak in $(find . -name '*.adoc.bak'); do
-  rm $bak
-done
-for adoc in $(find . -name '*.adoc'); do
-  rm $adoc
-done
+function clean_up_generated() {
+  # Cleanup old generated files, if the exist
+  rm -rf "${GENERATED_FILES_TARGET_DIR}"
+  for bak in $(find . -name '*.adoc.bak'); do
+    rm $bak
+  done
+  for adoc in $(find . -name '*.adoc'); do
+    rm $adoc
+  done
+}
 
 # Define a function for converting Markdown to AsciiDoc
 function convert_markdown_to_asciidoc {
@@ -31,6 +33,7 @@ function convert_markdown_to_asciidoc {
 
     echo "Converting ${md_filename} to ${adoc_filepath}/${adoc_filename}..."
     kramdoc \
+      -a author="Wyrmworks Publishing"  \
       -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
       -a doctype=book \
       -a icons=font \
@@ -69,20 +72,9 @@ function convert_asciidoc_to_html {
 
   asciidoctor \
       -b html \
-      -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
-      -a doctype=book \
-      -a icons=font \
-      -a lang=$language \
-      -a partnums \
-      -a reproducible \
-      -a revdate="$(git log -1 --pretty="format:%cs" .)" \
-      -a sectnums \
-      -a sectnumelevels=1 \
       -a stylesdir="${css_filesdir}" \
       -a stylesheet=adoc-golo.css \
-      -a table-stripes=even \
       -a toc=left \
-      -a toclevels=4 \
       "${adoc_filepath}" \
       -o "${html_filepath}"
 }
@@ -100,18 +92,9 @@ function convert_asciidoc_to_pdf {
   mkdir -p "${PDF_BASE_FILE_DIR}"
 
   asciidoctor-pdf \
-      -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
-      -a doctype=book \
-      -a icons=font \
-      -a lang=$language \
-      -a partnums \
-      -a reproducible \
-      -a revdate="$(git log -1 --pretty="format:%cs" .)" \
-      -a sectnums \
-      -a sectnumelevels=1 \
-      -a table-stripes=even \
-      -a toc \
-      -a toclevels=4 \
+      -a pdf-fontsdir="GEM_FONTS_DIR;$FONTS_BASE_DIR" \
+      -a pdf-themesdir="$MD_BASE_DIR/themes" \
+      -a pdf-theme=pdf \
       "${adoc_filepath}" \
       -o "${pdf_filepath}"
 }
@@ -129,18 +112,6 @@ function convert_asciidoc_to_epub {
   mkdir -p "${EPUB_BASE_FILE_DIR}"
 
   asciidoctor-epub3 \
-      -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
-      -a doctype=book \
-      -a icons=font \
-      -a lang=$language \
-      -a partnums \
-      -a reproducible \
-      -a revdate="$(git log -1 --pretty="format:%cs" .)" \
-      -a sectnums \
-      -a sectnumelevels=1 \
-      -a table-stripes=even \
-      -a toc \
-      -a toclevels=4 \
       "${adoc_filepath}" \
       -o "${epub_filepath}"
 }
@@ -159,18 +130,6 @@ function convert_asciidoc_to_docbook {
 
   asciidoctor \
       -b docbook \
-      -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
-      -a doctype=book \
-      -a icons=font \
-      -a lang=$language \
-      -a partnums \
-      -a reproducible \
-      -a revdate="$(git log -1 --pretty="format:%cs" .)" \
-      -a sectnums \
-      -a sectnumelevels=1 \
-      -a table-stripes=even \
-      -a toc \
-      -a toclevels=4 \
       "${adoc_filepath}" \
       -o "${docbook_filepath}"
 }
@@ -229,6 +188,8 @@ function convert_docbook_to_latex {
       "${docbook_filepath}"
 }
 
+clean_up_generated
+
 # Check the languages to be read
 IFS=', ' read -r -a languages <<< "${LANGUAGES_TO_RENDER}"
 
@@ -238,6 +199,8 @@ for language in "${languages[@]}"; do
   mkdir -p "${GENERATED_FILES_TARGET_DIR}/${language}"
   echo "About to generate files to ${GENERATED_FILES_TARGET_DIR}/${language}..."
   
+  FONTS_BASE_DIR="$(pwd)/assets/fonts"
+
   # Generate the player book files
   BASEFILE_PLAYER_BOOK=$(echo "BASEFILE_PLAYER_BOOK_${language}" | tr - _)
   echo "Converting the ${language} player book Markdown files to AsciiDoc, starting with ${!BASEFILE_PLAYER_BOOK}..."
@@ -269,48 +232,58 @@ for language in "${languages[@]}"; do
   done
   popd
 
-  pushd "generated/${language}/adoc"
-  echo "Currently in $(pwd)..."
-
   # Generate HTML, PDF, EPUB3, and DocBook formats for the books
+  MD_BASE_DIR="$(pwd)/$(dirname -- ${!BASEFILE_PLAYER_BOOK})"
+  pushd "generated/${language}/adoc"
   MD_BASE_FILE="${!BASEFILE_PLAYER_BOOK}"
   convert_asciidoc_to_html
   convert_asciidoc_to_pdf
   convert_asciidoc_to_epub
   convert_asciidoc_to_docbook
+  popd
 
+  MD_BASE_DIR="$(pwd)/$(dirname -- ${!BASEFILE_CONDUCTOR_BOOK})"
+  pushd "generated/${language}/adoc"
+  echo "Currently in $(pwd)..."
   MD_BASE_FILE="${!BASEFILE_CONDUCTOR_BOOK}"
   convert_asciidoc_to_html
   convert_asciidoc_to_pdf
   convert_asciidoc_to_epub
   convert_asciidoc_to_docbook
+  popd
 
+  MD_BASE_DIR="$(pwd)/$(dirname -- ${!BASEFILE_MONSTER_BOOK})"
+  pushd "generated/${language}/adoc"
   MD_BASE_FILE="${!BASEFILE_MONSTER_BOOK}"
   convert_asciidoc_to_html
   convert_asciidoc_to_pdf
   convert_asciidoc_to_epub
   convert_asciidoc_to_docbook
-
   popd
 
   # Generate DOCX, ODT, and LaTeX files formats for the books
+  MD_BASE_DIR="$(pwd)/$(dirname -- $BASEFILE_PLAYER_BOOK)"
   pushd "generated/${language}/docbook"
-
   MD_BASE_FILE="${!BASEFILE_PLAYER_BOOK}"
   convert_docbook_to_docx
   convert_docbook_to_odt
   convert_docbook_to_latex
+  popd
 
+  MD_BASE_DIR="$(pwd)/$(dirname -- $BASEFILE_CONDUCTOR_BOOK)"
+  pushd "generated/${language}/docbook"
   MD_BASE_FILE="${!BASEFILE_CONDUCTOR_BOOK}"
   convert_docbook_to_docx
   convert_docbook_to_odt
   convert_docbook_to_latex
+  popd
 
+  MD_BASE_DIR="$(pwd)/$(dirname -- $BASEFILE_MONSTER_BOOK)"
+  pushd "generated/${language}/docbook"
   MD_BASE_FILE="${!BASEFILE_MONSTER_BOOK}"
   convert_docbook_to_docx
   convert_docbook_to_odt
   convert_docbook_to_latex
-
   popd
 done
 

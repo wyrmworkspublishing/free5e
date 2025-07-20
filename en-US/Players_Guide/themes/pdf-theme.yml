@@ -1,0 +1,46 @@
+extends:
+  - default
+base:
+  font-size: 12
+page:
+  size: Letter
+title-page:
+  logo:
+    align: left
+    image: image:../../../assets/Free5e-Logo-Gold-Ring.png[pdfwidth=20%]
+    top: 0%
+  title:
+    font-color: #b77a2b
+    font-family: Helvetica
+    font-size: 32
+    font-style: bold
+    top: 68%
+  authors:
+    content:
+      name_only: '{author}'
+    font-color: #29326a
+    font-family: Helvetica
+    font-size: 20
+footer:
+  border-style: dashed
+  height: 0.75in
+  sectlevels: 2
+  title-style: toc
+  recto:
+    left:
+      content: 'last updated {revdate}'
+    center:
+      content: '{chapter-title}'
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: '{page-number}'
+    center:
+      content: '{chapter-title}'
+    right:
+      content: 'last updated {revdate}'
+quote:
+  font-size: 0.8em
+running-content:
+  start-at: body
