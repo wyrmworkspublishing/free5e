@@ -1,4 +1,4 @@
-#### Pelham's Hovering Platter
+#### Pelham‘s Hovering Platter
 <!-- previously "Floating Disk" -->
 _1st-level conjuration (ritual)_
 

@@ -1,4 +1,6 @@
 #### Warlock Spells
+<!-- While Warlocks don't have ritual casting by default, the "Book of Ancient Secrets" invocation lets them use ritual spells. So all ritual spells are marked as such. -->
+
 ##### Cantrips (0 Level)
 - Chill Touch
 - Eldritch Blast
@@ -6,65 +8,65 @@
 - Minor Illusion
 - Poison Spray
 - Prestidigitation
-- True Strike
+- True Strike (concentration)
 
 ##### 1st Level
 - Charm Person
-- Comprehend Languages
-- Hex
-- Expeditious Retreat
-- Hellish Rebuke
-- Illusory Script
-- Iz’zart's Swarm Limb
-- Protection from Evil and Good
-- Unseen Servant
+- Comprehend Languages (ritual)
+- [Hex](#Hex_hex) (concentration)
+- Expeditious Retreat (concentration)
+- [Hellish Rebuke](#Hellish_Rebuke_hellish_rebuke)
+- Illusory Script (ritual)
+- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
+- Protection from Evil and Good (concentration)
+- Unseen Servant (ritual)
 
 ##### 2nd Level
-- Darkness
+- [Darkness](#Darkness_darkness) (concentration)
 - Enthrall
-- Hold Person
-- Invisibility
+- Hold Person (concentration)
+- Invisibility (concentration)
 - Mirror Image
 - Misty Step
-- Ray of Enfeeblement
+- Ray of Enfeeblement (concentration)
 - Shatter
-- Spider Climb
-- Suggestion
+- Spider Climb (concentration)
+- Suggestion (concentration)
 
 ##### 3rd Level
 - Counterspell
 - Dispel Magic
-- Fear
-- Fly
-- Gaseous Form
-- Hypnotic Pattern
+- Fear (concentration)
+- Fly (concentration)
+- Gaseous Form (concentration)
+- Hypnotic Pattern (concentration)
 - Magic Circle
-- Major Image
+- Major Image (concentration)
 - Remove Curse
 - Tongues
-- Vampiric Touch
+- Vampiric Touch (concentration)
 
 ##### 4th Level
-- Banishment
+- Banishment (concentration)
 - Blight
 - Dimension Door
 - Hallucinatory Terrain
 
 ##### 5th Level
-- Contact Other Plane
+- Contact Other Plane (ritual)
 - Dream
-- Hold Monster
-- Mislead
+- Hold Monster (concentration)
+- Mislead (concentration)
 - Planar Binding
-- Scrying
+- Scrying (concentration)
 - Teleportation Circle
 
 ##### 6th Level
 - Circle of Death
-- Conjure Fey
+- Conjure Fey (concentration)
 - Create Undead
-- Eyebite
-- Flesh to Stone
+- Eyebite (concentration)
+- Flesh to Stone (concentration)
 - Mass Suggestion
 - True Seeing
 
@@ -76,7 +78,7 @@
 
 ##### 8th Level
 - Demiplane
-- Dominate Monster
+- Dominate Monster (concentration)
 - Feeblemind
 - Glibness
 - Power Word Stun
@@ -87,5 +89,5 @@
 - Geas
 - Imprisonment
 - Power Word Kill
-- True Polymorph
-- Weird
+- True Polymorph (concentration)
+- Weird (concentration)

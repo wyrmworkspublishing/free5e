@@ -1,4 +1,4 @@
-#### Bragolbeleg's Acid Bolt
+#### Bragolbeleg‘s Acid Bolt
 <!-- previously "Acid Arrow" -->
 
 > **Warning:**

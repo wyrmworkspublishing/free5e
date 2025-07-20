@@ -1,4 +1,4 @@
-#### Rantock's Telepathic Bond
+#### Rantock‘s Telepathic Bond
 <!-- previously "Telepathic Bond" -->
 
 > **Warning:**
