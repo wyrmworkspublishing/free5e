@@ -22,6 +22,7 @@ Cerilsen
 Cloudkill
 Coreador
 Counterspell
+crafters
 Critchley
 Darkvision
 Demiplane
@@ -31,6 +32,7 @@ Dragonbound
 Druidcraft
 Dungeoneer
 dwarven
+Dwarvish
 elven
 enpowered
 ESRD
@@ -102,6 +104,7 @@ Spellbreaker
 Spellcasting
 Spellcaster
 spellcasters
+Stonecunning
 Stoneskin
 Stoneworthy
 Sylvana
@@ -110,12 +113,14 @@ Teos
 Tiefling
 Tieflings
 Thunderwave
+Treeborne
 tremorsense
 truesight
 TTRPG
 ultroloth
 ultroloths
 Umara
+Undercommon
 unplaceable
 Warhammer
 Warhording
