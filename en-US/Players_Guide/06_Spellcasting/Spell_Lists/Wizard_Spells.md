@@ -33,7 +33,7 @@
 - Grease
 - Identify (ritual)
 - Illusory Script (ritual)
-- [Iz'zart‘s Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
+- [Iz’zart‘s Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
 - Mage Armor

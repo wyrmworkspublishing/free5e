@@ -5,6 +5,6 @@ Adventurers must rely on skill, strategy, and teamwork to survive and thrive in 
 
 [**Roleplay**](./Roleplay.md)
 
-[**Exploration**](./Roleplay.md)
+[**Exploration**](./Exploration.md)
 
 [**Combat**](./Combat.md)

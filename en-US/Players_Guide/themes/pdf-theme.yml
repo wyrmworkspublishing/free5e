@@ -41,6 +41,6 @@ footer:
     right:
       content: 'last updated {revdate}'
 quote:
-  font-size: 0.8em
+  font-size: 0.9em
 running-content:
   start-at: body
