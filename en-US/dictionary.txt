@@ -25,7 +25,6 @@ Counterspell
 Critchley
 Darkvision
 Demiplane
-Destinys
 Dragonborn
 Dragonbound
 Druidcraft
@@ -74,6 +73,7 @@ Nondetection
 nonhostile
 Nonplayer
 nonmagical
+nunchaku
 Osmus
 owlbears
 Paoliello

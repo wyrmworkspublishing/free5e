@@ -28,6 +28,7 @@ If your Strength drops below 13, you can’t use the Grappler feat until it’s 
 
 [Deflector](./Feats/Deflector.md)
 
+<!-- spell-checker:words Destinys -->
 [Destinys Call](./Feats/Destinys_Call.md)
 
 [Dual-Wielding Expert](./Feats/Dual-Wielding_Expert.md)
