@@ -32,6 +32,7 @@ Druidcraft
 Dungeoneer
 dwarven
 elven
+enpowered
 ESRD
 extradimensional
 Eyebite
@@ -47,6 +48,7 @@ grimoire
 Halfling
 Halflings
 Handaxe
+hightened
 hippogriffs
 humanlike
 inclusivity
@@ -61,6 +63,7 @@ longsword
 longswords
 multiclass
 Melestrua
+Metamagic
 midjump
 Morscheck
 Multiclassing
@@ -79,6 +82,8 @@ pegasi
 Polearm
 pseudodragon
 psionic
+quarterstaff
+quarterstaffs
 quasit
 Rantock
 Restauration
