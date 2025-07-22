@@ -2,6 +2,7 @@
 <!-- Since Clerics have ritual casting, all ritual spells are marked as such. -->
 
 ##### Cantrips (0 Level)
+
 - Guidance (concentration)
 - Light
 - Mending
@@ -11,6 +12,7 @@
 - [Thaumaturgy](#Thaumaturgy_thaumaturgy)
 
 ##### 1st Level
+
 - Bane (concentration)
 - Bless (concentration)
 - Command
@@ -28,6 +30,7 @@
 - Shield of Faith (concentration)
 
 ##### 2nd Level
+
 - [Aid](#Aid_aid)
 - Augury (ritual)
 - Blindness/Deafness
@@ -47,6 +50,7 @@
 - Zone of Truth
 
 ##### 3rd Level
+
 - Animate Dead
 - Beacon of Hope (concentration)
 - Bestow Curse (concentration)
@@ -68,6 +72,7 @@
 - Water Walk (ritual)
 
 ##### 4th Level
+
 - Banishment (concentration)
 - Control Water (concentration)
 - Death Ward
@@ -78,6 +83,7 @@
 - Stone Shape
 
 ##### 5th Level
+
 - Commune (ritual)
 - Contagion
 - Dispel Evil and Good (concentration)
@@ -93,6 +99,7 @@
 - Scrying (concentration)
 
 ##### 6th Level
+
 - Blade Barrier (concentration)
 - Create Undead
 - Find the Path (concentration)
@@ -106,6 +113,7 @@
 - Word of Recall
 
 ##### 7th Level
+
 - Conjure Celestial (concentration)
 - Divine Word
 - Etherealness
@@ -116,6 +124,7 @@
 - Symbol
 
 ##### 8th Level
+
 - Antimagic Field (concentration)
 - Control Weather (concentration)
 - Earthquake (concentration)
@@ -123,6 +132,7 @@
 - Sunburst
 
 ##### 9th Level
+
 - Astral Projection
 - Gate (concentration)
 - Mass Heal

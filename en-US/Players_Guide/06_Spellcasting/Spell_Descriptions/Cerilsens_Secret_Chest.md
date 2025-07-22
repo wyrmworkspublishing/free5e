@@ -1,5 +1,6 @@
 #### Cerilsen‘s Secret Chest
 <!-- previously "Secret Chest" -->
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level conjuration_
 
 **Casting Time:** 1 action \

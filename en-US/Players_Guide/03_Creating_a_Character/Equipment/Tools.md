@@ -6,12 +6,12 @@ Proficiency adds your proficiency bonus to ability checks using that tool, repre
 For instance, the Conductor might ask for a Dexterity check to carve or a Strength check to work with hard wood.
 
 ___
-
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Tools (table)_
 
 | Item | Cost | Weight |
 |:-----|-----:|-------:|
-| **Artisan’s tools**
+| **Artisan’s tools** | | |
 | &#160;&#160; Alchemist’s supplies    | 50 gp |  8 lb. |
 | &#160;&#160; Brewer’s supplies       | 20 gp |  9 lb. |
 | &#160;&#160; Calligrapher’s supplies | 10 gp |  5 lb. |
@@ -31,11 +31,11 @@ _Tools (table)_
 | &#160;&#160; Woodcarver’s tools      |  1 gp |  5 lb. |
 | &#160;&#160; Disguise kit            | 25 gp |  3 lb. |
 | &#160;&#160; Forgery kit             | 15 gp |  5 lb. |
-| **Gaming set**
+| **Gaming set** | | |
 | &#160;&#160; Dice set                |  1 sp |      — |
 | &#160;&#160; Playing card set        |  5 sp |      — |
 | Herbalism kit                        |  5 gp |  3 lb. |
-| **Musical instruments**
+| **Musical instruments** | | |
 | &#160;&#160; Bagpipes                | 30 gp |  6 lb. |
 | &#160;&#160; Drum                    |  6 gp |  3 lb. |
 | &#160;&#160; Dulcimer                | 25 gp | 10 lb. |

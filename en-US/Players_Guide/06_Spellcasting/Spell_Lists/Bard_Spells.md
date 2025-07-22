@@ -2,6 +2,7 @@
 <!-- Since Bards have ritual casting, all ritual spells are marked as such. -->
 
 ##### Cantrips (0 Level)
+
 - Dancing Lights (concentration)
 - Light
 - Mage Hand
@@ -13,6 +14,7 @@
 - Vicious Mockery
 
 ##### 1st Level
+
 - Animal Friendship
 - Bane (concentration)
 - Charm Person
@@ -37,6 +39,7 @@
 - Unseen Servant (ritual)
 
 ##### 2nd Level
+
 - [Aid](#Aid_aid)
 - Animal Messenger (ritual)
 - Blindness/Deafness
@@ -61,6 +64,7 @@
 - Zone of Truth
 
 ##### 3rd Level
+
 - Bestow Curse (concentration)
 - Clairvoyance (concentration)
 - Dispel Magic
@@ -80,6 +84,7 @@
 - Tongues
 
 ##### 4th Level
+
 - Compulsion
 - Confusion (concentration)
 - Dimension Door
@@ -91,6 +96,7 @@
 - Polymorph (concentration)
 
 ##### 5th Level
+
 - Animate Objects (concentration)
 - Awaken
 - Dominate Person (concentration)
@@ -110,6 +116,7 @@
 - Teleportation Circle
 
 ##### 6th Level
+
 - Eyebite (concentration)
 - Find the Path (concentration)
 - Heroes’ Feast
@@ -119,6 +126,7 @@
 - True Seeing
 
 ##### 7th Level
+
 - [Alia‘s Magnificent Mansion](#Alias_Magnificant_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - Arcane Sword <!-- Might be renamed --> (concentration)
 - Etherealness
@@ -132,6 +140,7 @@
 - Teleport
 
 ##### 8th Level
+
 - Antipathy/Sympathy
 - Dominate Monster (concentration)
 - Feeblemind
@@ -140,6 +149,7 @@
 - Power Word Stun
 
 ##### 9th Level
+
 - Foresight
 - Power Word Kill
 - Prismatic Wall

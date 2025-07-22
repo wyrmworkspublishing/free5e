@@ -2,6 +2,7 @@
 <!-- Since Sorcerers don't have ritual casting, ritual spells are not marked as such. -->
 
 ##### Cantrips (0 Level)
+
 - [Acid Splash](#Acid_Splash_acid_splash)
 - Chill Touch
 - Dancing Lights (concentration)
@@ -18,6 +19,7 @@
 - True Strike (concentration)
 
 ##### 1st Level
+
 - Burning Hands
 - Charm Person
 - Color Spray
@@ -38,6 +40,7 @@
 - Thunderwave
 
 ##### 2nd Level
+
 - Alter Self (concentration)
 - Blindness/Deafness
 - Blur (concentration)
@@ -64,6 +67,7 @@
 - Web (concentration)
 
 ##### 3rd Level
+
 - Blink
 - Clairvoyance (concentration)
 - Counterspell
@@ -87,6 +91,7 @@
 - Water Walk
 
 ##### 4th Level
+
 - Banishment (concentration)
 - Blight
 - Confusion (concentration)
@@ -100,6 +105,7 @@
 - Wall of Fire (concentration)
 
 ##### 5th Level
+
 - Animate Objects (concentration)
 - Cloudkill (concentration)
 - Cone of Cold
@@ -114,6 +120,7 @@
 - Wall of Stone (concentration)
 
 ##### 6th Level
+
 - Chain Lightning
 - Circle of Death
 - Disintegrate
@@ -127,6 +134,7 @@
 - True Seeing
 
 ##### 7th Level
+
 - Delayed Blast Fireball (concentration)
 - Etherealness
 - Finger of Death
@@ -137,6 +145,7 @@
 - Teleport
 
 ##### 8th Level
+
 - Demiplane
 - Dominate Monster (concentration)
 - Earthquake (concentration)
@@ -145,6 +154,7 @@
 - Sunburst
 
 ##### 9th Level
+
 - Gate (concentration)
 - Meteor Swarm
 - Power Word Kill

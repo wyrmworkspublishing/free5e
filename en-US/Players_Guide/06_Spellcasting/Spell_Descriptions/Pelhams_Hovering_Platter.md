@@ -1,5 +1,6 @@
 #### Pelham‘s Hovering Platter
 <!-- previously "Floating Disk" -->
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level conjuration (ritual)_
 
 **Casting Time:** 1 action \
@@ -16,4 +17,4 @@ If you move more than 20 feet away from it, the disk follows you so that it rema
 It can move across uneven terrain, up or down stairs, slopes and the like, but it can’t cross an elevation change of 10 feet or more.
 For example, the disk can’t move across a 10-foot-deep pit, nor could it leave such a pit if it was created at the bottom.
 
-If you move more than 100 feet from the disk (typically because it can’t move around an obstacle to follow you), the spell ends. 
+If you move more than 100 feet from the disk (typically because it can’t move around an obstacle to follow you), the spell ends.

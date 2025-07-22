@@ -41,7 +41,7 @@ Depending on the vessel and the size of the crew, ships might be able to travel 
 Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a _carpet of flying_, allow you to travel more swiftly.
 
 ___
-
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Travel Pace (table)_
 
 | Pace   | Distance traveled per Minute | Distance traveled per Hour | Distance traveled per Day | Effect |
@@ -78,8 +78,8 @@ Clearing each foot costs the same movement amount.
 Additional checks may be needed for obstacles or difficult terrain.
 
 ___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Jumping (table)_
-
 
 | Type of Jump             | Jump Distance                          | Conditions                               | Checks                   |
 |:-------------------------|:---------------------------------------|:-----------------------------------------|:-------------------------|

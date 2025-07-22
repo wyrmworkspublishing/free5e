@@ -2,6 +2,7 @@
 <!-- While Warlocks don't have ritual casting by default, the "Book of Ancient Secrets" invocation lets them use ritual spells. So all ritual spells are marked as such. -->
 
 ##### Cantrips (0 Level)
+
 - Chill Touch
 - Eldritch Blast
 - Mage Hand
@@ -11,6 +12,7 @@
 - True Strike (concentration)
 
 ##### 1st Level
+
 - Charm Person
 - Comprehend Languages (ritual)
 - [Hex](#Hex_hex) (concentration)
@@ -22,6 +24,7 @@
 - Unseen Servant (ritual)
 
 ##### 2nd Level
+
 - [Darkness](#Darkness_darkness) (concentration)
 - Enthrall
 - Hold Person (concentration)
@@ -34,6 +37,7 @@
 - Suggestion (concentration)
 
 ##### 3rd Level
+
 - Counterspell
 - Dispel Magic
 - Fear (concentration)
@@ -47,12 +51,14 @@
 - Vampiric Touch (concentration)
 
 ##### 4th Level
+
 - Banishment (concentration)
 - Blight
 - Dimension Door
 - Hallucinatory Terrain
 
 ##### 5th Level
+
 - Contact Other Plane (ritual)
 - Dream
 - Hold Monster (concentration)
@@ -62,6 +68,7 @@
 - Teleportation Circle
 
 ##### 6th Level
+
 - Circle of Death
 - Conjure Fey (concentration)
 - Create Undead
@@ -71,12 +78,14 @@
 - True Seeing
 
 ##### 7th Level
+
 - Etherealness
 - Finger of Death
 - Forcecage
 - Plane Shift
 
 ##### 8th Level
+
 - Demiplane
 - Dominate Monster (concentration)
 - Feeblemind
@@ -84,6 +93,7 @@
 - Power Word Stun
 
 ##### 9th Level
+
 - Astral Projection
 - Foresight
 - Geas

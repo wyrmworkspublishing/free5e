@@ -11,7 +11,7 @@ his is the time it takes to take off armor.
 If you have help, reduce this time by half.
 
 ___
-
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Donning and Doffing Armor (table)_
 
 | Category     |        Don |      Doff |
@@ -22,4 +22,3 @@ _Donning and Doffing Armor (table)_
 | Shield       |   1 action |  1 action |
 
 ___
-

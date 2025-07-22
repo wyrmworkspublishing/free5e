@@ -10,6 +10,7 @@ The Athletics skill reflects aptitude in certain kinds of Strength checks.
 **Athletics.**
 Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming.
 Examples include the following activities:
+
 - You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.
 - You try to jump an unusually long distance or pull off a stunt midjump.
 - You struggle to swim or stay afloat in treacherous currents, storm-tossed waves, or areas of thick seaweed.
@@ -17,6 +18,7 @@ Examples include the following activities:
 
 **Other Strength Checks.**
 The Conductor might also call for a Strength check when you try to accomplish tasks like the following:
+
 - Force open a stuck, locked, or barred door
 - Break free of bonds
 - Push through a tunnel that is too small
@@ -29,7 +31,7 @@ The Conductor might also call for a Strength check when you try to accomplish ta
 You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin.
 You use melee weapons to make melee attacks in hand* to-hand combat, and some of them can be thrown to make a ranged attack.
 
-######  Lifting and Carrying
+###### Lifting and Carrying
 
 Your Strength score determines the amount of weight you can bear.
 The following terms define what you can lift or carry.
@@ -52,5 +54,6 @@ For a Tiny creature, halve these weights.
 The rules for lifting and carrying are intentionally simple.
 Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment.
 When you use this variant, ignore the Strength column of the Armor table.
+
 - If you carry weight _in excess of 5 times your Strength score_, you are encumbered, which means your speed drops by 10 feet.
 - If you carry weight _in excess of 10 times your Strength score_, up to your maximum carrying capacity, you are instead heavily encumbered, which means your speed drops by 20 feet and you have disadvantage on ability checks, attack rolls, and saving throws that use Strength, Dexterity, or Constitution.

@@ -1,4 +1,5 @@
 #### Iz’zart‘s Swarm Limb
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level conjuration_
 
 **Casting Time:** 1 action \

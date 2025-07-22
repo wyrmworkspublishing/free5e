@@ -1,4 +1,5 @@
 #### Hellish Rebuke
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level evocation_
 
 **Casting Time:** 1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can pinpoint \

@@ -2,6 +2,7 @@
 <!-- Since Vanguards don't have ritual casting, ritual spells are not marked as such. -->
 
 ##### 1st Level
+
 - Bless (concentration)
 - Command
 - Cure Wounds
@@ -15,6 +16,7 @@
 - Shield of Faith (concentration)
 
 ##### 2nd Level
+
 - [Aid](#Aid_aid)
 - Branding Smite (concentration)
 - Find Steed
@@ -28,6 +30,7 @@
 - Zone of Truth
 
 ##### 3rd Level
+
 - Create Food and Water
 - Daylight
 - Dispel Magic
@@ -36,11 +39,13 @@
 - Revivify
 
 ##### 4th Level
+
 - Banishment (concentration)
 - Death Ward
 - Locate Creature (concentration)
 
 ##### 5th Level
+
 - Dispel Evil and Good (concentration)
 - Geas
 - Raise Dead

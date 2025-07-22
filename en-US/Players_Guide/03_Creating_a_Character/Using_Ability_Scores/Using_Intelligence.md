@@ -26,12 +26,13 @@ Your Intelligence (Religion) check measures your ability to recall lore about de
 
 **Other Intelligence Checks.**
 The Conductor might call for an Intelligence check when you try to accomplish tasks like the following:
--	Calculate the weight or volume of an object by sight
--	Estimate the value of a precious item
--	Analyze the properties of an unfamiliar material or liquid
--	Forge a document
--	Solve a complex puzzle under pressure
--	Recall a obscure detail from a past encounter
+
+- Calculate the weight or volume of an object by sight
+- Estimate the value of a precious item
+- Analyze the properties of an unfamiliar material or liquid
+- Forge a document
+- Solve a complex puzzle under pressure
+- Recall a obscure detail from a past encounter
 
 ###### Spellcasting Ability
 

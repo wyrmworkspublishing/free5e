@@ -2,6 +2,7 @@
 <!-- Since Rangers don't have ritual casting, ritual spells are not marked as such. -->
 
 ##### 1st Level
+
 - Alarm
 - Animal Friendship
 - Cure Wounds
@@ -17,6 +18,7 @@
 - Speak with Animals
 
 ##### 2nd Level
+
 - [Aid](#Aid_aid)
 - Animal Messenger
 - Barkskin (concentration)
@@ -34,6 +36,7 @@
 - Spike Growth (concentration)
 
 ##### 3rd Level
+
 - Conjure Animals (concentration)
 - Daylight
 - Meld into Stone
@@ -47,6 +50,7 @@
 - Wind Wall (concentration)
 
 ##### 4th Level
+
 - Conjure Woodland Beings (concentration)
 - Dominate Beast (concentration)
 - Freedom of Movement
@@ -55,5 +59,6 @@
 - Stoneskin (concentration)
 
 ##### 5th Level
+
 - Commune with Nature
 - Tree Stride (concentration)

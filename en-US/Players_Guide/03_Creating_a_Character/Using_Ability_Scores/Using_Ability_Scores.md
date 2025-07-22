@@ -1,6 +1,7 @@
 ### Using Ability Scores
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
+
 - **Strength**, measuring physical power
 - **Dexterity**, measuring agility
 - **Constitution**, measuring endurance

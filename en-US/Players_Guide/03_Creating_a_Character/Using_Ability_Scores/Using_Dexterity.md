@@ -19,6 +19,7 @@ Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemi
 
 **Other Dexterity Checks.**
 The Conductor might call for a Dexterity check when you try to accomplish tasks like the following:
+
 - Securely tie up a prisoner
 - Wriggle free of bonds
 - Craft a small or detailed object

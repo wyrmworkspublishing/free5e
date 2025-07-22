@@ -6,6 +6,8 @@ When your Constitution modifier increases, your hit point maximum increases by 1
 The Character Advancement table summarizes the XP needed to level up from 1 to 20 and the proficiency bonus for each level.
 Refer to your character’s class description for other level-based improvements.
 
+___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Character Advancement (table)_
 
 | Experience Points | Level | Proficiency Bonus |
@@ -30,6 +32,8 @@ _Character Advancement (table)_
 |           265,000 |    18 | +6                |
 |           305,000 |    19 | +6                |
 |           355,000 |    20 | +6                |
+
+___
 
 [**Multiclassing**](./Multiclassing.md)
 

@@ -20,7 +20,7 @@
   Free5e does not include maneuvers as a core mechanic.
   - **Conversion:**
     For A5E, add maneuvers from a Combat Tradition based on the character’s fighting style.
-    For Free5e, remove maneuvers and grant proficiency in an extra weapon or Fighting Style. 
+    For Free5e, remove maneuvers and grant proficiency in an extra weapon or Fighting Style.
 - **Spellcasting and Magic Rules:**
   A5E introduces prayers, rituals, and wyrd magic alongside spellcasting.
   Free5e uses standard 5e spellcasting.

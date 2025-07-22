@@ -113,4 +113,3 @@ If your Strength drops below 13, you can’t use the Grappler feat until it’s 
 [Vendetta](./Feats/Vendetta.md)
 
 [Weapons Specialist](./Feats/Weapons_Specialist.md)
-

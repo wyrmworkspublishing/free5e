@@ -15,6 +15,7 @@ For each level of spells, you can select one of the two spells to learn.
 You learn the selected spell and it becomes a Sorcerer spell for you, but it doesn’t count against your number of Sorcerer spells known.
 
 ___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Fey Origin Spells (table)_
 
 | Sorcerer Level | Spells |
@@ -33,6 +34,7 @@ You learn the [Minor Illusion](#Minor_Illusion_minor_illusion) cantrip.
 It does not count against your cantrips known.
 Additionally, you are adept at illusory tricks, gaining the ability to befuddle, trick and baffle people with your magic.
 As a bonus action, you can do any of the following:
+
 - **Minor Illusions.**
   You can cast Minor Illusion.
 - **Obscuring Tricks.**

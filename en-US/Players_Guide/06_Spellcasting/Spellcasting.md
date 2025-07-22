@@ -151,6 +151,7 @@ If you lose concentration, the spell ends.
 If a spell needs concentration, its Duration entry specifies how long you can concentrate.
 You can end concentration anytime.
 Normal activity doesn’t interfere. The following can break concentration:
+
 - **Casting another spell that requires concentration.**
   You lose concentration on a spell if you cast another spell that requires concentration.
   You can’t concentrate on two spells at once.
@@ -275,6 +276,7 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 >
 > Some spells have been renamed in Free5e, in most cases to honor those who supported the project financially.
 > If a product (e.g. an adventure or a monster stat block) mentions one of these spells, you can use the renamed version instead.
+>
 > - Acid Arrow → Bragolbeleg's Acid Bolt
 > - Arcane Hand → Morscheck‘s Hand
 > - Arcanist’s Magic Aura → DT's Magic Aura
