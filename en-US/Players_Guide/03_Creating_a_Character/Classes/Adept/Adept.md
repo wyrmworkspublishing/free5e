@@ -38,6 +38,7 @@ Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
 ###### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
+
 - (a) a shortsword or (b) any simple weapon
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 - 10 darts
