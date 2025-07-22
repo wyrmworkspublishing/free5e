@@ -18,6 +18,7 @@ At 3rd level, you gain proficiency in the Athletics skill, or another skill of y
 ###### Pragmatism (3rd Level)
 
 At 3rd level, you embrace a more pragmatic view, gaining the following benefits:
+
 - **Improvised Adept Weapons.**
   You have proficiency in improvised weapons.
   Improvised melee weapons count as Adept weapons for you.
@@ -27,6 +28,7 @@ At 3rd level, you embrace a more pragmatic view, gaining the following benefits:
   You can use your Strength modifier in place of your Wisdom modifier for calculating your focus Save DC.
 
 You gain the following additional Pragmatic Techniques you can spend focus on.
+
 - **Kick ‘em While They’re Down (1 focus point).**
   When you hit a target that is prone, restrained, or incapacitated, you can expend a focus point to deal additional damage equal to two rolls of your Martial Arts die.
 - **Unexpected Technique (1 focus point).**
