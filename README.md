@@ -177,6 +177,6 @@ https://github.com/streetsidesoftware/cspell-dicts
 Free5e is published under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed) license.
 A copy of that license can be found in the file [LICENSE.md](./LICENSE.md).
 
-Some of the provided file formats use the [Roboto](https://github.com/googlefonts/roboto-3-classic) font, copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic).
+Some of the provided file formats use the [Roboto](https://github.com/googlefonts/roboto-3-classic) font, copyright 2011 The Roboto Project Authors ([https://github.com/googlefonts/roboto-classic](https://github.com/googlefonts/roboto-classic)).
 Roboto is licensed under the [SIL Open Font License, Version 1.1](https://openfontlicense.org/open-font-license-official-text/).
 A copy of this license can be found in the file [assets/fonts/roboto/OFL.md](./assets/fonts/roboto/OFL.md), and it is also available with a FAQ at [openfontlicense.org](https://openfontlicense.org).
