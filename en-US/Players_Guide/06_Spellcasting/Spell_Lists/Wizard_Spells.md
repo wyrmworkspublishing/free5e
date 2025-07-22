@@ -2,6 +2,7 @@
 <!-- Since Wizards have ritual casting, all ritual spells are marked as such. -->
 
 ##### Cantrips (0 Level)
+
 - [Acid Splash](#Acid_Splash_acid_splash)
 - Chill Touch
 - Dancing Lights (concentration)
@@ -18,6 +19,7 @@
 - True Strike (concentration)
 
 ##### 1st Level
+
 - Alarm (ritual)
 - Burning Hands
 - Charm Person
@@ -48,6 +50,7 @@
 - Unseen Servant (ritual)
 
 ##### 2nd Level
+
 - Alter Self (concentration)
 - Arcane Lock
 - Augury (ritual)
@@ -83,6 +86,7 @@
 - Web (concentration)
 
 ##### 3rd Level
+
 - Animate Dead
 - Bestow Curse (concentration)
 - Blink
@@ -114,6 +118,7 @@
 - Water Breathing (ritual)
 
 ##### 4th Level
+
 - Arcane Eye (concentration)
 - Banishment (concentration)
 - Blight
@@ -140,6 +145,7 @@
 - Wall of Fire (concentration)
 
 ##### 5th Level
+
 - Animate Objects (concentration)
 - Cloudkill (concentration)
 - Cone of Cold
@@ -165,6 +171,7 @@
 - Wall of Stone (concentration)
 
 ##### 6th Level
+
 - Chain Lightning
 - Circle of Death
 - Contingency
@@ -186,6 +193,7 @@
 - Wall of Ice (concentration)
 
 ##### 7th Level
+
 - [Alia‘s Magnificent Mansion](#Alias_Magnificant_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - Arcane Sword (concentration) <!-- Might be renamed -->
 - Delayed Blast Fireball (concentration)
@@ -203,6 +211,7 @@
 - Teleport
 
 ##### 8th Level
+
 - Antimagic Field (concentration)
 - Antipathy/Sympathy
 - Clone
@@ -217,6 +226,7 @@
 - Sunburst
 
 ##### 9th Level
+
 - Astral Projection
 - Foresight
 - Gate (concentration)

@@ -2,6 +2,7 @@
 
 Fantasy worlds benefit by reflecting the real world’s diversity in physical and mental abilities.
 Here are three methods to achieve this:
+
 1. **Narrative.**
    Describe the situation without mechanical implementation.
    This is the easiest and preferred method by many who don’t want their complex lived experience reduced to a game mechanic.

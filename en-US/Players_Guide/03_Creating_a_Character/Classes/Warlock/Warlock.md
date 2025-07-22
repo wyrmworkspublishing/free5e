@@ -37,6 +37,7 @@ Choose two skills from Arcana, Deception, History, Intimidation, Investigation, 
 ###### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
+
 - (a) a light crossbow and 20 bolts or (b) any simple weapon
 - (a) a component pouch or (b) an arcane focus
 - (a) a scholar’s pack or (b) a dungeoneer’s pack

@@ -9,6 +9,8 @@ For every ability check, the Conductor decides which of the six abilities is rel
 The more difficult a task, the higher its DC.
 The Typical Difficulty Classes table shows the most common DCs.
 
+___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Typical Difficulty Classes (table)_
 
 | Task Difficulty   | DC |
@@ -19,6 +21,8 @@ _Typical Difficulty Classes (table)_
 | Hard              | 20 |
 | Very hard         | 25 |
 | Nearly impossible | 30 |
+
+___
 
 To make an ability check, roll a d20 and add the relevant ability modifier.
 As with other d20 rolls, apply bonuses and penalties, and compare the total to the DC.
@@ -47,6 +51,7 @@ Each aspect has an associated skill: Acrobatics, Sleight of Hand, and Stealth. P
 The skills typically related to each ability score are listed below.
 See an ability’s description for examples of skill usage.
 
+<!-- markdownlint-disable blanks-around-lists no-emphasis-as-heading -->
 **Strength**
 - Athletics
 
@@ -74,6 +79,7 @@ See an ability’s description for examples of skill usage.
 - Intimidation
 - Performance
 - Persuasion
+<!-- markdownlint-enable blanks-around-lists no-emphasis-as-heading -->
 
 Sometimes, the Conductor might ask for an ability check using a specific skill—for example, _“Make a Wisdom (Perception) check.”_
 At other times, a player might ask the Conductor if proficiency in a particular skill applies to a check.

@@ -1,0 +1,54 @@
+# A sample config file with all options set can be found at
+# https://github.com/DavidAnson/markdownlint-cli2/blob/main/test/markdownlint-cli2-yaml-example/.markdownlint-cli2.yaml
+
+# Disable some built-in rules
+config:
+  blanks-around-headings: false
+  fenced-code-language: false
+  first-line-h1: false
+  line-length: false
+  link-fragments: false
+  no-inline-html: false
+
+# Fix any fixable errors
+fix: false
+
+# Define a custom front matter pattern
+#frontMatter: "<head>[^]*<\/head>"
+
+# Ignore files referenced by .gitignore (only valid at root)
+gitignore: true
+
+# Define glob expressions to use (only valid at root)
+#globs:
+#  - "!*bout.md"
+
+# Define glob expressions to ignore
+#ignores:
+#  - "ignore*.md"
+
+# Use a plugin to recognize math
+#markdownItPlugins:
+#  -
+#    - "markdown-it-emoji/dist/light.cjs.js"
+
+# Additional paths to resolve module locations from
+#modulePaths:
+#  - "./modules"
+
+# Disable banner message on stdout (only valid at root)
+#noBanner: true
+
+# Disable inline config comments
+#noInlineConfig: true
+
+# Disable progress on stdout (only valid at root)
+#noProgress: true
+
+# Use a specific formatter (only valid at root)
+#outputFormatters:
+#  -
+#    - markdownlint-cli2-formatter-default
+
+# Show found files on stdout (only valid at root)
+showFound: true

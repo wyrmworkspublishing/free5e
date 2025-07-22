@@ -10,6 +10,7 @@ The Fiend lets you choose from an expanded list of spells when you learn a Warlo
 The following spells are added to the Warlock spell list for you.
 
 ___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Fiend Expanded Spells (table)_
 
 | Spell Level | Spells                                                                              |

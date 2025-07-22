@@ -14,6 +14,8 @@ To qualify for a new class, meet the ability score prerequisites for both your c
 For instance, a Dreadnought multiclassing into Wodewose must have 13 or higher Strength and Wisdom scores.
 Without the training of a beginning character, you must be a quick learner with natural aptitude reflected by higher-than-average ability scores.
 
+___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Multiclassing Prerequisites (table)_
 
 | Class       | Ability Score Minimum       |
@@ -30,6 +32,8 @@ _Multiclassing Prerequisites (table)_
 | Warlock     | Charisma 13                 |
 | Wizard      | Intelligence 13             |
 | Wodewose    | Wisdom 13                   |
+
+___
 
 ##### Experience Points
 

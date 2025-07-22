@@ -16,7 +16,7 @@ Electrum is worth five silver pieces, and platinum is worth ten gold pieces.
 A standard coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 ___
-
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Standard Exchange Rates (table)_
 
 | Coin          |    CP |   SP |   EP |    GP |      PP |
@@ -26,6 +26,8 @@ _Standard Exchange Rates (table)_
 | Electrum (ep) |    50 |    5 |    1 |   1/2 |    1/20 |
 | Gold (gp)     |   100 |   10 |    2 |     1 |    1/10 |
 | Platinum (pp) | 1,000 |  100 |   20 |    10 |       1 |
+
+___
 
 [**Selling Treasure**](./Selling_Treasure.md)
 

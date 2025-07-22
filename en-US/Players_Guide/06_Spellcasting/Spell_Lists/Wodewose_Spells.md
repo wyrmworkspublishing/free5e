@@ -2,6 +2,7 @@
 <!-- Since Wodewoses have ritual casting, all ritual spells are marked as such. -->
 
 ##### Cantrips (0 Level)
+
 - Guidance (concentration)
 - Mending
 - [Naturecraft](#Naturecraft_naturecraft)
@@ -11,6 +12,7 @@
 - Shillelagh
 
 ##### 1st Level
+
 - Animal Friendship
 - Charm Person
 - Create or Destroy Water
@@ -31,6 +33,7 @@
 - Thunderwave
 
 ##### 2nd Level
+
 - Animal Messenger (ritual)
 - Augury (ritual)
 - Barkskin (concentration)
@@ -53,6 +56,7 @@
 - Spike Growth (concentration)
 
 ##### 3rd Level
+
 - Call Lightning (concentration)
 - Conjure Animals (concentration)
 - Daylight
@@ -68,6 +72,7 @@
 - Wind Wall (concentration)
 
 ##### 4th Level
+
 - Blight
 - Confusion (concentration)
 - Conjure Minor Elementals (concentration)
@@ -87,6 +92,7 @@
 - Wall of Fire (concentration)
 
 ##### 5th Level
+
 - Antilife Shell (concentration)
 - Awaken
 - Commune with Nature (ritual)
@@ -103,6 +109,7 @@
 - Wall of Stone (concentration)
 
 ##### 6th Level
+
 - Conjure Fey (concentration)
 - Find the Path (concentration)
 - Flesh to Stone (concentration)
@@ -115,6 +122,7 @@
 - Wind Walk
 
 ##### 7th Level
+
 - Fire Storm
 - Mirage Arcane
 - Plane Shift
@@ -123,6 +131,7 @@
 - Symbol
 
 ##### 8th Level
+
 - Animal Shapes (concentration)
 - Antipathy/Sympathy
 - Control Weather (concentration)
@@ -132,6 +141,7 @@
 - Sunburst
 
 ##### 9th Level
+
 - Foresight
 - Shapechange (concentration)
 - Storm of Vengeance (concentration)

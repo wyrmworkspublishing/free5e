@@ -9,6 +9,8 @@ A score of 18 is the highest for humans, while adventurers can reach 20 and mons
 Each ability has a modifier, ranging from −5 for a 1 to +10 for a 30, based on the score.
 The Ability Scores and Modifiers table lists these modifiers for scores from 1 to 30.
 
+___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Ability Scores and Modifiers (table)_
 
 | Score | Modifier |
@@ -29,6 +31,8 @@ _Ability Scores and Modifiers (table)_
 | 26–27 |       +8 |
 | 28–29 |       +9 |
 |   30  |      +10 |
+
+___
 
 To determine an ability modifier without consulting the table, subtract 10 from the ability score and then divide the total by 2 (round down).
 Because ability modifiers affect almost every attack roll, ability check, and saving throw, ability modifiers come up in play more often than their associated scores.

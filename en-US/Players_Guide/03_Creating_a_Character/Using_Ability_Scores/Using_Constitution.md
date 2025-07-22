@@ -8,6 +8,7 @@ Constitution checks are uncommon, and no skills apply to Constitution checks, be
 A Constitution check can model your attempt to push beyond normal limits, however.
 
 The Conductor might call for a Constitution check when you try to accomplish tasks like the following:
+
 - Hold your breath
 - March or labor for hours without rest
 - Go without sleep

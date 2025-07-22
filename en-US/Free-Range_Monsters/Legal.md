@@ -16,11 +16,12 @@ The text of Free5e Free Range Monsters © 2025 by Wyrmworks Publishing and avail
 To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
 You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
-> This work includes material adapted from **Free5e Free Range Monsters**, © 2025 by Wyrmworks Publishing, and available at https://free5e.com.
+> This work includes material adapted from **Free5e Free Range Monsters**, © 2025 by Wyrmworks Publishing, and available at [https://free5e.com](https://free5e.com).
 > **Free5e Free Range Monsters** is licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0).
 > To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
-> 
+>
 > This adaptation also includes material originally taken from:
+>
 > - The **A5E System Reference Document (A5ESRD)** by EN Publishing, available at [A5ESRD.com](https://A5ESRD.com) and licensed under CC-BY-4.0.
 > - The **System Reference Document 5.1 (SRD 5.1)** by Wizards of the Coast LLC, available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document) and licensed under CC-BY-4.0.
 > - The **Lazy GM’s Resource Document** by Michael E. Shea of [SlyFlourish.com](SlyFlourish.com), licensed under CC-BY-4.0.

@@ -5,6 +5,7 @@ Intelligence or Wisdom 13 or higher
 
 You gain a ritual book containing spells that you can cast as rituals while holding it.
 Choose one of the following classes: Bard, Cleric, Sorcerer, Vanguard, Warlock, Wizard, or Wodewose.
+
 - When you acquire this feat, you create a ritual book holding two 1st-level spells of your choice from that class’ spell list.
   These spells must have the ritual tag.
   The class you choose determines your spellcasting ability for these spells: Intelligence for Wizard, Wisdom for Cleric or Wodewose, Charisma for Bard, Sorcerer, Vanguard, or Warlock.

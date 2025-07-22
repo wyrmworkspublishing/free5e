@@ -11,6 +11,7 @@ At 1st level, you choose one type of dragon as your ancestor.
 The damage type associated with each dragon is used by features you gain later.
 
 ___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Draconic Ancestry (table)_
 
 | Dragon | Damage Type |

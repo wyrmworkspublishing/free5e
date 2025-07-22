@@ -32,6 +32,7 @@ The Conductor might ask you to make a Wisdom (Survival) check to follow tracks, 
 
 **Other Wisdom Checks.**
 The Conductor might call for a Wisdom check when you try to accomplish tasks like the following:
+
 - Get a gut feeling about what course of action to follow
 - Discern whether a seemingly dead or living creature is undead
 

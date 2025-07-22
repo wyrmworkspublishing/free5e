@@ -8,6 +8,7 @@ While cultures reflect the environment and values of the community that your cha
 Their background offers vital story cues: what changed to drive them to adventure, why they left their past life, how they obtained their gear, or why they lack wealth despite family riches.
 Consider how their background ties to their class skills and unique traits.
 
+<!-- markdownlint-disable blanks-around-lists ol-prefix ul-indent -->
 1. **Skill Proficiencies**
   - Choose two skills that your character didn’t learn from their class.
     Your character is now proficient in these skills.
@@ -17,7 +18,7 @@ Consider how their background ties to their class skills and unique traits.
       - **One tool proficiency** and **one language**, or
       - **Two tool proficiencies**, or
       - **Two languages**
-    
+
     These should represent logical character abilities based on the background’s concept, e.g. a sailor would need climbing and swimming so would take athletics and would need to be able to stay upright on unstable surfaces so would take acrobatics.
     It would also be sensible for the character to be proficient in using water vehicles and navigational tools.
    [Chapter XX: Using Ability Scores](#Using_Ability_Scores_using_ability_scores) has more information on what each Skill does and how they are used with the ability scores.
@@ -64,6 +65,7 @@ Consider how their background ties to their class skills and unique traits.
       Can more easily find food and shelter in a specific region or environment.
     - **Career skill.**
       You have experience in a trade (e.g. farmer, baker, weaver, cobbler, etc.) and get benefits to skill checks related to that specific profession.
+<!-- markdownlint-enable blanks-around-lists ul-indent -->
 
 This sample background offers concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 

@@ -16,6 +16,8 @@ You have 27 points to spend on ability scores.
 The cost of each score is shown on the Ability Score Point Cost table.
 Then add 3 points to the character’s abilities, no more than two to any single ability.
 
+___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Ability Score Point Cost_
 
 | Score | Cost |
@@ -28,6 +30,8 @@ _Ability Score Point Cost_
 |  13   |   5  |
 |  14   |   7  |
 |  15   |   9  |
+
+___
 
 ##### Ability Modifiers
 Your final ability scores determine your modifiers.

@@ -2,6 +2,7 @@
 
 In situations where keeping track of the passage of time is important, the Conductor determines the time a task requires.
 The Conductor might use a different time scale depending on the context of the situation at hand.
+
 - In a dungeon environment, the adventurers’ movement happens on a scale of **minutes**.
   It takes them about a minute to creep down a long hallway, another minute to check for traps on the door at the end of the hall, and a good ten minutes to search the chamber beyond for anything interesting or valuable.
 - In a city or wilderness, a scale of **hours** is often more appropriate.

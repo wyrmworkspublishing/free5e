@@ -55,6 +55,7 @@ Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 > **Interacting with Objects Around You** {#Combat_Movement_and_Position_interacting_with_objects}
 >
 > Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
+>
 > - draw or sheathe a sword
 > - open or close a door
 > - withdraw a potion from your backpack
@@ -98,6 +99,7 @@ The _Size Categories table_ shows how much space a creature of a particular size
 Objects sometimes use the same size categories.
 
 ___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Size Categories (table)_
 
 | Size       | Space                  |

@@ -37,6 +37,7 @@ Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religi
 ###### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
+
 - (a) a light crossbow and 20 bolts or (b) any simple weapon
 - (a) a component pouch or (b) an arcane focus
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
@@ -137,6 +138,7 @@ You can create spell slots no higher in level than 5th.
 Any spell slot you create with this feature vanishes when you finish a long rest.
 
 ___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Creating Spell Slots (table)_
 
 | Spell Slot Level | Sorcery Point Cost |

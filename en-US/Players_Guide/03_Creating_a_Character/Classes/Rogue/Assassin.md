@@ -16,6 +16,7 @@ You have advantage on attack rolls against any creature that hasn’t taken a tu
 
 Starting at 9th level, you have mastered one technique of your choice for approaching a target.
 Select one of the following benefits:
+
 - **False Face.**
   You gain proficiency (or expertise if you already have proficiency) with the [disguise kit](#Tools_disguise_kit), and can assume a prepared disguise with the bonus action granted by [Cunning Action](#Rogue_cunning_action).
 - **Blade in the Dark.**
@@ -34,6 +35,7 @@ If you gain expertise in a skill you already have expertise in, you can instead 
 
 Starting at 13th level, you hone your skills gaining a favored approach to dealing death.
 Select one of the following benefits:
+
 - **Trusted Face.**
   If you spend seven days establishing a fake identity for yourself or three hours studying another person to impersonate, you have advantage on any Charisma (Deception) check involving maintaining your disguise and identity.
 - **Swift Blade.**

@@ -49,6 +49,7 @@ Once you use this feature, you can’t use it again until you finish a long rest
 ###### Additional Invocations
 
 When you select The Overseer as your otherworldly patron, the following become additional options for your Warlock invocation selections.
+
 - ***Controlled Chaos***
   \
   **Prerequisite:**
