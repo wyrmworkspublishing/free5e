@@ -71,10 +71,15 @@ function convert_asciidoc_to_html {
   mkdir -p "${HTML_BASE_FILE_DIR}"
   cp -r ../../../css "${css_filesdir}"
 
+  # Compile the SCSS file to a CSS file
+  pushd "${css_filesdir}"
+  sass free5e.scss free5e.css
+  popd
+
   asciidoctor \
       -b html \
       -a stylesdir="${css_filesdir}" \
-      -a stylesheet=adoc-golo.css \
+      -a stylesheet=free5e.css \
       -a toc=left \
       "${adoc_filepath}" \
       -o "${html_filepath}"

@@ -1,0 +1,16 @@
+@use './adoc-golo';
+
+@import url(//fonts.googleapis.com/css?family=Roboto:ital,wght@0,100..900;1,100..900);
+
+html, body {
+  font-family: "Roboto";
+  font-variation-settings: "wdth" 100;
+}
+
+h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 {
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+#content #toctitle {
+  font-family: "Roboto", Arial, sans-serif;
+}

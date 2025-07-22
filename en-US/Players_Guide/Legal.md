@@ -32,7 +32,10 @@ You are free to use this content in any manner permitted by that license as long
 > - The **Kibbles’ Compendium of Legends and Legacies** by KibblesTasty Homebrew LLC, available at [https://www.kthomebrew.com/krd](https://www.kthomebrew.com/krd) and licensed under CC-BY-4.0.
 > - The **Black Flag Reference Document 1.0 (“BFRD 1.0”)** by Kobold Press, available at [https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf](https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf) and licensed under CC-BY-4.0.
 
-<!-- TODO Add links to the licenses -->
-All artwork contained in this book is licensed under CC-BY-4.0 or CC-0.
+All artwork contained in this book is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) or [CC-0](https://creativecommons.org/publicdomain/zero/1.0/deed).
 To use that artwork outside of this project, see the accompanying document with specific licensing and credit information.
 If you received this copy without that document, you can obtain a copy at [https://free5e.com](https://free5e.com).
+
+The [Roboto](https://github.com/googlefonts/roboto-3-classic) font used in some versions of this book is copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic).
+Roboto is licensed under the [SIL Open Font License, Version 1.1](https://openfontlicense.org/open-font-license-official-text/).
+To view a copy of this license, visit [https://raw.githubusercontent.com/googlefonts/roboto-3-classic/refs/tags/v3.011/OFL.txt](https://raw.githubusercontent.com/googlefonts/roboto-3-classic/refs/tags/v3.011/OFL.txt).

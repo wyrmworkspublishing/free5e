@@ -6,6 +6,7 @@ on:
       - main
       - 'translation/**'
       - 'translations/**'
+      - 'render/**'
 jobs:
   render-separate-files:
     runs-on: ubuntu-latest
