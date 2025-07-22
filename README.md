@@ -1,19 +1,20 @@
 # Free5e Repository
 <!-- spell-checker:words BASEFILE blalasaadri Guía Jugador languagecode Libro Monstruos -->
+<!-- markdownlint-disable blanks-around-fences -->
 
 This repository contains:
 
-* A Discord glossary bot in the `bot/` folder (used with Render)
-* Free5e public resources in the `public-resources/` folder
+- A Discord glossary bot in the `bot/` folder (used with Render)
+- Free5e public resources in the `public-resources/` folder
 
 ## What is Free5e?
 
 Free5e is a fully open, community-built alternative to 5e tabletop roleplaying rules. It’s designed to be:
 
-* **Fully free** to use, share, modify, and publish under Creative Commons BY 4.0.
-* **Accessible and inclusive**, with disability representation, mixed ancestries and cultures, and alternative formats.
-* **System-compatible** with other 5e variants, with conversion tools for 2014/2024 5e, Tales of the Valiant, and Level Up: Advanced 5e.
-* **Modular and expandable**, with player-facing and GM tools that allow for broad customizations without breaking balance.
+- **Fully free** to use, share, modify, and publish under Creative Commons BY 4.0.
+- **Accessible and inclusive**, with disability representation, mixed ancestries and cultures, and alternative formats.
+- **System-compatible** with other 5e variants, with conversion tools for 2014/2024 5e, Tales of the Valiant, and Level Up: Advanced 5e.
+- **Modular and expandable**, with player-facing and GM tools that allow for broad customizations without breaking balance.
 
 Use this repo to contribute, build tools, translate, or develop your own projects using Free5e.
 
@@ -22,6 +23,7 @@ Use this repo to contribute, build tools, translate, or develop your own project
 The books in this repository are written in the Markdown format, specifically in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 These files are then automatically converted into a number of formats.
 Specifically:
+
 - [AsciiDoc](https://asciidoc.org/) (mostly as an intermediate file type)
 - HTML
 - PDF (version 1.4)
@@ -37,6 +39,7 @@ These files are generated when a new version is merged into the `main` branch of
 Every time changes are pushed to the GitHub repository, a GitHub Action (using the [cspell-action](https://github.com/streetsidesoftware/cspell-action), as defined in the file [spellcheck.yml](./.github/workflows/spellcheck.yml)) will check the spelling within Markdown files.
 
 Each language directory contains two files relevant to spell checking:
+
 - `cspell.config.yaml`
 - `dictionary.txt`
 
@@ -79,6 +82,7 @@ This results in directories representing regional languages, so that we can diff
 In this directory, create subdirectories for each book you're translating (e.g. _"Players_Guide"_) and in that at least one Markdown file, which will serve as the starting point for that book.
 
 For each book you added, modify the `.env` file in the base repository in the following manner:
+
 1. Add the new language to the `LANGUAGES_TO_RENDER` variable, separating language codes by commas. So for example, if you initially have the entry
    ```env
    LANGUAGES_TO_RENDER=en-US;fr-CA
@@ -100,6 +104,7 @@ For each book you added, modify the `.env` file in the base repository in the fo
    BASEFILE_CONDUCTOR_BOOK_es_MX=es-MX/Manual_del_Director/Manual_del_Director.md
    BASEFILE_MONSTER_BOOK_es_MX=es-MX/Libro_de_Monstruos/Libro_de_Monstruos.md
    ```
+
 If this is done correctly, the render job will pick up the new translations and will build all of the expected formats from those files.
 
 ### Adding spell checks for translations
@@ -153,10 +158,12 @@ jobs:
 ```
 Once this is done, commit the changes to GitHub and check the output of the new action.
 
+<!-- markdownlint-disable descriptive-link-text -->
 **Note:**
 It is possible, that no default dictionary is installed for a requested language.
 `cspell` has dictionaries available for many languages (they are listed [here](https://github.com/streetsidesoftware/cspell-dicts?tab=readme-ov-file#natural-language-dictionaries)), but not all of them come preinstalled with the GitHub action we use.
 If a dictionary seems to be missing, tag @blalasaadri in a GitHub issue or request support from him on the Free5e Discord.
+<!-- markdownlint-enable descriptive-link-text -->
 <!--
 Not exactly the Docker image we're using, but maybe useful nevertheless:
 https://github.com/streetsidesoftware/cspell-cli/blob/main/docker/german/README.md
