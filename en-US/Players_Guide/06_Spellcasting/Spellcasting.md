@@ -63,7 +63,7 @@ Cantrips have a spell level of 0.
 
 #### Rituals
 
-Certain spells have a “ritual” tag.
+Certain spells have a "ritual" tag.
 Casting a ritual spell follows normal spellcasting rules, but it takes 10 minutes longer and doesn’t expend a spell slot.
 To cast a ritual spell, a spellcaster must have a feature granting this ability, such as Clerics or Wodewoses.
 The caster must also have the spell prepared or on their spell list, unless specified otherwise by their ritual feature, like Wizards.
