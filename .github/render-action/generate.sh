@@ -40,7 +40,7 @@ function convert_markdown_to_asciidoc {
       -a lang=$language \
       -a partnums \
       -a reproducible \
-      -a revdate="$(git log -1 --pretty="format:%cs" $md)" \
+      -a revdate="$(LANG=$language git log -1 --pretty="format:%cd" --date=format:"${!DATE_FORMAT}" .)" \
       -a sectnums \
       -a sectnumelevels=1 \
       -a stem \
@@ -209,6 +209,8 @@ for language in "${languages[@]}"; do
   mkdir -p "${GENERATED_FILES_TARGET_DIR}/${language}"
   echo "About to generate files to ${GENERATED_FILES_TARGET_DIR}/${language}..."
   
+  DATE_FORMAT=$(echo "DATE_FORMAT_${language}" | tr - _)
+
   FONTS_BASE_DIR="$(pwd)/assets/fonts"
 
   # Generate the player book files

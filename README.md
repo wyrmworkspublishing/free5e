@@ -83,6 +83,7 @@ In this directory, create subdirectories for each book you're translating (e.g. 
 
 For each book you added, modify the `.env` file in the base repository in the following manner:
 
+<!-- spell-checker:words Enero -->
 1. Add the new language to the `LANGUAGES_TO_RENDER` variable, separating language codes by commas. So for example, if you initially have the entry
    ```env
    LANGUAGES_TO_RENDER=en-US;fr-CA
@@ -96,6 +97,11 @@ For each book you added, modify the `.env` file in the base repository in the fo
    - For the Player's book, add a variable starting with `BASEFILE_PLAYER_BOOK_` and followed by the regional language as above, however separated by an underscore (`_`) rather than by a dash.
    - For the Conductor's book, add a variable starting with `BASEFILE_CONDUCTOR_BOOK_` and followed by the regional language as above, however separated by an underscore (`_`) rather than by a dash.
    - For the Monster book, add a variable starting with `BASEFILE_MONSTER_BOOK_` and followed by the regional language as above, however separated by an underscore (`_`) rather than by a dash.
+3. Add a variable for the date format to be used, starting with `DATE_FORMAT_` and followed by the regional language as above, however separated by an underscore (`_`).
+   This will be used to display the latest revision date for a document.
+   As documented in the [Git documentation for `--date=format:...`](https://git-scm.com/docs/git-log#Documentation/git-log.txt---dateformat), this accepts the arguments for [strftime](https://www.man7.org/linux/man-pages/man3/strftime.3.html) except for `%s`, `%z`, and `%Z`.
+   So for example, the format `%d.%m.%Y` will result in a date such as `28.03.2025` for March 28th, 2025, while the format `%Y-%m-%d` will result in `2025-03-28` for the same date.
+   Terms such as days of the week or months will be rendered in the language in question (e.g. _"January"_ for the language `en-US` and _"Enero"_ for `es-MX`).
 
    For example, the new entries for Mexican Spanish may look like this:
    ```env
