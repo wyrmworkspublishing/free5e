@@ -21,6 +21,7 @@ celestials
 Cerilsen
 Cloudkill
 Coreador
+Countercharm
 Counterspell
 crafters
 Critchley
