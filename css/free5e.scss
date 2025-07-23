@@ -1,16 +1,28 @@
 @use './adoc-golo';
-
+@use './atkinson-hyperlegible';
 @import url(//fonts.googleapis.com/css?family=Roboto:ital,wght@0,100..900;1,100..900);
 
 html, body {
-  font-family: "Roboto";
+  font-family: "Atkinson Hyperlegible Next", "Roboto", Arial, sans-serif;
   font-variation-settings: "wdth" 100;
 }
 
 h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 {
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Atkinson Hyperlegible Next", "Roboto", Arial, sans-serif;
 }
 
 #content #toctitle {
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: "Atkinson Hyperlegible Next", "Roboto", Arial, sans-serif;
+}
+
+code, kbd, pre, samp {
+  font-family: "Atkinson Hyperlegible Mono", Courier, monospace;
+}
+
+code {
+  font-family: "Atkinson Hyperlegible Mono", Courier, monospace;
+}
+
+pre, pre > code {
+  font-family: "Atkinson Hyperlegible Mono", Courier, monospace;
 }

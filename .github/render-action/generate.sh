@@ -65,19 +65,23 @@ function convert_asciidoc_to_html {
   adoc_filepath="$(pwd)/${ADOC_BASE_FILE_DIR}/${ADOC_BASE_FILE_NAME}"
   html_filepath="$(pwd)/${HTML_BASE_FILE_DIR}/${HTML_BASE_FILE_NAME}"
   css_filesdir="$(pwd)/${HTML_BASE_FILE_DIR}/css"
+  fonts_filesdir="$(pwd)/${HTML_BASE_FILE_DIR}/fonts"
 
   echo "Converting ${adoc_filepath} to ${html_filepath}..."
 
   mkdir -p "${HTML_BASE_FILE_DIR}"
   cp -r ../../../css "${css_filesdir}"
+  cp -r ../../../assets/fonts "${fonts_filesdir}"
 
   # Compile the SCSS file to a CSS file
   pushd "${css_filesdir}"
+  rm free5e.css && echo "Old CSS deleted" || echo "No old CSS found"
   sass free5e.scss free5e.css
   popd
 
   asciidoctor \
       -b html \
+      -a fontsdir="${fonts_filesdir}" \
       -a stylesdir="${css_filesdir}" \
       -a stylesheet=free5e.css \
       -a toc=left \
