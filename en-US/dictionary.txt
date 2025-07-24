@@ -13,7 +13,6 @@ balors
 Barkskin
 BFRD
 Blindsense
-blindsight
 bloodlust
 Bragolbeleg
 Carceri
@@ -82,6 +81,7 @@ openfontlicense
 Osmus
 owlbears
 Paoliello
+parasense
 Passwall
 pegasi
 Polearm
