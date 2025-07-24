@@ -68,16 +68,15 @@ The soft light of twilight and dawn also counts as dim light. A particularly bri
 **Darkness** creates a heavily obscured area.
 Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.
 
-##### Blindsight
-
-A creature with blindsight can perceive its surroundings without relying on sight, within a specific radius.
-Creatures without eyes, such as oozes, and creatures with echolocation or heightened senses, such as bats and true dragons, have this sense.
-
 ##### Darkvision
 
 Many creatures in fantasy gaming worlds, especially those that dwell underground, have darkvision.
 Within a specified range, a creature with darkvision can see in darkness as if the darkness were dim light, so areas of darkness are only lightly obscured as far as that creature is concerned.
 However, the creature can’t discern color in darkness, only shades of gray.
+
+##### Parasense
+
+A creature with parasense can pinpoint and observe its surroundings within a defined area (e.g., 60 ft. cone) without using sight. This sense relies on a supporting sense such as echolocation or sensitivity to air pressure, heat, electrical fields, or magical cues and may be disrupted by effects that interfere with that sense (e.g., Silence for echolocation, strong wind for air pressure). Parasense reveals position and general features but not fine detail.
 
 ##### Truesight
 
