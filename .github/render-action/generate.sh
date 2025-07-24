@@ -40,7 +40,7 @@ function convert_markdown_to_asciidoc {
       -a lang=$language \
       -a partnums \
       -a reproducible \
-      -a revdate="$(git log -1 --pretty="format:%cs" $md)" \
+      -a revdate="$(LANG=$language git log -1 --pretty="format:%cd" --date=format:"${!DATE_FORMAT}" .)" \
       -a sectnums \
       -a sectnumelevels=1 \
       -a stem \
@@ -65,16 +65,25 @@ function convert_asciidoc_to_html {
   adoc_filepath="$(pwd)/${ADOC_BASE_FILE_DIR}/${ADOC_BASE_FILE_NAME}"
   html_filepath="$(pwd)/${HTML_BASE_FILE_DIR}/${HTML_BASE_FILE_NAME}"
   css_filesdir="$(pwd)/${HTML_BASE_FILE_DIR}/css"
+  fonts_filesdir="$(pwd)/${HTML_BASE_FILE_DIR}/fonts"
 
   echo "Converting ${adoc_filepath} to ${html_filepath}..."
 
   mkdir -p "${HTML_BASE_FILE_DIR}"
   cp -r ../../../css "${css_filesdir}"
+  cp -r ../../../assets/fonts "${fonts_filesdir}"
+
+  # Compile the SCSS file to a CSS file
+  pushd "${css_filesdir}"
+  rm free5e.css && echo "Old CSS deleted" || echo "No old CSS found"
+  sass free5e.scss free5e.css
+  popd
 
   asciidoctor \
       -b html \
+      -a fontsdir="${fonts_filesdir}" \
       -a stylesdir="${css_filesdir}" \
-      -a stylesheet=adoc-golo.css \
+      -a stylesheet=free5e.css \
       -a toc=left \
       "${adoc_filepath}" \
       -o "${html_filepath}"
@@ -200,6 +209,8 @@ for language in "${languages[@]}"; do
   mkdir -p "${GENERATED_FILES_TARGET_DIR}/${language}"
   echo "About to generate files to ${GENERATED_FILES_TARGET_DIR}/${language}..."
   
+  DATE_FORMAT=$(echo "DATE_FORMAT_${language}" | tr - _)
+
   FONTS_BASE_DIR="$(pwd)/assets/fonts"
 
   # Generate the player book files

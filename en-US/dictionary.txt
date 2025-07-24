@@ -52,6 +52,7 @@ Handaxe
 hightened
 hippogriffs
 humanlike
+Hyperlegible
 inclusivity
 Insaneangel
 Invisiblity
@@ -76,6 +77,7 @@ nonhostile
 Nonplayer
 nonmagical
 nunchaku
+openfontlicense
 Osmus
 owlbears
 Paoliello
