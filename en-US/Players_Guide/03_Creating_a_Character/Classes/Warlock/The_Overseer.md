@@ -9,8 +9,19 @@ The nature of your pact may be down to delusion (yours, its, or both), or workin
 The Overseer lets you choose from an expanded list of spells when you learn a Warlock spell.
 The following spells are added to the Warlock spell list for you.
 
-> **Warning:**
-> This section has not yet been fully transferred from the Google Doc.
+___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+_Overseer's Expanded Spells (table)_
+
+| Spell Level | Spells                                                                  |
+|------------:|:------------------------------------------------------------------------|
+|         1st | [Sleep](#Sleep_sleep), [Alarm](#Alarm_alarm)                            |
+|         2nd | [Blindness/Deafness](#Blindness_Deafness_blindness_deafness), [See Invisibility](#See_Invisibility_see_invisibility) |
+|         3rd | [Clairvoyance](#Clairvoyance_clairvoyance), [Slow](#Slow_slow)          |
+|         4th | [Arcane Eye](#Arcane_Eye_arcane_eye), [Fabricate](#Fabricate_fabricate) |
+|         5th | [Creation](#Creation_creation), [Telekinesis](#Telekinesis_telekinesis) |
+
+___
 
 ###### Overseer’s Gaze (1st Level) {#The_Overseer_overseers_gaze}
 
@@ -50,14 +61,14 @@ Once you use this feature, you can’t use it again until you finish a long rest
 
 When you select The Overseer as your otherworldly patron, the following become additional options for your Warlock invocation selections.
 
-- ***Controlled Chaos***
+- **_Controlled Chaos_**
   \
   **Prerequisite:**
   Overseer patron
   \
   When you roll on the [Eye Ray Effects table](#The_Overseer_overseers_gaze), you can roll twice and choose between the two effects.
   If you roll the same value on both dice, you can pick any effect from the table.
-- ***Overseer’s Sight***
+- **_Overseer’s Sight_**
   \
   **Prerequisite:**
   15th level, Overseer patron
