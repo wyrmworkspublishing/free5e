@@ -75,7 +75,7 @@ function convert_asciidoc_to_html {
 
   # Compile the SCSS file to a CSS file
   pushd "${css_filesdir}"
-  rm free5e.css && echo "Old CSS deleted" || echo "No old CSS found"
+  rm free5e.css* && echo "Old CSS deleted" || echo "No old CSS found"
   sass free5e.scss free5e.css
   popd
 
