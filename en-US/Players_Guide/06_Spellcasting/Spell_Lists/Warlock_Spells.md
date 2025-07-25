@@ -20,7 +20,7 @@
 - [Hellish Rebuke](#Hellish_Rebuke_hellish_rebuke)
 - Illusory Script (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
-- Protection from Evil and Good (concentration)
+- [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Unseen Servant (ritual)
 
 ##### 2nd Level
@@ -39,7 +39,7 @@
 ##### 3rd Level
 
 - Counterspell
-- Dispel Magic
+- [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
 - Fly (concentration)
 - Gaseous Form (concentration)

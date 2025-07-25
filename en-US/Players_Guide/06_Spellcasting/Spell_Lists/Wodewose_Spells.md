@@ -27,7 +27,7 @@
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
-- Protection from Evil and Good (concentration)
+- [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Purify Food and Drink (ritual)
 - Speak with Animals (ritual)
 - Thunderwave
@@ -47,7 +47,7 @@
 - Gust of Wind (concentration)
 - Heat Metal (concentration)
 - Hold Person (concentration)
-- Lesser Restoration
+- [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants (ritual)
 - Locate Object (concentration)
 - Moonbeam (concentration)
@@ -60,7 +60,7 @@
 - Call Lightning (concentration)
 - Conjure Animals (concentration)
 - Daylight
-- Dispel Magic
+- [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Meld into Stone (ritual)
 - Plant Growth
 - Protection from Energy (concentration)
@@ -81,7 +81,7 @@
 - Divination (ritual)
 - Dominate Beast (concentration)
 - Fire Shield
-- Freedom of Movement
+- [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Giant Insect (concentration)
 - Hallucinatory Terrain
 - Ice Storm

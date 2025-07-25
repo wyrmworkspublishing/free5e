@@ -42,7 +42,7 @@
 - Magic Missile
 - [Paoliello‘s Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
 - [Pelham‘s Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" --> (ritual)
-- Protection from Evil and Good (concentration)
+- [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Shield
 - Silent Image (concentration)
 - Sleep
@@ -92,7 +92,7 @@
 - Blink
 - Clairvoyance (concentration)
 - Counterspell
-- Dispel Magic
+- [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
 - Fireball
 - Fly (concentration)

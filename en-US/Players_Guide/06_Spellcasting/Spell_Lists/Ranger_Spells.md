@@ -26,7 +26,7 @@
 - Enhance Ability (concentration)
 - Find Traps
 - Gust of Wind (concentration)
-- Lesser Restoration
+- [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants
 - Locate Object (concentration)
 - Magic Weapon (concentration)
@@ -53,7 +53,7 @@
 
 - Conjure Woodland Beings (concentration)
 - Dominate Beast (concentration)
-- Freedom of Movement
+- [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Greater Restauration
 - Locate Creature (concentration)
 - Stoneskin (concentration)
