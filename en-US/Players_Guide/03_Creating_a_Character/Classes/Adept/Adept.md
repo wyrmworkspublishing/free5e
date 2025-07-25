@@ -78,6 +78,7 @@ At 1st level, your practice of martial arts gives you mastery of combat styles t
 
 > **Warning:**
 > The wording of the next sentence is still up for discussion in the Google Doc.
+
 <!-- Comment by Arkylie (Kilyle):
 You gain the following benefits for unarmed strikes or monk weapons:
 XYZ
@@ -172,6 +173,7 @@ Starting at 6th level, your unarmed strikes count as magical for the purpose of 
 
 > **Warning:**
 > The wording of this feature is still up for discussion in the Google Doc.
+
 <!-- Comment by Arkylie (Kilyle):
 LVL 7: Evasion
 When an effect causes a Dexterity saving throw for half damage, your instinctive agility lets you dodge more of the effect.  Yes, you can even dodge out of the way of a Fireball!

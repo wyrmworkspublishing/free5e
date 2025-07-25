@@ -24,9 +24,9 @@
 - Guiding Bolt
 - Healing Word
 - Inflict Wounds
-- Protection from Evil and Good (concentration)
+- [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Purify Food and Drink (ritual)
-- Sanctuary
+- [Sanctuary](#Sanctuary_sanctuary)
 - Shield of Faith (concentration)
 
 ##### 2nd Level
@@ -40,24 +40,24 @@
 - Find Traps
 - Gentle Repose (ritual)
 - Hold Person (concentration)
-- Lesser Restoration
+- [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Object (concentration)
 - Prayer of Healing
 - Protection from Poison
 - Silence (ritual)
 - Spiritual Weapon
 - Warding Bond
-- Zone of Truth
+- [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
 ##### 3rd Level
 
 - Animate Dead
-- Beacon of Hope (concentration)
+- [Beacon of Hope](#Beacon_of_Hope_beacon_of_hope) (concentration)
 - Bestow Curse (concentration)
 - Clairvoyance (concentration)
 - Create Food and Water
 - Daylight
-- Dispel Magic
+- [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Glyph of Warding
 - Magic Circle
 - Mass Healing Word
@@ -77,17 +77,17 @@
 - Control Water (concentration)
 - Death Ward
 - Divination (ritual)
-- Freedom of Movement
-- Guardian of Faith
+- [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
+- [Guardian of Faith](#Guardian_of_Faith_guardian_of_faith)
 - Locate Creature (concentration)
 - Stone Shape
 
 ##### 5th Level
 
-- Commune (ritual)
+- [Commune](#Commune_commune) (ritual)
 - Contagion
 - Dispel Evil and Good (concentration)
-- Flame Strike
+- [Flame Strike](#Flame_Strike_flame_strike)
 - Geas
 - Greater Restauration
 - Hallow

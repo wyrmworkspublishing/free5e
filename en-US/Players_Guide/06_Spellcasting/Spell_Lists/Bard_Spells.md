@@ -52,7 +52,7 @@
 - Hold Person (concentration)
 - Invisibility (concentration)
 - Knock
-- Lesser Restoration
+- [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants (ritual)
 - Locate Object (concentration)
 - Magic Mouth (ritual)
@@ -61,13 +61,13 @@
 - Shatter
 - Silence (ritual)
 - Suggestion (concentration)
-- Zone of Truth
+- [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
 ##### 3rd Level
 
 - Bestow Curse (concentration)
 - Clairvoyance (concentration)
-- Dispel Magic
+- [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
 - Glyph of Warding
 - Hypnotic Pattern (concentration)
@@ -88,7 +88,7 @@
 - Compulsion
 - Confusion (concentration)
 - Dimension Door
-- Freedom of Movement
+- [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Greater Invisibility (concentration)
 - Hallucinatory Terrain
 - Locate Creature (concentration)

@@ -72,7 +72,7 @@
 - Clairvoyance (concentration)
 - Counterspell
 - Daylight
-- Dispel Magic
+- [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
 - Fireball
 - Fly (concentration)

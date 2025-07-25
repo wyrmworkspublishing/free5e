@@ -88,7 +88,7 @@ Without proficiency in the skill, the individual makes a normal ability check.
 
 For example, if a character attempts to climb up a dangerous cliff, the Conductor might ask for a Strength (Athletics) check.
 If the character is proficient in Athletics, the character’s proficiency bonus is added to the Strength check.
-If the character lacks that proficiency, he or she just makes a Strength check.
+If the character lacks that proficiency, they just make a Strength check.
 
 Usually, proficiency applies only to specific ability checks.
 For instance, Athletics proficiency usually applies to Strength checks.
@@ -111,7 +111,7 @@ Here’s how to determine a character’s total for a passive check:
 If the character has advantage on the check, add 5.
 For disadvantage, subtract 5. The game refers to a passive check total as a score.
 
-For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, he or she has a passive Wisdom (Perception) score of 14.
+For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, they have a passive Wisdom (Perception) score of 14.
 
 The rules on hiding in the [“Dexterity”](#Using_Dexterity_dexterity) section below rely on passive checks, as do the exploration rules.
 

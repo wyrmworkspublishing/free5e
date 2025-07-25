@@ -315,39 +315,4 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 
 [Wodewose Spells](./Spell_Lists/Wodewose_Spells.md)
 
-### Spell Descriptions
-[Acid Splash](./Spell_Descriptions/Acid_Splash.md)
-
-[Aid](./Spell_Descriptions/Aid.md)
-
-[Alia's Magnificent Mansion](./Spell_Descriptions/Alias_Magnificent_Mansion.md)
-
-[Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)
-
-[Cerilsen's Secret Chest](./Spell_Descriptions/Cerilsens_Secret_Chest.md)
-
-[Coreador's Black Tentacles](./Spell_Descriptions/Coreadors_Black_Tentacles.md)
-
-[Darkness](./Spell_Descriptions/Darkness.md)
-
-[DT's Magic Aura](./Spell_Descriptions/DTs_Magic_Aura.md)
-
-[Hellish Rebuke](./Spell_Descriptions/Hellish_Rebuke.md)
-
-[Hex](./Spell_Descriptions/Hex.md)
-
-[Iz’zart's Swarm Limb](./Spell_Descriptions/Izzarts_Swarm_Limb.md)
-
-[Melestrua's Marvelous Marquee](./Spell_Descriptions/Melestruas_Marvelous_Marquee.md)
-
-[Morscheck's Hand](./Spell_Descriptions/Morschecks_Hand.md)
-
-[Naturecraft](./Spell_Descriptions/Naturecraft.md)
-
-[Paoliello's Hideous Laughter](./Spell_Descriptions/Paoliellos_Hideous_Laughter.md)
-
-[Pelham's Hovering Platter](./Spell_Descriptions/Pelhams_Hovering_Platter.md)
-
-[Rantock's Telepathic Bond](./Spell_Descriptions/Rantocks_Telepathic_Bond.md)
-
-[Thaumaturgy](./Spell_Descriptions/Thaumaturgy.md)
+[**Spell Descriptions**](./Spell_Descriptions.md)

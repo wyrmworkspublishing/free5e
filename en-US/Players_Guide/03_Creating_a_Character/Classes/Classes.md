@@ -11,7 +11,8 @@
 > - **Paladin → Vanguard:** Removing the association with a real-world religious conflict
 
 #### Choosing a Class
-Your class defines what your character does best and how they contribute to the group. Some focus on physical combat, others on spellcasting, and some blend both.
+Your class defines what your character does best and how they contribute to the group.
+Some focus on physical combat, others on spellcasting, and some blend both.
 
 - Martial characters rely mostly on weapons and physical skill.
 - Half-casters mix martial prowess with limited spellcasting.
