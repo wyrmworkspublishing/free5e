@@ -1,4 +1,16 @@
 #### Counterspell
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_school]:- "abjuration"
+[_metadata_:spell_level]:- "1"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "reaction"
+[_metadata_:ritual]:- "false"
+[_metadata_:range]:- "60 feet"
+[_metadata_:target]:- "1 creature"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:spell_origin]:- "a5e_srd"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level abjuration_
 

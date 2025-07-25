@@ -315,5 +315,4 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 
 [Wodewose Spells](./Spell_Lists/Wodewose_Spells.md)
 
-
 [**Spell Descriptions**](./Spell_Descriptions.md)
