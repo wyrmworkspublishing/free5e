@@ -98,6 +98,7 @@ Scrying
 Shadowfell
 Shapechange
 shapechanger
+shapeshifting
 Shortbow
 shortsword
 shortswords
