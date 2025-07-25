@@ -245,7 +245,14 @@ for language in "${languages[@]}"; do
 
   # Now make sure that the tables look decent
   for adoc in $(find . -name '*.adoc'); do
-    sed -i'.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
+    sed -i'.1.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
+    mv $adoc "$adoc.2.bak"
+    awk '
+      /^$/ { blank++ }
+      blank && /^\|===$/ { blank=0; print "[%autowidth,width=100%]" }
+      /^./ { blank=0 }
+      { print }
+    ' "$adoc.2.bak" > $adoc
   done
   popd
 
