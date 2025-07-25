@@ -15,6 +15,8 @@
 
 [Coreador's Black Tentacles](./Spell_Descriptions/Coreadors_Black_Tentacles.md)
 
+[Counterspell](./Spell_Descriptions/Counterspell.md)
+
 [Darkness](./Spell_Descriptions/Darkness.md)
 
 [Dispel Magic](./Spell_Descriptions/Dispel_Magic.md)
