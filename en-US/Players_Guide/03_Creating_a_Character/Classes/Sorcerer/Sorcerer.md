@@ -45,28 +45,28 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ###### The Sorcerer (table) {#Sorcerer_the_sorcerer_table}
 
-| Level | Proficiency Bonus | Sorcery Points | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                                     |
-|------:|---:|:--:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---------------------------------------------|
-|   1st | +2 |  - | 4 |  2 | 2 | - | - | - | - | - | - | - | - | [Spellcasting](#Sorcerer_spellcasting), [Sorcerous Origin](#Sorcerer_sorcerous_origin) |
-|   2nd | +2 |  2 | 4 |  3 | 3 | - | - | - | - | - | - | - | - | [Font of Magic](#Sorcerer_font_of_magic) |
-|   3rd | +2 |  3 | 4 |  4 | 4 | 2 | - | - | - | - | - | - | - | [Metamagic](#Sorcerer_metamagic) |
-|   4th | +2 |  4 | 4 |  5 | 4 | 3 | - | - | - | - | - | - | - | [Ability Score Improvement](#Sorcerer_asi) |
-|   5th | +3 |  5 | 4 |  6 | 4 | 3 | 2 | - | - | - | - | - | - | - |
-|   6th | +3 |  6 | 5 |  7 | 4 | 3 | 3 | - | - | - | - | - | - | Sorcerous Origin feature |
-|   7th | +3 |  7 | 5 |  8 | 4 | 3 | 3 | 1 | - | - | - | - | - | - |
-|   8th | +3 |  8 | 5 |  9 | 4 | 3 | 3 | 2 | - | - | - | - | - | [Ability Score Improvement](#Sorcerer_asi) |
-|   9th | +4 |  9 | 5 | 10 | 4 | 3 | 3 | 3 | 1 | - | - | - | - | - |
-|  10th | +4 | 10 | 6 | 11 | 4 | 3 | 3 | 3 | 2 | - | - | - | - | [Metamagic](#Sorcerer_metamagic) |
-|  11th | +4 | 11 | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | - |
-|  12th | +4 | 12 | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | [Ability Score Improvement](#Sorcerer_asi) |
-|  13th | +5 | 13 | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | - |
-|  14th | +5 | 14 | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | Sorcerous Origin feature |
-|  15th | +5 | 15 | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | - |
-|  16th | +5 | 16 | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | [Ability Score Improvement](#Sorcerer_asi) |
-|  17th | +6 | 17 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | [Metamagic](#Sorcerer_metamagic) |
-|  18th | +6 | 18 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | Sorcerous Origin feature |
-|  19th | +6 | 19 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | [Ability Score Improvement](#Sorcerer_asi) |
-|  20th | +6 | 20 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | [Sorcerous Restoration](#Sorcerer_sorcerous_restoration) |
+| Level | Proficiency Bonus | Sorcery Points | Cantrips Known | Spells Known | Features                                                                               |
+|:------|:-----------------:|:--------------:|:--------------:|:------------:|:---------------------------------------------------------------------------------------|
+|   1st |         +2        |        -       |        4       |       2      | [Spellcasting](#Sorcerer_spellcasting), [Sorcerous Origin](#Sorcerer_sorcerous_origin) |
+|   2nd |         +2        |        2       |        4       |       3      | [Font of Magic](#Sorcerer_font_of_magic)                                               |
+|   3rd |         +2        |        3       |        4       |       4      | [Metamagic](#Sorcerer_metamagic)                                                       |
+|   4th |         +2        |        4       |        4       |       5      | [Ability Score Improvement](#Sorcerer_asi)                                             |
+|   5th |         +3        |        5       |        4       |       6      | -                                                                                      |
+|   6th |         +3        |        6       |        5       |       7      | Sorcerous Origin feature                                                               |
+|   7th |         +3        |        7       |        5       |       8      | -                                                                                      |
+|   8th |         +3        |        8       |        5       |       9      | [Ability Score Improvement](#Sorcerer_asi)                                             |
+|   9th |         +4        |        9       |        5       |      10      | -                                                                                      |
+|  10th |         +4        |       10       |        6       |      11      | [Metamagic](#Sorcerer_metamagic)                                                       |
+|  11th |         +4        |       11       |        6       |      12      | -                                                                                      |
+|  12th |         +4        |       12       |        6       |      12      | [Ability Score Improvement](#Sorcerer_asi)                                             |
+|  13th |         +5        |       13       |        6       |      13      | -                                                                                      |
+|  14th |         +5        |       14       |        6       |      13      | Sorcerous Origin feature                                                               |
+|  15th |         +5        |       15       |        6       |      14      | -                                                                                      |
+|  16th |         +5        |       16       |        6       |      14      | [Ability Score Improvement](#Sorcerer_asi)                                             |
+|  17th |         +6        |       17       |        6       |      15      | [Metamagic](#Sorcerer_metamagic)                                                       |
+|  18th |         +6        |       18       |        6       |      15      | Sorcerous Origin feature                                                               |
+|  19th |         +6        |       19       |        6       |      15      | [Ability Score Improvement](#Sorcerer_asi)                                             |
+|  20th |         +6        |       20       |        6       |      15      | [Sorcerous Restoration](#Sorcerer_sorcerous_restoration)                               |
 
 ###### Spellcasting (1st Level) {#Sorcerer_spellcasting}
 
@@ -80,7 +80,10 @@ You learn additional Sorcerer cantrips of your choice at higher levels, as shown
 \
 **Spell Slots**
 \
-The [Sorcerer table](#Sorcerer_the_sorcerer_table) shows how many spell slots you have to cast your spells of 1st level and higher.
+The following table shows how many spell slots you have to cast your spells of 1st level and higher.
+
+[**Full Caster Spell slot table**](../Full_Caster_Spellslot_table.md)
+
 To cast one of these Sorcerer spells, you must expend a slot of the spell’s level or higher.
 You regain all expended spell slots when you finish a long rest.
 

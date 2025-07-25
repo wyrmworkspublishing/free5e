@@ -75,7 +75,7 @@ function convert_asciidoc_to_html {
 
   # Compile the SCSS file to a CSS file
   pushd "${css_filesdir}"
-  rm free5e.css && echo "Old CSS deleted" || echo "No old CSS found"
+  rm free5e.css* && echo "Old CSS deleted" || echo "No old CSS found"
   sass free5e.scss free5e.css
   popd
 
@@ -241,6 +241,11 @@ for language in "${languages[@]}"; do
   # In the newly generated AsciiDoc files, replace links with includes
   for adoc in $(find . -name '*.adoc'); do
     sed -i'.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
+  done
+
+  # Now make sure that the tables look decent
+  for adoc in $(find . -name '*.adoc'); do
+    sed -i'.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
   done
   popd
 

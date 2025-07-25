@@ -1,4 +1,6 @@
 @use './adoc-golo';
+
+// Setup custom fonts
 @use './atkinson-hyperlegible';
 @import url(//fonts.googleapis.com/css?family=Roboto:ital,wght@0,100..900;1,100..900);
 
@@ -7,22 +9,20 @@ html, body {
   font-variation-settings: "wdth" 100;
 }
 
-h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6 {
+h1, h2, h3, #toctitle, .sidebarblock > .content > .title, h4, h5, h6, #content #toctitle {
   font-family: "Atkinson Hyperlegible Next", "Roboto", Arial, sans-serif;
 }
 
-#content #toctitle {
-  font-family: "Atkinson Hyperlegible Next", "Roboto", Arial, sans-serif;
-}
-
-code, kbd, pre, samp {
+code, kbd, pre, samp, pre > code {
   font-family: "Atkinson Hyperlegible Mono", Courier, monospace;
 }
 
-code {
-  font-family: "Atkinson Hyperlegible Mono", Courier, monospace;
-}
+// Fix tables not displaying correctly
+table {
+  colgroup col {
+    width: unset !important;
+  }
 
-pre, pre > code {
-  font-family: "Atkinson Hyperlegible Mono", Courier, monospace;
+  table-layout: auto;
+  width: 100%;
 }

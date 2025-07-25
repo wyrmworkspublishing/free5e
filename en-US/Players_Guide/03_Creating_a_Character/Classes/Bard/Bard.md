@@ -45,28 +45,28 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ###### The Bard (table) {#Bard_the_bard_table}
 
-| Level | Proficiency Bonus | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                                     |
-|------:|---:|:-:|:--:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:---------------------------------------------|
-|   1st | +2 | 4 |  2 | 2 | - | - | - | - | - | - | - | - | [Spellcasting](#Bard_spellcasting), [Bardic Inspiration](#Bard_bardic_inspiration) (d6) |
-|   2nd | +2 | 4 |  3 | 3 | - | - | - | - | - | - | - | - | [Jack of All Trades](#Bard_jack_of_all_trades), [Song of Rest](#Bard_song_of_rest) (d6) |
-|   3rd | +2 | 4 |  4 | 4 | 2 | - | - | - | - | - | - | - | [Bard College](#Bard_bard_college), [Expertise](#Bard_expertise) |
-|   4th | +2 | 4 |  5 | 4 | 3 | - | - | - | - | - | - | - | [Ability Score Improvement](#Bard_asi) |
-|   5th | +3 | 4 |  6 | 4 | 3 | 2 | - | - | - | - | - | - | [Bardic Inspiration](#Bard_bardic_inspiration) (d8), [Font of Inspiration](#Bard_font_of_inspiration) |
-|   6th | +3 | 5 |  7 | 4 | 3 | 3 | - | - | - | - | - | - | [Countercharm](#Bard_countercharm), Bard College feature |
-|   7th | +3 | 5 |  8 | 4 | 3 | 3 | 1 | - | - | - | - | - | - |
-|   8th | +3 | 5 |  9 | 4 | 3 | 3 | 2 | - | - | - | - | - | [Ability Score Improvement](#Bard_asi) |
-|   9th | +4 | 5 | 10 | 4 | 3 | 3 | 3 | 1 | - | - | - | - | [Song of Rest](#Bard_song_of_rest) (d8) |
-|  10th | +4 | 6 | 11 | 4 | 3 | 3 | 3 | 2 | - | - | - | - | [Bardic Inspiration](#Bard_bardic_inspiration) (d10), [Expertise](#Bard_expertise), [Magical Secrets](#Bard_magical_secrets) |
-|  11th | +4 | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | - |
-|  12th | +4 | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - | [Ability Score Improvement](#Bard_asi) |
-|  13th | +5 | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | [Song of Rest](#Bard_song_of_rest) (d10) |
-|  14th | +5 | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - | [Magical Secrets](#Bard_magical_secrets), Bard College feature |
-|  15th | +5 | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | [Bardic Inspiration](#Bard_bardic_inspiration) (d12) |
-|  16th | +5 | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - | [Ability Score Improvement](#Bard_asi) |
-|  17th | +6 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | [Song of Rest](#Bard_song_of_rest) (d12) |
-|  18th | +6 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | [Magical Secrets](#Bard_magical_secrets) |
-|  19th | +6 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | [Ability Score Improvement](#Bard_asi) |
-|  20th | +6 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | [Superior Inspiration](#Bard_superior_inspiration) |
+| Level | Proficiency Bonus | Cantrips Known | Spells Known | Features                                                                                                                     |
+|:------|:-----------------:|:--------------:|:------------:|:-----------------------------------------------------------------------------------------------------------------------------|
+|   1st |         +2        |        4       |       2      | [Spellcasting](#Bard_spellcasting), [Bardic Inspiration](#Bard_bardic_inspiration) (d6)                                      |
+|   2nd |         +2        |        4       |       3      | [Jack of All Trades](#Bard_jack_of_all_trades), [Song of Rest](#Bard_song_of_rest) (d6)                                      |
+|   3rd |         +2        |        4       |       4      | [Bard College](#Bard_bard_college), [Expertise](#Bard_expertise)                                                             |
+|   4th |         +2        |        4       |       5      | [Ability Score Improvement](#Bard_asi)                                                                                       |
+|   5th |         +3        |        4       |       6      | [Bardic Inspiration](#Bard_bardic_inspiration) (d8), [Font of Inspiration](#Bard_font_of_inspiration)                        |
+|   6th |         +3        |        5       |       7      | [Countercharm](#Bard_countercharm), Bard College feature                                                                     |
+|   7th |         +3        |        5       |       8      | -                                                                                                                            |
+|   8th |         +3        |        5       |       9      | [Ability Score Improvement](#Bard_asi)                                                                                       |
+|   9th |         +4        |        5       |      10      | [Song of Rest](#Bard_song_of_rest) (d8)                                                                                      |
+|  10th |         +4        |        6       |      11      | [Bardic Inspiration](#Bard_bardic_inspiration) (d10), [Expertise](#Bard_expertise), [Magical Secrets](#Bard_magical_secrets) |
+|  11th |         +4        |        6       |      12      | -                                                                                                                            |
+|  12th |         +4        |        6       |      12      | [Ability Score Improvement](#Bard_asi)                                                                                       |
+|  13th |         +5        |        6       |      13      | [Song of Rest](#Bard_song_of_rest) (d10)                                                                                     |
+|  14th |         +5        |        6       |      13      | [Magical Secrets](#Bard_magical_secrets), Bard College feature                                                               |
+|  15th |         +5        |        6       |      14      | [Bardic Inspiration](#Bard_bardic_inspiration) (d12)                                                                         |
+|  16th |         +5        |        6       |      14      | [Ability Score Improvement](#Bard_asi)                                                                                       |
+|  17th |         +6        |        6       |      15      | [Song of Rest](#Bard_song_of_rest) (d12)                                                                                     |
+|  18th |         +6        |        6       |      15      | [Magical Secrets](#Bard_magical_secrets)                                                                                     |
+|  19th |         +6        |        6       |      15      | [Ability Score Improvement](#Bard_asi)                                                                                       |
+|  20th |         +6        |        6       |      15      | [Superior Inspiration](#Bard_superior_inspiration)                                                                           |
 
 ##### Spellcasting (1st Level) {#Bard_spellcasting}
 
@@ -81,7 +81,10 @@ You learn additional Bard cantrips of your choice at higher levels, as shown in 
 \
 **Spell Slots**
 \
-The [Bard table](#Bard_the_bard_table) shows how many spell slots you have to cast your spells of 1st level and higher.
+The following table shows how many spell slots you have to cast your spells of 1st level and higher.
+
+[**Full Caster Spell slot table**](../Full_Caster_Spellslot_table.md)
+
 To cast one of these spells, you must expend a slot of the spell’s level or higher.
 You regain all expended spell slots when you finish a long rest.
 
