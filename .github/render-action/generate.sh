@@ -242,6 +242,11 @@ for language in "${languages[@]}"; do
   for adoc in $(find . -name '*.adoc'); do
     sed -i'.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
   done
+
+  # Now make sure that the tables look decent
+  for adoc in $(find . -name '*.adoc'); do
+    sed -i'.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
+  done
   popd
 
   # Generate HTML, PDF, EPUB3, and DocBook formats for the books

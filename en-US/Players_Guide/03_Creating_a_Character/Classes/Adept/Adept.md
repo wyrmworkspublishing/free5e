@@ -45,28 +45,28 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ###### The Adept (table) {#Adept_the_adept_table}
 
-| Level | Proficiency Bonus | Martial Arts | Focus Points | Unarmored Movement | Features                                     |
-|------:|---:|:-----|---:|---------:|----------------------------------------|
-|   1st | +2 | 1d4  |  — |       — | [Unarmored Defense](#Adept_unarmored_defense), [Martial Arts](#Adept_martial_arts) |
-|   2nd | +2 | 1d4  |  2 | +10 ft. | [Focus](#Adept_focus), [Unarmored Movement](#Adept_unarmored_movement) |
-|   3rd | +2 | 1d4  |  3 | +10 ft. | [Martial Discipline](#Adept_martial_discipline), [Deflect Missiles](#Adept_deflect_missiles) |
-|   4th | +2 | 1d4  |  4 | +10 ft. | [Ability Score Improvement](#Adept_asi), [Slow Fall](#Adept_slow_fall) |
-|   5th | +3 | 1d6  |  5 | +10 ft. | [Extra Attack](#Adept_extra_attack), [Stunning Strike](#Adept_stunning_strike) |
-|   6th | +3 | 1d6  |  6 | +15 ft. | [Focus-Empowered Strikes](#Adept_focus_empowered_strikes), Martial Discipline Feature |
-|   7th | +3 | 1d6  |  7 | +15 ft. | [Evasion](#Adept_evasion), [Stillness of Mind](#Adept_stillness_of_mind) |
-|   8th | +3 | 1d6  |  8 | +15 ft. | [Ability Score Improvement](#Adept_asi) |
-|   9th | +4 | 1d6  |  9 | +15 ft. | [Unarmored Movement Improvement](#Adept_unarmored_movement) |
-|  10th | +4 | 1d6  | 10 | +20 ft. | [Purity of Body](#Adept_purity_of_body) |
-|  11th | +4 | 1d8  | 11 | +20 ft. | Martial Discipline Feature |
-|  12th | +4 | 1d8  | 12 | +20 ft. | [Ability Score Improvement](#Adept_asi) |
-|  13th | +5 | 1d8  | 13 | +20 ft. | [Tongue of the Sun and Moon](#Adept_tongue_of_the_sun_and_moon) |
-|  14th | +5 | 1d8  | 14 | +25 ft. | [Diamond Soul](#Adept_diamond_soul) |
-|  15th | +5 | 1d8  | 15 | +25 ft. | [Timeless Body](#Adept_timeless_body) |
-|  16th | +5 | 1d8  | 16 | +25 ft. | [Ability Score Improvement](#Adept_asi) |
-|  17th | +6 | 1d10 | 17 | +25 ft. | Martial Discipline Feature |
-|  18th | +6 | 1d10 | 18 | +30 ft. | [Empty Body](#Adept_empty_body) |
-|  19th | +6 | 1d10 | 19 | +30 ft. | [Ability Score Improvement](#Adept_asi) |
-|  20th | +6 | 1d10 | 20 | +30 ft. | [Perfect Self](#Adept_perfect_self) |
+| Level | Proficiency Bonus | Martial Arts | Focus Points | Unarmored Movement | Features                                                                                     |
+|:------|:-----------------:|:------------:|:------------:|:------------------:|:---------------------------------------------------------------------------------------------|
+|   1st |        +2         |     1d4      |       —      |          —         | [Unarmored Defense](#Adept_unarmored_defense), [Martial Arts](#Adept_martial_arts)           |
+|   2nd |        +2         |     1d4      |       2      |      +10 ft.       | [Focus](#Adept_focus), [Unarmored Movement](#Adept_unarmored_movement)                       |
+|   3rd |        +2         |     1d4      |       3      |      +10 ft.       | [Martial Discipline](#Adept_martial_discipline), [Deflect Missiles](#Adept_deflect_missiles) |
+|   4th |        +2         |     1d4      |       4      |      +10 ft.       | [Ability Score Improvement](#Adept_asi), [Slow Fall](#Adept_slow_fall)                       |
+|   5th |        +3         |     1d6      |       5      |      +10 ft.       | [Extra Attack](#Adept_extra_attack), [Stunning Strike](#Adept_stunning_strike)               |
+|   6th |        +3         |     1d6      |       6      |      +15 ft.       | [Focus-Empowered Strikes](#Adept_focus_empowered_strikes), Martial Discipline Feature        |
+|   7th |        +3         |     1d6      |       7      |      +15 ft.       | [Evasion](#Adept_evasion), [Stillness of Mind](#Adept_stillness_of_mind)                     |
+|   8th |        +3         |     1d6      |       8      |      +15 ft.       | [Ability Score Improvement](#Adept_asi)                                                      |
+|   9th |        +4         |     1d6      |       9      |      +15 ft.       | [Unarmored Movement Improvement](#Adept_unarmored_movement)                                  |
+|  10th |        +4         |     1d6      |      10      |      +20 ft.       | [Purity of Body](#Adept_purity_of_body)                                                      |
+|  11th |        +4         |     1d8      |      11      |      +20 ft.       | Martial Discipline Feature                                                                   |
+|  12th |        +4         |     1d8      |      12      |      +20 ft.       | [Ability Score Improvement](#Adept_asi)                                                      |
+|  13th |        +5         |     1d8      |      13      |      +20 ft.       | [Tongue of the Sun and Moon](#Adept_tongue_of_the_sun_and_moon)                              |
+|  14th |        +5         |     1d8      |      14      |      +25 ft.       | [Diamond Soul](#Adept_diamond_soul)                                                          |
+|  15th |        +5         |     1d8      |      15      |      +25 ft.       | [Timeless Body](#Adept_timeless_body)                                                        |
+|  16th |        +5         |     1d8      |      16      |      +25 ft.       | [Ability Score Improvement](#Adept_asi)                                                      |
+|  17th |        +6         |     1d10     |      17      |      +25 ft.       | Martial Discipline Feature                                                                   |
+|  18th |        +6         |     1d10     |      18      |      +30 ft.       | [Empty Body](#Adept_empty_body)                                                              |
+|  19th |        +6         |     1d10     |      19      |      +30 ft.       | [Ability Score Improvement](#Adept_asi)                                                      |
+|  20th |        +6         |     1d10     |      20      |      +30 ft.       | [Perfect Self](#Adept_perfect_self)                                                          |
 
 ###### Unarmored Defense (1st Level) {#Adept_unarmored_defense}
 

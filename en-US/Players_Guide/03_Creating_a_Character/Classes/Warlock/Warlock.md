@@ -45,28 +45,28 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ###### The Warlock (table) {#Warlock_the_warlock_table}
 
-| Level | Proficiency Bonus | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known | Features |
-|------:|------------------:|---------------:|-------------:|------------:|-----------:|:------------------|:---------|
-|   1st | +2 | 2 |  2 | 1 | 1st | - | [Otherworldly Patron](#Warlock_otherworldly_patron), [Pact Magic](#Warlock_pact_magic) |
-|   2st | +2 | 2 |  3 | 2 | 1st | 2 | [Eldritch Invocations](#Warlock_eldritch_invocations)                           |
-|   3st | +2 | 2 |  4 | 2 | 2nd | 2 | [Pact Boon](#Warlock_pact_boon)                                                |
-|   4st | +2 | 3 |  5 | 2 | 2nd | 2 | [Ability Score Improvement](#Warlock_asi)                                       |
-|   5st | +3 | 3 |  6 | 2 | 3rd | 3 | -                                                                               |
-|   6st | +3 | 3 |  7 | 2 | 3rd | 3 | Otherworldly Patron feature                                                     |
-|   7st | +3 | 3 |  8 | 2 | 4th | 4 | -                                                                               |
-|   8st | +3 | 3 |  9 | 2 | 4th | 4 | [Ability Score Improvement](#Warlock_asi)                                       |
-|   9st | +4 | 3 | 10 | 2 | 5th | 5 | -                                                                               |
-|  10st | +4 | 4 | 10 | 2 | 5th | 5 | Otherworldly Patron feature                                                     |
-|  11st | +4 | 4 | 11 | 3 | 5th | 5 | [Mystic Arcanum](#Warlock_mystic_arcanum) (6th level)                           |
-|  12st | +4 | 4 | 11 | 3 | 5th | 6 | [Ability Score Improvement](#Warlock_asi)                                       |
-|  13st | +5 | 4 | 12 | 3 | 5th | 6 | [Mystic Arcanum](#Warlock_mystic_arcanum) (7th level)                           |
-|  14st | +5 | 4 | 12 | 3 | 5th | 6 | Otherworldly Patron feature                                                     |
-|  15st | +5 | 4 | 13 | 3 | 5th | 7 | [Mystic Arcanum](#Warlock_mystic_arcanum) (9th level)                           |
-|  16st | +5 | 4 | 13 | 3 | 5th | 7 | [Ability Score Improvement](#Warlock_asi)                                       |
-|  17st | +6 | 4 | 14 | 4 | 5th | 7 | [Mystic Arcanum](#Warlock_mystic_arcanum) (9th level)                           |
-|  18st | +6 | 4 | 14 | 4 | 5th | 8 | -                                                                               |
-|  19st | +6 | 4 | 15 | 4 | 5th | 8 | [Ability Score Improvement](#Warlock_asi)                                       |
-|  20st | +6 | 4 | 15 | 4 | 5th | 8 | [Eldritch Master](#Warlock_eldritch_master)                                     |
+| Level | Proficiency Bonus | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known | Features                                                                               |
+|:------|:-----------------:|:--------------:|:------------:|:-----------:|:----------:|:-----------------:|:---------------------------------------------------------------------------------------|
+|   1st |        +2         |        2       |       2      |      1      |     1st    |         -         | [Otherworldly Patron](#Warlock_otherworldly_patron), [Pact Magic](#Warlock_pact_magic) |
+|   2st |        +2         |        2       |       3      |      2      |     1st    |         2         | [Eldritch Invocations](#Warlock_eldritch_invocations)                                  |
+|   3st |        +2         |        2       |       4      |      2      |     2nd    |         2         | [Pact Boon](#Warlock_pact_boon)                                                        |
+|   4st |        +2         |        3       |       5      |      2      |     2nd    |         2         | [Ability Score Improvement](#Warlock_asi)                                              |
+|   5st |        +3         |        3       |       6      |      2      |     3rd    |         3         | -                                                                                      |
+|   6st |        +3         |        3       |       7      |      2      |     3rd    |         3         | Otherworldly Patron feature                                                            |
+|   7st |        +3         |        3       |       8      |      2      |     4th    |         4         | -                                                                                      |
+|   8st |        +3         |        3       |       9      |      2      |     4th    |         4         | [Ability Score Improvement](#Warlock_asi)                                              |
+|   9st |        +4         |        3       |      10      |      2      |     5th    |         5         | -                                                                                      |
+|  10st |        +4         |        4       |      10      |      2      |     5th    |         5         | Otherworldly Patron feature                                                            |
+|  11st |        +4         |        4       |      11      |      3      |     5th    |         5         | [Mystic Arcanum](#Warlock_mystic_arcanum) (6th level)                                  |
+|  12st |        +4         |        4       |      11      |      3      |     5th    |         6         | [Ability Score Improvement](#Warlock_asi)                                              |
+|  13st |        +5         |        4       |      12      |      3      |     5th    |         6         | [Mystic Arcanum](#Warlock_mystic_arcanum) (7th level)                                  |
+|  14st |        +5         |        4       |      12      |      3      |     5th    |         6         | Otherworldly Patron feature                                                            |
+|  15st |        +5         |        4       |      13      |      3      |     5th    |         7         | [Mystic Arcanum](#Warlock_mystic_arcanum) (9th level)                                  |
+|  16st |        +5         |        4       |      13      |      3      |     5th    |         7         | [Ability Score Improvement](#Warlock_asi)                                              |
+|  17st |        +6         |        4       |      14      |      4      |     5th    |         7         | [Mystic Arcanum](#Warlock_mystic_arcanum) (9th level)                                  |
+|  18st |        +6         |        4       |      14      |      4      |     5th    |         8         | -                                                                                      |
+|  19st |        +6         |        4       |      15      |      4      |     5th    |         8         | [Ability Score Improvement](#Warlock_asi)                                              |
+|  20st |        +6         |        4       |      15      |      4      |     5th    |         8         | [Eldritch Master](#Warlock_eldritch_master)                                            |
 
 ###### Otherworldly Patron (1st & 6th & 10th & 14th Level) {#Warlock_otherworldly_patron}
 

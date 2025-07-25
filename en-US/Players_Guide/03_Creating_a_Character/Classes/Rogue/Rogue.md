@@ -41,28 +41,28 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ###### The Rogue (table) {#Rogue_the_rogue_table}
 
-| Level | Proficiency Bonus | Sneak Attack | Features                                     |
-|------:|------------------:|:------------:|:---------------------------------------------|
-|   1st |                +2 |      1d6     | [Expertise](#Rogue_expertise), [Sneak Attack](#Rogue_sneak_attack), [Thieves’ Cant](#Rogue_thieves_cant) |
-|   2nd |                +2 |      1d6     | [Cunning Action](#Rogue_cunning_action)      |
-|   3rd |                +2 |      2d6     | [Roguish Archetype](#Rogue_roguish_archetype)|
-|   4th |                +2 |      2d6     | [Ability Score Improvement](#Rogue_asi)      |
-|   5th |                +3 |      3d6     | [Uncanny Dodge](#Rogue_uncanny_dodge)        |
-|   6th |                +3 |      3d6     | [Expertise](#Rogue_expertise)                |
-|   7th |                +3 |      4d6     | [Evasion](#Rogue_evasion)                    |
-|   8th |                +3 |      4d6     | [Ability Score Improvement](#Rogue_asi)      |
-|   9th |                +4 |      5d6     | Roguish Archetype Feature                    |
-|  10th |                +4 |      5d6     | [Ability Score Improvement](#Rogue_asi)      |
-|  11th |                +4 |      6d6     | [Reliable Talent](#Rogue_reliable_talent)    |
-|  12th |                +4 |      6d6     | [Ability Score Improvement](#Rogue_asi)      |
-|  13th |                +5 |      7d6     | Roguish Archetype Feature                    |
-|  14th |                +5 |      7d6     | [Blindsense](#Rogue_blindsense)              |
-|  15th |                +5 |      8d6     | [Slippery Mind](#Rogue_slippery_mind)        |
-|  16th |                +5 |      8d6     | [Ability Score Improvement](#Rogue_asi)      |
-|  17th |                +6 |      9d6     | Roguish Archetype Feature                    |
-|  18th |                +6 |      9d6     | [Elusive](#Rogue_elusive)                    |
-|  19th |                +6 |     10d6     | [Ability Score Improvement](#Rogue_asi)      |
-|  20th |                +6 |     10d6     | [Stroke of Luck](#Rogue_stroke_of_luck)      |
+| Level | Proficiency Bonus | Sneak Attack | Features                                                                                                 |
+|:------|:-----------------:|:------------:|:---------------------------------------------------------------------------------------------------------|
+|   1st |         +2        |      1d6     | [Expertise](#Rogue_expertise), [Sneak Attack](#Rogue_sneak_attack), [Thieves’ Cant](#Rogue_thieves_cant) |
+|   2nd |         +2        |      1d6     | [Cunning Action](#Rogue_cunning_action)                                                                  |
+|   3rd |         +2        |      2d6     | [Roguish Archetype](#Rogue_roguish_archetype)                                                            |
+|   4th |         +2        |      2d6     | [Ability Score Improvement](#Rogue_asi)                                                                  |
+|   5th |         +3        |      3d6     | [Uncanny Dodge](#Rogue_uncanny_dodge)                                                                    |
+|   6th |         +3        |      3d6     | [Expertise](#Rogue_expertise)                                                                            |
+|   7th |         +3        |      4d6     | [Evasion](#Rogue_evasion)                                                                                |
+|   8th |         +3        |      4d6     | [Ability Score Improvement](#Rogue_asi)                                                                  |
+|   9th |         +4        |      5d6     | Roguish Archetype Feature                                                                                |
+|  10th |         +4        |      5d6     | [Ability Score Improvement](#Rogue_asi)                                                                  |
+|  11th |         +4        |      6d6     | [Reliable Talent](#Rogue_reliable_talent)                                                                |
+|  12th |         +4        |      6d6     | [Ability Score Improvement](#Rogue_asi)                                                                  |
+|  13th |         +5        |      7d6     | Roguish Archetype Feature                                                                                |
+|  14th |         +5        |      7d6     | [Blindsense](#Rogue_blindsense)                                                                          |
+|  15th |         +5        |      8d6     | [Slippery Mind](#Rogue_slippery_mind)                                                                    |
+|  16th |         +5        |      8d6     | [Ability Score Improvement](#Rogue_asi)                                                                  |
+|  17th |         +6        |      9d6     | Roguish Archetype Feature                                                                                |
+|  18th |         +6        |      9d6     | [Elusive](#Rogue_elusive)                                                                                |
+|  19th |         +6        |     10d6     | [Ability Score Improvement](#Rogue_asi)                                                                  |
+|  20th |         +6        |     10d6     | [Stroke of Luck](#Rogue_stroke_of_luck)                                                                  |
 
 ###### Expertise (1st & 6th Level) {#Rogue_expertise}
 
