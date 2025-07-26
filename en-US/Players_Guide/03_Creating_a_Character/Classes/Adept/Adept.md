@@ -133,7 +133,7 @@ This bonus increases when you reach certain Adept levels, as shown in the Adept 
 
 At 9th level, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the move.
 
-###### Martial Discipline (3rd Level) (#Adept_martial_discipline)
+###### Martial Discipline (3rd Level) {#Adept_martial_discipline}
 
 When you reach 3rd level, you commit yourself to a [Martial Discipline](#Adept_martial_disciplines).
 Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.

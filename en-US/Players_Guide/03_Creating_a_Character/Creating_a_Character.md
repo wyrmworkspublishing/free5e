@@ -31,6 +31,10 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
 
 [**Variant Rule: Disabilities**](./Disabilities/Disabilities.md)
 
+[**Inspiration**](./Inspiration_and_Luck/Inspiration.md)
+
+[**Variant Rule: Luck**](./Inspiration_and_Luck/Luck.md)
+
 [Level Advancement](./Level_Advancement/Level_Advancement.md)
 
 [Equipment](./Equipment/Equipment.md)

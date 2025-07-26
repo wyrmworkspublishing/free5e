@@ -25,7 +25,7 @@ For example, you might try to hear a conversation through a closed door, eavesdr
 Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door.
 
 Even when not actively searching for something or someone, there is a chance that a character may notice something hidden.
-This is handled using a character's passive [Wisdom (Perception)](#Using_Wisdom_wisdom_checks) score, following the standard rules for [Passive Checks](#Ability_Checks_passive-checks).
+This is handled using a character's passive [Wisdom (Perception)](#Using_Wisdom_wisdom_checks) score, following the standard rules for [Passive Checks](#Ability_Checks_passive_checks).
 
 **Survival.**
 The Conductor might ask you to make a Wisdom (Survival) check to follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.

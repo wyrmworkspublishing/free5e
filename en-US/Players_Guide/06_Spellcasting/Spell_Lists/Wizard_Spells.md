@@ -194,7 +194,7 @@
 
 ##### 7th Level
 
-- [Alia‘s Magnificent Mansion](#Alias_Magnificant_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
+- [Alia‘s Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - Arcane Sword (concentration) <!-- Might be renamed -->
 - Delayed Blast Fireball (concentration)
 - Etherealness

@@ -6,7 +6,7 @@ In addition to improving your agility and stealth, you learn skills useful for d
 
 ###### Fast Hands (3rd Level) {#Thief_fast_hands}
 
-Starting at 3rd level, you can use the bonus action granted by your [Cunning Action](#Rogue_cunning_action) to make a Dexterity (Sleight of Hand) check, use your [thieves’ tools](#Tools_thieves_tools) to disarm a trap or open a lock, or take the [Use an Object](#Combat_Actions_use_an_object) action.
+Starting at 3rd level, you can use the bonus action granted by your [Cunning Action](#Rogue_cunning_action) to make a Dexterity (Sleight of Hand) check, use your [thieves’ tools](#Tools_tools) to disarm a trap or open a lock, or take the [Use an Object](#Combat_Actions_use_an_object) action.
 
 ###### Second-Story Work (3rd Level) {#Thief_second_story_work}
 

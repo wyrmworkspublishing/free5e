@@ -75,7 +75,7 @@ This font of magic, whatever its origin, fuels your spells.
 
 **Cantrips**
 \
-At 1st level, you know four cantrips of your choice from the [Sorcerer spell list](#Sorcerer_Spells_sorcerer-spells).
+At 1st level, you know four cantrips of your choice from the [Sorcerer spell list](#Sorcerer_Spells_sorcerer_spells).
 You learn additional Sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the [Sorcerer table](#Sorcerer_the_sorcerer_table).
 \
 **Spell Slots**
@@ -91,13 +91,13 @@ For example, if you know the 1st-level spell [Burning Hands](#Burning_Hands_burn
 \
 **Spells Known of 1st Level and Higher**
 \
-You know two 1st-level spells of your choice from the [Sorcerer spell list](#Sorcerer_Spells_sorcerer-spells).
+You know two 1st-level spells of your choice from the [Sorcerer spell list](#Sorcerer_Spells_sorcerer_spells).
 
 The Spells Known column of the [Sorcerer table](#Sorcerer_the_sorcerer_table) shows when you learn more Sorcerer spells of your choice.
 Each of these spells must be of a level for which you have spell slots.
 For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
-Additionally, when you gain a level in this class, you can choose one of the Sorcerer spells you know and replace it with another spell from the [Sorcerer spell list](#Sorcerer_Spells_sorcerer-spells), which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the Sorcerer spells you know and replace it with another spell from the [Sorcerer spell list](#Sorcerer_Spells_sorcerer_spells), which also must be of a level for which you have spell slots.
 \
 **Spellcasting Ability**
 \
