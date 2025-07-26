@@ -70,7 +70,7 @@
 
 - Blink
 - Clairvoyance (concentration)
-- Counterspell
+- [Counterspell](#Counterspell_counterspell)
 - Daylight
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
