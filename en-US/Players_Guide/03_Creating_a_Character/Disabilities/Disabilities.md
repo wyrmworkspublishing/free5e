@@ -1,4 +1,4 @@
-##### Variant Rule: Disabilities
+#### Variant Rule: Disabilities
 
 Fantasy worlds benefit by reflecting the real world’s diversity in physical and mental abilities.
 Here are three methods to achieve this:
