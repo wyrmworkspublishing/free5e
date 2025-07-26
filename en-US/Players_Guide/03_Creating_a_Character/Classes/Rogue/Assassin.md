@@ -18,12 +18,12 @@ Starting at 9th level, you have mastered one technique of your choice for approa
 Select one of the following benefits:
 
 - **False Face.**
-  You gain proficiency (or expertise if you already have proficiency) with the [disguise kit](#Tools_disguise_kit), and can assume a prepared disguise with the bonus action granted by [Cunning Action](#Rogue_cunning_action).
+  You gain proficiency (or expertise if you already have proficiency) with the [disguise kit](#Tools_tools), and can assume a prepared disguise with the bonus action granted by [Cunning Action](#Rogue_cunning_action).
 - **Blade in the Dark.**
   You gain proficiency (or expertise if you already have proficiency) with the Stealth skill.
   You can attempt to hide even when you are only lightly obscured by dim light.
 - **Poisoner’s Path.**
-  You gain proficiency (or expertise if you already have proficiency) with the [poisoner’s kit](#Tools_poisoners_kit).
+  You gain proficiency (or expertise if you already have proficiency) with the [poisoner’s kit](#Tools_tools).
   During a long rest, you can create a long lasting poison for one or more weapons for free.
   Until the end of your next long rest your [Sneak Attack](#Rogue_sneak_attack) damage with that weapon becomes Poison damage and creatures struck with it must make a Constitution saving throw with a DC of `8 + your Proficiency modifier + your Dexterity modifier` or become [Poisoned](#Conditions_poisoned) for one minute.
   Creatures poisoned this way make a new save at the end of each of their turns, ending the condition on success.
