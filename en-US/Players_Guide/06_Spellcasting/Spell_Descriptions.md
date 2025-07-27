@@ -9,13 +9,33 @@
 
 [Alter Self](./Spell_Descriptions/Alter_Self.md)
 
+[Animal Friendship](./Spell_Descriptions/Animal_Friendship.md)
+
 [Animal Messenger](./Spell_Descriptions/Animal_Messenger.md)
+
+[Animal Shapes](./Spell_Descriptions/Animal_Shapes.md)
+
+[Animate Dead](./Spell_Descriptions/Animate_Dead.md)
+
+[Animate Objects](./Spell_Descriptions/Animate_Objects.md)
+
+[Antilife Shell](./Spell_Descriptions/Antilife_Shell.md)
+
+[Antimagic Field](./Spell_Descriptions/Antimagic_Field.md)
+
+[Antipathy/Sympathy](./Spell_Descriptions/Antipathy_Sympathy.md)
 
 [Arcane Eye](./Spell_Descriptions/Arcane_Eye.md)
 
 [Arcane Lock](./Spell_Descriptions/Arcane_Lock.md)
 
 [Arcane Sword](./Spell_Descriptions/Arcane_Sword.md)
+
+[Astral Projection](./Spell_Descriptions/Astral_Projection.md)
+
+[Augury](./Spell_Descriptions/Augury.md)
+
+[Awaken](./Spell_Descriptions/Awaken.md)
 
 [Beacon of Hope](./Spell_Descriptions/Beacon_of_Hope.md)
 

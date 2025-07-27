@@ -1,6 +1,6 @@
-#### Aid
+#### Antilife Shell
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_2nd-level abjuration_
+_5th-level abjuration_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.

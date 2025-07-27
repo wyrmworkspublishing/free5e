@@ -53,7 +53,7 @@
 
 - [Alter Self](#Alter_Self_alter_self) (concentration)
 - [Arcane Lock](#Arcane_Lock_arcane_lock)
-- Augury (ritual)
+- [Augury](#Augury_augury) (ritual)
 - Blindness/Deafness
 - Blur (concentration)
 - [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
@@ -87,7 +87,7 @@
 
 ##### 3rd Level
 
-- Animate Dead
+- [Animate Dead](#Animate_Dead_animate_dead)
 - Bestow Curse (concentration)
 - Blink
 - Clairvoyance (concentration)
@@ -146,7 +146,7 @@
 
 ##### 5th Level
 
-- Animate Objects (concentration)
+- [Animate Objects](#Animate_Objects_animate_objects) (concentration)
 - Cloudkill (concentration)
 - Cone of Cold
 - [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
@@ -212,8 +212,8 @@
 
 ##### 8th Level
 
-- Antimagic Field (concentration)
-- Antipathy/Sympathy
+- [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
+- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathy_sympathy)
 - Clone
 - Control Weather (concentration)
 - Demiplane
@@ -227,7 +227,7 @@
 
 ##### 9th Level
 
-- Astral Projection
+- [Astral Projection](#Astral_Projection_astral_projection)
 - Foresight
 - Gate (concentration)
 - Imprisonment

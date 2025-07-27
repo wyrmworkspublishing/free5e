@@ -94,7 +94,7 @@
 
 ##### 9th Level
 
-- Astral Projection
+- [Astral Projection](#Astral_Projection_astral_projection)
 - Foresight
 - Geas
 - Imprisonment

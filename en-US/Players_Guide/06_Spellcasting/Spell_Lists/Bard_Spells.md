@@ -15,7 +15,7 @@
 
 ##### 1st Level
 
-- Animal Friendship
+- [Animal Friendship](#Animal_Friendship_animal_friendship)
 - Bane (concentration)
 - Charm Person
 - Color Spray
@@ -97,8 +97,8 @@
 
 ##### 5th Level
 
-- Animate Objects (concentration)
-- Awaken
+- [Animate Objects](#Animate_Objects_animate_objects) (concentration)
+- [Awaken](#Awaken_awaken)
 - Dominate Person (concentration)
 - Dream
 - Geas
@@ -141,7 +141,7 @@
 
 ##### 8th Level
 
-- Antipathy/Sympathy
+- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathy_sympathy)
 - Dominate Monster (concentration)
 - Feeblemind
 - Glibness

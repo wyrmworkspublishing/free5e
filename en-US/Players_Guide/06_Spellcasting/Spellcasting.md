@@ -261,7 +261,7 @@ Some create phantom images, while others plant images directly in minds.
 
 **Necromancy** spells manipulate life and death energies.
 They grant life force reserves, drain life, create undead, or resurrect the dead.
-Creating undead through Animate Dead is evil and rarely used.
+Creating undead through [Animate Dead](#Animate_Dead_animate_dead) is evil and rarely used.
 
 **Transmutation** spells change properties, turning enemies into harmless creatures, bolstering allies, making objects move at will, or enhancing healing.
 

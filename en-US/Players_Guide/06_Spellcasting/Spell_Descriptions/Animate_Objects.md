@@ -1,6 +1,6 @@
-#### Aid
+#### Animate Objects
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_2nd-level abjuration_
+_5th-level transmutation_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.

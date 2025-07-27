@@ -32,7 +32,7 @@
 ##### 2nd Level
 
 - [Aid](#Aid_aid)
-- Augury (ritual)
+- [Augury](#Augury_augury) (ritual)
 - Blindness/Deafness
 - Calm Emotions (concentration)
 - Continual Flame
@@ -51,7 +51,7 @@
 
 ##### 3rd Level
 
-- Animate Dead
+- [Animate Dead](#Animate_Dead_animate_dead)
 - [Beacon of Hope](#Beacon_of_Hope_beacon_of_hope) (concentration)
 - Bestow Curse (concentration)
 - Clairvoyance (concentration)
@@ -125,7 +125,7 @@
 
 ##### 8th Level
 
-- Antimagic Field (concentration)
+- [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
 - Control Weather (concentration)
 - Earthquake (concentration)
 - Holy Aura (concentration)
@@ -133,7 +133,7 @@
 
 ##### 9th Level
 
-- Astral Projection
+- [Astral Projection](#Astral_Projection_astral_projection)
 - Gate (concentration)
 - Mass Heal
 - True Resurrection

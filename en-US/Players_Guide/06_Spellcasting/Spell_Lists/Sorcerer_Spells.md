@@ -106,7 +106,7 @@
 
 ##### 5th Level
 
-- Animate Objects (concentration)
+- [Animate Objects](#Animate_Objects_animate_objects) (concentration)
 - Cloudkill (concentration)
 - Cone of Cold
 - Creation
