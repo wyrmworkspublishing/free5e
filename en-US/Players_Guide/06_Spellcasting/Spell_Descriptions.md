@@ -13,6 +13,8 @@
 
 [Arcane Eye](./Spell_Descriptions/Arcane_Eye.md)
 
+[Arcane Lock](./Spell_Descriptions/Arcane_Lock.md)
+
 [Beacon of Hope](./Spell_Descriptions/Beacon_of_Hope.md)
 
 [Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)

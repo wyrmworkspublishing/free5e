@@ -52,7 +52,7 @@
 ##### 2nd Level
 
 - [Alter Self](#Alter_Self_alter_self) (concentration)
-- Arcane Lock
+- [Arcane Lock](#Arcane_Lock_arcane_lock)
 - Augury (ritual)
 - Blindness/Deafness
 - Blur (concentration)
