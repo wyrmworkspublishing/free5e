@@ -97,7 +97,7 @@
 - Awaken
 - Commune with Nature (ritual)
 - Cone of Cold
-- Conjure Elemental (concentration)
+- [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
 - Contagion
 - Geas
 - Greater Restoration

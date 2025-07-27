@@ -31,6 +31,8 @@
 
 [Confusion](./Spell_Descriptions/Confusion.md)
 
+[Conjure Elemental](./Spell_Descriptions/Conjure_Elemental.md)
+
 [Coreador's Black Tentacles](./Spell_Descriptions/Coreadors_Black_Tentacles.md)
 
 [Counterspell](./Spell_Descriptions/Counterspell.md)

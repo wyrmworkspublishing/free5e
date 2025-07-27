@@ -149,7 +149,7 @@
 - Animate Objects (concentration)
 - Cloudkill (concentration)
 - Cone of Cold
-- Conjure Elemental (concentration)
+- [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
 - Contact Other Plane (ritual)
 - Creation
 - Dominate Person (concentration)
