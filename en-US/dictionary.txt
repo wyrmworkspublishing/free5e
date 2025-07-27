@@ -55,7 +55,8 @@ Greatsword
 grimoire
 Halfling
 Halflings
-Handaxe
+handaxe
+handaxes
 hightened
 hippogriffs
 humanlike
