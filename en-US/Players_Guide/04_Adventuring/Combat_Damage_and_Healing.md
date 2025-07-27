@@ -117,8 +117,8 @@ When you drop to 0 hit points, you either die outright or fall unconscious, as e
 
 ###### Instant Death
 
-> **Warning:**
-> This section has not yet been transferred from the Google Doc.
+Massive damage can kill you instantly.
+When damage reduced you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
 
 ###### Falling Unconscious
 
