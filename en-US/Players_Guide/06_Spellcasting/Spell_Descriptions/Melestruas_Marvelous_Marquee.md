@@ -6,7 +6,7 @@
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "minute"
 [_metadata_:ritual]:- "true"
-[_metadata_:range]:- "10-foot-radius hemisphere"
+[_metadata_:range]:- "10-foot radius hemisphere"
 [_metadata_:target]:- "Self"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
@@ -20,7 +20,7 @@
 _3rd-level evocation (ritual)_
 
 **Casting Time:** 1 minute \
-**Range:** Self (10-foot-radius hemisphere) \
+**Range:** Self (10-foot radius hemisphere) \
 **Components:** V, S, M (a small crystal bead) \
 **Duration:** 8 hours
 
