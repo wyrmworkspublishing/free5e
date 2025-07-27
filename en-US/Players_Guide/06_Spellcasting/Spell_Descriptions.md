@@ -15,6 +15,8 @@
 
 [Arcane Lock](./Spell_Descriptions/Arcane_Lock.md)
 
+[Arcane Sword](./Spell_Descriptions/Arcane_Sword.md)
+
 [Beacon of Hope](./Spell_Descriptions/Beacon_of_Hope.md)
 
 [Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)

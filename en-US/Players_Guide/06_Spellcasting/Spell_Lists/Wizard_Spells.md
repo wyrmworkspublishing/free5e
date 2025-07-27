@@ -195,7 +195,7 @@
 ##### 7th Level
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- Arcane Sword (concentration) <!-- Might be renamed -->
+- [Arcane Sword](#Arcane_Sword_arcane_sword) (concentration) <!-- Might be renamed -->
 - Delayed Blast Fireball (concentration)
 - Etherealness
 - Finger of Death

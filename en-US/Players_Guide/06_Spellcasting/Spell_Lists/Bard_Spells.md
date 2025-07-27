@@ -128,7 +128,7 @@
 ##### 7th Level
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- Arcane Sword <!-- Might be renamed --> (concentration)
+- [Arcane Sword](#Arcane_Sword_arcane_sword) <!-- Might be renamed --> (concentration)
 - Etherealness
 - Forcecage
 - Mirage Arcane
