@@ -18,6 +18,7 @@ BFRD
 Blindsense
 bloodlust
 Bragolbeleg
+Caipi
 Carceri
 celestials
 Cerilsen
@@ -66,6 +67,7 @@ Insaneangel
 Invisiblity
 Iz’zart
 Iz’zart's
+Keoghtom
 Kickstarter
 Lifedrinker
 Longstrider
@@ -78,6 +80,7 @@ midjump
 Morscheck
 Multiclassing
 narratively
+Natalex
 Naturecraft
 Neurodivergence
 Nondetection
@@ -142,5 +145,6 @@ Wodewoses
 WotC
 Wyrd
 Wyrmworks
+Yeffoc
 yugoloth
 yugoloths

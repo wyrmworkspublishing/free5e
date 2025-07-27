@@ -117,10 +117,10 @@
 
 ##### 6th Level
 
+- [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - Eyebite (concentration)
 - Find the Path (concentration)
 - Heroes’ Feast
-- Irresistible Dance <!-- Might be renamed --> (concentration)
 - Mass Suggestion
 - Programmed Illusion
 - True Seeing
@@ -128,9 +128,9 @@
 ##### 7th Level
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- [Arcane Sword](#Arcane_Sword_arcane_sword) <!-- Might be renamed --> (concentration)
 - Etherealness
 - Forcecage
+- [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) <!-- previously "Arcane Sword" --> (concentration)
 - Mirage Arcane
 - Prismatic Spray
 - Project Image (concentration)

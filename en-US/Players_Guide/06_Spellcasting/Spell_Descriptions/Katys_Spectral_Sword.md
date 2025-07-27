@@ -1,4 +1,4 @@
-#### Arcane Sword
+#### Katy's Spectral Sword
 <!-- markdownlint-disable link-image-reference-definitions -->
 [_metadata_:spell_school]:- "evocation"
 [_metadata_:spell_level]:- "7"

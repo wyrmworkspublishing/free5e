@@ -123,6 +123,7 @@
 - Banishment (concentration)
 - Blight
 - [Cerilsen's Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
+- [Chloe's Faithful Hound](#Chloes_Faithful_Hound_chloes_faithful_hound) <!-- previously "Faithful Hound" -->
 - [Confusion](#Confusion_confusion) (concentration)
 - Conjure Minor Elementals (concentration)
 - Control Water (concentration)
@@ -130,7 +131,6 @@
 - Dimension Door
 - Divination (ritual)
 - Fabricate
-- Faithful Hound <!-- Might be renamed -->
 - Fire Shield
 - Greater Invisibility (concentration)
 - Hallucinatory Terrain
@@ -138,11 +138,11 @@
 - Locate Creature (concentration)
 - Phantasmal Killer (concentration)
 - Polymorph (concentration)
-- Private Sanctum <!-- Might be renamed -->
 - Resilient Sphere <!-- Might be renamed --> (concentration)
 - Stone Shape
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
+- [Yeffoc's Private Sanctum](#Yeffocs_Private_Sanctum_yeffocs_private_sanctum) <!-- previously "Private Sanctum" -->
 
 ##### 5th Level
 
@@ -172,21 +172,21 @@
 
 ##### 6th Level
 
+- [Caipi's Freezing Sphere](#Caipis_Freezing_Sphere_caipis_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - Chain Lightning
 - Circle of Death
 - Contingency
 - Create Undead
 - Disintegrate
+- [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - Eyebite (concentration)
 - Flesh to Stone (concentration)
-- Freezing Sphere <!-- Might be renamed -->
 - Globe of Invulnerability (concentration)
 - Guards and Wards
-- Instant Summons <!-- Might be renamed? --> (ritual)
-- Irresistible Dance <!-- Might be renamed --> (concentration)
 - Magic Jar
 - Mass Suggestion
 - Move Earth (concentration)
+- [Natalex's Instant Summons](#Natalexs_Instant_Summons_natalexs_instant_summons) <!-- previously "Instant Summons"? --> (ritual)
 - Programmed Illusion
 - Sunbeam (concentration)
 - True Seeing
@@ -195,11 +195,11 @@
 ##### 7th Level
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- [Arcane Sword](#Arcane_Sword_arcane_sword) (concentration) <!-- Might be renamed -->
 - Delayed Blast Fireball (concentration)
 - Etherealness
 - Finger of Death
 - Forcecage
+- [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) (concentration) <!-- previously "Arcane Sword" -->
 - Mirage Arcane
 - Plane Shift
 - Prismatic Spray

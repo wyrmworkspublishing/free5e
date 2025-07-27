@@ -121,12 +121,12 @@
 
 ##### 6th Level
 
+- [Caipi's Freezing Sphere](#Caipis_Freezing_Sphere_caipis_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - Chain Lightning
 - Circle of Death
 - Disintegrate
 - Eyebite (concentration)
 - Flesh to Stone (concentration)
-- Freezing Sphere <!-- Might be renamed -->
 - Globe of Invulnerability (concentration)
 - Mass Suggestion
 - Move Earth (concentration)

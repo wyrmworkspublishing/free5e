@@ -279,23 +279,23 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 >
 > - Acid Arrow → Bragolbeleg's Acid Bolt
 > - Arcane Hand → Morscheck's Hand
+> - Arcane Sword → Katy's Spectral Sword
 > - Arcanist’s Magic Aura → DT's Magic Aura
 > - Black Tentacles → Coreador's Black Tentacles
 > - Druidcraft → Naturecraft
+> - Faithful Hound → Chloe's Faithful Hound
 > - Floating Disk → Pelham's Hovering Platter
+> - Freezing Sphere → Caipi's Freezing Sphere
 > - Hideous Laughter → Paoliello's Hideous Laughter
+> - Instant Summons → Natalex's Instant Summons
+> - Irresistible Dance → Emma's Irresistible Dance
 > - Magnificent Mansion → Alia's Magnificent Mansion
+> - Private Sanctum → Yeffoc's Private Sanctum
 > - Secret Chest → Cerilsen's Secret Chest
 > - Telepathic Bond → Rantock's Telepathic Bond
 > - Tiny Hut → Melestrua's Marvelous Marquee
 
 <!-- Not yet renamed:
-> - Arcane Sword → ???
-> - Faithful Hound → ???
-> - Freezing Sphere → ???
-> - Instant Summons → ???
-> - Irresistible Dance → ???
-> - Private Sanctum → ???
 > - Resilient Sphere → ???
 -->
 
