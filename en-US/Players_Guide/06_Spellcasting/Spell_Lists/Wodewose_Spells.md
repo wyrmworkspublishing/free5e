@@ -133,7 +133,7 @@
 ##### 8th Level
 
 - [Animal Shapes](#Animal_Shapes_animal_shapes) (concentration)
-- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathy_sympathy)
+- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
 - Control Weather (concentration)
 - Earthquake (concentration)
 - Feeblemind

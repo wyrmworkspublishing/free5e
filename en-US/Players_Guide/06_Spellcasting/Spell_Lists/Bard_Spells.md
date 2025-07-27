@@ -141,7 +141,7 @@
 
 ##### 8th Level
 
-- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathy_sympathy)
+- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
 - Dominate Monster (concentration)
 - Feeblemind
 - Glibness

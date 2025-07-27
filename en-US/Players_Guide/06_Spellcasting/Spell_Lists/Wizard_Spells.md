@@ -213,7 +213,7 @@
 ##### 8th Level
 
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
-- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathy_sympathy)
+- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
 - Clone
 - Control Weather (concentration)
 - Demiplane
