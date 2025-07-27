@@ -1,4 +1,19 @@
 #### Hex
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_school]:- "enchantment"
+[_metadata_:spell_level]:- "1"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "reaction"
+[_metadata_:ritual]:- "false"
+[_metadata_:range]:- "90 feet"
+[_metadata_:target]:- "1 creature"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a small straw doll"
+[_metadata_:concentration]:- "true"
+[_metadata_:duration]:- "Concentration, up to 1 hour"
+[_metadata_:spell_origin]:- "free5e"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level enchantment_
 

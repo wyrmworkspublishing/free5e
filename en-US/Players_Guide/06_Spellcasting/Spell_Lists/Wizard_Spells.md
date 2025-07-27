@@ -91,7 +91,7 @@
 - Bestow Curse (concentration)
 - Blink
 - Clairvoyance (concentration)
-- Counterspell
+- [Counterspell](#Counterspell_counterspell)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
 - Fireball

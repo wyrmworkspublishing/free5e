@@ -38,7 +38,7 @@
 
 ##### 3rd Level
 
-- Counterspell
+- [Counterspell](#Counterspell_counterspell)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
 - Fly (concentration)

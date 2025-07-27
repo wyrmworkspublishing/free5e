@@ -1,5 +1,21 @@
 #### Cerilsen‘s Secret Chest
 <!-- previously "Secret Chest" -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_school]:- "conjuration"
+[_metadata_:spell_level]:- "4"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:ritual]:- "false"
+[_metadata_:range]:- "Touch"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp"
+[_metadata_:components_material_cost]:- "5,050 gp"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:spell_origin]:- "wotc_srd_5.1"
+[_metadata_:spell_original_name]:- "Secret Chest"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level conjuration_
 

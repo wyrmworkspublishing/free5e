@@ -1,5 +1,21 @@
 #### Melestrua‘s Marvelous Marquee
 <!-- previously "Tiny Hut" -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_school]:- "evocation"
+[_metadata_:spell_level]:- "1"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "minute"
+[_metadata_:ritual]:- "true"
+[_metadata_:range]:- "10-foot-radius hemisphere"
+[_metadata_:target]:- "Self"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a small crystal bead"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "8 hours"
+[_metadata_:spell_origin]:- "wotc_srd_5.1"
+[_metadata_:spell_original_name]:- "Tiny Hut"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level evocation (ritual)_
 

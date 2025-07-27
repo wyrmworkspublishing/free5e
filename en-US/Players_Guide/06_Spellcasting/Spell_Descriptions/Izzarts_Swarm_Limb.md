@@ -1,4 +1,17 @@
 #### Iz’zart‘s Swarm Limb
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_school]:- "conjuration"
+[_metadata_:spell_level]:- "1"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:ritual]:- "false"
+[_metadata_:range]:- "Self"
+[_metadata_:target]:- "Self"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "1 hour"
+[_metadata_:spell_origin]:- "free5e"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level conjuration_
 

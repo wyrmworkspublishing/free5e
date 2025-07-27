@@ -1,4 +1,21 @@
 #### Hellish Rebuke
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_school]:- "evocation"
+[_metadata_:spell_level]:- "1"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "reaction"
+[_metadata_:ritual]:- "false"
+[_metadata_:range]:- "60 feet"
+[_metadata_:target]:- "1 creature"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:saving_throw]:- "Dexterity"
+[_metadata_:saving_throw_success]:- "halves_damage"
+[_metadata_:damage_type]:- "fireball"
+[_metadata_:damage_formula]:- "2d10"
+[_metadata_:spell_origin]:- "wotc_srd_5.1"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level evocation_
 
