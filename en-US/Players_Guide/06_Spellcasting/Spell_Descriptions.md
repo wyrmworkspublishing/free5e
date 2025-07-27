@@ -11,6 +11,8 @@
 
 [Animal Messenger](./Spell_Descriptions/Animal_Messenger.md)
 
+[Arcane Eye](./Spell_Descriptions/Arcane_Eye.md)
+
 [Beacon of Hope](./Spell_Descriptions/Beacon_of_Hope.md)
 
 [Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)

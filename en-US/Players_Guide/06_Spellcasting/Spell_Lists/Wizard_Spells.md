@@ -119,7 +119,7 @@
 
 ##### 4th Level
 
-- Arcane Eye (concentration)
+- [Arcane Eye](#Arcane_Eye_arcane_eye) (concentration)
 - Banishment (concentration)
 - Blight
 - [Cerilsen's Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
