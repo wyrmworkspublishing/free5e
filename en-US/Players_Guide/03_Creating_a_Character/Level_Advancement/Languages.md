@@ -13,33 +13,18 @@ Creatures speaking different dialects of the same language can communicate.
 
 ___
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_Standard Languages (table)
+_Languages (table)_
 
-| Language | Typical Speakers | Script   |
-|:---------|:-----------------|:---------|
-| Common   | Humans           | Common   |
-| Dwarvish | Dwarves          | Dwarvish |
-| Elvish   | Elves            | Elvish   |
-| Giant    | Ogres, Giants    | Dwarvish |
-| Gnomish  | Gnomes           | Dwarvish |
-| Goblin   | Goblinoids       | Dwarvish |
-| Halfling | Halflings        | Common   |
-| Orc      | Orcs             | Dwarvish |
-
-___
-<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_Exotic Languages (table)
-
-| Exotic Language | Typical Speakers    | Script    |
-|:----------------|:--------------------|:----------|
-| Abyssal         | Demons              | Infernal  |
-| Celestial       | Celestials          | Celestial |
-| Draconic        | Dragons, dragonborn | Draconic  |
-| Deep Speech     | Aboleths, cloakers  | –         |
-| Infernal        | Devils              | Infernal  |
-| Primordial      | Elementals          | Dwarvish  |
-| Sylvan          | Fey creatures       | Elvish    |
-| Undercommon     | Underworld traders  | Elvish    |
+| Standard Language | Typical Speakers | Script   | \| | Exotic Language | Typical Speakers    | Script    |
+|:------------------|:-----------------|:---------|:--:|:----------------|:--------------------|:----------|
+| Common            | Humans           | Common   | \| | Abyssal         | Demons              | Infernal  |
+| Dwarvish          | Dwarves          | Dwarvish | \| | Celestial       | Celestials          | Celestial |
+| Elvish            | Elves            | Elvish   | \| | Draconic        | Dragons, dragonborn | Draconic  |
+| Giant             | Ogres, Giants    | Dwarvish | \| | Deep Speech     | Aboleths, cloakers  | –         |
+| Gnomish           | Gnomes           | Dwarvish | \| | Infernal        | Devils              | Infernal  |
+| Goblin            | Goblinoids       | Dwarvish | \| | Primordial      | Elementals          | Dwarvish  |
+| Halfling          | Halflings        | Common   | \| | Sylvan          | Fey creatures       | Elvish    |
+| Orc               | Orcs             | Dwarvish | \| | Undercommon     | Underworld traders  | Elvish    |
 
 ___
 
