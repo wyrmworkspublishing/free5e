@@ -34,7 +34,7 @@
 
 ##### 2nd Level
 
-- Animal Messenger (ritual)
+- [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
 - Augury (ritual)
 - Barkskin (concentration)
 - Continual Flame

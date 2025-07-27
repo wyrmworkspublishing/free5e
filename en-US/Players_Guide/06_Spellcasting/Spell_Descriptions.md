@@ -9,6 +9,8 @@
 
 [Alter Self](./Spell_Descriptions/Alter_Self.md)
 
+[Animal Messenger](./Spell_Descriptions/Animal_Messenger.md)
+
 [Beacon of Hope](./Spell_Descriptions/Beacon_of_Hope.md)
 
 [Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)

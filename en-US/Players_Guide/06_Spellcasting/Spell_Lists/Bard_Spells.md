@@ -41,7 +41,7 @@
 ##### 2nd Level
 
 - [Aid](#Aid_aid)
-- Animal Messenger (ritual)
+- [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
 - Blindness/Deafness
 - Calm Emotions (concentration)
 - Detect Thoughts (concentration)

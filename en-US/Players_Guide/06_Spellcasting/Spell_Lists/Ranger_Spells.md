@@ -20,7 +20,7 @@
 ##### 2nd Level
 
 - [Aid](#Aid_aid)
-- Animal Messenger
+- [Animal Messenger](#Animal_Messenger_animal_messenger)
 - Barkskin (concentration)
 - Darkvision
 - Enhance Ability (concentration)
