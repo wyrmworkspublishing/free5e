@@ -1,4 +1,4 @@
-#### Alia‘s Magnificent Mansion
+#### Alia's Magnificent Mansion
 <!-- previously "Magnificent Mansion" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 

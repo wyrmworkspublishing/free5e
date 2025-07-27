@@ -1,4 +1,4 @@
-#### Cerilsen‘s Secret Chest
+#### Cerilsen's Secret Chest
 <!-- previously "Secret Chest" -->
 <!-- markdownlint-disable link-image-reference-definitions -->
 [_metadata_:spell_school]:- "conjuration"

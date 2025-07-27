@@ -1,4 +1,4 @@
-#### Rantock‘s Telepathic Bond
+#### Rantock's Telepathic Bond
 <!-- previously "Telepathic Bond" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 

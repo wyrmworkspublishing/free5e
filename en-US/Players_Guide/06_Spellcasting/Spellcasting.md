@@ -278,7 +278,7 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 > If a product (e.g. an adventure or a monster stat block) mentions one of these spells, you can use the renamed version instead.
 >
 > - Acid Arrow → Bragolbeleg's Acid Bolt
-> - Arcane Hand → Morscheck‘s Hand
+> - Arcane Hand → Morscheck's Hand
 > - Arcanist’s Magic Aura → DT's Magic Aura
 > - Black Tentacles → Coreador's Black Tentacles
 > - Druidcraft → Naturecraft

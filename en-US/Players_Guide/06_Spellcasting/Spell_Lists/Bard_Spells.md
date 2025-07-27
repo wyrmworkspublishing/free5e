@@ -31,7 +31,7 @@
 - Identify (ritual)
 - Illusory Script (ritual)
 - Longstrider
-- [Paoliello‘s Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
+- [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
 - Silent Image (concentration)
 - Sleep
 - Speak with Animals (ritual)
@@ -73,7 +73,7 @@
 - Hypnotic Pattern (concentration)
 - Major Image (concentration)
 - Mass Healing Word
-- [Melestrua‘s Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
+- [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - Nondetection
 - Plant Growth
 - Sending
@@ -110,7 +110,7 @@
 - Modify Memory (concentration)
 - Planar Binding
 - Raise Dead
-- [Rantock‘s Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
+- [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - Scrying (concentration)
 - Seeming
 - Teleportation Circle
@@ -127,7 +127,7 @@
 
 ##### 7th Level
 
-- [Alia‘s Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
+- [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - Arcane Sword <!-- Might be renamed --> (concentration)
 - Etherealness
 - Forcecage

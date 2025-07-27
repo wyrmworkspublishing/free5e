@@ -1,4 +1,4 @@
-#### Melestrua‘s Marvelous Marquee
+#### Melestrua's Marvelous Marquee
 <!-- previously "Tiny Hut" -->
 <!-- markdownlint-disable link-image-reference-definitions -->
 [_metadata_:spell_school]:- "evocation"

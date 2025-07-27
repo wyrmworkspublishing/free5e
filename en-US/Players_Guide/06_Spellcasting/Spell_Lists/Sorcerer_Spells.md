@@ -113,7 +113,7 @@
 - Dominate Person (concentration)
 - Hold Monster (concentration)
 - Insect Plague (concentration)
-- [Morscheck‘s Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
+- [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
 - Seeming
 - Telekinesis (concentration)
 - Teleportation Circle

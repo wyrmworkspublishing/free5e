@@ -1,4 +1,4 @@
-#### Morscheck‘s Hand
+#### Morscheck's Hand
 <!-- previously "Arcane Hand" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 

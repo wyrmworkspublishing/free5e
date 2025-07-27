@@ -1,4 +1,4 @@
-#### Coreador‘s Black Tentacles
+#### Coreador's Black Tentacles
 <!-- previously "Black Tentacles" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 

@@ -35,13 +35,13 @@
 - Grease
 - Identify (ritual)
 - Illusory Script (ritual)
-- [Iz’zart‘s Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
+- [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
 - Mage Armor
 - Magic Missile
-- [Paoliello‘s Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
-- [Pelham‘s Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" --> (ritual)
+- [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
+- [Pelham's Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" --> (ritual)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Shield
 - Silent Image (concentration)
@@ -56,12 +56,12 @@
 - Augury (ritual)
 - Blindness/Deafness
 - Blur (concentration)
-- [Bragolbeleg‘s Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
+- [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
 - Continual Flame
 - [Darkness](#Darkness_darkness) (concentration)
 - Darkvision
 - Detect Thoughts (concentration)
-- [DT‘s Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist‘s Magic Aura --> (concentration)
+- [DT's Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist's Magic Aura --> (concentration)
 - Enhance Ability (concentration)
 - Enlarge/Reduce (concentration)
 - Flaming Sphere (concentration)
@@ -103,7 +103,7 @@
 - Lightning Bolt
 - Magic Circle
 - Major Image (concentration)
-- [Melestrua‘s Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
+- [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - Nondetection
 - Phantom Steed (ritual)
 - Protection from Energy (concentration)
@@ -122,11 +122,11 @@
 - Arcane Eye (concentration)
 - Banishment (concentration)
 - Blight
-- [Cerilsen‘s Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
+- [Cerilsen's Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
 - Confusion (concentration)
 - Conjure Minor Elementals (concentration)
 - Control Water (concentration)
-- [Coreador‘s Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
+- [Coreador's Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
 - Dimension Door
 - Divination (ritual)
 - Fabricate
@@ -159,10 +159,10 @@
 - Legend Lore
 - Mislead (concentration)
 - Modify Memory (concentration)
-- [Morscheck‘s Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
+- [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
 - Passwall
 - Planar Binding
-- [Rantock‘s Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
+- [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - Scrying (concentration)
 - Seeming
 - Telekinesis (concentration)
@@ -194,7 +194,7 @@
 
 ##### 7th Level
 
-- [Alia‘s Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
+- [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - Arcane Sword (concentration) <!-- Might be renamed -->
 - Delayed Blast Fireball (concentration)
 - Etherealness

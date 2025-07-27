@@ -1,4 +1,4 @@
-#### DT‘s Magic Aura
+#### DT's Magic Aura
 <!-- previously "Arcanist’s Magic Aura" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 
