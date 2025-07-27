@@ -1,4 +1,5 @@
 Aboleth
+Aboleths
 Abadía
 Alia
 Alphastream
@@ -7,6 +8,8 @@ Antimagic
 Arcanist
 archdevil
 archdevils
+Aquan
+Auran
 backstab
 balor
 balors
@@ -18,6 +21,8 @@ Bragolbeleg
 Carceri
 celestials
 Cerilsen
+cloaker
+cloakers
 Cloudkill
 Coreador
 Countercharm
@@ -41,6 +46,8 @@ Feeblemind
 Feywild
 Forcecage
 Geas
+goblinoid
+goblinoids
 Goodberry
 Greataxe
 Greatclub
@@ -54,6 +61,7 @@ hippogriffs
 humanlike
 Hyperlegible
 inclusivity
+Ignan
 Insaneangel
 Invisiblity
 Iz’zart
