@@ -20,7 +20,7 @@
 
 ##### 1st Level
 
-- Alarm (ritual)
+- [Alarm](#Alarm_alarm) (ritual)
 - Burning Hands
 - Charm Person
 - Color Spray

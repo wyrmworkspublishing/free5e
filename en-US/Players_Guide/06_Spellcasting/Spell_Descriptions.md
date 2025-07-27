@@ -3,6 +3,8 @@
 
 [Aid](./Spell_Descriptions/Aid.md)
 
+[Alarm](./Spell_Descriptions/Alarm.md)
+
 [Alia's Magnificent Mansion](./Spell_Descriptions/Alias_Magnificent_Mansion.md)
 
 [Beacon of Hope](./Spell_Descriptions/Beacon_of_Hope.md)

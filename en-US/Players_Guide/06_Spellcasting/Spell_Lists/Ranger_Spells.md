@@ -3,7 +3,7 @@
 
 ##### 1st Level
 
-- Alarm
+- [Alarm](#Alarm_alarm)
 - Animal Friendship
 - Cure Wounds
 - Detect Magic (concentration)
