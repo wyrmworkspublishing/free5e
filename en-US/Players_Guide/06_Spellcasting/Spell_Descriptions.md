@@ -21,6 +21,8 @@
 
 [Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)
 
+[Branding Smite](./Spell_Descriptions/Branding_Smite.md)
+
 [Cerilsen's Secret Chest](./Spell_Descriptions/Cerilsens_Secret_Chest.md)
 
 [Commune](./Spell_Descriptions/Commune.md)
