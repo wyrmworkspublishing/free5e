@@ -27,6 +27,8 @@
 
 [Commune](./Spell_Descriptions/Commune.md)
 
+[Compulsion](./Spell_Descriptions/Compulsion.md)
+
 [Coreador's Black Tentacles](./Spell_Descriptions/Coreadors_Black_Tentacles.md)
 
 [Counterspell](./Spell_Descriptions/Counterspell.md)

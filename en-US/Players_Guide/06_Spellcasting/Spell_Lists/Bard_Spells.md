@@ -85,7 +85,7 @@
 
 ##### 4th Level
 
-- Compulsion
+- [Compulsion](#Compulsion_compulsion)
 - Confusion (concentration)
 - Dimension Door
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
