@@ -7,6 +7,8 @@
 
 [Alia's Magnificent Mansion](./Spell_Descriptions/Alias_Magnificent_Mansion.md)
 
+[Alter Self](./Spell_Descriptions/Alter_Self.md)
+
 [Beacon of Hope](./Spell_Descriptions/Beacon_of_Hope.md)
 
 [Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)

@@ -41,7 +41,7 @@
 
 ##### 2nd Level
 
-- Alter Self (concentration)
+- [Alter Self](#Alter_Self_alter_self) (concentration)
 - Blindness/Deafness
 - Blur (concentration)
 - [Darkness](#Darkness_darkness) (concentration)
