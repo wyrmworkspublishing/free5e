@@ -74,7 +74,7 @@
 ##### 4th Level
 
 - Blight
-- Confusion (concentration)
+- [Confusion](#Confusion_confusion) (concentration)
 - Conjure Minor Elementals (concentration)
 - Conjure Woodland Beings (concentration)
 - Control Water (concentration)

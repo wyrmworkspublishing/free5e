@@ -86,7 +86,7 @@
 ##### 4th Level
 
 - [Compulsion](#Compulsion_compulsion)
-- Confusion (concentration)
+- [Confusion](#Confusion_confusion) (concentration)
 - Dimension Door
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Greater Invisibility (concentration)

@@ -29,6 +29,8 @@
 
 [Compulsion](./Spell_Descriptions/Compulsion.md)
 
+[Confusion](./Spell_Descriptions/Confusion.md)
+
 [Coreador's Black Tentacles](./Spell_Descriptions/Coreadors_Black_Tentacles.md)
 
 [Counterspell](./Spell_Descriptions/Counterspell.md)

@@ -123,7 +123,7 @@
 - Banishment (concentration)
 - Blight
 - [Cerilsen's Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
-- Confusion (concentration)
+- [Confusion](#Confusion_confusion) (concentration)
 - Conjure Minor Elementals (concentration)
 - Control Water (concentration)
 - [Coreador's Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)

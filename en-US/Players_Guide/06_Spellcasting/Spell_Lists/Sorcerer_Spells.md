@@ -94,7 +94,7 @@
 
 - Banishment (concentration)
 - Blight
-- Confusion (concentration)
+- [Confusion](#Confusion_confusion) (concentration)
 - Dimension Door
 - Dominate Beast (concentration)
 - Fire Shield
