@@ -20,6 +20,7 @@ Your base walking speed is 30 feet.
 \
 **Intrepid.**
 Once between rests, when you make an ability check, attack roll, or saving throw, you can choose to add the result of a d4 to that roll.
-
-> **Warning:**
-> This ancestry has not yet been fully transferred from the Google Doc.
+\
+**It Takes a Village.**
+You can use the Help action as a bonus action. Once per long rest when you Help an ally, in addition to granting advantage you may also choose for your ally to gain a d4 on that roll.
+You can be up to 15 feet away from the attack's target.
