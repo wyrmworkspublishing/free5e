@@ -1,4 +1,4 @@
-#### Armor (table)
+##### Armor (table)
 
 | Armor           |     Cost | Armor Class (AC)          | Strength | Stealth      | Weight |
 |:----------------|---------:|:--------------------------|:---------|:-------------|:-------|
