@@ -37,6 +37,7 @@ Druidcraft
 Dungeoneer
 dwarven
 Dwarvish
+Earthspeak
 elven
 enpowered
 ESRD
