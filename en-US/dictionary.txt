@@ -33,6 +33,7 @@ Darkvision
 Demiplane
 Dragonborn
 Dragonbound
+Dragonhide
 Druidcraft
 Dungeoneer
 dwarven
@@ -142,6 +143,7 @@ Wodewose
 Wodewoses
 WotC
 Wyrd
+Wyrm
 Wyrmworks
 yugoloth
 yugoloths
