@@ -135,6 +135,7 @@
 - Greater Invisibility (concentration)
 - Hallucinatory Terrain
 - Ice Storm
+- [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
 - Locate Creature (concentration)
 - Phantasmal Killer (concentration)
 - Polymorph (concentration)
@@ -142,7 +143,6 @@
 - Stone Shape
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
-- [Yeffoc's Private Sanctum](#Yeffocs_Private_Sanctum_yeffocs_private_sanctum) <!-- previously "Private Sanctum" -->
 
 ##### 5th Level
 
@@ -172,7 +172,6 @@
 
 ##### 6th Level
 
-- [Caipi's Freezing Sphere](#Caipis_Freezing_Sphere_caipis_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - Chain Lightning
 - Circle of Death
 - Contingency
@@ -180,6 +179,7 @@
 - Disintegrate
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - Eyebite (concentration)
+- [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - Flesh to Stone (concentration)
 - Globe of Invulnerability (concentration)
 - Guards and Wards
@@ -215,10 +215,10 @@
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
 - Clone
+- Confound
 - Control Weather (concentration)
 - Demiplane
 - Dominate Monster (concentration)
-- Feeblemind
 - Incendiary Cloud (concentration)
 - Maze (concentration)
 - Mind Blank

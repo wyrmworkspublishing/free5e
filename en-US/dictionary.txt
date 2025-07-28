@@ -18,7 +18,6 @@ BFRD
 Blindsense
 bloodlust
 Bragolbeleg
-Caipi
 Carceri
 celestials
 Cerilsen
@@ -43,7 +42,6 @@ enpowered
 ESRD
 extradimensional
 Eyebite
-Feeblemind
 Feywild
 Forcecage
 Geas
@@ -145,6 +143,5 @@ Wodewoses
 WotC
 Wyrd
 Wyrmworks
-Yeffoc
 yugoloth
 yugoloths

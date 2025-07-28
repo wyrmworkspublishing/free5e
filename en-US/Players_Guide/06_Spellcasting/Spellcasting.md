@@ -276,7 +276,7 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 >
 > Some spells have been renamed in Free5e, in most cases to honor those who supported the project financially.
 > If a product (e.g. an adventure or a monster stat block) mentions one of these spells, you can use the renamed version instead.
->
+><!-- spell-checker:words Feeblemind -->
 > - Acid Arrow → Bragolbeleg's Acid Bolt
 > - Arcane Hand → Morscheck's Hand
 > - Arcane Sword → Katy's Spectral Sword
@@ -284,13 +284,14 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 > - Black Tentacles → Coreador's Black Tentacles
 > - Druidcraft → Naturecraft
 > - Faithful Hound → Chloe's Faithful Hound
+> - Feeblemind → Confound
 > - Floating Disk → Pelham's Hovering Platter
-> - Freezing Sphere → Caipi's Freezing Sphere
+> - Freezing Sphere → Fiona's Freezing Sphere
 > - Hideous Laughter → Paoliello's Hideous Laughter
 > - Instant Summons → Natalex's Instant Summons
 > - Irresistible Dance → Emma's Irresistible Dance
 > - Magnificent Mansion → Alia's Magnificent Mansion
-> - Private Sanctum → Yeffoc's Private Sanctum
+> - Private Sanctum → Jess's Private Sanctum
 > - Secret Chest → Cerilsen's Secret Chest
 > - Telepathic Bond → Rantock's Telepathic Bond
 > - Tiny Hut → Melestrua's Marvelous Marquee

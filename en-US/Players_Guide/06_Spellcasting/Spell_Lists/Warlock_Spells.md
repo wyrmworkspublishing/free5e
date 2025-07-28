@@ -86,9 +86,9 @@
 
 ##### 8th Level
 
+- Confound
 - Demiplane
 - Dominate Monster (concentration)
-- Feeblemind
 - Glibness
 - Power Word Stun
 

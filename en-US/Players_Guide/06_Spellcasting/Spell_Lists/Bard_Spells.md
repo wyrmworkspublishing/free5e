@@ -142,8 +142,8 @@
 ##### 8th Level
 
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
+- Confound
 - Dominate Monster (concentration)
-- Feeblemind
 - Glibness
 - Mind Blank
 - Power Word Stun

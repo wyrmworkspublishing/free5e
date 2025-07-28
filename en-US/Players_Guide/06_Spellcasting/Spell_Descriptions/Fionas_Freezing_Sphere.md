@@ -1,4 +1,4 @@
-#### Caipi's Freezing Sphere
+#### Fiona's Freezing Sphere
 <!-- previously "Freezing Sphere" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 

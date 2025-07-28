@@ -41,8 +41,6 @@
 
 [Branding Smite](./Spell_Descriptions/Branding_Smite.md)
 
-[Caipi's Freezing Sphere](./Spell_Descriptions/Caipis_Freezing_Sphere.md)
-
 [Cerilsen's Secret Chest](./Spell_Descriptions/Cerilsens_Secret_Chest.md)
 
 [Chloe's Faithful Hound](./Spell_Descriptions/Chloes_Faithful_Hound.md)
@@ -67,6 +65,8 @@
 
 [Emma's Irresistible Dance](./Spell_Descriptions/Emmas_Irresistible_Dance.md)
 
+[Fiona's Freezing Sphere](./Spell_Descriptions/Fionas_Freezing_Sphere.md)
+
 [Flame Strike](./Spell_Descriptions/Flame_Strike.md)
 
 [Freedom of Movement](./Spell_Descriptions/Freedom_of_Movement.md)
@@ -78,6 +78,8 @@
 [Hex](./Spell_Descriptions/Hex.md)
 
 [Iz’zart's Swarm Limb](./Spell_Descriptions/Izzarts_Swarm_Limb.md)
+
+[Jess's Private Sanctum](./Spell_Descriptions/Jesss_Private_Sanctum.md)
 
 [Katy's Spectral Sword](./Spell_Descriptions/Katys_Spectral_Sword.md)
 
@@ -102,7 +104,5 @@
 [Sanctuary](./Spell_Descriptions/Sanctuary.md)
 
 [Thaumaturgy](./Spell_Descriptions/Thaumaturgy.md)
-
-[Yeffoc's Private Sanctum](./Spell_Descriptions/Yeffocs_Private_Sanctum.md)
 
 [Zone of Truth](./Spell_Descriptions/Zone_of_Truth.md)
