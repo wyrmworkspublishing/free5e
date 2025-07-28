@@ -2,21 +2,6 @@
 
 This section describes items that have special rules or require further explanation.
 
-> **Warning:**
-> This section has not yet been fully transferred from the Google Doc.
-> Specifically, the following items have comments that are yet to be resolved:
->
-> - Cane or crutches
-> - Fidget
-> - Prosthetic Limb, including:
->   - Prosthetic Arm/Hand
->   - Prosthetic Leg/Foot
-> - Spectacles
-> - Weighted Blanket
-> - Wheelchair
->
-> This includes both the detailed description and the listing in the Adventuring Gear table.
-
 - **Acid.**
   As an action, you can splash the contents of this vial onto a creature within 5 feet of you or throw the vial up to 20 feet, shattering it on impact.
   In either case, make a ranged attack against a creature or object, treating the acid as an improvised weapon.

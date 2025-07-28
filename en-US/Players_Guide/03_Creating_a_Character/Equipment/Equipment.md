@@ -37,6 +37,8 @@ ___
 
 [**Adventuring Gear**](./Adventuring_Gear.md)
 
+[**Assistive Items**](./Assistive_Items.md)
+
 [**Tools**](./Tools.md)
 
 [**Mounts and Vehicles**](./Mounts_and_Vehicles.md)
