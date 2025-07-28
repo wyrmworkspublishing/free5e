@@ -39,6 +39,8 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
 
 [**Languages**](./Languages.md)
 
+[**Feats**](./Feats/Feats.md)
+
 [**Level Advancement**](./Level_Advancement/Level_Advancement.md)
 
 [**Equipment**](./Equipment/Equipment.md)
