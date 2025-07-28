@@ -117,13 +117,14 @@ You can cast any Bard spell you know as a [ritual](#Spellcasting_rituals) if tha
 \
 **Spellcasting Focus**
 \
-You can use a musical instrument (see ["Equipment"](#Equipment_equipment)) as a spellcasting focus for your Bard spells.
+You can use a musical instrument (see [chapter <mark>XX</mark>, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Bard spells.
 
 ###### Bardic Inspiration (1st & 5th & 10th & 15th Level) {#Bard_bardic_inspiration}
 
 As a bonus action, you can inspire one creature within 60 feet who can sense you.
 The creature gains a Bardic Inspiration die (d6) to add to one ability check, attack roll, or saving throw within the next 10 minutes, after seeing the d20 roll but before knowing the outcome.
-Each creature can only have one die at a time. You have a number of uses equal to your Charisma modifier (minimum one), regaining expended uses after a long rest.
+Each creature can only have one die at a time.
+You have a number of uses equal to your Charisma modifier (minimum one), regaining expended uses after a long rest.
 
 Bardic Inspiration die size increases at levels 5 (d8), 10 (d10), and 15 (d12).
 
