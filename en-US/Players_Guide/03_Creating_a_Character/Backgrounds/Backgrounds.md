@@ -1,7 +1,8 @@
 ### Backgrounds
 
 Every story begins somewhere.
-Your character's background shapes their origins, path to adventuring, and role in the world.
+Your character's background is about what they did before becoming an adventurer.
+It shapes their origins, path to adventuring, and role in the world.
 A Fighter might be a knight or soldier, a Wizard might be a sage or artisan, or a Rogue might be a thief or jester.
 While cultures reflect the environment and values of the community that your character considers home, backgrounds reflect your character’s individual experiences before adventuring.
 
