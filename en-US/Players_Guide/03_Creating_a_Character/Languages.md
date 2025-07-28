@@ -1,4 +1,4 @@
-#### Languages
+### Languages
 
 Your culture determines your default languages that you can read, speak, write, and sign, provided there is no disability or condition that prevents you from doing so.
 Your background may grant access to additional languages of your choice.

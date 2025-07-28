@@ -37,6 +37,8 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
 
 [**Alignment**](./Alignment.md)
 
+[**Languages**](./Languages.md)
+
 [**Level Advancement**](./Level_Advancement/Level_Advancement.md)
 
 [**Equipment**](./Equipment/Equipment.md)

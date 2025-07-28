@@ -37,6 +37,4 @@ ___
 
 [**Multiclassing**](./Multiclassing.md)
 
-[**Languages**](./Languages.md)
-
 [**Feats**](./Feats.md)
