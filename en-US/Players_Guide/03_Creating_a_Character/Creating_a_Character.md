@@ -35,6 +35,8 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
 
 [**Variant Rule: Luck**](./Inspiration_and_Luck/Luck.md)
 
-[Level Advancement](./Level_Advancement/Level_Advancement.md)
+[**Alignment**](./Alignment.md)
 
-[Equipment](./Equipment/Equipment.md)
+[**Level Advancement**](./Level_Advancement/Level_Advancement.md)
+
+[**Equipment**](./Equipment/Equipment.md)
