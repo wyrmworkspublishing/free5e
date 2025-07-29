@@ -4,7 +4,7 @@
 ##### Cantrips (0 Level)
 
 - [Acid Splash](#Acid_Splash_acid_splash)
-- Chill Touch
+- [Chill Touch](#Chill_Touch_chill_touch)
 - Dancing Lights (concentration)
 - Fire Bolt
 - Light
@@ -22,9 +22,9 @@
 
 - [Alarm](#Alarm_alarm) (ritual)
 - [Burning Hands](#Burning_Hands_burning_hands)
-- Charm Person
-- Color Spray
-- Comprehend Languages (ritual)
+- [Charm Person](#Charm_Person_charm_person)
+- [Color Spray](#Color_Spray_color_spray)
+- [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
 - Detect Magic (ritual, concentration)
 - Disguise Self
 - Expeditious Retreat (concentration)
@@ -57,7 +57,7 @@
 - [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Blur](#Blur_blur) (concentration)
 - [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
-- Continual Flame
+- [Continual Flame](#Continual_Flame_continual_flame)
 - [Darkness](#Darkness_darkness) (concentration)
 - Darkvision
 - Detect Thoughts (concentration)
@@ -90,7 +90,7 @@
 - [Animate Dead](#Animate_Dead_animate_dead)
 - [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
 - [Blink](#Blink_blink)
-- Clairvoyance (concentration)
+- [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
 - [Counterspell](#Counterspell_counterspell)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
@@ -123,10 +123,11 @@
 - [Banishment](#Banishment_banishment) (concentration)
 - [Blight](#Blight_blight)
 - [Cerilsen's Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
+- [Charm Monster](#Charm_Monster_charm_monster)
 - [Chloe's Faithful Hound](#Chloes_Faithful_Hound_chloes_faithful_hound) <!-- previously "Faithful Hound" -->
 - [Confusion](#Confusion_confusion) (concentration)
-- Conjure Minor Elementals (concentration)
-- Control Water (concentration)
+- [Conjure Minor Elementals](#Conjure_Minor_Elementals_conjure_minor_elementals) (concentration)
+- [Control Water](#Control_Water_control_water) (concentration)
 - [Coreador's Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
 - Dimension Door
 - Divination (ritual)
@@ -147,11 +148,11 @@
 ##### 5th Level
 
 - [Animate Objects](#Animate_Objects_animate_objects) (concentration)
-- Cloudkill (concentration)
-- Cone of Cold
+- [Cloudkill](#Cloudkill) (concentration)
+- [Cone of Cold](#Cone_of_Cold_cone_of_cold)
 - [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
-- Contact Other Plane (ritual)
-- Creation
+- [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
+- [Creation](#Creation_creation)
 - Dominate Person (concentration)
 - Dream
 - Geas
@@ -172,10 +173,10 @@
 
 ##### 6th Level
 
-- Chain Lightning
-- Circle of Death
-- Contingency
-- Create Undead
+- [Chain Lightning](#Chain_Lightning_chain_lightning)
+- [Circle of Death](#Circle_of_Death_circle_of_death)
+- [Contingency](#Contingency_contingency)
+- [Create Undead](#Create_Undead_create_undead)
 - Disintegrate
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - Eyebite (concentration)
@@ -212,11 +213,12 @@
 
 ##### 8th Level
 
+<!-- spell-checker:words Feeblemind -->
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
-- Clone
-- Confound
-- Control Weather (concentration)
+- [Clone](#Clone)
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
+- [Control Weather](#Control_Weather_control_weather) (concentration)
 - Demiplane
 - Dominate Monster (concentration)
 - Incendiary Cloud (concentration)

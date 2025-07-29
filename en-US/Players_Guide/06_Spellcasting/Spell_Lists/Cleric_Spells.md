@@ -15,9 +15,10 @@
 
 - [Bane](#Bane_bane) (concentration)
 - [Bless](#Bless_bless) (concentration)
-- Command
-- Create or Destroy Water
-- Cure Wounds
+- [Ceremony](#Ceremony_ceremony) (ritual)
+- [Command](#Command_command)
+- [Create or Destroy Water](#Create_or_Destroy_Water_create_or_destroy_water)
+- [Cure Wounds](#Cure_Wounds_cure_wounds)
 - Detect Evil and Good (concentration)
 - Detect Magic (ritual, concentration)
 - Detect Poison and Disease (ritual, concentration)
@@ -34,8 +35,8 @@
 - [Aid](#Aid_aid)
 - [Augury](#Augury_augury) (ritual)
 - [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
-- Calm Emotions (concentration)
-- Continual Flame
+- [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
+- [Continual Flame](#Continual_Flame_continual_flame)
 - Enhance Ability (concentration)
 - Find Traps
 - Gentle Repose (ritual)
@@ -54,8 +55,8 @@
 - [Animate Dead](#Animate_Dead_animate_dead)
 - [Beacon of Hope](#Beacon_of_Hope_beacon_of_hope) (concentration)
 - [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
-- Clairvoyance (concentration)
-- Create Food and Water
+- [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
+- [Create Food and Water](#Create_Food_and_Water_create_food_and_water)
 - Daylight
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Glyph of Warding
@@ -74,7 +75,7 @@
 ##### 4th Level
 
 - [Banishment](#Banishment_banishment) (concentration)
-- Control Water (concentration)
+- [Control Water](#Control_Water_control_water) (concentration)
 - Death Ward
 - Divination (ritual)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
@@ -85,7 +86,7 @@
 ##### 5th Level
 
 - [Commune](#Commune_commune) (ritual)
-- Contagion
+- [Contagion](#Contagion_contagion)
 - Dispel Evil and Good (concentration)
 - [Flame Strike](#Flame_Strike_flame_strike)
 - Geas
@@ -101,7 +102,7 @@
 ##### 6th Level
 
 - [Blade Barrier](#Blade_Barrier_blade_barrier) (concentration)
-- Create Undead
+- [Create Undead](#Create_Undead_create_undead)
 - Find the Path (concentration)
 - Forbiddance (ritual)
 - Harm
@@ -114,7 +115,7 @@
 
 ##### 7th Level
 
-- Conjure Celestial (concentration)
+- [Conjure Celestial](#Conjure_Celestial_conjure_celestial) (concentration)
 - Divine Word
 - Etherealness
 - Fire Storm
@@ -126,7 +127,7 @@
 ##### 8th Level
 
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
-- Control Weather (concentration)
+- [Control Weather](#Control_Weather_control_weather) (concentration)
 - Earthquake (concentration)
 - Holy Aura (concentration)
 - Sunburst

@@ -64,7 +64,7 @@ Most effects that deal force damage are spells, including Magic Missile and spir
 A Lightning Bolt spell and a blue dragon’s breath deal lightning damage.
 
 **Necrotic.**
-Necrotic damage, dealt by certain undead and a spell such as Chill Touch, withers matter and even the soul.
+Necrotic damage, dealt by certain undead and a spell such as [Chill Touch](#Chill_Touch_chill_touch), withers matter and even the soul.
 
 **Piercing.**
 Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.

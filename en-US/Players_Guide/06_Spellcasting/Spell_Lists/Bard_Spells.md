@@ -17,11 +17,11 @@
 
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
 - [Bane](#Bane_bane) (concentration)
-- Charm Person
-- Color Spray
-- Command
-- Comprehend Languages (ritual)
-- Cure Wounds
+- [Charm Person](#Charm_Person_charm_person)
+- [Color Spray](#Color_Spray_color_spray)
+- [Command](#Command_command)
+- [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
+- [Cure Wounds](#Cure_Wounds_cure_wounds)
 - Detect Magic (ritual, concentration)
 - Disguise Self
 - Faerie Fire (concentration)
@@ -43,7 +43,7 @@
 - [Aid](#Aid_aid)
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
 - [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
-- Calm Emotions (concentration)
+- [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - Detect Thoughts (concentration)
 - Enhance Ability (concentration)
 - Enlarge/Reduce (concentration)
@@ -66,7 +66,7 @@
 ##### 3rd Level
 
 - [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
-- Clairvoyance (concentration)
+- [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
 - Glyph of Warding
@@ -85,6 +85,7 @@
 
 ##### 4th Level
 
+- [Charm Monster](#Charm_Monster_charm_monster)
 - [Compulsion](#Compulsion_compulsion)
 - [Confusion](#Confusion_confusion) (concentration)
 - Dimension Door
@@ -141,8 +142,9 @@
 
 ##### 8th Level
 
+<!-- spell-checker:words Feeblemind -->
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
-- Confound
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - Dominate Monster (concentration)
 - Glibness
 - Mind Blank

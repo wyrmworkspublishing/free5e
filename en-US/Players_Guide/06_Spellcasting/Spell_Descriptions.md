@@ -63,21 +63,87 @@
 
 [Burning Hands](./Spell_Descriptions/B/Burning_Hands.md)
 
-[Cerilsen's Secret Chest](./Spell_Descriptions/Cerilsens_Secret_Chest.md)
+[Call Lightning](./Spell_Descriptions/C/Call_Lightning.md)
 
-[Chloe's Faithful Hound](./Spell_Descriptions/Chloes_Faithful_Hound.md)
+[Calm Emotions](./Spell_Descriptions/C/Calm_Emotions.md)
 
-[Commune](./Spell_Descriptions/Commune.md)
+[Ceremony](./Spell_Descriptions/C/Ceremony.md)
 
-[Compulsion](./Spell_Descriptions/Compulsion.md)
+[Cerilsen's Secret Chest](./Spell_Descriptions/C/Cerilsens_Secret_Chest.md)
 
-[Confusion](./Spell_Descriptions/Confusion.md)
+[Chain Lightning](./Spell_Descriptions/C/Chain_Lightning.md)
 
-[Conjure Elemental](./Spell_Descriptions/Conjure_Elemental.md)
+[Charm Monster](./Spell_Descriptions/C/Charm_Monster.md)
 
-[Coreador's Black Tentacles](./Spell_Descriptions/Coreadors_Black_Tentacles.md)
+[Charm Person](./Spell_Descriptions/C/Charm_Person.md)
 
-[Counterspell](./Spell_Descriptions/Counterspell.md)
+[Chill Touch](./Spell_Descriptions/C/Chill_Touch.md)
+
+[Chloe's Faithful Hound](./Spell_Descriptions/C/Chloes_Faithful_Hound.md)
+
+[Circle of Death](./Spell_Descriptions/C/Circle_of_Death.md)
+
+[Clairvoyance](./Spell_Descriptions/C/Clairvoyance.md)
+
+[Clone](./Spell_Descriptions/C/Clone.md)
+
+[Cloudkill](./Spell_Descriptions/C/Cloudkill.md)
+
+[Color Spray](./Spell_Descriptions/C/Color_Spray.md)
+
+[Command](./Spell_Descriptions/C/Command.md)
+
+[Commune](./Spell_Descriptions/C/Commune.md)
+
+[Commune with Nature](./Spell_Descriptions/C/Commune_with_Nature.md)
+
+[Comprehend Languages](./Spell_Descriptions/C/Comprehend_Languages.md)
+
+[Compulsion](./Spell_Descriptions/C/Compulsion.md)
+
+[Cone of Cold](./Spell_Descriptions/C/Cone_of_Cold.md)
+
+[Confound](./Spell_Descriptions/C/Confound.md)
+
+[Confusion](./Spell_Descriptions/C/Confusion.md)
+
+[Conjure Animals](./Spell_Descriptions/C/Conjure_Animals.md)
+
+[Conjure Celestial](./Spell_Descriptions/C/Conjure_Celestial.md)
+
+[Conjure Elemental](./Spell_Descriptions/C/Conjure_Elemental.md)
+
+[Conjure Fey](./Spell_Descriptions/C/Conjure_Fey.md)
+
+[Conjure Minor Elementals](./Spell_Descriptions/C/Conjure_Minor_Elementals.md)
+
+[Conjure Woodland Beings](./Spell_Descriptions/C/Conjure_Woodland_Beings.md)
+
+[Contact other Plane](./Spell_Descriptions/C/Contact_other_Plane.md)
+
+[Contagion](./Spell_Descriptions/C/Contagion.md)
+
+[Contingency](./Spell_Descriptions/C/Contingency.md)
+
+[Continual Flame](./Spell_Descriptions/C/Continual_Flame.md)
+
+[Control Water](./Spell_Descriptions/C/Control_Water.md)
+
+[Control Weather](./Spell_Descriptions/C/Control_Weather.md)
+
+[Coreador's Black Tentacles](./Spell_Descriptions/C/Coreadors_Black_Tentacles.md)
+
+[CounterSpell](./Spell_Descriptions/C/CounterSpell.md)
+
+[Create Food and Water](./Spell_Descriptions/C/Create_Food_and_Water.md)
+
+[Create or Destroy Water](./Spell_Descriptions/C/Create_or_Destroy_Water.md)
+
+[Create Undead](./Spell_Descriptions/C/Create_Undead.md)
+
+[Creation](./Spell_Descriptions/C/Creation.md)
+
+[Cure Wounds](./Spell_Descriptions/C/Cure_Wounds.md)
 
 [Darkness](./Spell_Descriptions/Darkness.md)
 

@@ -3,7 +3,7 @@
 
 ##### Cantrips (0 Level)
 
-- Chill Touch
+- [Chill Touch](#Chill_Touch_chill_touch)
 - Eldritch Blast
 - Mage Hand
 - Minor Illusion
@@ -13,8 +13,8 @@
 
 ##### 1st Level
 
-- Charm Person
-- Comprehend Languages (ritual)
+- [Charm Person](#Charm_Person_charm_person)
+- [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
 - [Hex](#Hex_hex) (concentration)
 - Expeditious Retreat (concentration)
 - [Hellish Rebuke](#Hellish_Rebuke_hellish_rebuke)
@@ -54,12 +54,13 @@
 
 - [Banishment](#Banishment_banishment) (concentration)
 - [Blight](#Blight_blight)
+- [Charm Monster](#Charm_Monster_charm_monster)
 - Dimension Door
 - Hallucinatory Terrain
 
 ##### 5th Level
 
-- Contact Other Plane (ritual)
+- [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
 - Dream
 - Hold Monster (concentration)
 - Mislead (concentration)
@@ -69,9 +70,9 @@
 
 ##### 6th Level
 
-- Circle of Death
-- Conjure Fey (concentration)
-- Create Undead
+- [Circle of Death](#Circle_of_Death_circle_of_death)
+- [Conjure Fey](#Conjure_Fey_conjure_fey) (concentration)
+- [Create Undead](#Create_Undead_create_undead)
 - Eyebite (concentration)
 - Flesh to Stone (concentration)
 - Mass Suggestion
@@ -86,7 +87,8 @@
 
 ##### 8th Level
 
-- Confound
+<!-- spell-checker:words Feeblemind -->
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - Demiplane
 - Dominate Monster (concentration)
 - Glibness

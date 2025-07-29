@@ -5,7 +5,7 @@
 
 - [Alarm](#Alarm_alarm)
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
-- Cure Wounds
+- [Cure Wounds](#Cure_Wounds_cure_wounds)
 - Detect Magic (concentration)
 - Detect Poison and Disease (concentration)
 - Entangle (concentration)
@@ -37,7 +37,7 @@
 
 ##### 3rd Level
 
-- Conjure Animals (concentration)
+- [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
 - Daylight
 - Meld into Stone
 - Nondetection
@@ -51,7 +51,7 @@
 
 ##### 4th Level
 
-- Conjure Woodland Beings (concentration)
+- [Conjure Woodland Beings](#Conjure_Woodland_Beings_conjure_woodland_beings) (concentration)
 - Dominate Beast (concentration)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Greater Restauration
@@ -60,5 +60,5 @@
 
 ##### 5th Level
 
-- Commune with Nature
+- [Commune with Nature](#Commune_with_Nature_commune_with_nature)
 - Tree Stride (concentration)

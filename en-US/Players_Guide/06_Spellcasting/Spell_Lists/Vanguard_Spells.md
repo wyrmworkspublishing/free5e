@@ -4,8 +4,8 @@
 ##### 1st Level
 
 - [Bless](#Bless_bless) (concentration)
-- Command
-- Cure Wounds
+- [Command](#Command_command)
+- [Cure Wounds](#Cure_Wounds_cure_wounds)
 - Detect Evil and Good (concentration)
 - Detect Magic (concentration)
 - Detect Poison and Disease (concentration)
@@ -31,7 +31,7 @@
 
 ##### 3rd Level
 
-- Create Food and Water
+- [Create Food and Water](#Create_Food_and_Water_create_food_and_water)
 - Daylight
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Magic Circle

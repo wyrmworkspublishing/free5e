@@ -4,7 +4,7 @@
 ##### Cantrips (0 Level)
 
 - [Acid Splash](#Acid_Splash_acid_splash)
-- Chill Touch
+- [Chill Touch](#Chill_Touch_chill_touch)
 - Dancing Lights (concentration)
 - Fire Bolt
 - Light
@@ -21,9 +21,9 @@
 ##### 1st Level
 
 - [Burning Hands](#Burning_Hands_burning_hands)
-- Charm Person
-- Color Spray
-- Comprehend Languages
+- [Charm Person](#Charm_Person_charm_person)
+- [Color Spray](#Color_Spray_color_spray)
+- [Comprehend Languages](#Comprehend_Languages_comprehend_languages)
 - Detect Magic (concentration)
 - Disguise Self
 - Expeditious Retreat (concentration)
@@ -69,7 +69,7 @@
 ##### 3rd Level
 
 - [Blink](#Blink_blink)
-- Clairvoyance (concentration)
+- [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
 - [Counterspell](#Counterspell_counterspell)
 - Daylight
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
@@ -94,6 +94,7 @@
 
 - [Banishment](#Banishment_banishment) (concentration)
 - [Blight](#Blight_blight)
+- [Charm Monster](#Charm_Monster_charm_monster)
 - [Confusion](#Confusion_confusion) (concentration)
 - Dimension Door
 - Dominate Beast (concentration)
@@ -107,9 +108,9 @@
 ##### 5th Level
 
 - [Animate Objects](#Animate_Objects_animate_objects) (concentration)
-- Cloudkill (concentration)
-- Cone of Cold
-- Creation
+- [Cloudkill](#Cloudkill) (concentration)
+- [Cone of Cold](#Cone_of_Cold_cone_of_cold)
+- [Creation](#Creation_creation)
 - Dominate Person (concentration)
 - Hold Monster (concentration)
 - Insect Plague (concentration)
@@ -121,8 +122,8 @@
 
 ##### 6th Level
 
-- Chain Lightning
-- Circle of Death
+- [Chain Lightning](#Chain_Lightning_chain_lightning)
+- [Circle of Death](#Circle_of_Death_circle_of_death)
 - Disintegrate
 - Eyebite (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->

@@ -14,9 +14,9 @@
 ##### 1st Level
 
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
-- Charm Person
-- Create or Destroy Water
-- Cure Wounds
+- [Charm Person](#Charm_Person_charm_person)
+- [Create or Destroy Water](#Create_or_Destroy_Water_create_or_destroy_water)
+- [Cure Wounds](#Cure_Wounds_cure_wounds)
 - Detect Magic (ritual, concentration)
 - Detect Poison and Disease (ritual, concentration)
 - Entangle (concentration)
@@ -37,7 +37,7 @@
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
 - [Augury](#Augury_augury) (ritual)
 - [Barkskin](#Barkskin_barkskin) (concentration)
-- Continual Flame
+- [Continual Flame](#Continual_Flame_continual_flame)
 - Darkvision
 - Enhance Ability (concentration)
 - Enlarge/Reduce (concentration)
@@ -57,8 +57,8 @@
 
 ##### 3rd Level
 
-- Call Lightning (concentration)
-- Conjure Animals (concentration)
+- [Call Lightning](#Call_Lightning_call_lightning) (concentration)
+- [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
 - Daylight
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Meld into Stone (ritual)
@@ -74,10 +74,11 @@
 ##### 4th Level
 
 - [Blight](#Blight_blight)
+- [Charm Monster](#Charm_Monster_charm_monster)
 - [Confusion](#Confusion_confusion) (concentration)
-- Conjure Minor Elementals (concentration)
-- Conjure Woodland Beings (concentration)
-- Control Water (concentration)
+- [Conjure Minor Elementals](#Conjure_Minor_Elementals_conjure_minor_elementals) (concentration)
+- [Conjure Woodland Beings](#Conjure_Woodland_Beings_conjure_woodland_beings) (concentration)
+- [Control Water](#Control_Water_control_water) (concentration)
 - Divination (ritual)
 - Dominate Beast (concentration)
 - Fire Shield
@@ -95,10 +96,10 @@
 
 - [Antilife Shell](#Antilife_Shell_antilife_shell) (concentration)
 - [Awaken](#Awaken_awaken)
-- Commune with Nature (ritual)
-- Cone of Cold
+- [Commune with Nature](#Commune_with_Nature_commune_with_nature) (ritual)
+- [Cone of Cold](#Cone_of_Cold_cone_of_cold)
 - [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
-- Contagion
+- [Contagion](#Contagion_contagion)
 - Geas
 - Greater Restoration
 - Insect Plague (concentration)
@@ -110,7 +111,7 @@
 
 ##### 6th Level
 
-- Conjure Fey (concentration)
+- [Conjure Fey](#Conjure_Fey_conjure_fey) (concentration)
 - Find the Path (concentration)
 - Flesh to Stone (concentration)
 - Heal
@@ -132,10 +133,11 @@
 
 ##### 8th Level
 
+<!-- spell-checker:words Feeblemind -->
 - [Animal Shapes](#Animal_Shapes_animal_shapes) (concentration)
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
-- Confound
-- Control Weather (concentration)
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
+- [Control Weather](#Control_Weather_control_weather) (concentration)
 - Earthquake (concentration)
 - Incendiary Cloud (concentration)
 - Sunburst
