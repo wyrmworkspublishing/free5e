@@ -193,7 +193,25 @@
 
 [DT's Magic Aura](./Spell_Descriptions/D/DTs_Magic_Aura.md)
 
-[Emma's Irresistible Dance](./Spell_Descriptions/Emmas_Irresistible_Dance.md)
+[Earthquake](./Spell_Descriptions/E/Earthquake.md)
+
+[Eldritch Blast](./Spell_Descriptions/E/Eldritch_Blast.md)
+
+[Enhance Ability](./Spell_Descriptions/E/Enhance_Ability.md)
+
+[Emma's Irresistible Dance](./Spell_Descriptions/E/Emmas_Irresistible_Dance.md)
+
+[Enlarge Reduce](./Spell_Descriptions/E/Enlarge_Reduce.md)
+
+[Entangle](./Spell_Descriptions/E/Entangle.md)
+
+[Enthrall](./Spell_Descriptions/E/Enthrall.md)
+
+[Etherealness](./Spell_Descriptions/E/Etherealness.md)
+
+[Expeditious Retreat](./Spell_Descriptions/E/Expeditious_Retreat.md)
+
+[Eyebite](./Spell_Descriptions/E/Eyebite.md)
 
 [Fiona's Freezing Sphere](./Spell_Descriptions/Fionas_Freezing_Sphere.md)
 

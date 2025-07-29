@@ -37,7 +37,7 @@
 - [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - [Continual Flame](#Continual_Flame_continual_flame)
-- Enhance Ability (concentration)
+- [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - Find Traps
 - Gentle Repose (ritual)
 - Hold Person (concentration)
@@ -117,7 +117,7 @@
 
 - [Conjure Celestial](#Conjure_Celestial_conjure_celestial) (concentration)
 - [Divine Word](#Divine_Word_divine_word)
-- Etherealness
+- [Etherealness](#Etherealness_etherealness)
 - Fire Storm
 - Plane Shift
 - Regenerate
@@ -128,7 +128,7 @@
 
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
 - [Control Weather](#Control_Weather_control_weather) (concentration)
-- Earthquake (concentration)
+- [Earthquake](#Earthquake_earthquake) (concentration)
 - Holy Aura (concentration)
 - Sunburst
 

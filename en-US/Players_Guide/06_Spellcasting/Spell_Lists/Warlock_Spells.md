@@ -4,7 +4,7 @@
 ##### Cantrips (0 Level)
 
 - [Chill Touch](#Chill_Touch_chill_touch)
-- Eldritch Blast
+- [Eldritch Blast](#Eldritch_Blast_eldritch_blast)
 - Mage Hand
 - Minor Illusion
 - Poison Spray
@@ -16,7 +16,7 @@
 - [Charm Person](#Charm_Person_charm_person)
 - [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
 - [Hex](#Hex_hex) (concentration)
-- Expeditious Retreat (concentration)
+- [Expeditious Retreat](#Expeditious_Retreat_expeditious_retreat) (concentration)
 - [Hellish Rebuke](#Hellish_Rebuke_hellish_rebuke)
 - Illusory Script (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
@@ -26,7 +26,7 @@
 ##### 2nd Level
 
 - [Darkness](#Darkness_darkness) (concentration)
-- Enthrall
+- [Enthrall](#Enthrall_enthrall)
 - Hold Person (concentration)
 - Invisibility (concentration)
 - Mirror Image
@@ -73,14 +73,14 @@
 - [Circle of Death](#Circle_of_Death_circle_of_death)
 - [Conjure Fey](#Conjure_Fey_conjure_fey) (concentration)
 - [Create Undead](#Create_Undead_create_undead)
-- Eyebite (concentration)
+- [Eyebite](#Eyebite_eyebite) (concentration)
 - Flesh to Stone (concentration)
 - Mass Suggestion
 - True Seeing
 
 ##### 7th Level
 
-- Etherealness
+- [Etherealness](#Etherealness_etherealness)
 - Finger of Death
 - Forcecage
 - Plane Shift

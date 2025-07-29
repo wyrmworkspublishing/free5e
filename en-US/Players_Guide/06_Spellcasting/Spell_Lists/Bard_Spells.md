@@ -45,9 +45,9 @@
 - [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
-- Enhance Ability (concentration)
-- Enlarge/Reduce (concentration)
-- Enthrall
+- [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
+- [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
+- [Enthrall](#Enthrall_enthrall)
 - Heat Metal (concentration)
 - Hold Person (concentration)
 - Invisibility (concentration)
@@ -119,7 +119,7 @@
 ##### 6th Level
 
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
-- Eyebite (concentration)
+- [Eyebite](#Eyebite_eyebite) (concentration)
 - Find the Path (concentration)
 - Heroes’ Feast
 - Mass Suggestion
@@ -129,7 +129,7 @@
 ##### 7th Level
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- Etherealness
+- [Etherealness](#Etherealness_etherealness)
 - Forcecage
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) <!-- previously "Arcane Sword" --> (concentration)
 - Mirage Arcane

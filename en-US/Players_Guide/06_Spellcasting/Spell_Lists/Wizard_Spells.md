@@ -27,7 +27,7 @@
 - [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
 - [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
 - [Disguise Self](#Disguise_Self_disguise_self)
-- Expeditious Retreat (concentration)
+- [Expeditious Retreat](#Expeditious_Retreat_expeditious_retreat) (concentration)
 - False Life
 - Feather Fall
 - Find Familiar (ritual)
@@ -62,8 +62,8 @@
 - [Darkvision](#Darkvision_darkvision)
 - [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
 - [DT's Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist's Magic Aura --> (concentration)
-- Enhance Ability (concentration)
-- Enlarge/Reduce (concentration)
+- [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
+- [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - Flaming Sphere (concentration)
 - Gentle Repose (ritual)
 - Gust of Wind (concentration)
@@ -179,7 +179,7 @@
 - [Create Undead](#Create_Undead_create_undead)
 - [Disintegrate](#Disintegrate_disintegrate)
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
-- Eyebite (concentration)
+- [Eyebite](#Eyebite_eyebite) (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - Flesh to Stone (concentration)
 - Globe of Invulnerability (concentration)
@@ -197,7 +197,7 @@
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
-- Etherealness
+- [Etherealness](#Etherealness_etherealness)
 - Finger of Death
 - Forcecage
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) (concentration) <!-- previously "Arcane Sword" -->

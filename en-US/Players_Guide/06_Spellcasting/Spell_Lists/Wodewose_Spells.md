@@ -19,7 +19,7 @@
 - [Cure Wounds](#Cure_Wounds_cure_wounds)
 - [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
 - [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (ritual, concentration)
-- Entangle (concentration)
+- [Entangle](#Entangle_entangle) (concentration)
 - Faerie Fire (concentration)
 - Fog Cloud (concentration)
 - Goodberry
@@ -39,8 +39,8 @@
 - [Barkskin](#Barkskin_barkskin) (concentration)
 - [Continual Flame](#Continual_Flame_continual_flame)
 - [Darkvision](#Darkvision_darkvision)
-- Enhance Ability (concentration)
-- Enlarge/Reduce (concentration)
+- [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
+- [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - Find Traps
 - Flame Blade (concentration)
 - Flaming Sphere (concentration)
@@ -138,7 +138,7 @@
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - [Control Weather](#Control_Weather_control_weather) (concentration)
-- Earthquake (concentration)
+- [Earthquake](#Earthquake_earthquake) (concentration)
 - Incendiary Cloud (concentration)
 - Sunburst
 

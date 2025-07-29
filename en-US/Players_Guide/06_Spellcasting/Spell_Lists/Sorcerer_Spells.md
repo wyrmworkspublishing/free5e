@@ -26,7 +26,7 @@
 - [Comprehend Languages](#Comprehend_Languages_comprehend_languages)
 - [Detect Magic](#Detect_Magic_detect_magic) (concentration)
 - [Disguise Self](#Disguise_Self_disguise_self)
-- Expeditious Retreat (concentration)
+- [Expeditious Retreat](#Expeditious_Retreat_expeditious_retreat) (concentration)
 - False Life
 - Feather Fall
 - Fog Cloud (concentration)
@@ -47,8 +47,8 @@
 - [Darkness](#Darkness_darkness) (concentration)
 - [Darkvision](#Darkvision_darkvision)
 - [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
-- Enhance Ability (concentration)
-- Enlarge/Reduce (concentration)
+- [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
+- [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - Flame Blade (concentration)
 - Flaming Sphere (concentration)
 - Gust of Wind (concentration)
@@ -125,7 +125,7 @@
 - [Chain Lightning](#Chain_Lightning_chain_lightning)
 - [Circle of Death](#Circle_of_Death_circle_of_death)
 - [Disintegrate](#Disintegrate_disintegrate)
-- Eyebite (concentration)
+- [Eyebite](#Eyebite_eyebite) (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - Flesh to Stone (concentration)
 - Globe of Invulnerability (concentration)
@@ -137,7 +137,7 @@
 ##### 7th Level
 
 - [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
-- Etherealness
+- [Etherealness](#Etherealness_etherealness)
 - Finger of Death
 - Fire Storm
 - Plane Shift
@@ -149,7 +149,7 @@
 
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
-- Earthquake (concentration)
+- [Earthquake](#Earthquake_earthquake) (concentration)
 - Incendiary Cloud (concentration)
 - Power Word Stun
 - Sunburst
