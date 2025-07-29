@@ -119,7 +119,7 @@ You can use an arcane focus as a spellcasting focus for your Warlock spells.
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
-At 2nd level, you gain two eldritch invocations of your choice.
+You gain two eldritch invocations of your choice.
 Your invocation options are detailed at [the end of the class description](#Eldritch_Invocations_eldritch_invocations).
 When you gain certain Warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the [Warlock table](#Warlock_the_warlock_table).
 
@@ -127,7 +127,7 @@ Additionally, when you gain a level in this class, you can choose one of the inv
 
 ###### Pact Boon (3rd Level) {#Warlock_pact_boon}
 
-At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service.
+Your otherworldly patron bestows a gift upon you for your loyal service.
 You gain one of the features detailed [at the end of the class description](#Pact_Boons_pact_boons).
 
 ###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Warlock_asi}
@@ -145,9 +145,9 @@ You must finish a long rest before you can do so again.
 At higher levels, you gain more Warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level.
 You regain all uses of your Mystic Arcanum when you finish a long rest.
 
-###### Eldritch Master {#Warlock_eldritch_master}
+###### Eldritch Master (20th Level) {#Warlock_eldritch_master}
 
-At 20th level, you can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots.
+You can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots.
 You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature.
 Once you regain spell slots with this feature, you must finish a long rest before you can do so again.
 
