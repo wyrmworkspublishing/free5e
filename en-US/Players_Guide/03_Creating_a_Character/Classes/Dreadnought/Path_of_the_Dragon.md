@@ -17,8 +17,7 @@ Your fangs deal 1d8 piercing damage, and your lashing tail deals 1d6 bludgeoning
 
 Whenever you attack with one of these natural weapons using the Attack action on your turn, if you are not carrying any weapon or shield, you can make a single unarmed strike with your claws as a bonus action.
 
-> **Warning:**
-> This section has not yet been fully transferred from the Google Doc.
+When you gain this feature, choose a color to gain resistance to its corresponding elemental type from the Path of the Dragon Elements table while raging.
 
 ___
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
