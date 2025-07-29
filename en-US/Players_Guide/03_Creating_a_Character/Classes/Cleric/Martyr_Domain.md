@@ -20,7 +20,7 @@ If you have a domain spell that doesn't appear on the Cleric spell list, the spe
 
 ###### Clad in Grace (1st Level)
 
-Starting at 1st level, while you are not wearing any armor, your Armor Class equals `10 + your Constitution modifier + your Wisdom modifier`.
+While you are not wearing any armor, your Armor Class equals `10 + your Constitution modifier + your Wisdom modifier`.
 You can use a shield and still gain this benefit.
 
 ###### Relieve Suffering (1st & 9th Level) {#Martyr_Domain_relieve_suffering}
@@ -36,7 +36,7 @@ You can transfer a condition affecting another creature to yourself a number of 
 
 ###### Channel Divinity: Bear the Burden (2nd Level)
 
-Starting at 2nd level, you can use your [Channel Divinity](#Cleric_channel_divinity) to bring all the suffering your allies suffer onto yourself.
+You can use your [Channel Divinity](#Cleric_channel_divinity) to bring all the suffering your allies suffer onto yourself.
 
 As an action, you present your holy symbol and enter a divine trance.
 Until the start of your next turn, your movement speed becomes zero and you gain temporary hit points equal to twice your Cleric level.
@@ -44,7 +44,7 @@ Any time an allied creature within 30 feet of you takes damage, they have resist
 
 ###### Overcome Adversity (6th Level)
 
-Starting at 6th level, when you use your [Relieve Suffering](#Martyr_Domain_relieve_suffering) to take the condition affecting a creature, you can repeat the original saving throw against the feature if it had one.
+When you use your [Relieve Suffering](#Martyr_Domain_relieve_suffering) to take the condition affecting a creature, you can repeat the original saving throw against the feature if it had one.
 On success, the condition ends instead of being transferred.
 
 Additionally, when you take damage as a result of the [Warding Bond](#Warding_Bond_warding_bond) spell, you have resistance to that damage.
@@ -63,6 +63,6 @@ At 8th level, pick one of the following options:
   \
   Starting at 8th level, you add your Wisdom modifier to the damage you deal with any Cleric cantrip.
 
-###### Unyielding Concentration
+###### Unyielding Concentration (17th level)
 
-Starting at 17th level, while you are concentrating on a Cleric spell that targets you or your allies, your concentration can’t be broken as a result of taking damage.
+While you are concentrating on a Cleric spell that targets you or your allies, your concentration can’t be broken as a result of taking damage.
