@@ -73,7 +73,7 @@ At 6th level, you can choose two more of your proficiencies (in skills or with t
 
 ###### Sneak Attack (1st Level) {#Rogue_sneak_attack}
 
-Beginning at 1st level, you know how to strike subtly and exploit a foe’s distraction.
+You know how to strike subtly and exploit a foe’s distraction.
 Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 
 You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
@@ -90,13 +90,13 @@ In addition, you understand a set of secret signs and symbols used to convey sho
 
 ###### Cunning Action (2nd Level) {#Rogue_cunning_action}
 
-Starting at 2nd level, your quick thinking and agility allow you to move and act quickly.
+Your quick thinking and agility allow you to move and act quickly.
 You can take a bonus action on each of your turns in combat.
 This action can be used only to take the [Dash](#Combat_Actions_dash), [Disengage](#Combat_Actions_disengage), or [Hide](#Combat_Actions_hide) action.
 
 ###### Roguish Archetype (3rd Level) {#Rogue_roguish_archetype}
 
-At 3rd level, you choose an archetype that you emulate in the exercise of your Rogue abilities.
+You choose an archetype that you emulate in the exercise of your Rogue abilities.
 Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
 
 ###### Ability Score Improvement (4th & 8th & 10th & 12th & 16th Level) {#Rogue_asi}
@@ -106,35 +106,35 @@ As normal, you can’t increase an ability score above 20 using this feature.
 
 ###### Uncanny Dodge (5th Level) {#Rogue_uncanny_dodge}
 
-Starting at 5th level, when an attacker that you can pinpoint hits you with an attack, you can use your reaction to halve the attack’s damage against you.
+When an attacker that you can pinpoint hits you with an attack, you can use your reaction to halve the attack’s damage against you.
 
 ###### Evasion (7th Level) {#Rogue_evasion}
 
-Beginning at 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an Ice Storm spell.
+You can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an Ice Storm spell.
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ###### Reliable Talent (11th Level) {#Rogue_reliable_talent}
 
-By 11th level, you have refined your chosen skills until they approach perfection.
+You have refined your chosen skills until they approach perfection.
 Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
 
 ###### Blindsense (14th Level) {#Rogue_blindsense}
 
-Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
+If you are able to hear, you are aware of the location of any hidden or invisible creature within 10 feet of you.
 
 ###### Slippery Mind (15th Level) {#Rogue_slippery_mind}
 
-By 15th level, you have acquired greater mental strength.
+You have acquired greater mental strength.
 You gain proficiency in Wisdom saving throws.
 
 ###### Elusive (18th Level) {#Rogue_elusive}
 
-Beginning at 18th level, you are so evasive that attackers rarely gain the upper hand against you.
+You are so evasive that attackers rarely gain the upper hand against you.
 No attack roll has advantage against you while you aren’t incapacitated.
 
 ###### Stroke of Luck (20th Level) {#Rogue_stroke_of_luck}
 
-At 20th level, you have an uncanny knack for succeeding when you need to.
+You have an uncanny knack for succeeding when you need to.
 If your attack misses a target within range, you can turn the miss into a hit.
 Alternatively, if you fail an ability check, you can treat the d20 roll as a 20.
 
