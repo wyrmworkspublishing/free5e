@@ -6,18 +6,18 @@ As you enter the berserker’s rage, you thrill in the chaos of battle, heedless
 
 ###### Frenzy (3rd Level)
 
-Starting when you choose this path at 3rd level, you can go into a frenzy when you rage.
+You can go into a frenzy when you rage.
 If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one.
 When your rage ends, you suffer one level of [exhaustion](#Conditions_exhaustion) (as described in [chapter <mark>XX</mark>: Conditions](#Conditions_conditions)).
 
 ###### Mindless Rage (6th Level)
 
-Beginning at 6th level, you can’t be charmed or frightened while raging.
+You can’t be charmed or frightened while raging.
 If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
 
 ###### Intimidating Presence
 
-Beginning at 10th level, you can use your action to frighten someone with your menacing presence.
+You can use your action to frighten someone with your menacing presence.
 When you do so, choose one creature that you can pinpoint within 30 feet of you.
 If the creature can pinpoint you, it must succeed on a Wisdom saving throw (DC equal to `8 + your proficiency bonus + your Charisma modifier`) or be frightened of you until the end of your next turn.
 On subsequent turns, you can use your action to extend the duration of this effect on the frightened creature until the end of your next turn.
@@ -27,4 +27,4 @@ If the creature succeeds on its saving throw, you can’t use this feature on th
 
 ###### Retaliation (14th Level)
 
-Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
+When you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.
