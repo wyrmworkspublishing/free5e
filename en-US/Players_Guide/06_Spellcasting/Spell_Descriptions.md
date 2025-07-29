@@ -1,39 +1,39 @@
 ### Spell Descriptions
-[Acid Splash](./Spell_Descriptions/Acid_Splash.md)
+[Acid Splash](./Spell_Descriptions/A/Acid_Splash.md)
 
-[Aid](./Spell_Descriptions/Aid.md)
+[Aid](./Spell_Descriptions/A/Aid.md)
 
-[Alarm](./Spell_Descriptions/Alarm.md)
+[Alarm](./Spell_Descriptions/A/Alarm.md)
 
-[Alia's Magnificent Mansion](./Spell_Descriptions/Alias_Magnificent_Mansion.md)
+[Alia's Magnificent Mansion](./Spell_Descriptions/A/Alias_Magnificent_Mansion.md)
 
-[Alter Self](./Spell_Descriptions/Alter_Self.md)
+[Alter Self](./Spell_Descriptions/A/Alter_Self.md)
 
-[Animal Friendship](./Spell_Descriptions/Animal_Friendship.md)
+[Animal Friendship](./Spell_Descriptions/A/Animal_Friendship.md)
 
-[Animal Messenger](./Spell_Descriptions/Animal_Messenger.md)
+[Animal Messenger](./Spell_Descriptions/A/Animal_Messenger.md)
 
-[Animal Shapes](./Spell_Descriptions/Animal_Shapes.md)
+[Animal Shapes](./Spell_Descriptions/A/Animal_Shapes.md)
 
-[Animate Dead](./Spell_Descriptions/Animate_Dead.md)
+[Animate Dead](./Spell_Descriptions/A/Animate_Dead.md)
 
-[Animate Objects](./Spell_Descriptions/Animate_Objects.md)
+[Animate Objects](./Spell_Descriptions/A/Animate_Objects.md)
 
-[Antilife Shell](./Spell_Descriptions/Antilife_Shell.md)
+[Antilife Shell](./Spell_Descriptions/A/Antilife_Shell.md)
 
-[Antimagic Field](./Spell_Descriptions/Antimagic_Field.md)
+[Antimagic Field](./Spell_Descriptions/A/Antimagic_Field.md)
 
-[Antipathy/Sympathy](./Spell_Descriptions/Antipathy_Sympathy.md)
+[Antipathy/Sympathy](./Spell_Descriptions/A/Antipathy_Sympathy.md)
 
-[Arcane Eye](./Spell_Descriptions/Arcane_Eye.md)
+[Arcane Eye](./Spell_Descriptions/A/Arcane_Eye.md)
 
-[Arcane Lock](./Spell_Descriptions/Arcane_Lock.md)
+[Arcane Lock](./Spell_Descriptions/A/Arcane_Lock.md)
 
-[Astral Projection](./Spell_Descriptions/Astral_Projection.md)
+[Astral Projection](./Spell_Descriptions/A/Astral_Projection.md)
 
-[Augury](./Spell_Descriptions/Augury.md)
+[Augury](./Spell_Descriptions/A/Augury.md)
 
-[Awaken](./Spell_Descriptions/Awaken.md)
+[Awaken](./Spell_Descriptions/A/Awaken.md)
 
 [Beacon of Hope](./Spell_Descriptions/Beacon_of_Hope.md)
 
