@@ -52,17 +52,17 @@ If you are already proficient in all options, you gain proficiency in one skill 
 
 ###### Biting Illusions (6th Level)
 
-Starting at 6th level, once per turn on your turn when you roll damage with an illusion spell, you can add your Charisma modifier to the damage roll.
+Once per turn on your turn when you roll damage with an illusion spell, you can add your Charisma modifier to the damage roll.
 Additionally, once per turn when a creature interacts with one of your illusions, you can choose to deal psychic damage equal to your Charisma modifier to them (such as destroying a Mirror Image or inspecting a Major Image).
 If they make a check or save to determine the reality of the illusion that has damaged them that turn, it is made with disadvantage.
 
 ###### Fey Steps (14th Level)
 
-Starting at 14th level, when you spend sorcery points to empower a spell with metamagic, before or after you cast the spell, you can teleport up to 5 feet per sorcery point spent.
+When you spend sorcery points to empower a spell with metamagic, before or after you cast the spell, you can teleport up to 5 feet per sorcery point spent.
 
 ###### Illusory Doppelgangers (18th Level)
 
-At 18th level, as a bonus action you can create an illusory duplicate of yourself at a point within 30 feet.
+As a bonus action you can create an illusory duplicate of yourself at a point within 30 feet.
 The duplicate’s AC equals `10 + your Dexterity modifier`, and if targeted with an effect that forces a save, it uses your saving throws.
 If an attack hits a duplicate or it fails a saving throw that would cause it to take damage the duplicate is destroyed.
 It ignores all other damage and effects, but an effect that would otherwise cause it to take damage reveals it to be a duplicate.

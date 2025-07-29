@@ -120,7 +120,7 @@ Your choice grants you features when you choose it at 1st level and again at 6th
 
 ###### Font of Magic (2nd Level) {#Sorcerer_font_of_magic}
 
-At 2nd level, you tap into a deep wellspring of magic within yourself.
+You tap into a deep wellspring of magic within yourself.
 This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
 \
 **Sorcery Points**
@@ -170,7 +170,7 @@ At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two a
 
 ###### Sorcerous Restoration (20th Level) {#Sorcerer_sorcerous_restoration}
 
-At 20th level, you regain 4 expended sorcery points whenever you finish a short rest.
+You regain 4 expended sorcery points whenever you finish a short rest.
 
 ##### Metamagic Options {#Sorcerer_metamagic_options}
 

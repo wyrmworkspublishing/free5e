@@ -9,7 +9,7 @@ Some, particularly those rare individuals that channel metallic colors, may be e
 
 ###### Fury of the Wyrm (3rd Level)
 
-When you choose this path at 3rd level, when you enter a rage, you can choose to make your Rage bonus damage deal elemental damage matching your draconic type (shown on the table below).
+When you enter a rage, you can choose to make your Rage bonus damage deal elemental damage matching your draconic type (shown on the table below).
 
 Additionally, when you enter a rage you can take on aspects of a draconic entity, growing vicious natural weapons as claws grow from your hands, fangs sprout from your maw, and a vicious lashing tail grows from your back. Your claws deal 1d4 slashing damage.
 Your fangs deal 1d8 piercing damage, and your lashing tail deals 1d6 bludgeoning damage and has the reach property.
@@ -44,12 +44,12 @@ The damage and range of this breath weapon increases at 10th level (to 8d6 in a 
 
 ###### Primal Weapons (6th Level)
 
-Additionally at 6th level, the natural weapons you gain while raging now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+The natural weapons you gain while raging now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ###### Dragonhide (10th Level)
 
-Starting at 10th level, the marks of your Draconic path now remain outside of your rage, manifesting as heavy scales that grant you resistance to bludgeoning, piercing, and slashing damage from nonmagical sources even when you are not raging. Additionally, you gain resistance to your dragon color’s elemental type even when you are not raging.
+The marks of your Draconic path now remain outside of your rage, manifesting as heavy scales that grant you resistance to bludgeoning, piercing, and slashing damage from nonmagical sources even when you are not raging. Additionally, you gain resistance to your dragon color’s elemental type even when you are not raging.
 
 ###### Tyrant of the Skies
-By 14th level, when you enter a rage, you can sprout massive dragon wings from your back. If you are not wearing heavy armor, you gain a flying speed equal to your movement speed.
+When you enter a rage, you can sprout massive dragon wings from your back. If you are not wearing heavy armor, you gain a flying speed equal to your movement speed.
 If you choose to manifest natural weapons and wings when you enter a rage, you can choose to entirely take on a draconic form while raging, becoming Large sized. When you take on a full draconic form, you choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it.

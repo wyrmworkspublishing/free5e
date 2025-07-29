@@ -7,7 +7,7 @@ Any given Sorcerer could be the first of a new bloodline, as a result of a pact 
 
 ###### Dragon Ancestor (1st Level)
 
-At 1st level, you choose one type of dragon as your ancestor.
+You choose one type of dragon as your ancestor.
 The damage type associated with each dragon is used by features you gain later.
 
 ___
@@ -42,12 +42,12 @@ When you aren’t wearing armor, your AC equals `13 + your Dexterity modifier`.
 
 ###### Elemental Affinity (6th Level)
 
-Starting at 6th level, when you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell.
+When you cast a spell that deals damage of the type associated with your draconic ancestry, you can add your Charisma modifier to one damage roll of that spell.
 At the same time, you can spend 1 sorcery point to gain resistance to that damage type for 1 hour.
 
 ###### Dragon Wings (14th Level)
 
-At 14th level, you gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed.
+You gain the ability to sprout a pair of dragon wings from your back, gaining a flying speed equal to your current speed.
 You can create these wings as a bonus action on your turn.
 They last until you dismiss them as a bonus action on your turn.
 
@@ -55,7 +55,7 @@ You can’t manifest your wings while wearing armor unless the armor is made to 
 
 ###### Draconic Presence (18th Level)
 
-Beginning at 18th level, you can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened.
+You can channel the dread presence of your dragon ancestor, causing those around you to become awestruck or frightened.
 As an action, you can spend 5 sorcery points to draw on this power and exude an aura of awe or fear (your choice) to a distance of 60 feet.
 For 1 minute or until you lose your concentration (as if you were casting a concentration spell), each hostile creature that starts its turn in this aura must succeed on a Wisdom saving throw or be charmed (if you chose awe) or frightened (if you chose fear) until the aura ends.
 A creature that succeeds on this saving throw is immune to your aura for 24 hours.

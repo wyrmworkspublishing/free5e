@@ -7,7 +7,7 @@ This Sacred Mandate grants you access to specific powers that you shape through 
 
 ###### Mandate Domain (1st Level)
 
-At 1st level, you choose a Mandate Domain, such as Knowledge, Life, or War.
+You choose a Mandate Domain, such as Knowledge, Life, or War.
 Your mandate grants you a collection of features as outlined below.
 
 **Mandate Spells**

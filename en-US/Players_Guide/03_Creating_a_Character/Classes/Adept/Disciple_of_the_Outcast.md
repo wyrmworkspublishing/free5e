@@ -13,11 +13,11 @@ Meditating to regain your focus points can now include things such as playing ca
 
 ###### Bonus Proficiencies (3rd Level)
 
-At 3rd level, you gain proficiency in the Athletics skill, or another skill of your choice if you are already proficient in Athletics.
+You gain proficiency in the Athletics skill, or another skill of your choice if you are already proficient in Athletics.
 
 ###### Pragmatism (3rd Level)
 
-At 3rd level, you embrace a more pragmatic view, gaining the following benefits:
+You embrace a more pragmatic view, gaining the following benefits:
 
 - **Improvised Adept Weapons.**
   You have proficiency in improvised weapons.
@@ -37,16 +37,16 @@ You gain the following additional Pragmatic Techniques you can spend focus on.
 
 ###### Soak It Up (6th Level)
 
-At 6th level, your extensive training in the art of getting hit with bar stools and broken bottles grants you increased endurance.
+Your extensive training in the art of getting hit with bar stools and broken bottles grants you increased endurance.
 When you roll initiative you gain temporary hit points equal to `your Constitution modifier + your proficiency bonus`.
 These temporary hit points are refreshed any time you take the Dodge action.
 
 ###### Where It Hurts (11th Level)
 
-At 11th level, when you use Stunning Strike on a critical hit or on an attack made against an enemy that was unaware of you, the target has disadvantage on their saving throw against being stunned.
+When you use Stunning Strike on a critical hit or on an attack made against an enemy that was unaware of you, the target has disadvantage on their saving throw against being stunned.
 
 ###### Lean into It (17th Level)
 
-At 17th level, you have thrown your fair share of walloping hits, and know how to make them reliably.
+You have thrown your fair share of walloping hits, and know how to make them reliably.
 You can forgo adding your proficiency bonus to an attack roll with an unarmed strike or melee Adept weapon.
 When you do so, you can add twice your proficiency bonus to the damage roll.

@@ -130,7 +130,7 @@ Bardic Inspiration die size increases at levels 5 (d8), 10 (d10), and 15 (d12).
 
 ###### Jack of All Trades (2nd Level) {#Bard_jack_of_all_trades}
 
-Starting at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check that uses a skill in which you aren’t proficient and doesn’t already include your proficiency bonus.
+You can add half your proficiency bonus, rounded down, to any ability check that uses a skill in which you aren’t proficient and doesn’t already include your proficiency bonus.
 
 ###### Song of Rest (2nd & 9th & 13th & 17th Level) {#Bard_song_of_rest}
 
@@ -141,7 +141,7 @@ The extra hit points increase when you reach certain levels in this class: to 1d
 
 ###### Bard College (3rd Level) {#Bard_bard_college}
 
-At 3rd level, you delve into the advanced techniques of a Bard college of your choice.
+You delve into the advanced techniques of a Bard college of your choice.
 Your choice grants you features at 3rd level and again at 6th and 14th level.
 
 ###### Expertise (3rd & 10th Level) {#Bard_expertise}
@@ -157,11 +157,11 @@ At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two a
 
 ###### Font of Inspiration (5th Level) {#Bard_font_of_inspiration}
 
-Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+You regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
 
 ###### Countercharm (6th Level) {#Bard_countercharm}
 
-At 6th level, you gain the ability to use performance art to disrupt mind-influencing effects.
+You gain the ability to use performance art to disrupt mind-influencing effects.
 As an action, you can start a performance that lasts until the end of your next turn.
 During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frightened or charmed.
 A creature must be able to pinpoint you, as applicable to the art form, to gain this benefit.
@@ -179,7 +179,7 @@ You learn two additional spells from any class at 14th level and again at 18th l
 
 ###### Superior Inspiration (20th Level) {#Bard_superior_inspiration}
 
-At 20th level, when you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
+When you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
 
 ##### Bard Colleges
 

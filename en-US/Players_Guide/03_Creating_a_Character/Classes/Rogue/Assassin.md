@@ -5,16 +5,16 @@ Those who adhere to this archetype are diverse: assassins, hired killers, spies,
 
 ###### Bonus Proficiency (3rd Level) {#Assassin_bonus_proficiency}
 
-When you choose this archetype at 3rd level, you gain proficiency with your choice of either disguise kit or poisoner’s kit.
+You gain proficiency with your choice of either disguise kit or poisoner’s kit.
 
 ###### Backstab (3rd Level) {#Assassin_backstab}
 
-Starting at 3rd level, you are pragmatic and deadly in eliminating your foes.
+You are pragmatic and deadly in eliminating your foes.
 You have advantage on attack rolls against any creature that hasn’t taken a turn in the combat yet, or when an allied creature within 5 feet of the target is directly on the other side of a creature.
 
 ###### Killer’s Method (9th Level) {#Assassin_killers_method}
 
-Starting at 9th level, you have mastered one technique of your choice for approaching a target.
+You have mastered one technique of your choice for approaching a target.
 Select one of the following benefits:
 
 - **False Face.**
@@ -33,7 +33,7 @@ If you gain expertise in a skill you already have expertise in, you can instead 
 
 ###### Favored Approach (13th Level) {#Assassin_favored_approach}
 
-Starting at 13th level, you hone your skills gaining a favored approach to dealing death.
+You hone your skills gaining a favored approach to dealing death.
 Select one of the following benefits:
 
 - **Trusted Face.**
@@ -46,5 +46,5 @@ Select one of the following benefits:
 
 ###### Lethal Blows (17th Level) {#Assassin_lethal_blows}
 
-Starting at 17th level, after you deal sneak attack damage to a creature, if the target's remaining hit points is less than your Rogue level, the target dies.
+After you deal sneak attack damage to a creature, if the target's remaining hit points is less than your Rogue level, the target dies.
 You can forgo this when intentionally making nonlethal attacks.

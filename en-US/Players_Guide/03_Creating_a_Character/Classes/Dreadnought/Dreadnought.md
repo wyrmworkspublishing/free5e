@@ -93,20 +93,20 @@ You can use a shield and still gain this benefit.
 
 ###### Reckless Attack (2nd Level) {#Dreadnought_reckless_attack}
 
-Starting at 2nd level, you can throw aside all concern for defense to attack with fierce desperation.
+You can throw aside all concern for defense to attack with fierce desperation.
 When you make your first attack on your turn, you can decide to attack recklessly.
 Doing so gives you advantage on melee weapon attack rolls using Strength during this turn, but attack rolls against you have advantage until your next turn.
 
 ###### Danger Sense (2nd Level) {#Dreadnought_danger_sense}
 
-At 2nd level, you gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
+You gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
 
 You have advantage on Dexterity saving throws against effects that you can pinpoint, such as traps and spells.
 To gain this benefit, you can’t be blinded, deafened, or incapacitated.
 
 ###### Dreadnought Path (3rd Level) {#Dreadnought_dreadnought_path}
 
-At 3rd level, you choose a path that shapes the nature of your rage.
+You choose a path that shapes the nature of your rage.
 Your choice grants you features at 3rd level and again at 6th, 10th, and 14th levels.
 
 ###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Dreadnought_asi}
@@ -115,15 +115,15 @@ At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two a
 
 ###### Extra Attack (5th Level) {#Dreadnought_extra_attack}
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ###### Fast Movement (5th Level) {#Dreadnought_fast_movement}
 
-Starting at 5th level, your speed increases by 10 feet while you aren’t wearing heavy armor.
+Your speed increases by 10 feet while you aren’t wearing heavy armor.
 
 ###### Feral Instinct (7th Level) {#Dreadnought_feral_instinct}
 
-By 7th level, your instincts are so honed that you have advantage on initiative rolls.
+Your instincts are so honed that you have advantage on initiative rolls.
 
 Additionally, if you are surprised at the beginning of combat and aren’t incapacitated, you can act normally on your first turn, but only if you enter your rage before doing anything else on that turn.
 
@@ -135,7 +135,7 @@ This increases to two additional dice at 13th level and three additional dice at
 
 ###### Relentless Rage (11th Level) {#Dreadnought_relentless_rage}
 
-Starting at 11th level, your rage can keep you fighting despite grievous wounds.
+Your rage can keep you fighting despite grievous wounds.
 If you drop to 0 hit points while you’re raging and don’t die outright, you can make a DC 10 Constitution saving throw.
 If you succeed, you drop to 1 hit point instead.
 
@@ -144,15 +144,15 @@ When you finish a short or long rest, the DC resets to 10.
 
 ###### Persistent Rage (15h Level) {#Dreadnought_persistent_rage}
 
-Beginning at 15th level, your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
+Your rage is so fierce that it ends early only if you fall unconscious or if you choose to end it.
 
 ###### Indomitable Might (18th Level) {#Dreadnought_indomitable_might}
 
-Beginning at 18th level, if your total for a Strength check is less than your Strength score, you can use that score in place of the total.
+If your total for a Strength check is less than your Strength score, you can use that score in place of the total.
 
 ###### Primal Champion (20th Level) {#Dreadnought_primal_champion}
 
-At 20th level, you embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
+You embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
 
 ##### Dreadnought Paths
 

@@ -9,7 +9,7 @@ a useful menace to society. Hiding in the brilliant outfits in plain sight more 
 
 ###### Jester’s Juggling (3rd Level)
 
-When you join the College of Fools at 3rd level, you master the art of juggling almost anything.
+You master the art of juggling almost anything.
 You gain proficiency in Performance (or another skill of your choice if you are already proficient in it).
 
 Additionally, you can draw or stow any number of items or weapons during your turn.
@@ -18,12 +18,12 @@ On failure, you drop any that you don’t have sufficient hands to hold.
 
 ###### Fool’s Fumble (3rd Level)
 
-Additionally at 3rd level, when you fail an ability check or attack roll, you can expend a use of Bardic Inspiration to pass it off as an intentional failure, recovering in spectacular fashion.
+When you fail an ability check or attack roll, you can expend a use of Bardic Inspiration to pass it off as an intentional failure, recovering in spectacular fashion.
 When you do so, reroll the check or attack roll and add your Bardic Inspiration to the result.
 
 ###### Acrobatic Antics (6th Level)
 
-Starting at 6th level, your acrobatic mastery gives you proficiency in Acrobatics (or another skill of your choice if you are already proficient in it).
+Your acrobatic mastery gives you proficiency in Acrobatics (or another skill of your choice if you are already proficient in it).
 You can use your acrobatic foolery to tumble around the most dangerous places safely.
 You gain the following benefits:
 
@@ -37,11 +37,11 @@ You gain the following benefits:
 
 ###### Fatal Flourish (6th Level)
 
-Additionally at 6th level, when you use your Action to make an ability check, cast [Vicious Mockery](#Vicious_Mockery_vicious_mockery), or make a weapon attack with a melee weapon, you can make a single weapon attack with a light melee weapon or dart as bonus action.
+When you use your Action to make an ability check, cast [Vicious Mockery](#Vicious_Mockery_vicious_mockery), or make a weapon attack with a melee weapon, you can make a single weapon attack with a light melee weapon or dart as bonus action.
 
 ###### Energetic Encore (14th Level)
 
-Starting at 14th level, you can build off the success of others and encourage them to greater heights.
+You can build off the success of others and encourage them to greater heights.
 When another creature scores a critical hit while within 60 feet of you, you can use your reaction to make a single weapon attack against the same target.
 When you deal a critical hit or a creature fails a saving throw against one of your spells by 5 or more, you can use your reaction to take the Help action to encourage an ally to follow up on success.
 You can expend a use of Bardic Inspiration to take one of these reactions on any hit or failed save, even when the attack was not a critical hit.
