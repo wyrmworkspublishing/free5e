@@ -20,8 +20,8 @@
 - [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
 - [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (ritual, concentration)
 - [Entangle](#Entangle_entangle) (concentration)
-- Faerie Fire (concentration)
-- Fog Cloud (concentration)
+- [Faerie Fire](#Faerie_Fire_faerie_fire) (concentration)
+- [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - Goodberry
 - Healing Word
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
@@ -41,9 +41,9 @@
 - [Darkvision](#Darkvision_darkvision)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
-- Find Traps
-- Flame Blade (concentration)
-- Flaming Sphere (concentration)
+- [Find Traps](#Find_Traps_find_traps)
+- [Flame Blade](#Flame_Blade_flame_blade) (concentration)
+- [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
 - Gust of Wind (concentration)
 - Heat Metal (concentration)
 - Hold Person (concentration)
@@ -81,7 +81,7 @@
 - [Control Water](#Control_Water_control_water) (concentration)
 - [Divination](#Divination_divination) (ritual)
 - [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
-- Fire Shield
+- [Fire Shield](#Fire_Shield_fire_shield)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Giant Insect (concentration)
 - Hallucinatory Terrain
@@ -112,8 +112,8 @@
 ##### 6th Level
 
 - [Conjure Fey](#Conjure_Fey_conjure_fey) (concentration)
-- Find the Path (concentration)
-- Flesh to Stone (concentration)
+- [Find the Path](#Find_the_Path_find_the_path) (concentration)
+- [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - Heal
 - Heroes' Feast
 - Move Earth (concentration)
@@ -124,7 +124,7 @@
 
 ##### 7th Level
 
-- Fire Storm
+- [Fire Storm](#Fire_Storm_fire_storm)
 - Mirage Arcane
 - Plane Shift
 - Regenerate
@@ -144,7 +144,7 @@
 
 ##### 9th Level
 
-- Foresight
+- [Foresight](#Foresight_foresight)
 - Shapechange (concentration)
 - Storm of Vengeance (concentration)
 - True Resurrection

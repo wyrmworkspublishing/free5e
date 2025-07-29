@@ -6,7 +6,8 @@
 - [Acid Splash](#Acid_Splash_acid_splash)
 - [Chill Touch](#Chill_Touch_chill_touch)
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
-- Fire Bolt
+- [Fire Bolt](#Fire_Bolt_fire_bolt)
+- [Friends](#Friends_friends)
 - Light
 - Mage Hand
 - Mending
@@ -27,9 +28,9 @@
 - [Detect Magic](#Detect_Magic_detect_magic) (concentration)
 - [Disguise Self](#Disguise_Self_disguise_self)
 - [Expeditious Retreat](#Expeditious_Retreat_expeditious_retreat) (concentration)
-- False Life
-- Feather Fall
-- Fog Cloud (concentration)
+- [False Life](#False_Life_false_life)
+- [Feather Fall](#Feather_Fall_feather_fall)
+- [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - Grease
 - Jump
 - Mage Armor
@@ -49,8 +50,8 @@
 - [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
-- Flame Blade (concentration)
-- Flaming Sphere (concentration)
+- [Flame Blade](#Flame_Blade_flame_blade) (concentration)
+- [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
 - Gust of Wind (concentration)
 - Hold Person (concentration)
 - Invisibility (concentration)
@@ -73,9 +74,9 @@
 - [Counterspell](#Counterspell_counterspell)
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
-- Fear (concentration)
-- Fireball
-- Fly (concentration)
+- [Fear](#Fear_fear) (concentration)
+- [Fireball](#Fireball_fireball)
+- [Fly](#Fly_fly) (concentration)
 - Gaseous Form (concentration)
 - Haste (concentration)
 - Hypnotic Pattern (concentration)
@@ -98,7 +99,7 @@
 - [Confusion](#Confusion_confusion) (concentration)
 - [Dimension Door](#Dimension_Door_dimension_door)
 - [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
-- Fire Shield
+- [Fire Shield](#Fire_Shield_fire_shield)
 - Greater Invisibility (concentration)
 - Ice Storm
 - Polymorph (concentration)
@@ -127,7 +128,7 @@
 - [Disintegrate](#Disintegrate_disintegrate)
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
-- Flesh to Stone (concentration)
+- [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - Globe of Invulnerability (concentration)
 - Mass Suggestion
 - Move Earth (concentration)
@@ -138,8 +139,8 @@
 
 - [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
 - [Etherealness](#Etherealness_etherealness)
-- Finger of Death
-- Fire Storm
+- [Finger of Death](#Finger_of_Death_finger_of_death)
+- [Fire Storm](#Fire_Storm_fire_storm)
 - Plane Shift
 - Prismatic Spray
 - Reverse Gravity (concentration)

@@ -187,7 +187,7 @@ PASS: Half damage - No damage
 SAVE: Full damage - Half damage
 -->
 
-Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a Fireball spell.
+Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a [Fireball](#Fireball_fireball) spell.
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ###### Stillness of Mind (7th Level) {#Adept_stillness_of_mind}

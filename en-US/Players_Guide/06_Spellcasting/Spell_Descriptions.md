@@ -213,11 +213,57 @@
 
 [Eyebite](./Spell_Descriptions/E/Eyebite.md)
 
-[Fiona's Freezing Sphere](./Spell_Descriptions/Fionas_Freezing_Sphere.md)
+[Fabricate](./Spell_Descriptions/F/Fabricate.md)
 
-[Flame Strike](./Spell_Descriptions/Flame_Strike.md)
+[Faerie Fire](./Spell_Descriptions/F/Faerie_Fire.md)
 
-[Freedom of Movement](./Spell_Descriptions/Freedom_of_Movement.md)
+[False Life](./Spell_Descriptions/F/False_Life.md)
+
+[Fear](./Spell_Descriptions/F/Fear.md)
+
+[Feather Fall](./Spell_Descriptions/F/Feather_Fall.md)
+
+[Find Familiar](./Spell_Descriptions/F/Find_Familiar.md)
+
+[Find Steed](./Spell_Descriptions/F/Find_Steed.md)
+
+[Find the Path](./Spell_Descriptions/F/Find_the_Path.md)
+
+[Find Traps](./Spell_Descriptions/F/Find_Traps.md)
+
+[Finger of Death](./Spell_Descriptions/F/Finger_of_Death.md)
+
+[Fiona's Freezing Sphere](./Spell_Descriptions/F/Fionas_Freezing_Sphere.md)
+
+[Fire Bolt](./Spell_Descriptions/F/Fire_Bolt.md)
+
+[Fire Shield](./Spell_Descriptions/F/Fire_Shield.md)
+
+[Fire Storm](./Spell_Descriptions/F/Fire_Storm.md)
+
+[Fireball](./Spell_Descriptions/F/Fireball.md)
+
+[Flame Blade](./Spell_Descriptions/F/Flame_Blade.md)
+
+[Flame Strike](./Spell_Descriptions/F/Flame_Strike.md)
+
+[Flaming Sphere](./Spell_Descriptions/F/Flaming_Sphere.md)
+
+[Flesh to Stone](./Spell_Descriptions/F/Flesh_to_Stone.md)
+
+[Fly](./Spell_Descriptions/F/Fly.md)
+
+[Fog Cloud](./Spell_Descriptions/F/Fog_Cloud.md)
+
+[Forbiddance](./Spell_Descriptions/F/Forbiddance.md)
+
+[Forcecage](./Spell_Descriptions/F/Forcecage.md)
+
+[Foresight](./Spell_Descriptions/F/Foresight.md)
+
+[Freedom of Movement](./Spell_Descriptions/F/Freedom_of_Movement.md)
+
+[Friends](./Spell_Descriptions/F/Friends.md)
 
 [Guardian of Faith](./Spell_Descriptions/Guardian_of_Faith.md)
 

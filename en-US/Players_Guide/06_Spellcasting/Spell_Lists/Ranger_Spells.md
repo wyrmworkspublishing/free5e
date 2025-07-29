@@ -9,7 +9,7 @@
 - [Detect Magic](#Detect_Magic_detect_magic) (concentration)
 - [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (concentration)
 - [Entangle](#Entangle_entangle) (concentration)
-- Fog Cloud (concentration)
+- [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - Goodberry
 - Hunter's Mark (concentration)
 - Jump
@@ -24,7 +24,7 @@
 - [Barkskin](#Barkskin_barkskin) (concentration)
 - [Darkvision](#Darkvision_darkvision)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
-- Find Traps
+- [Find Traps](#Find_Traps_find_traps)
 - Gust of Wind (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants

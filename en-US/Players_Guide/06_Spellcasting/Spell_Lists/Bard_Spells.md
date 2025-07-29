@@ -5,6 +5,7 @@
 
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - Light
+- [Friends](#Friends_friends)
 - Mage Hand
 - Mending
 - Message
@@ -24,8 +25,8 @@
 - [Cure Wounds](#Cure_Wounds_cure_wounds)
 - [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
 - [Disguise Self](#Disguise_Self_disguise_self)
-- Faerie Fire (concentration)
-- Feather Fall
+- [Faerie Fire](#Faerie_Fire_faerie_fire) (concentration)
+- [Feather Fall](#Feather_Fall_feather_fall)
 - Healing Word
 - Heroism (concentration)
 - Identify (ritual)
@@ -68,7 +69,7 @@
 - [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
 - [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
-- Fear (concentration)
+- [Fear](#Fear_fear) (concentration)
 - Glyph of Warding
 - Hypnotic Pattern (concentration)
 - Major Image (concentration)
@@ -120,7 +121,7 @@
 
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - [Eyebite](#Eyebite_eyebite) (concentration)
-- Find the Path (concentration)
+- [Find the Path](#Find_the_Path_find_the_path) (concentration)
 - Heroes’ Feast
 - Mass Suggestion
 - Programmed Illusion
@@ -130,7 +131,7 @@
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - [Etherealness](#Etherealness_etherealness)
-- Forcecage
+- [Forcecage](#Forcecage_forcecage)
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) <!-- previously "Arcane Sword" --> (concentration)
 - Mirage Arcane
 - Prismatic Spray
@@ -152,7 +153,7 @@
 
 ##### 9th Level
 
-- Foresight
+- [Foresight](#Foresight_foresight)
 - Power Word Kill
 - Prismatic Wall
 - True Polymorph (concentration)

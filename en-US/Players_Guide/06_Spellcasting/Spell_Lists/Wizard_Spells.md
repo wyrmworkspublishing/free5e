@@ -6,7 +6,8 @@
 - [Acid Splash](#Acid_Splash_acid_splash)
 - [Chill Touch](#Chill_Touch_chill_touch)
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
-- Fire Bolt
+- [Fire Bolt](#Fire_Bolt_fire_bolt)
+- [Friends](#Friends_friends)
 - Light
 - Mage Hand
 - Mending
@@ -28,10 +29,10 @@
 - [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
 - [Disguise Self](#Disguise_Self_disguise_self)
 - [Expeditious Retreat](#Expeditious_Retreat_expeditious_retreat) (concentration)
-- False Life
-- Feather Fall
-- Find Familiar (ritual)
-- Fog Cloud (concentration)
+- [False Life](#False_Life_false_life)
+- [Feather Fall](#Feather_Fall_feather_fall)
+- [Find Familiar](#Find_Familiar_find_familiar) (ritual)
+- [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - Grease
 - Identify (ritual)
 - Illusory Script (ritual)
@@ -64,7 +65,7 @@
 - [DT's Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist's Magic Aura --> (concentration)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
-- Flaming Sphere (concentration)
+- [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
 - Gentle Repose (ritual)
 - Gust of Wind (concentration)
 - Hold Person (concentration)
@@ -93,9 +94,9 @@
 - [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
 - [Counterspell](#Counterspell_counterspell)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
-- Fear (concentration)
-- Fireball
-- Fly (concentration)
+- [Fear](#Fear_fear) (concentration)
+- [Fireball](#Fireball_fireball)
+- [Fly](#Fly_fly) (concentration)
 - Gaseous Form (concentration)
 - Glyph of Warding
 - Haste (concentration)
@@ -131,8 +132,8 @@
 - [Coreador's Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
 - [Dimension Door](#Dimension_Door_dimension_door)
 - [Divination](#Divination_divination) (ritual)
-- Fabricate
-- Fire Shield
+- [Fabricate](#Fabricate_fabricate)
+- [Fire Shield](#Fire_Shield_fire_shield)
 - Greater Invisibility (concentration)
 - Hallucinatory Terrain
 - Ice Storm
@@ -181,7 +182,7 @@
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
-- Flesh to Stone (concentration)
+- [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - Globe of Invulnerability (concentration)
 - Guards and Wards
 - Magic Jar
@@ -198,8 +199,8 @@
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
 - [Etherealness](#Etherealness_etherealness)
-- Finger of Death
-- Forcecage
+- [Finger of Death](#Finger_of_Death_finger_of_death)
+- [Forcecage](#Forcecage_forcecage)
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) (concentration) <!-- previously "Arcane Sword" -->
 - Mirage Arcane
 - Plane Shift
@@ -230,7 +231,7 @@
 ##### 9th Level
 
 - [Astral Projection](#Astral_Projection_astral_projection)
-- Foresight
+- [Foresight](#Foresight_foresight)
 - Gate (concentration)
 - Imprisonment
 - Meteor Swarm

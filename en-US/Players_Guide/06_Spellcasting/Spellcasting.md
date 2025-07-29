@@ -99,7 +99,7 @@ To try again, start over.
 #### Range
 
 The target of a spell must be within its range.
-For example, Magic Missile targets a creature, while Fireball targets the point of fire’s eruption.
+For example, Magic Missile targets a creature, while [Fireball](#Fireball_fireball) targets the point of fire’s eruption.
 
 Spell ranges are usually expressed in feet.
 Some spells target only a creature you touch, while others affect only you (self range).

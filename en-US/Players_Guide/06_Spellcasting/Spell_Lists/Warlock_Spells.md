@@ -5,6 +5,7 @@
 
 - [Chill Touch](#Chill_Touch_chill_touch)
 - [Eldritch Blast](#Eldritch_Blast_eldritch_blast)
+- [Friends](#Friends_friends)
 - Mage Hand
 - Minor Illusion
 - Poison Spray
@@ -40,8 +41,8 @@
 
 - [Counterspell](#Counterspell_counterspell)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
-- Fear (concentration)
-- Fly (concentration)
+- [Fear](#Fear_fear) (concentration)
+- [Fly](#Fly_fly) (concentration)
 - Gaseous Form (concentration)
 - Hypnotic Pattern (concentration)
 - Magic Circle
@@ -74,15 +75,15 @@
 - [Conjure Fey](#Conjure_Fey_conjure_fey) (concentration)
 - [Create Undead](#Create_Undead_create_undead)
 - [Eyebite](#Eyebite_eyebite) (concentration)
-- Flesh to Stone (concentration)
+- [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - Mass Suggestion
 - True Seeing
 
 ##### 7th Level
 
 - [Etherealness](#Etherealness_etherealness)
-- Finger of Death
-- Forcecage
+- [Finger of Death](#Finger_of_Death_finger_of_death)
+- [Forcecage](#Forcecage_forcecage)
 - Plane Shift
 
 ##### 8th Level
@@ -97,7 +98,7 @@
 ##### 9th Level
 
 - [Astral Projection](#Astral_Projection_astral_projection)
-- Foresight
+- [Foresight](#Foresight_foresight)
 - Geas
 - Imprisonment
 - Power Word Kill

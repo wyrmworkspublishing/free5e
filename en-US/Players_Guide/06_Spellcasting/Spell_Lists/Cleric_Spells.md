@@ -38,7 +38,7 @@
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - [Continual Flame](#Continual_Flame_continual_flame)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
-- Find Traps
+- [Find Traps](#Find_Traps_find_traps)
 - Gentle Repose (ritual)
 - Hold Person (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
@@ -103,8 +103,8 @@
 
 - [Blade Barrier](#Blade_Barrier_blade_barrier) (concentration)
 - [Create Undead](#Create_Undead_create_undead)
-- Find the Path (concentration)
-- Forbiddance (ritual)
+- [Find the Path](#Find_the_Path_find_the_path) (concentration)
+- [Forbiddance](#Forbiddance_forbiddance) (ritual)
 - Harm
 - Heal
 - Heroes’ Feast
@@ -118,7 +118,7 @@
 - [Conjure Celestial](#Conjure_Celestial_conjure_celestial) (concentration)
 - [Divine Word](#Divine_Word_divine_word)
 - [Etherealness](#Etherealness_etherealness)
-- Fire Storm
+- [Fire Storm](#Fire_Storm_fire_storm)
 - Plane Shift
 - Regenerate
 - Resurrection
