@@ -138,7 +138,7 @@ You can use a Wodewose focus (see chapter <mark>XX</mark>, ["Equipment"](#Equipm
 
 ###### Wild Shape (2nd Level) {#Wodewose_wild_shape}
 
-Starting at 2nd level, you can use your action to magically assume the shape of a beast that you have observed before.
+You can use your action to magically assume the shape of a beast that you have observed before.
 You can use this feature twice.
 You regain expended uses when you finish a short or long rest.
 
@@ -193,17 +193,17 @@ At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two a
 
 ###### Timeless Body (18th Level) {#Wodewose_timeless_body}
 
-Starting at 18th level, the primal magic that you wield causes you to age more slowly.
+The primal magic that you wield causes you to age more slowly.
 For every 10 years that pass, your body ages only 1 year.
 
 ###### Beast Spells (18th Level) {#Wodewose_beast_spells}
 
-Beginning at 18th level, you can cast many of your Wodewose spells in any shape you assume using [Wild Shape](#Wodewose_wild_shape).
+You can cast many of your Wodewose spells in any shape you assume using [Wild Shape](#Wodewose_wild_shape).
 You can perform the somatic and verbal components of a Wodewose spell while in a beast shape, but you aren’t able to provide material components.
 
 ###### Elder Wose
 
-At 20th level, you can use your Wild Shape an unlimited number of times.
+You can use your Wild Shape an unlimited number of times.
 
 Additionally, you can ignore the verbal and somatic components of your Wodewose spells, as well as any material components that lack a cost and aren’t consumed by a spell.
 You gain this benefit in both your normal shape and your beast shape from [Wild Shape](#Wodewose_wild_shape).
