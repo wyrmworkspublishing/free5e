@@ -74,7 +74,7 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 
 ###### Martial Arts (1st Level) {#Adept_martial_arts}
 
-At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes and Adept weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
+Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and Adept weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
 
 > **Warning:**
 > The wording of the next sentence is still up for discussion in the Google Doc.
@@ -104,7 +104,7 @@ Whatever name you use for an Adept weapon, you can use the game statistics provi
 
 ###### Focus (2nd Level) {#Adept_focus}
 
-Starting at 2nd level, your training allows you to harness the mystic energy of focus points.
+Your training allows you to harness the mystic energy of focus points.
 Your access to this energy is represented by a number of focus points.
 Your Adept level determines the number of points you have, as shown in the Focus Points column of the [Adept table](#Adept_the_adept_table).
 
@@ -135,12 +135,12 @@ At 9th level, you gain the ability to move along vertical surfaces and across li
 
 ###### Martial Discipline (3rd Level) {#Adept_martial_discipline}
 
-When you reach 3rd level, you commit yourself to a [Martial Discipline](#Adept_martial_disciplines).
+You commit yourself to a [Martial Discipline](#Adept_martial_disciplines).
 Your tradition grants you features at 3rd level and again at 6th, 11th, and 17th level.
 
 ###### Deflect Missiles (3rd Level) {#Adept_deflect_missiles}
 
-Starting at 3rd level, you can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack.
+You can use your reaction to deflect or catch the missile when you are hit by a ranged weapon attack.
 When you do so, the damage you take from the attack is reduced by `1d10 + your Dexterity modifier + your Adept level`.
 
 If you reduce the damage to 0, you can catch the missile if it is small enough for you to hold in one hand and you have at least one hand free.
@@ -153,21 +153,21 @@ At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two a
 
 ###### Slow Fall (4th Level) {#Adept_slow_fall}
 
-Beginning at 4th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your Adept level.
+You can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your Adept level.
 
 ###### Extra Attack (5th Level) {#Adept_extra_attack}
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ###### Stunning Strike (5th Level) {#Adept_stunning_strike}
 
-Starting at 5th level, you can interfere with the flow of focus in an opponent’s body.
+You can interfere with the flow of focus in an opponent’s body.
 When you hit another creature with a melee weapon attack, you can spend 1 focus point to attempt a stunning strike.
 The target must succeed on a Constitution saving throw or be stunned until the end of your next turn.
 
 ###### Focus-Empowered Strikes (6th Level) {#Adept_focus_empowered_strikes}
 
-Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+Your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ###### Evasion (7th Level) {#Adept_evasion}
 
@@ -185,37 +185,37 @@ PASS: Half damage - No damage
 SAVE: Full damage - Half damage
 -->
 
-At 7th level, your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a Fireball spell.
+Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a Fireball spell.
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ###### Stillness of Mind (7th Level) {#Adept_stillness_of_mind}
 
-Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+You can use your action to end one effect on yourself that is causing you to be charmed or frightened.
 
 ###### Purity of Body (10th Level) {#Adept_purity_of_body}
 
-At 10th level, your mastery of the focus flowing through you makes you immune to disease and poison.
+Your mastery of the focus flowing through you makes you immune to disease and poison.
 
 ###### Tongue of the Sun and Moon (13th Level) {#Adept_tongue_of_the_sun_and_moon}
 
-Starting at 13th level, you learn to touch the focus of other minds so that you understand all spoken languages.
+You learn to touch the focus of other minds so that you understand all spoken languages.
 Moreover, any creature that can understand a language can understand what you say.
 
 ###### Diamond Soul (14th Level) {#Adept_diamond_soul}
 
-Beginning at 14th level, your mastery of focus grants you proficiency in all saving throws.
+Your mastery of focus grants you proficiency in all saving throws.
 
 Additionally, whenever you make a saving throw and fail, you can spend 1 focus point to reroll it and take the second result.
 
 ###### Timeless Body (15th Level) {#Adept_timeless_body}
 
-At 15th level, your focus sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically.
+Your focus sustains you so that you suffer none of the frailty of old age, and you can’t be aged magically.
 You can still die of old age, however.
 In addition, you no longer need food or water.
 
 ###### Empty Body (18th Level) {#Adept_empty_body}
 
-Beginning at 18th level, you can use your action to spend 4 focus points to become invisible for 1 minute.
+You can use your action to spend 4 focus points to become invisible for 1 minute.
 During that time, you also have resistance to all damage but force damage.
 
 Additionally, you can spend 8 focus points to cast the [Astral Projection](#Astral_Projection_astral_projection) spell, without needing material components.
