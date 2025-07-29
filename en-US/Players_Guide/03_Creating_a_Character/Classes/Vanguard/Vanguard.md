@@ -106,6 +106,7 @@ You can cure multiple diseases and neutralize multiple poisons with a single use
 This feature has no effect on undead and constructs.
 
 ###### Fighting Style (2nd Level) {#Vanguard_fighting_style}
+
 You adopt a style of fighting as your specialty.
 Choose one of the options listed [at the end of the class description](#Vanguard_fighting_styles_list).
 You can’t take a Fighting Style option more than once, even if you later get to choose again.
@@ -163,13 +164,15 @@ The divine magic flowing through you makes you immune to disease.
 
 You swear the oath that binds you as a Vanguard forever.
 Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it.
-Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
+Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level.
+Those features include oath spells and the Channel Divinity feature.
 
 **Oath Spells**
 \
 Each oath has a list of associated spells.
 You gain access to these spells at the levels specified in the oath description.
-Once you gain access to an oath spell, you always have it prepared. Oath spells don’t count against the number of spells you can prepare each day.
+Once you gain access to an oath spell, you always have it prepared.
+Oath spells don’t count against the number of spells you can prepare each day.
 
 If you gain an oath spell that doesn’t appear on the Vanguard spell list, the spell is nonetheless a Vanguard spell for you.
 
@@ -192,7 +195,9 @@ At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two a
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ###### Aura of Protection (6th & 18th Level) {#Vanguard_aura_of_protection}
-Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
+
+Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1).
+You must be conscious to grant this bonus.
 At 18th level, the range of this aura increases to 30 feet.
 
 ###### Aura of Courage (10th & 18th Level) {#Vanguard_aura_of_courage}

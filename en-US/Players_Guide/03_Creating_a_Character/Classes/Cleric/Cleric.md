@@ -74,7 +74,8 @@ As a conduit for divine power, you can cast Cleric spells.
 
 **Cantrips**
 \
-At 1st level, you know three cantrips of your choice from the Cleric spell list. You learn additional Cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the [Cleric table](#Cleric_the_cleric_table).
+At 1st level, you know three cantrips of your choice from the Cleric spell list.
+You learn additional Cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the [Cleric table](#Cleric_the_cleric_table).
 \
 **Preparing and Casting Spells**
 \
@@ -151,7 +152,8 @@ Each undead that can pinpoint you within 30 feet of you must make a Wisdom savin
 If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
 A turned creature must spend its turns trying to move as far away from you as it can, and it can’t willingly move to a space within 30 feet of you.
-It also can’t take reactions. For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving.
+It also can’t take reactions.
+For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving.
 If there’s nowhere to move, the creature can use the Dodge action.
 
 ###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Cleric_asi}

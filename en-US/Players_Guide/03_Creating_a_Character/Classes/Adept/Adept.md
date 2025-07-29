@@ -99,7 +99,8 @@ You gain the following benefits while you are unarmed or wielding only Adept wea
 - When you use the Attack action with an unarmed strike or an Adept weapon on your turn, you can make one unarmed strike as a bonus action.
   For example, if you take the Attack action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
 
-Certain monasteries use specialized forms of the Adept weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
+Certain monasteries use specialized forms of the Adept weapons.
+For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
 Whatever name you use for an Adept weapon, you can use the game statistics provided for the weapon.
 
 ###### Focus (2nd Level) {#Adept_focus}
@@ -108,7 +109,8 @@ Your training allows you to harness the mystic energy of focus points.
 Your access to this energy is represented by a number of focus points.
 Your Adept level determines the number of points you have, as shown in the Focus Points column of the [Adept table](#Adept_the_adept_table).
 
-You can spend these points to fuel various focus features. You start knowing three such features: _Flurry of Blows_, Patient Defense_, and _Step of the Wind_.
+You can spend these points to fuel various focus features.
+You start knowing three such features: _Flurry of Blows_, Patient Defense_, and _Step of the Wind_.
 
 - **Flurry of Blows (1 focus point).**
   Immediately after you take the Attack action on your turn, make two unarmed strikes as a bonus action.

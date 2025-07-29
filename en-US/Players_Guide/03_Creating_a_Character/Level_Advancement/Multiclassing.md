@@ -1,7 +1,8 @@
 #### Multiclassing
 
 Multiclassing lets you gain levels in multiple classes, mixing their abilities to create unique character concepts.
-You can gain a level in a new class whenever you advance, instead of your current class. Levels in all classes add up to determine your character level.
+You can gain a level in a new class whenever you advance, instead of your current class.
+Levels in all classes add up to determine your character level.
 For instance, three Wizard levels and two Fighter levels make you a 5th-level character.
 
 As you level up, you may stay in your original class with a few levels in another, or change course entirely.

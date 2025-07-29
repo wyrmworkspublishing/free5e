@@ -95,7 +95,8 @@ Drawing on the divine essence of nature itself, you can cast spells to shape tha
 
 **Cantrips**
 \
-At 1st level, you know two cantrips of your choice from the Wodewose spell list. You learn additional Wodewose cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wodewose table.
+At 1st level, you know two cantrips of your choice from the Wodewose spell list.
+You learn additional Wodewose cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Wodewose table.
 
 **Preparing and Casting Spells**
 \

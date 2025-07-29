@@ -1,6 +1,7 @@
 ### Exploration
 
-Exploration is more than just travel; it’s the thrill of the unknown. Adventurers face environmental challenges, solve mysteries, and adapt to changing landscapes.
+Exploration is more than just travel; it’s the thrill of the unknown.
+Adventurers face environmental challenges, solve mysteries, and adapt to changing landscapes.
 
 [**Time**](./Exploration_Time.md)
 

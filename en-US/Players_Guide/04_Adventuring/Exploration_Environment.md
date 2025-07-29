@@ -63,7 +63,8 @@ Even gloomy days provide bright light, as do torches, lanterns, fires, and other
 
 **Dim light**, also called shadows, creates a lightly obscured area.
 An area of dim light is usually a boundary between a source of bright light, such as a torch, and surrounding darkness.
-The soft light of twilight and dawn also counts as dim light. A particularly brilliant full moon might bathe the land in dim light.
+The soft light of twilight and dawn also counts as dim light.
+A particularly brilliant full moon might bathe the land in dim light.
 
 **Darkness** creates a heavily obscured area.
 Characters face darkness outdoors at night (even most moonlit nights), within the confines of an unlit dungeon or a subterranean vault, or in an area of magical darkness.
@@ -76,7 +77,9 @@ However, the creature can’t discern color in darkness, only shades of gray.
 
 ##### Parasense
 
-A creature with parasense can pinpoint and observe its surroundings within a defined area (e.g., 60 ft. cone) without using sight. This sense relies on a supporting sense such as echolocation or sensitivity to air pressure, heat, electrical fields, or magical cues and may be disrupted by effects that interfere with that sense (e.g., Silence for echolocation, strong wind for air pressure). Parasense reveals position and general features but not fine detail.
+A creature with parasense can pinpoint and observe its surroundings within a defined area (e.g., 60 ft. cone) without using sight.
+This sense relies on a supporting sense such as echolocation or sensitivity to air pressure, heat, electrical fields, or magical cues and may be disrupted by effects that interfere with that sense (e.g., Silence for echolocation, strong wind for air pressure).
+Parasense reveals position and general features but not fine detail.
 
 ##### Truesight
 

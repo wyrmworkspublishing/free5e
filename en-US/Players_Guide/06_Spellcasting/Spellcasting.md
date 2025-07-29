@@ -150,7 +150,8 @@ Some spells require concentration to maintain their magic.
 If you lose concentration, the spell ends.
 If a spell needs concentration, its Duration entry specifies how long you can concentrate.
 You can end concentration anytime.
-Normal activity doesn’t interfere. The following can break concentration:
+Normal activity doesn’t interfere.
+The following can break concentration:
 
 - **Casting another spell that requires concentration.**
   You lose concentration on a spell if you cast another spell that requires concentration.
@@ -183,7 +184,8 @@ If you’re in the spell’s area of effect, you can target yourself.
 #### Areas of Effect
 
 Spells like Burning Hands and Cone of Cold cover an area, affecting multiple creatures.
-The spell’s description specifies its area of effect, which can be a cone, cube, cylinder, line, or sphere. Each shape has a point of origin, from which the spell’s energy erupts.
+The spell’s description specifies its area of effect, which can be a cone, cube, cylinder, line, or sphere.
+Each shape has a point of origin, from which the spell’s energy erupts.
 The rules specify how to position the point of origin.
 It’s usually a point in space, but some spells have a creature or object as the origin.
 The effect expands in straight lines from the origin.

@@ -58,7 +58,8 @@ If you are hidden, not sensed at all, you reveal your location when you make an 
 ##### Ranged Attacks
 
 When you make a ranged attack, you fire a bow or a crossbow, hurl a handaxe, or otherwise send projectiles to strike a foe at a distance.
-A monster might shoot spines from its tail. Many spells also involve making a ranged attack.
+A monster might shoot spines from its tail.
+Many spells also involve making a ranged attack.
 
 ###### Range
 

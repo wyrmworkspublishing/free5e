@@ -152,7 +152,9 @@ If your total for a Strength check is less than your Strength score, you can use
 
 ###### Primal Champion (20th Level) {#Dreadnought_primal_champion}
 
-You embody the power of the wilds. Your Strength and Constitution scores increase by 4. Your maximum for those scores is now 24.
+You embody the power of the wilds.
+Your Strength and Constitution scores increase by 4.
+Your maximum for those scores is now 24.
 
 ##### Dreadnought Paths
 

@@ -4,7 +4,8 @@ Many weapons have special properties related to their use, as shown in the Weapo
 \
 **Ammunition.**
 You can use a ranged weapon with ammunition only if you have ammunition.
-Each attack uses one piece of ammunition. Drawing ammunition from a container is part of the attack.
+Each attack uses one piece of ammunition.
+Drawing ammunition from a container is part of the attack.
 You can recover half your expended ammunition by searching the battlefield at the end of the battle.
 
 If you use a ranged weapon with ammunition for a melee attack, treat it as an improvised weapon.
@@ -26,7 +27,8 @@ Because of the time required to load this weapon, you can fire only one piece of
 \
 **Range.**
 A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property.
-The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range.
+The range lists two numbers.
+The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range.
 When attacking a target beyond normal range, you have disadvantage on the attack roll.
 You can’t attack a target beyond the weapon’s long range.
 \
