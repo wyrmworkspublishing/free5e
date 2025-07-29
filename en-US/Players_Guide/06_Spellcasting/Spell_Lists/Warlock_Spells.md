@@ -55,13 +55,13 @@
 - [Banishment](#Banishment_banishment) (concentration)
 - [Blight](#Blight_blight)
 - [Charm Monster](#Charm_Monster_charm_monster)
-- Dimension Door
+- [Dimension Door](#Dimension_Door_dimension_door)
 - Hallucinatory Terrain
 
 ##### 5th Level
 
 - [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
-- Dream
+- [Dream](#Dream)
 - Hold Monster (concentration)
 - Mislead (concentration)
 - Planar Binding
@@ -89,8 +89,8 @@
 
 <!-- spell-checker:words Feeblemind -->
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
-- Demiplane
-- Dominate Monster (concentration)
+- [Demiplane](#Demiplane_demiplane)
+- [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - Glibness
 - Power Word Stun
 

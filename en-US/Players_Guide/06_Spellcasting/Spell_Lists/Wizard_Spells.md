@@ -5,7 +5,7 @@
 
 - [Acid Splash](#Acid_Splash_acid_splash)
 - [Chill Touch](#Chill_Touch_chill_touch)
-- Dancing Lights (concentration)
+- [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - Fire Bolt
 - Light
 - Mage Hand
@@ -25,8 +25,8 @@
 - [Charm Person](#Charm_Person_charm_person)
 - [Color Spray](#Color_Spray_color_spray)
 - [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
-- Detect Magic (ritual, concentration)
-- Disguise Self
+- [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
+- [Disguise Self](#Disguise_Self_disguise_self)
 - Expeditious Retreat (concentration)
 - False Life
 - Feather Fall
@@ -59,8 +59,8 @@
 - [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
 - [Continual Flame](#Continual_Flame_continual_flame)
 - [Darkness](#Darkness_darkness) (concentration)
-- Darkvision
-- Detect Thoughts (concentration)
+- [Darkvision](#Darkvision_darkvision)
+- [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
 - [DT's Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist's Magic Aura --> (concentration)
 - Enhance Ability (concentration)
 - Enlarge/Reduce (concentration)
@@ -129,8 +129,8 @@
 - [Conjure Minor Elementals](#Conjure_Minor_Elementals_conjure_minor_elementals) (concentration)
 - [Control Water](#Control_Water_control_water) (concentration)
 - [Coreador's Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
-- Dimension Door
-- Divination (ritual)
+- [Dimension Door](#Dimension_Door_dimension_door)
+- [Divination](#Divination_divination) (ritual)
 - Fabricate
 - Fire Shield
 - Greater Invisibility (concentration)
@@ -153,8 +153,8 @@
 - [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
 - [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
 - [Creation](#Creation_creation)
-- Dominate Person (concentration)
-- Dream
+- [Dominate Person](#Dominate_Person_dominate_person) (concentration)
+- [Dream](#Dream)
 - Geas
 - Hold Monster (concentration)
 - Legend Lore
@@ -177,7 +177,7 @@
 - [Circle of Death](#Circle_of_Death_circle_of_death)
 - [Contingency](#Contingency_contingency)
 - [Create Undead](#Create_Undead_create_undead)
-- Disintegrate
+- [Disintegrate](#Disintegrate_disintegrate)
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - Eyebite (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
@@ -196,7 +196,7 @@
 ##### 7th Level
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- Delayed Blast Fireball (concentration)
+- [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
 - Etherealness
 - Finger of Death
 - Forcecage
@@ -219,8 +219,8 @@
 - [Clone](#Clone)
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - [Control Weather](#Control_Weather_control_weather) (concentration)
-- Demiplane
-- Dominate Monster (concentration)
+- [Demiplane](#Demiplane_demiplane)
+- [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - Incendiary Cloud (concentration)
 - Maze (concentration)
 - Mind Blank

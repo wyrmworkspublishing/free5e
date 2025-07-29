@@ -145,11 +145,53 @@
 
 [Cure Wounds](./Spell_Descriptions/C/Cure_Wounds.md)
 
-[Darkness](./Spell_Descriptions/Darkness.md)
+[Dancing Lights](./Spell_Descriptions/D/Dancing_Lights.md)
 
-[Dispel Magic](./Spell_Descriptions/Dispel_Magic.md)
+[Darkness](./Spell_Descriptions/D/Darkness.md)
 
-[DT's Magic Aura](./Spell_Descriptions/DTs_Magic_Aura.md)
+[Darkvision](./Spell_Descriptions/D/Darkvision.md)
+
+[Daylight](./Spell_Descriptions/D/Daylight.md)
+
+[Death Ward](./Spell_Descriptions/D/Death_Ward.md)
+
+[Delayed Blast Fireball](./Spell_Descriptions/D/Delayed_Blast_Fireball.md)
+
+[Demiplane](./Spell_Descriptions/D/Demiplane.md)
+
+[Detect Evil and Good](./Spell_Descriptions/D/Detect_Evil_and_Good.md)
+
+[Detect Magic](./Spell_Descriptions/D/Detect_Magic.md)
+
+[Detect Poison and Disease](./Spell_Descriptions/D/Detect_Poison_and_Disease.md)
+
+[Detect Thoughts](./Spell_Descriptions/D/Detect_Thoughts.md)
+
+[Dimension Door](./Spell_Descriptions/D/Dimension_Door.md)
+
+[Disguise Self](./Spell_Descriptions/D/Disguise_Self.md)
+
+[Disintegrate](./Spell_Descriptions/D/Disintegrate.md)
+
+[Dispel Evil and Good](./Spell_Descriptions/D/Dispel_Evil_and_Good.md)
+
+[Dispel Magic](./Spell_Descriptions/D/Dispel_Magic.md)
+
+[Divination](./Spell_Descriptions/D/Divination.md)
+
+[Divine Favor](./Spell_Descriptions/D/Divine_Favor.md)
+
+[Divine Word](./Spell_Descriptions/D/Divine_Word.md)
+
+[Dominate Beast](./Spell_Descriptions/D/Dominate_Beast.md)
+
+[Dominate Monster](./Spell_Descriptions/D/Dominate_Monster.md)
+
+[Dominate Person](./Spell_Descriptions/D/Dominate_Person.md)
+
+[Dream](./Spell_Descriptions/D/Dream.md)
+
+[DT's Magic Aura](./Spell_Descriptions/D/DTs_Magic_Aura.md)
 
 [Emma's Irresistible Dance](./Spell_Descriptions/Emmas_Irresistible_Dance.md)
 

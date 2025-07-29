@@ -17,8 +17,8 @@
 - [Charm Person](#Charm_Person_charm_person)
 - [Create or Destroy Water](#Create_or_Destroy_Water_create_or_destroy_water)
 - [Cure Wounds](#Cure_Wounds_cure_wounds)
-- Detect Magic (ritual, concentration)
-- Detect Poison and Disease (ritual, concentration)
+- [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
+- [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (ritual, concentration)
 - Entangle (concentration)
 - Faerie Fire (concentration)
 - Fog Cloud (concentration)
@@ -38,7 +38,7 @@
 - [Augury](#Augury_augury) (ritual)
 - [Barkskin](#Barkskin_barkskin) (concentration)
 - [Continual Flame](#Continual_Flame_continual_flame)
-- Darkvision
+- [Darkvision](#Darkvision_darkvision)
 - Enhance Ability (concentration)
 - Enlarge/Reduce (concentration)
 - Find Traps
@@ -59,7 +59,7 @@
 
 - [Call Lightning](#Call_Lightning_call_lightning) (concentration)
 - [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
-- Daylight
+- [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Meld into Stone (ritual)
 - Plant Growth
@@ -79,8 +79,8 @@
 - [Conjure Minor Elementals](#Conjure_Minor_Elementals_conjure_minor_elementals) (concentration)
 - [Conjure Woodland Beings](#Conjure_Woodland_Beings_conjure_woodland_beings) (concentration)
 - [Control Water](#Control_Water_control_water) (concentration)
-- Divination (ritual)
-- Dominate Beast (concentration)
+- [Divination](#Divination_divination) (ritual)
+- [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
 - Fire Shield
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Giant Insect (concentration)

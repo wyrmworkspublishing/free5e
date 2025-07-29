@@ -5,7 +5,7 @@
 
 - [Acid Splash](#Acid_Splash_acid_splash)
 - [Chill Touch](#Chill_Touch_chill_touch)
-- Dancing Lights (concentration)
+- [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - Fire Bolt
 - Light
 - Mage Hand
@@ -24,8 +24,8 @@
 - [Charm Person](#Charm_Person_charm_person)
 - [Color Spray](#Color_Spray_color_spray)
 - [Comprehend Languages](#Comprehend_Languages_comprehend_languages)
-- Detect Magic (concentration)
-- Disguise Self
+- [Detect Magic](#Detect_Magic_detect_magic) (concentration)
+- [Disguise Self](#Disguise_Self_disguise_self)
 - Expeditious Retreat (concentration)
 - False Life
 - Feather Fall
@@ -45,8 +45,8 @@
 - [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Blur](#Blur_blur) (concentration)
 - [Darkness](#Darkness_darkness) (concentration)
-- Darkvision
-- Detect Thoughts (concentration)
+- [Darkvision](#Darkvision_darkvision)
+- [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
 - Enhance Ability (concentration)
 - Enlarge/Reduce (concentration)
 - Flame Blade (concentration)
@@ -71,7 +71,7 @@
 - [Blink](#Blink_blink)
 - [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
 - [Counterspell](#Counterspell_counterspell)
-- Daylight
+- [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)
 - Fireball
@@ -96,8 +96,8 @@
 - [Blight](#Blight_blight)
 - [Charm Monster](#Charm_Monster_charm_monster)
 - [Confusion](#Confusion_confusion) (concentration)
-- Dimension Door
-- Dominate Beast (concentration)
+- [Dimension Door](#Dimension_Door_dimension_door)
+- [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
 - Fire Shield
 - Greater Invisibility (concentration)
 - Ice Storm
@@ -111,7 +111,7 @@
 - [Cloudkill](#Cloudkill) (concentration)
 - [Cone of Cold](#Cone_of_Cold_cone_of_cold)
 - [Creation](#Creation_creation)
-- Dominate Person (concentration)
+- [Dominate Person](#Dominate_Person_dominate_person) (concentration)
 - Hold Monster (concentration)
 - Insect Plague (concentration)
 - [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
@@ -124,7 +124,7 @@
 
 - [Chain Lightning](#Chain_Lightning_chain_lightning)
 - [Circle of Death](#Circle_of_Death_circle_of_death)
-- Disintegrate
+- [Disintegrate](#Disintegrate_disintegrate)
 - Eyebite (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - Flesh to Stone (concentration)
@@ -136,7 +136,7 @@
 
 ##### 7th Level
 
-- Delayed Blast Fireball (concentration)
+- [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
 - Etherealness
 - Finger of Death
 - Fire Storm
@@ -147,8 +147,8 @@
 
 ##### 8th Level
 
-- Demiplane
-- Dominate Monster (concentration)
+- [Demiplane](#Demiplane_demiplane)
+- [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - Earthquake (concentration)
 - Incendiary Cloud (concentration)
 - Power Word Stun

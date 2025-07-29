@@ -19,9 +19,9 @@
 - [Command](#Command_command)
 - [Create or Destroy Water](#Create_or_Destroy_Water_create_or_destroy_water)
 - [Cure Wounds](#Cure_Wounds_cure_wounds)
-- Detect Evil and Good (concentration)
-- Detect Magic (ritual, concentration)
-- Detect Poison and Disease (ritual, concentration)
+- [Detect Evil and Good](#Detect_Evil_and_Good_detect_evil_and_good) (concentration)
+- [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
+- [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (ritual, concentration)
 - Guiding Bolt
 - Healing Word
 - Inflict Wounds
@@ -57,7 +57,7 @@
 - [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
 - [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
 - [Create Food and Water](#Create_Food_and_Water_create_food_and_water)
-- Daylight
+- [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Glyph of Warding
 - Magic Circle
@@ -76,8 +76,8 @@
 
 - [Banishment](#Banishment_banishment) (concentration)
 - [Control Water](#Control_Water_control_water) (concentration)
-- Death Ward
-- Divination (ritual)
+- [Death Ward](#Death_Ward_death_ward)
+- [Divination](#Divination_divination) (ritual)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Guardian of Faith](#Guardian_of_Faith_guardian_of_faith)
 - Locate Creature (concentration)
@@ -87,7 +87,7 @@
 
 - [Commune](#Commune_commune) (ritual)
 - [Contagion](#Contagion_contagion)
-- Dispel Evil and Good (concentration)
+- [Dispel Evil and Good](#Dispel_Evil_and_Good_dispel_evil_and_good) (concentration)
 - [Flame Strike](#Flame_Strike_flame_strike)
 - Geas
 - Greater Restauration
@@ -116,7 +116,7 @@
 ##### 7th Level
 
 - [Conjure Celestial](#Conjure_Celestial_conjure_celestial) (concentration)
-- Divine Word
+- [Divine Word](#Divine_Word_divine_word)
 - Etherealness
 - Fire Storm
 - Plane Shift

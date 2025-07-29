@@ -3,7 +3,7 @@
 
 ##### Cantrips (0 Level)
 
-- Dancing Lights (concentration)
+- [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - Light
 - Mage Hand
 - Mending
@@ -22,8 +22,8 @@
 - [Command](#Command_command)
 - [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
 - [Cure Wounds](#Cure_Wounds_cure_wounds)
-- Detect Magic (ritual, concentration)
-- Disguise Self
+- [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
+- [Disguise Self](#Disguise_Self_disguise_self)
 - Faerie Fire (concentration)
 - Feather Fall
 - Healing Word
@@ -44,7 +44,7 @@
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
 - [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
-- Detect Thoughts (concentration)
+- [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
 - Enhance Ability (concentration)
 - Enlarge/Reduce (concentration)
 - Enthrall
@@ -88,7 +88,7 @@
 - [Charm Monster](#Charm_Monster_charm_monster)
 - [Compulsion](#Compulsion_compulsion)
 - [Confusion](#Confusion_confusion) (concentration)
-- Dimension Door
+- [Dimension Door](#Dimension_Door_dimension_door)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Greater Invisibility (concentration)
 - Hallucinatory Terrain
@@ -100,8 +100,8 @@
 
 - [Animate Objects](#Animate_Objects_animate_objects) (concentration)
 - [Awaken](#Awaken_awaken)
-- Dominate Person (concentration)
-- Dream
+- [Dominate Person](#Dominate_Person_dominate_person) (concentration)
+- [Dream](#Dream)
 - Geas
 - Greater Restoration
 - Hold Monster (concentration)
@@ -145,7 +145,7 @@
 <!-- spell-checker:words Feeblemind -->
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
-- Dominate Monster (concentration)
+- [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - Glibness
 - Mind Blank
 - Power Word Stun
