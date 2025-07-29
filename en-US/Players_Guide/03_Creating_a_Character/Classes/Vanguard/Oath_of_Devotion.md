@@ -44,7 +44,7 @@ ___
 
 ###### Channel Divinity (3rd Level)
 
-When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+You gain the following two Channel Divinity options.
 
 **Sacred Weapon.**
 As an action, you can imbue one weapon that you are holding with positive energy, using your Channel Divinity.
@@ -71,11 +71,11 @@ Starting at 7th level, you and friendly creatures within 10 feet of you can’t 
 At 18th level, the range of this aura increases to 30 feet.
 
 ###### Purity of Spirit (15th Level)
-Beginning at 15th level, you are always under the effects of a [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) spell.
+You are always under the effects of a [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) spell.
 
 ###### Holy Nimbus (20th Level)
 
-At 20th level, as an action, you can emanate an aura of sunlight.
+As an action, you can emanate an aura of sunlight.
 For 1 minute, bright light shines from you in a 30-foot radius, and dim light shines 30 feet beyond that.
 
 Whenever an enemy creature starts its turn in the bright light, the creature takes 10 radiant damage.
