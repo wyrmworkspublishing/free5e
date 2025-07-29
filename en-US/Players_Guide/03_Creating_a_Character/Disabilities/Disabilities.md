@@ -16,3 +16,8 @@ Here are three methods to achieve this:
    Also consider the drawbacks of assistive devices, which don’t erase the disability but may offer advantages like characters in wheelchairs being less likely to fall on ice.
    Finally, consider adding fantasy benefits to devices like attacks, defenses, or other powers.
    _Limitless Heroics - Including Characters with Disabilities, Mental Illness, and Neurodivergence in Fifth Edition_ by Wyrmworks Publishing offers comprehensive examples.
+
+**Assistive Items.**
+If you use trait and assistance mechanics, assistive items appear in the [Equipment](#Equipment_equipment) section under [Assistive Items](#Assistive_Items_assistive_items).
+These items support characters in navigating the game with disability traits and include both mundane and magical tools.
+They do not negate the disability but help the character adapt or access their environment in new ways.

@@ -36,9 +36,3 @@ _Character Advancement (table)_
 ___
 
 [**Multiclassing**](./Multiclassing.md)
-
-[**Alignment**](./Alignment.md)
-
-[**Languages**](./Languages.md)
-
-[**Feats**](./Feats.md)

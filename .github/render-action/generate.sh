@@ -85,6 +85,7 @@ function convert_asciidoc_to_html {
       -a stylesdir="${css_filesdir}" \
       -a stylesheet=free5e.css \
       -a toc=left \
+      -a toclevels=3 \
       "${adoc_filepath}" \
       -o "${html_filepath}"
 }

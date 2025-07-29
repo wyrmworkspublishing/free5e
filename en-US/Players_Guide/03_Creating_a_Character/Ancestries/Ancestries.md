@@ -1,6 +1,7 @@
 ### Ancestries
 
 #### Ancestral Traits
+Your ancestry is usually determined by who your parents were.
 The description of each ancestry includes inherited traits that are common to members of that ancestry.
 The following entries appear among the traits of most ancestries.
 Some ancestries have variants with traits of the parent ancestry and variant-specific traits.

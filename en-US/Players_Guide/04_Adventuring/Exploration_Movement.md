@@ -1,4 +1,4 @@
-#### Time
+#### Movement
 
 Swimming, sneaking, scaling—movement plays a key role in fantasy gaming adventures.
 

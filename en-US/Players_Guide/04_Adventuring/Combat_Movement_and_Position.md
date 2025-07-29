@@ -52,7 +52,7 @@ To move while prone, you must crawl or use magic such as teleportation.
 Every foot of movement while crawling costs 1 extra foot.
 Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
-> **Interacting with Objects Around You** {#Combat_Movement_and_Position_interacting_with_objects}
+> **Interacting with Objects Around You**
 >
 > Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
 >
