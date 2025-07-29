@@ -265,38 +265,38 @@
 
 [Friends](./Spell_Descriptions/F/Friends.md)
 
-[Guardian of Faith](./Spell_Descriptions/Guardian_of_Faith.md)
+[Guardian of Faith](./Spell_Descriptions/G/Guardian_of_Faith.md)
 
-[Hellish Rebuke](./Spell_Descriptions/Hellish_Rebuke.md)
+[Hellish Rebuke](./Spell_Descriptions/H/Hellish_Rebuke.md)
 
-[Hex](./Spell_Descriptions/Hex.md)
+[Hex](./Spell_Descriptions/H/Hex.md)
 
-[Iz’zart's Swarm Limb](./Spell_Descriptions/Izzarts_Swarm_Limb.md)
+[Iz’zart's Swarm Limb](./Spell_Descriptions/I/Izzarts_Swarm_Limb.md)
 
-[Jess's Private Sanctum](./Spell_Descriptions/Jesss_Private_Sanctum.md)
+[Jess's Private Sanctum](./Spell_Descriptions/J/Jesss_Private_Sanctum.md)
 
-[Katy's Spectral Sword](./Spell_Descriptions/Katys_Spectral_Sword.md)
+[Katy's Spectral Sword](./Spell_Descriptions/K/Katys_Spectral_Sword.md)
 
-[Lesser Restoration](./Spell_Descriptions/Lesser_Restoration.md)
+[Lesser Restoration](./Spell_Descriptions/L/Lesser_Restoration.md)
 
-[Melestrua's Marvelous Marquee](./Spell_Descriptions/Melestruas_Marvelous_Marquee.md)
+[Melestrua's Marvelous Marquee](./Spell_Descriptions/M/Melestruas_Marvelous_Marquee.md)
 
-[Morscheck's Hand](./Spell_Descriptions/Morschecks_Hand.md)
+[Morscheck's Hand](./Spell_Descriptions/M/Morschecks_Hand.md)
 
-[Naturecraft](./Spell_Descriptions/Naturecraft.md)
+[Naturecraft](./Spell_Descriptions/N/Naturecraft.md)
 
-[Natalex's Instant Summons](./Spell_Descriptions/Natalexs_Instant_Summons.md)
+[Natalex's Instant Summons](./Spell_Descriptions/N/Natalexs_Instant_Summons.md)
 
-[Paoliello's Hideous Laughter](./Spell_Descriptions/Paoliellos_Hideous_Laughter.md)
+[Paoliello's Hideous Laughter](./Spell_Descriptions/P/Paoliellos_Hideous_Laughter.md)
 
-[Pelham's Hovering Platter](./Spell_Descriptions/Pelhams_Hovering_Platter.md)
+[Pelham's Hovering Platter](./Spell_Descriptions/P/Pelhams_Hovering_Platter.md)
 
-[Protection from Evil and Good](./Spell_Descriptions/Protection_from_Evil_and_Good.md)
+[Protection from Evil and Good](./Spell_Descriptions/P/Protection_from_Evil_and_Good.md)
 
-[Rantock's Telepathic Bond](./Spell_Descriptions/Rantocks_Telepathic_Bond.md)
+[Rantock's Telepathic Bond](./Spell_Descriptions/R/Rantocks_Telepathic_Bond.md)
 
-[Sanctuary](./Spell_Descriptions/Sanctuary.md)
+[Sanctuary](./Spell_Descriptions/S/Sanctuary.md)
 
-[Thaumaturgy](./Spell_Descriptions/Thaumaturgy.md)
+[Thaumaturgy](./Spell_Descriptions/T/Thaumaturgy.md)
 
-[Zone of Truth](./Spell_Descriptions/Zone_of_Truth.md)
+[Zone of Truth](./Spell_Descriptions/Z/Zone_of_Truth.md)
