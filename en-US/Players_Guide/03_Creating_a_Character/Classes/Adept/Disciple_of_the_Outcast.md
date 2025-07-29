@@ -1,6 +1,9 @@
 ##### Discipline of the Outcast
 
-An Outcast is an Adept that has lost their Way. Trained in the basics of the style, they have abandoned the rigorous discipline and philosophy of their tradition, and are usually now enrolled only in the school of hard knocks. Having been trained in the fundamentals of the art of focus points, these Adepts choose as often as not to apply that art to tavern brawls and street fights. Much to the horror of many more formal Adepts, their rough and tumble lifestyle tends to be a solid source of further training.
+An Outcast is an Adept that has lost their Way.
+Trained in the basics of the style, they have abandoned the rigorous discipline and philosophy of their tradition, and are usually now enrolled only in the school of hard knocks.
+Having been trained in the fundamentals of the art of focus points, these Adepts choose as often as not to apply that art to tavern brawls and street fights.
+Much to the horror of many more formal Adepts, their rough and tumble lifestyle tends to be a solid source of further training.
 
 > **How Outcasts Come to Be**
 > \
@@ -32,7 +35,8 @@ You gain the following additional Pragmatic Techniques you can spend focus on.
 - **Kick 'em While They’re Down (1 focus point).**
   When you hit a target that is prone, restrained, or incapacitated, you can expend a focus point to deal additional damage equal to two rolls of your Martial Arts die.
 - **Unexpected Technique (1 focus point).**
-  When you make a grapple check, you can expend a focus point to add your Martial Arts die to the roll. You can do this after the contested roll, and it can potentially turn a failure into a success.
+  When you make a grapple check, you can expend a focus point to add your Martial Arts die to the roll.
+  You can do this after the contested roll, and it can potentially turn a failure into a success.
   On success, the target takes damage equal to the amount rolled on the added die.
 
 ###### Soak It Up (6th Level)

@@ -8,7 +8,8 @@ Its members consider themselves stewards of draconic wisdom and tradition.
 You gain expertise on Charisma checks made to influence dragon creatures.
 \
 **Dragonbound Teachings.**
-You know one cantrip of your choice from the [Cleric](#Cleric_Spells_cleric_spells) or [Wizard spell lists](#Wizard_Spells_wizard_spells). Your spellcasting ability for this cantrip is Intelligence or Wisdom (whichever is highest).
+You know one cantrip of your choice from the [Cleric](#Cleric_Spells_cleric_spells) or [Wizard spell lists](#Wizard_Spells_wizard_spells).
+Your spellcasting ability for this cantrip is Intelligence or Wisdom (whichever is highest).
 \
 **Progenitor’s Boon.**
 Choose one of the following:

@@ -30,6 +30,7 @@ If the total equals or exceeds the DC, the ability check is a success—the crea
 Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the Conductor.
 
 ##### Contests
+
 When characters or monsters oppose each other, a contest determines the outcome.
 Both make ability checks for their efforts, applying bonuses and penalties.
 Instead of comparing totals to a DC, they compare their check totals.
@@ -37,16 +38,19 @@ The participant with the higher total wins.
 This character succeeds or prevents the other from succeeding.
 
 If the contest results in a tie, the situation remains unchanged.
-One contestant may win by default. For instance, if two characters tie in a contest to grab a ring, neither succeeds.
+One contestant may win by default.
+For instance, if two characters tie in a contest to grab a ring, neither succeeds.
 In a contest between a monster and an adventurer, a tie keeps the door shut.
 
 ##### Skills
+
 Each ability covers various capabilities, including proficiencies in skills.
 A skill represents a specific aspect of an ability score, and proficiency indicates focus on that aspect.
 Characters’ starting skill proficiencies are determined at creation, while monsters’ proficiencies appear in their stat blocks.
 
 For instance, a Dexterity check could reflect acrobatics, palming, or hiding.
-Each aspect has an associated skill: Acrobatics, Sleight of Hand, and Stealth. Proficiency in Stealth enhances Dexterity checks related to sneaking and hiding.
+Each aspect has an associated skill: Acrobatics, Sleight of Hand, and Stealth.
+Proficiency in Stealth enhances Dexterity checks related to sneaking and hiding.
 
 The skills typically related to each ability score are listed below.
 See an ability’s description for examples of skill usage.
@@ -99,6 +103,7 @@ In this case, you can apply Athletics proficiency and ask for a Constitution (At
 Similarly, when your dwarf Dreadnought uses raw strength to intimidate an enemy, your Conductor might ask for a Strength (Intimidation) check, despite Intimidation being usually associated with Charisma.
 
 ##### Passive Checks
+
 A passive check is a special kind of ability check that doesn’t involve any die rolls.
 Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the Conductor wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster (passive [Wisdom (Perception)](#Using_Wisdom_wisdom_checks)), noticing that someone is acting suspicious (passive [Wisdom (Insight)](#Using_Wisdom_wisdom_checks)), or noticing something out of place (passive [Intelligence (Investigation)](#Using_Intelligence_intelligence)).
 
@@ -109,7 +114,8 @@ Here’s how to determine a character’s total for a passive check:
 ```
 
 If the character has advantage on the check, add 5.
-For disadvantage, subtract 5. The game refers to a passive check total as a score.
+For disadvantage, subtract 5.
+The game refers to a passive check total as a score.
 
 For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perception, they have a passive Wisdom (Perception) score of 14.
 

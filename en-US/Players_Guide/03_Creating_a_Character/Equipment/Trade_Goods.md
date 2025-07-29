@@ -5,7 +5,8 @@ Most wealth isn’t in coins but in livestock, grain, land, tax rights, or resou
 Guilds, nobles, and royalty regulate trade.
 Chartered companies get rights to trade routes, ports, or goods.
 Guilds set prices and control who offers goods.
-Merchants often trade without currency. The Trade Goods table shows common trade goods’ values.
+Merchants often trade without currency.
+The Trade Goods table shows common trade goods’ values.
 
 ##### Trade Goods (table)
 

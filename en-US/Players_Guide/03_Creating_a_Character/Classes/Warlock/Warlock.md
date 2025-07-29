@@ -161,7 +161,8 @@ The beings that serve as patrons for Warlocks are mighty inhabitants of other pl
 Various patrons give their Warlocks access to different powers and invocations, and expect significant favors in return.
 
 Some patrons collect Warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will.
-Other patrons bestow their power only grudgingly, and might make a pact with only one Warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
+Other patrons bestow their power only grudgingly, and might make a pact with only one Warlock.
+Warlocks who serve the same patron might view each other as allies, siblings, or rivals.
 
 [**The Fiend**](./The_Fiend.md)
 

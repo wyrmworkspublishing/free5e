@@ -11,7 +11,8 @@ Some, particularly those rare individuals that channel metallic colors, may be e
 
 When you enter a rage, you can choose to make your Rage bonus damage deal elemental damage matching your draconic type (shown on the table below).
 
-Additionally, when you enter a rage you can take on aspects of a draconic entity, growing vicious natural weapons as claws grow from your hands, fangs sprout from your maw, and a vicious lashing tail grows from your back. Your claws deal 1d4 slashing damage.
+Additionally, when you enter a rage you can take on aspects of a draconic entity, growing vicious natural weapons as claws grow from your hands, fangs sprout from your maw, and a vicious lashing tail grows from your back.
+Your claws deal 1d4 slashing damage.
 Your fangs deal 1d8 piercing damage, and your lashing tail deals 1d6 bludgeoning damage and has the reach property.
 
 Whenever you attack with one of these natural weapons using the Attack action on your turn, if you are not carrying any weapon or shield, you can make a single unarmed strike with your claws as a bonus action.
@@ -48,8 +49,12 @@ The natural weapons you gain while raging now count as magical for the purpose o
 
 ###### Dragonhide (10th Level)
 
-The marks of your Draconic path now remain outside of your rage, manifesting as heavy scales that grant you resistance to bludgeoning, piercing, and slashing damage from nonmagical sources even when you are not raging. Additionally, you gain resistance to your dragon color’s elemental type even when you are not raging.
+The marks of your Draconic path now remain outside of your rage, manifesting as heavy scales that grant you resistance to bludgeoning, piercing, and slashing damage from nonmagical sources even when you are not raging.
+Additionally, you gain resistance to your dragon color’s elemental type even when you are not raging.
 
 ###### Tyrant of the Skies
-When you enter a rage, you can sprout massive dragon wings from your back. If you are not wearing heavy armor, you gain a flying speed equal to your movement speed.
-If you choose to manifest natural weapons and wings when you enter a rage, you can choose to entirely take on a draconic form while raging, becoming Large sized. When you take on a full draconic form, you choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it.
+
+When you enter a rage, you can sprout massive dragon wings from your back.
+If you are not wearing heavy armor, you gain a flying speed equal to your movement speed.
+If you choose to manifest natural weapons and wings when you enter a rage, you can choose to entirely take on a draconic form while raging, becoming Large sized.
+When you take on a full draconic form, you choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it.

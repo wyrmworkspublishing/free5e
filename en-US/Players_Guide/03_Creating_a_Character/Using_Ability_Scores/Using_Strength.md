@@ -8,7 +8,7 @@ A Strength check can model any attempt to lift, push, pull, or break something, 
 The Athletics skill reflects aptitude in certain kinds of Strength checks.
 
 **Athletics.**
-Your Strength (Athletics) check covers difficult situations you encounter while climbing, jumping, or swimming.
+Your Strength (Athletics) check covers difficult situations you encounter while [climbing](#Exploration_Movement_climbing_swimming_and_crawling), [jumping](#Exploration_Movement_jumping), or [swimming](#Exploration_Movement_climbing_swimming_and_crawling).
 Examples include the following activities:
 
 - You attempt to climb a sheer or slippery cliff, avoid hazards while scaling a wall, or cling to a surface while something is trying to knock you off.

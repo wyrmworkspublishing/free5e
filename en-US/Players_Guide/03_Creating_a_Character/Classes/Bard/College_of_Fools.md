@@ -4,8 +4,8 @@ The College of Fools is a motley lot, varying from bumbling beggars to the eyeso
 One can tell at a glance they are not to be taken seriously, but beneath the facade there is...
 well, usually a fool, but also a sharp mind, quick hands, and an uncanny understanding of how to manipulate any situation.
 
-The College of Fools is tolerated much like an assassin’s guild might be:
-a useful menace to society. Hiding in the brilliant outfits in plain sight more surely than darkened leather could hide them in the shadows, they gather information, poke and prod their enemies, and—just occasionally—toss a knife in the air and forget to catch it before it hits someone.
+The College of Fools is tolerated much like an assassin’s guild might be: a useful menace to society.
+Hiding in the brilliant outfits in plain sight more surely than darkened leather could hide them in the shadows, they gather information, poke and prod their enemies, and—just occasionally—toss a knife in the air and forget to catch it before it hits someone.
 
 ###### Jester’s Juggling (3rd Level)
 
