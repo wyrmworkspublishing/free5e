@@ -117,7 +117,7 @@ You start knowing three such features: _Flurry of Blows_, Patient Defense_, and 
 - **Patient Defense (1 focus point).**
   Take the Dodge action as a bonus action on your turn.
 - **Step of the Wind (1 focus point).**
-  Take the Disengage or Dash action as a bonus action on your turn, and your jump distance is doubled for the turn.
+  Take the Disengage or Dash action as a bonus action on your turn, and your [jump distance](#Exploration_Movement_jumping) is doubled for the turn.
 
 You learn more focus features as you gain levels in this class.
 
