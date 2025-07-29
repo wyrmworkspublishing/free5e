@@ -25,7 +25,7 @@ ___
 
 ###### Overseer’s Gaze (1st Level) {#The_Overseer_overseers_gaze}
 
-Starting at 1st level, as a bonus action, you can summon a spectral eye in your space or on your body that immediately fires one ray at a creature of your choice within 120 feet of you, rolling on the Eye Ray Effect table below after choosing the target, after which the spectral eye fades away.
+As a bonus action, you can summon a spectral eye in your space or on your body that immediately fires one ray at a creature of your choice within 120 feet of you, rolling on the Eye Ray Effect table below after choosing the target, after which the spectral eye fades away.
 
 | 1d6 | Effect            |                                                           |
 |----:|:------------------|:----------------------------------------------------------|
@@ -40,19 +40,19 @@ You can do this a number of times equal to your Proficiency bonus, regaining all
 
 ###### Lingering Gaze (6th Level) {#The_Overseer_lingering_gaze}
 
-At 6th level, when you invoke your [Overseer’s Gaze](#The_Overseer_overseers_gaze), the spectral eye lasts for 1 minute before fading away, and you use your bonus action on each of turns to cause it to fire again, rolling on the table anew.
+When you invoke your [Overseer’s Gaze](#The_Overseer_overseers_gaze), the spectral eye lasts for 1 minute before fading away, and you use your bonus action on each of turns to cause it to fire again, rolling on the table anew.
 Once during the duration of each eye, you can pick the effect it fires instead of rolling. The spectral eye moves with you and is always in your space.
 
 While you have the spectral eye with you, have advantage on [Wisdom (Perception)](#Using_Wisdom_wisdom_checks) checks and can perform the [Search](#Combat_Actions_search) action as a bonus action (instead of firing an eye ray).
 
 ###### Patron’s Paranoia (10th Level)
 
-Beginning at 10th level, your patron’s paranoia affects and benefits you with constant vigilance.
+Your patron’s paranoia affects and benefits you with constant vigilance.
 You can no longer be [surprised](#Combat_General_Terms_surprise), benefit from your normal passive perception even while sleeping, and can add your Charisma modifier to your initiative rolls.
 
 ###### Suppressor’s Sight (14th Level)
 
-Starting at 14th level, you can conjure the full power of your patron’s magic suppressing eye.
+You can conjure the full power of your patron’s magic suppressing eye.
 As an action, you manifest a giant spectral eye in your space which creates an antimagic field (as per [the spell](#Antimagic_Field_antimagic_field)) in a 150-foot cone until the start of your next turn.
 This eye does not move from the space it was manifested in.
 Once you use this feature, you can’t use it again until you finish a long rest.
