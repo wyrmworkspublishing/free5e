@@ -13,8 +13,8 @@
 
 ##### 1st Level
 
-- Bane (concentration)
-- Bless (concentration)
+- [Bane](#Bane_bane) (concentration)
+- [Bless](#Bless_bless) (concentration)
 - Command
 - Create or Destroy Water
 - Cure Wounds
@@ -33,7 +33,7 @@
 
 - [Aid](#Aid_aid)
 - [Augury](#Augury_augury) (ritual)
-- Blindness/Deafness
+- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - Calm Emotions (concentration)
 - Continual Flame
 - Enhance Ability (concentration)
@@ -53,7 +53,7 @@
 
 - [Animate Dead](#Animate_Dead_animate_dead)
 - [Beacon of Hope](#Beacon_of_Hope_beacon_of_hope) (concentration)
-- Bestow Curse (concentration)
+- [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
 - Clairvoyance (concentration)
 - Create Food and Water
 - Daylight
@@ -73,7 +73,7 @@
 
 ##### 4th Level
 
-- Banishment (concentration)
+- [Banishment](#Banishment_banishment) (concentration)
 - Control Water (concentration)
 - Death Ward
 - Divination (ritual)
@@ -100,7 +100,7 @@
 
 ##### 6th Level
 
-- Blade Barrier (concentration)
+- [Blade Barrier](#Blade_Barrier_blade_barrier) (concentration)
 - Create Undead
 - Find the Path (concentration)
 - Forbiddance (ritual)

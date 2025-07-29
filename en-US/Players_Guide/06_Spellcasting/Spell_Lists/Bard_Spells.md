@@ -16,7 +16,7 @@
 ##### 1st Level
 
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
-- Bane (concentration)
+- [Bane](#Bane_bane) (concentration)
 - Charm Person
 - Color Spray
 - Command
@@ -42,7 +42,7 @@
 
 - [Aid](#Aid_aid)
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
-- Blindness/Deafness
+- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - Calm Emotions (concentration)
 - Detect Thoughts (concentration)
 - Enhance Ability (concentration)
@@ -65,7 +65,7 @@
 
 ##### 3rd Level
 
-- Bestow Curse (concentration)
+- [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
 - Clairvoyance (concentration)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Fear (concentration)

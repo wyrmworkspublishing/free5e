@@ -36,7 +36,7 @@
 
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
 - [Augury](#Augury_augury) (ritual)
-- Barkskin (concentration)
+- [Barkskin](#Barkskin_barkskin) (concentration)
 - Continual Flame
 - Darkvision
 - Enhance Ability (concentration)
@@ -73,7 +73,7 @@
 
 ##### 4th Level
 
-- Blight
+- [Blight](#Blight_blight)
 - [Confusion](#Confusion_confusion) (concentration)
 - Conjure Minor Elementals (concentration)
 - Conjure Woodland Beings (concentration)

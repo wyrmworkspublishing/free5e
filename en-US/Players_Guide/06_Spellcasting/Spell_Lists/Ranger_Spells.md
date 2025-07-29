@@ -21,7 +21,7 @@
 
 - [Aid](#Aid_aid)
 - [Animal Messenger](#Animal_Messenger_animal_messenger)
-- Barkskin (concentration)
+- [Barkskin](#Barkskin_barkskin) (concentration)
 - Darkvision
 - Enhance Ability (concentration)
 - Find Traps

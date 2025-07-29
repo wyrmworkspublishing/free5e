@@ -20,7 +20,7 @@
 
 ##### 1st Level
 
-- Burning Hands
+- [Burning Hands](#Burning_Hands_burning_hands)
 - Charm Person
 - Color Spray
 - Comprehend Languages
@@ -42,8 +42,8 @@
 ##### 2nd Level
 
 - [Alter Self](#Alter_Self_alter_self) (concentration)
-- Blindness/Deafness
-- Blur (concentration)
+- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
+- [Blur](#Blur_blur) (concentration)
 - [Darkness](#Darkness_darkness) (concentration)
 - Darkvision
 - Detect Thoughts (concentration)
@@ -68,7 +68,7 @@
 
 ##### 3rd Level
 
-- Blink
+- [Blink](#Blink_blink)
 - Clairvoyance (concentration)
 - [Counterspell](#Counterspell_counterspell)
 - Daylight
@@ -92,8 +92,8 @@
 
 ##### 4th Level
 
-- Banishment (concentration)
-- Blight
+- [Banishment](#Banishment_banishment) (concentration)
+- [Blight](#Blight_blight)
 - [Confusion](#Confusion_confusion) (concentration)
 - Dimension Door
 - Dominate Beast (concentration)

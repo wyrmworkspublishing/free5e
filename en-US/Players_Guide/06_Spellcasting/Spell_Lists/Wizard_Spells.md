@@ -21,7 +21,7 @@
 ##### 1st Level
 
 - [Alarm](#Alarm_alarm) (ritual)
-- Burning Hands
+- [Burning Hands](#Burning_Hands_burning_hands)
 - Charm Person
 - Color Spray
 - Comprehend Languages (ritual)
@@ -54,8 +54,8 @@
 - [Alter Self](#Alter_Self_alter_self) (concentration)
 - [Arcane Lock](#Arcane_Lock_arcane_lock)
 - [Augury](#Augury_augury) (ritual)
-- Blindness/Deafness
-- Blur (concentration)
+- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
+- [Blur](#Blur_blur) (concentration)
 - [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
 - Continual Flame
 - [Darkness](#Darkness_darkness) (concentration)
@@ -88,8 +88,8 @@
 ##### 3rd Level
 
 - [Animate Dead](#Animate_Dead_animate_dead)
-- Bestow Curse (concentration)
-- Blink
+- [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
+- [Blink](#Blink_blink)
 - Clairvoyance (concentration)
 - [Counterspell](#Counterspell_counterspell)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
@@ -120,8 +120,8 @@
 ##### 4th Level
 
 - [Arcane Eye](#Arcane_Eye_arcane_eye) (concentration)
-- Banishment (concentration)
-- Blight
+- [Banishment](#Banishment_banishment) (concentration)
+- [Blight](#Blight_blight)
 - [Cerilsen's Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
 - [Chloe's Faithful Hound](#Chloes_Faithful_Hound_chloes_faithful_hound) <!-- previously "Faithful Hound" -->
 - [Confusion](#Confusion_confusion) (concentration)

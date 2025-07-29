@@ -183,7 +183,7 @@ If you’re in the spell’s area of effect, you can target yourself.
 
 #### Areas of Effect
 
-Spells like Burning Hands and Cone of Cold cover an area, affecting multiple creatures.
+Spells like [Burning Hands](#Burning_Hands_burning_hands) and Cone of Cold cover an area, affecting multiple creatures.
 The spell’s description specifies its area of effect, which can be a cone, cube, cylinder, line, or sphere.
 Each shape has a point of origin, from which the spell’s energy erupts.
 The rules specify how to position the point of origin.
@@ -271,7 +271,7 @@ Creating undead through [Animate Dead](#Animate_Dead_animate_dead) is evil and r
 
 The effects of different spells combine while their durations overlap.
 However, the most potent effect from multiple castings applies while their durations overlap.
-For instance, if two Clerics cast Bless on the same target, the character gains the spell’s benefit only once, not twice.
+For instance, if two Clerics cast [Bless](#Bless_bless) on the same target, the character gains the spell’s benefit only once, not twice.
 
 ### Spell Lists
 > **Spell Name Changes**

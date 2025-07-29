@@ -3,7 +3,7 @@
 
 ##### 1st Level
 
-- Bless (concentration)
+- [Bless](#Bless_bless) (concentration)
 - Command
 - Cure Wounds
 - Detect Evil and Good (concentration)
@@ -40,7 +40,7 @@
 
 ##### 4th Level
 
-- Banishment (concentration)
+- [Banishment](#Banishment_banishment) (concentration)
 - Death Ward
 - Locate Creature (concentration)
 

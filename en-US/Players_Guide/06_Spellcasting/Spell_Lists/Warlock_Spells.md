@@ -52,8 +52,8 @@
 
 ##### 4th Level
 
-- Banishment (concentration)
-- Blight
+- [Banishment](#Banishment_banishment) (concentration)
+- [Blight](#Blight_blight)
 - Dimension Door
 - Hallucinatory Terrain
 

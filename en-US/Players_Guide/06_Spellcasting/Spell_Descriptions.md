@@ -35,11 +35,33 @@
 
 [Awaken](./Spell_Descriptions/A/Awaken.md)
 
-[Beacon of Hope](./Spell_Descriptions/Beacon_of_Hope.md)
+[Bane](./Spell_Descriptions/B/Bane.md)
 
-[Bragolbeleg's Acid Bolt](./Spell_Descriptions/Bragolbelegs_Acid_Bolt.md)
+[Banishment](./Spell_Descriptions/B/Banishment.md)
 
-[Branding Smite](./Spell_Descriptions/Branding_Smite.md)
+[Barkskin](./Spell_Descriptions/B/Barkskin.md)
+
+[Beacon of Hope](./Spell_Descriptions/B/Beacon_of_Hope.md)
+
+[Bestow Curse](./Spell_Descriptions/B/Bestow_Curse.md)
+
+[Blade Barrier](./Spell_Descriptions/B/Blade_Barrier.md)
+
+[Bless](./Spell_Descriptions/B/Bless.md)
+
+[Blight](./Spell_Descriptions/B/Blight.md)
+
+[Blindness/Deafness](./Spell_Descriptions/B/Blindness_Deafness.md)
+
+[Blink](./Spell_Descriptions/B/Blink.md)
+
+[Blur](./Spell_Descriptions/B/Blur.md)
+
+[Bragolbeleg's Acid Bolt](./Spell_Descriptions/B/Bragolbelegs_Acid_Bolt.md)
+
+[Branding Smite](./Spell_Descriptions/B/Branding_Smite.md)
+
+[Burning Hands](./Spell_Descriptions/B/Burning_Hands.md)
 
 [Cerilsen's Secret Chest](./Spell_Descriptions/Cerilsens_Secret_Chest.md)
 
