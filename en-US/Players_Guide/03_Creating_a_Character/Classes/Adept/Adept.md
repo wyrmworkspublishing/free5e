@@ -70,7 +70,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ###### Unarmored Defense (1st Level) {#Adept_unarmored_defense}
 
-Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals `10 + your Dexterity modifier + your Wisdom modifier`.
+While you are wearing no armor and not wielding a shield, your AC equals `10 + your Dexterity modifier + your Wisdom modifier`.
 
 ###### Martial Arts (1st Level) {#Adept_martial_arts}
 
@@ -223,7 +223,7 @@ When you do so, you can’t take any other creatures with you.
 
 ###### Perfect Self (20th Level) {#Adept_perfect_self}
 
-At 20th level, when you roll for initiative and have no focus points remaining, you regain 4 focus points.
+When you roll for initiative and have no focus points remaining, you regain 4 focus points.
 
 ##### Martial Disciplines {#Adept_martial_disciplines}
 
