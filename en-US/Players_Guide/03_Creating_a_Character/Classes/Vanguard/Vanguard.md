@@ -106,13 +106,13 @@ You can cure multiple diseases and neutralize multiple poisons with a single use
 This feature has no effect on undead and constructs.
 
 ###### Fighting Style (2nd Level) {#Vanguard_fighting_style}
-At 2nd level, you adopt a style of fighting as your specialty.
+You adopt a style of fighting as your specialty.
 Choose one of the options listed [at the end of the class description](#Vanguard_fighting_styles_list).
 You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
 ###### Spellcasting (2nd Level) {#Vanguard_spellcasting}
 
-By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast spells as a Cleric does.
+You have learned to draw on divine magic through meditation and prayer to cast spells as a Cleric does.
 
 **Preparing and Casting Spells**
 \
@@ -151,17 +151,17 @@ You can use a holy symbol as a spellcasting focus for your Vanguard spells.
 
 ###### Divine Smite (2nd Level) {#Vanguard_divine_smite}
 
-Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage.
+When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage.
 The extra damage is `2d8` for a 1st-level spell slot, `plus 1d8` for each spell level higher than 1st, to a maximum of `5d8`.
 The damage increases by `1d8` if the target is an undead or a fiend.
 
 ###### Divine Health (3rd Level) {#Vanguard_divine_health}
 
-By 3rd level, the divine magic flowing through you makes you immune to disease.
+The divine magic flowing through you makes you immune to disease.
 
 ###### Oath of Duty (3rd Level) {#Vanguard_oath_of_duty}
 
-When you reach 3rd level, you swear the oath that binds you as a Vanguard forever.
+You swear the oath that binds you as a Vanguard forever.
 Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it.
 Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features include oath spells and the Channel Divinity feature.
 
@@ -189,13 +189,13 @@ At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two a
 
 ###### Extra Attack (5th Level) {#Vanguard_extra_attack}
 
-Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ###### Aura of Protection (6th & 18th Level) {#Vanguard_aura_of_protection}
 Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.
 At 18th level, the range of this aura increases to 30 feet.
 
-###### Aura of Courage (10th Level) {#Vanguard_aura_of_courage}
+###### Aura of Courage (10th & 18th Level) {#Vanguard_aura_of_courage}
 
 Starting at 10th level, you and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
 
@@ -203,13 +203,13 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ###### Improved Divine Smite (11th Level) {#Vanguard_improved_divine_smite}
 
-By 11th level, you are so suffused with righteous might that all your melee weapon strikes carry divine power with them.
+You are so suffused with righteous might that all your melee weapon strikes carry divine power with them.
 Whenever you hit a creature with a melee weapon, the creature takes an extra `1d8?  radiant damage.
 If you also use your [Divine Smite](#Vanguard_divine_smite) with an attack, you add this damage to the extra damage of your Divine Smite.
 
 ###### Cleansing Touch (14th Level) {#Vanguard_cleansing_touch}
 
-Beginning at 14th level, you can use your action to end one spell on yourself or on one willing creature that you touch.
+You can use your action to end one spell on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once).
 You regain expended uses when you finish a long rest.
