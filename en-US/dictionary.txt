@@ -43,7 +43,6 @@ enpowered
 ESRD
 extradimensional
 Eyebite
-Feeblemind
 Feywild
 Forcecage
 Geas
@@ -68,6 +67,7 @@ Insaneangel
 Invisiblity
 Iz’zart
 Iz’zart's
+Keoghtom
 Kickstarter
 Lifedrinker
 Longstrider
@@ -80,6 +80,7 @@ midjump
 Morscheck
 Multiclassing
 narratively
+Natalex
 Naturecraft
 Neurodivergence
 Nondetection

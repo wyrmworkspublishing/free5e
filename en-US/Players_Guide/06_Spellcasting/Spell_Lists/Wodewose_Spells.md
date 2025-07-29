@@ -13,7 +13,7 @@
 
 ##### 1st Level
 
-- Animal Friendship
+- [Animal Friendship](#Animal_Friendship_animal_friendship)
 - Charm Person
 - Create or Destroy Water
 - Cure Wounds
@@ -34,8 +34,8 @@
 
 ##### 2nd Level
 
-- Animal Messenger (ritual)
-- Augury (ritual)
+- [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
+- [Augury](#Augury_augury) (ritual)
 - Barkskin (concentration)
 - Continual Flame
 - Darkvision
@@ -74,7 +74,7 @@
 ##### 4th Level
 
 - Blight
-- Confusion (concentration)
+- [Confusion](#Confusion_confusion) (concentration)
 - Conjure Minor Elementals (concentration)
 - Conjure Woodland Beings (concentration)
 - Control Water (concentration)
@@ -93,11 +93,11 @@
 
 ##### 5th Level
 
-- Antilife Shell (concentration)
-- Awaken
+- [Antilife Shell](#Antilife_Shell_antilife_shell) (concentration)
+- [Awaken](#Awaken_awaken)
 - Commune with Nature (ritual)
 - Cone of Cold
-- Conjure Elemental (concentration)
+- [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
 - Contagion
 - Geas
 - Greater Restoration
@@ -132,11 +132,11 @@
 
 ##### 8th Level
 
-- Animal Shapes (concentration)
-- Antipathy/Sympathy
+- [Animal Shapes](#Animal_Shapes_animal_shapes) (concentration)
+- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
+- Confound
 - Control Weather (concentration)
 - Earthquake (concentration)
-- Feeblemind
 - Incendiary Cloud (concentration)
 - Sunburst
 

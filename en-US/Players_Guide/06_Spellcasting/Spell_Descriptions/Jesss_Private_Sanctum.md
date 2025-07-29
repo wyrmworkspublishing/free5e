@@ -1,5 +1,5 @@
-#### Morscheck's Hand
-<!-- previously "Arcane Hand" -->
+#### Jess's Private Sanctum
+<!-- previously "Private Sanctum" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 
 > **Warning:**

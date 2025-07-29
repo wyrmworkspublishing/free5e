@@ -3,8 +3,8 @@
 
 ##### 1st Level
 
-- Alarm
-- Animal Friendship
+- [Alarm](#Alarm_alarm)
+- [Animal Friendship](#Animal_Friendship_animal_friendship)
 - Cure Wounds
 - Detect Magic (concentration)
 - Detect Poison and Disease (concentration)
@@ -20,7 +20,7 @@
 ##### 2nd Level
 
 - [Aid](#Aid_aid)
-- Animal Messenger
+- [Animal Messenger](#Animal_Messenger_animal_messenger)
 - Barkskin (concentration)
 - Darkvision
 - Enhance Ability (concentration)

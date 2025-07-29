@@ -1,6 +1,6 @@
-#### Morscheck's Hand
-<!-- previously "Arcane Hand" -->
+#### Antimagic Field
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+_8th-level abjuration_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.

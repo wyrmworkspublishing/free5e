@@ -1,5 +1,5 @@
-#### Morscheck's Hand
-<!-- previously "Arcane Hand" -->
+#### Emma's Irresistible Dance
+<!-- previously "Irresistible Dance" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 
 > **Warning:**

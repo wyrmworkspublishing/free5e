@@ -1,5 +1,5 @@
-#### Morscheck's Hand
-<!-- previously "Arcane Hand" -->
+#### Chloe's Faithful Hound
+<!-- previously "Faithful Hound" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 
 > **Warning:**

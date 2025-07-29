@@ -41,7 +41,7 @@
 
 ##### 2nd Level
 
-- Alter Self (concentration)
+- [Alter Self](#Alter_Self_alter_self) (concentration)
 - Blindness/Deafness
 - Blur (concentration)
 - [Darkness](#Darkness_darkness) (concentration)
@@ -94,7 +94,7 @@
 
 - Banishment (concentration)
 - Blight
-- Confusion (concentration)
+- [Confusion](#Confusion_confusion) (concentration)
 - Dimension Door
 - Dominate Beast (concentration)
 - Fire Shield
@@ -106,14 +106,14 @@
 
 ##### 5th Level
 
-- Animate Objects (concentration)
+- [Animate Objects](#Animate_Objects_animate_objects) (concentration)
 - Cloudkill (concentration)
 - Cone of Cold
 - Creation
 - Dominate Person (concentration)
 - Hold Monster (concentration)
 - Insect Plague (concentration)
-- [Morscheck‘s Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
+- [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
 - Seeming
 - Telekinesis (concentration)
 - Teleportation Circle
@@ -125,8 +125,8 @@
 - Circle of Death
 - Disintegrate
 - Eyebite (concentration)
+- [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - Flesh to Stone (concentration)
-- Freezing Sphere <!-- Might be renamed -->
 - Globe of Invulnerability (concentration)
 - Mass Suggestion
 - Move Earth (concentration)

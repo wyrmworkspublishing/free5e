@@ -15,7 +15,7 @@
 
 ##### 1st Level
 
-- Animal Friendship
+- [Animal Friendship](#Animal_Friendship_animal_friendship)
 - Bane (concentration)
 - Charm Person
 - Color Spray
@@ -31,7 +31,7 @@
 - Identify (ritual)
 - Illusory Script (ritual)
 - Longstrider
-- [Paoliello‘s Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
+- [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
 - Silent Image (concentration)
 - Sleep
 - Speak with Animals (ritual)
@@ -41,7 +41,7 @@
 ##### 2nd Level
 
 - [Aid](#Aid_aid)
-- Animal Messenger (ritual)
+- [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
 - Blindness/Deafness
 - Calm Emotions (concentration)
 - Detect Thoughts (concentration)
@@ -73,7 +73,7 @@
 - Hypnotic Pattern (concentration)
 - Major Image (concentration)
 - Mass Healing Word
-- [Melestrua‘s Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
+- [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - Nondetection
 - Plant Growth
 - Sending
@@ -85,8 +85,8 @@
 
 ##### 4th Level
 
-- Compulsion
-- Confusion (concentration)
+- [Compulsion](#Compulsion_compulsion)
+- [Confusion](#Confusion_confusion) (concentration)
 - Dimension Door
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Greater Invisibility (concentration)
@@ -97,8 +97,8 @@
 
 ##### 5th Level
 
-- Animate Objects (concentration)
-- Awaken
+- [Animate Objects](#Animate_Objects_animate_objects) (concentration)
+- [Awaken](#Awaken_awaken)
 - Dominate Person (concentration)
 - Dream
 - Geas
@@ -110,27 +110,27 @@
 - Modify Memory (concentration)
 - Planar Binding
 - Raise Dead
-- [Rantock‘s Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
+- [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - Scrying (concentration)
 - Seeming
 - Teleportation Circle
 
 ##### 6th Level
 
+- [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - Eyebite (concentration)
 - Find the Path (concentration)
 - Heroes’ Feast
-- Irresistible Dance <!-- Might be renamed --> (concentration)
 - Mass Suggestion
 - Programmed Illusion
 - True Seeing
 
 ##### 7th Level
 
-- [Alia‘s Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- Arcane Sword <!-- Might be renamed --> (concentration)
+- [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - Etherealness
 - Forcecage
+- [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) <!-- previously "Arcane Sword" --> (concentration)
 - Mirage Arcane
 - Prismatic Spray
 - Project Image (concentration)
@@ -141,9 +141,9 @@
 
 ##### 8th Level
 
-- Antipathy/Sympathy
+- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
+- Confound
 - Dominate Monster (concentration)
-- Feeblemind
 - Glibness
 - Mind Blank
 - Power Word Stun

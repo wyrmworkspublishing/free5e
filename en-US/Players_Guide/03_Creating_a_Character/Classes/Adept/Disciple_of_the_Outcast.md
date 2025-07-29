@@ -29,7 +29,7 @@ At 3rd level, you embrace a more pragmatic view, gaining the following benefits:
 
 You gain the following additional Pragmatic Techniques you can spend focus on.
 
-- **Kick ‘em While They’re Down (1 focus point).**
+- **Kick 'em While They’re Down (1 focus point).**
   When you hit a target that is prone, restrained, or incapacitated, you can expend a focus point to deal additional damage equal to two rolls of your Martial Arts die.
 - **Unexpected Technique (1 focus point).**
   When you make a grapple check, you can expend a focus point to add your Martial Arts die to the roll. You can do this after the contested roll, and it can potentially turn a failure into a success.

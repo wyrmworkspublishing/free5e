@@ -18,7 +18,7 @@
 ##### 2nd Level
 
 - [Aid](#Aid_aid)
-- Branding Smite (concentration)
+- [Branding Smite](#Branding_Smite_branding_smite) (concentration)
 - Find Steed
 - Gentle Repose
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)

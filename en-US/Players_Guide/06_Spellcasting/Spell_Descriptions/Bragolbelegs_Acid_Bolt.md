@@ -1,4 +1,4 @@
-#### Bragolbeleg‘s Acid Bolt
+#### Bragolbeleg's Acid Bolt
 <!-- previously "Acid Arrow" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 

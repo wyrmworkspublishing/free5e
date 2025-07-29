@@ -1,4 +1,4 @@
-#### Iz’zart‘s Swarm Limb
+#### Iz’zart's Swarm Limb
 <!-- markdownlint-disable link-image-reference-definitions -->
 [_metadata_:spell_school]:- "conjuration"
 [_metadata_:spell_level]:- "1"

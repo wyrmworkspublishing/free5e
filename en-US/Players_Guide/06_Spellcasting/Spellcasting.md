@@ -261,7 +261,7 @@ Some create phantom images, while others plant images directly in minds.
 
 **Necromancy** spells manipulate life and death energies.
 They grant life force reserves, drain life, create undead, or resurrect the dead.
-Creating undead through Animate Dead is evil and rarely used.
+Creating undead through [Animate Dead](#Animate_Dead_animate_dead) is evil and rarely used.
 
 **Transmutation** spells change properties, turning enemies into harmless creatures, bolstering allies, making objects move at will, or enhancing healing.
 
@@ -276,26 +276,27 @@ For instance, if two Clerics cast Bless on the same target, the character gains 
 >
 > Some spells have been renamed in Free5e, in most cases to honor those who supported the project financially.
 > If a product (e.g. an adventure or a monster stat block) mentions one of these spells, you can use the renamed version instead.
->
+><!-- spell-checker:words Feeblemind -->
 > - Acid Arrow → Bragolbeleg's Acid Bolt
-> - Arcane Hand → Morscheck‘s Hand
+> - Arcane Hand → Morscheck's Hand
+> - Arcane Sword → Katy's Spectral Sword
 > - Arcanist’s Magic Aura → DT's Magic Aura
 > - Black Tentacles → Coreador's Black Tentacles
 > - Druidcraft → Naturecraft
+> - Faithful Hound → Chloe's Faithful Hound
+> - Feeblemind → Confound
 > - Floating Disk → Pelham's Hovering Platter
+> - Freezing Sphere → Fiona's Freezing Sphere
 > - Hideous Laughter → Paoliello's Hideous Laughter
+> - Instant Summons → Natalex's Instant Summons
+> - Irresistible Dance → Emma's Irresistible Dance
 > - Magnificent Mansion → Alia's Magnificent Mansion
+> - Private Sanctum → Jess's Private Sanctum
 > - Secret Chest → Cerilsen's Secret Chest
 > - Telepathic Bond → Rantock's Telepathic Bond
 > - Tiny Hut → Melestrua's Marvelous Marquee
 
 <!-- Not yet renamed:
-> - Arcane Sword → ???
-> - Faithful Hound → ???
-> - Freezing Sphere → ???
-> - Instant Summons → ???
-> - Irresistible Dance → ???
-> - Private Sanctum → ???
 > - Resilient Sphere → ???
 -->
 

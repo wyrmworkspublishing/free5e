@@ -1,5 +1,5 @@
-#### Morscheck's Hand
-<!-- previously "Arcane Hand" -->
+#### Natalex's Instant Summons
+<!-- previously "Instant Summons" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 
 > **Warning:**

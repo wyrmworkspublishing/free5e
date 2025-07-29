@@ -20,7 +20,7 @@
 
 ##### 1st Level
 
-- Alarm (ritual)
+- [Alarm](#Alarm_alarm) (ritual)
 - Burning Hands
 - Charm Person
 - Color Spray
@@ -35,13 +35,13 @@
 - Grease
 - Identify (ritual)
 - Illusory Script (ritual)
-- [Iz’zart‘s Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
+- [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
 - Mage Armor
 - Magic Missile
-- [Paoliello‘s Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
-- [Pelham‘s Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" --> (ritual)
+- [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
+- [Pelham's Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" --> (ritual)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Shield
 - Silent Image (concentration)
@@ -51,17 +51,17 @@
 
 ##### 2nd Level
 
-- Alter Self (concentration)
-- Arcane Lock
-- Augury (ritual)
+- [Alter Self](#Alter_Self_alter_self) (concentration)
+- [Arcane Lock](#Arcane_Lock_arcane_lock)
+- [Augury](#Augury_augury) (ritual)
 - Blindness/Deafness
 - Blur (concentration)
-- [Bragolbeleg‘s Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
+- [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
 - Continual Flame
 - [Darkness](#Darkness_darkness) (concentration)
 - Darkvision
 - Detect Thoughts (concentration)
-- [DT‘s Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist‘s Magic Aura --> (concentration)
+- [DT's Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist's Magic Aura --> (concentration)
 - Enhance Ability (concentration)
 - Enlarge/Reduce (concentration)
 - Flaming Sphere (concentration)
@@ -87,7 +87,7 @@
 
 ##### 3rd Level
 
-- Animate Dead
+- [Animate Dead](#Animate_Dead_animate_dead)
 - Bestow Curse (concentration)
 - Blink
 - Clairvoyance (concentration)
@@ -103,7 +103,7 @@
 - Lightning Bolt
 - Magic Circle
 - Major Image (concentration)
-- [Melestrua‘s Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
+- [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - Nondetection
 - Phantom Steed (ritual)
 - Protection from Energy (concentration)
@@ -119,26 +119,26 @@
 
 ##### 4th Level
 
-- Arcane Eye (concentration)
+- [Arcane Eye](#Arcane_Eye_arcane_eye) (concentration)
 - Banishment (concentration)
 - Blight
-- [Cerilsen‘s Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
-- Confusion (concentration)
+- [Cerilsen's Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
+- [Chloe's Faithful Hound](#Chloes_Faithful_Hound_chloes_faithful_hound) <!-- previously "Faithful Hound" -->
+- [Confusion](#Confusion_confusion) (concentration)
 - Conjure Minor Elementals (concentration)
 - Control Water (concentration)
-- [Coreador‘s Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
+- [Coreador's Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
 - Dimension Door
 - Divination (ritual)
 - Fabricate
-- Faithful Hound <!-- Might be renamed -->
 - Fire Shield
 - Greater Invisibility (concentration)
 - Hallucinatory Terrain
 - Ice Storm
+- [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
 - Locate Creature (concentration)
 - Phantasmal Killer (concentration)
 - Polymorph (concentration)
-- Private Sanctum <!-- Might be renamed -->
 - Resilient Sphere <!-- Might be renamed --> (concentration)
 - Stone Shape
 - Stoneskin (concentration)
@@ -146,10 +146,10 @@
 
 ##### 5th Level
 
-- Animate Objects (concentration)
+- [Animate Objects](#Animate_Objects_animate_objects) (concentration)
 - Cloudkill (concentration)
 - Cone of Cold
-- Conjure Elemental (concentration)
+- [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
 - Contact Other Plane (ritual)
 - Creation
 - Dominate Person (concentration)
@@ -159,10 +159,10 @@
 - Legend Lore
 - Mislead (concentration)
 - Modify Memory (concentration)
-- [Morscheck‘s Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
+- [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
 - Passwall
 - Planar Binding
-- [Rantock‘s Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
+- [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - Scrying (concentration)
 - Seeming
 - Telekinesis (concentration)
@@ -177,16 +177,16 @@
 - Contingency
 - Create Undead
 - Disintegrate
+- [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - Eyebite (concentration)
+- [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - Flesh to Stone (concentration)
-- Freezing Sphere <!-- Might be renamed -->
 - Globe of Invulnerability (concentration)
 - Guards and Wards
-- Instant Summons <!-- Might be renamed? --> (ritual)
-- Irresistible Dance <!-- Might be renamed --> (concentration)
 - Magic Jar
 - Mass Suggestion
 - Move Earth (concentration)
+- [Natalex's Instant Summons](#Natalexs_Instant_Summons_natalexs_instant_summons) <!-- previously "Instant Summons"? --> (ritual)
 - Programmed Illusion
 - Sunbeam (concentration)
 - True Seeing
@@ -194,12 +194,12 @@
 
 ##### 7th Level
 
-- [Alia‘s Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- Arcane Sword (concentration) <!-- Might be renamed -->
+- [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - Delayed Blast Fireball (concentration)
 - Etherealness
 - Finger of Death
 - Forcecage
+- [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) (concentration) <!-- previously "Arcane Sword" -->
 - Mirage Arcane
 - Plane Shift
 - Prismatic Spray
@@ -212,13 +212,13 @@
 
 ##### 8th Level
 
-- Antimagic Field (concentration)
-- Antipathy/Sympathy
+- [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
+- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
 - Clone
+- Confound
 - Control Weather (concentration)
 - Demiplane
 - Dominate Monster (concentration)
-- Feeblemind
 - Incendiary Cloud (concentration)
 - Maze (concentration)
 - Mind Blank
@@ -227,7 +227,7 @@
 
 ##### 9th Level
 
-- Astral Projection
+- [Astral Projection](#Astral_Projection_astral_projection)
 - Foresight
 - Gate (concentration)
 - Imprisonment

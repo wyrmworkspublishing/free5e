@@ -1,5 +1,5 @@
-#### Morscheck's Hand
-<!-- previously "Arcane Hand" -->
+#### Fiona's Freezing Sphere
+<!-- previously "Freezing Sphere" -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 
 > **Warning:**

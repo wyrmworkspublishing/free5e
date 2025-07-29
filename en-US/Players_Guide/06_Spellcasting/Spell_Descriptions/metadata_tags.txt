@@ -17,6 +17,6 @@ The following tags are supported by the spell_extractor python script:
 [_metadata_:saving_throw]:- "Dexterity"
 [_metadata_:saving_throw_success]:- "halves_damage"
 [_metadata_:damage_formula]:- "2d10"
-[_metadata_:damage_type]:- "fireball"
-[_metadata_:spell_origin]:- "free5e"
+[_metadata_:damage_type]:- "fire"
+[_metadata_:spell_origin]:- "free5e" // known values: a5e_srd, free5e, wotc_srd_5.1
 [_metadata_:spell_original_name]:- "Druidcraft"

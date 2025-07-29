@@ -86,15 +86,15 @@
 
 ##### 8th Level
 
+- Confound
 - Demiplane
 - Dominate Monster (concentration)
-- Feeblemind
 - Glibness
 - Power Word Stun
 
 ##### 9th Level
 
-- Astral Projection
+- [Astral Projection](#Astral_Projection_astral_projection)
 - Foresight
 - Geas
 - Imprisonment
