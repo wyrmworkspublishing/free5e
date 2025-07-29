@@ -33,6 +33,7 @@ Darkvision
 Demiplane
 Dragonborn
 Dragonbound
+Dragonhide
 Druidcraft
 Dungeoneer
 dwarven
@@ -55,7 +56,8 @@ Greatsword
 grimoire
 Halfling
 Halflings
-Handaxe
+handaxe
+handaxes
 hightened
 hippogriffs
 humanlike
@@ -141,6 +143,7 @@ Wodewose
 Wodewoses
 WotC
 Wyrd
+Wyrm
 Wyrmworks
 yugoloth
 yugoloths
