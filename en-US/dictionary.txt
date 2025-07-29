@@ -113,6 +113,7 @@ shapeshifting
 Shortbow
 shortsword
 shortswords
+situationally
 spellbook
 spellbooks
 Spellbreaker
@@ -142,6 +143,7 @@ Warhording
 waterskin
 Wodewose
 Wodewoses
+Wose
 WotC
 Wyrd
 Wyrm
