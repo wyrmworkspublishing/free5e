@@ -43,7 +43,7 @@ These temporary hit points are refreshed any time you take the Dodge action.
 
 ###### Where It Hurts (11th Level)
 
-At 11th level, when you use Stunning Strike on a critical hit or on an attack made against an enemy that was unaware of you, the target has disadvantage on their saving throw against being stunned.
+When you use Stunning Strike on a critical hit or on an attack made against an enemy that was unaware of you, the target has disadvantage on their saving throw against being stunned.
 
 ###### Lean into It (17th Level)
 
