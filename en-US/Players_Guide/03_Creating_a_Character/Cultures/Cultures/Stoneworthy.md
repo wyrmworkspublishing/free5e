@@ -26,4 +26,4 @@ You cannot trade a skill proficiency for a tool proficiency, and vice versa.
 You may spend 4 hours between rests crafting one non-metal tool or simple weapon, or five pieces of ammunition, provided you have access to the materials needed and the final cost of the items does not exceed 5 gold.
 \
 **Languages.**
-You can speak, read, write, and sign Common and one other language.
+You can speak or sign, read, and write Common and one other language.
