@@ -52,7 +52,7 @@
 - [Heat Metal](#Heat_Metal_heat_metal) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Invisibility](#Invisibility_invisibility) (concentration)
-- Knock
+- [Knock](#Knock_knock)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants (ritual)
 - Locate Object (concentration)

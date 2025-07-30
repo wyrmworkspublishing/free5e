@@ -355,6 +355,8 @@
 
 [Katy's Spectral Sword](./Spell_Descriptions/K/Katys_Spectral_Sword.md)
 
+[Knock](./Spell_Descriptions/K/Knock.md)
+
 [Lesser Restoration](./Spell_Descriptions/L/Lesser_Restoration.md)
 
 [Melestrua's Marvelous Marquee](./Spell_Descriptions/M/Melestruas_Marvelous_Marquee.md)

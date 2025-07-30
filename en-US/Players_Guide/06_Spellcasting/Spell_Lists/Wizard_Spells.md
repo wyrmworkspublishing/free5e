@@ -70,7 +70,7 @@
 - [Gust of Wind](#Gust_of_Wind) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Invisibility](#Invisibility_invisibility) (concentration)
-- Knock
+- [Knock](#Knock_knock)
 - Levitate (concentration)
 - Locate Object (concentration)
 - Magic Mouth (ritual)
