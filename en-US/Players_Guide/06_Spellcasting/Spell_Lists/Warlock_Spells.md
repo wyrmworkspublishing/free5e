@@ -19,7 +19,7 @@
 - [Hex](#Hex_hex) (concentration)
 - [Expeditious Retreat](#Expeditious_Retreat_expeditious_retreat) (concentration)
 - [Hellish Rebuke](#Hellish_Rebuke_hellish_rebuke)
-- Illusory Script (ritual)
+- [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Unseen Servant (ritual)
@@ -29,7 +29,7 @@
 - [Darkness](#Darkness_darkness) (concentration)
 - [Enthrall](#Enthrall_enthrall)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
-- Invisibility (concentration)
+- [Invisibility](#Invisibility_invisibility) (concentration)
 - Mirror Image
 - Misty Step
 - Ray of Enfeeblement (concentration)
@@ -100,7 +100,7 @@
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Foresight](#Foresight_foresight)
 - [Geas](#Geas_geas)
-- Imprisonment
+- [Imprisonment](#Imprisonment_imprisonment)
 - Power Word Kill
 - True Polymorph (concentration)
 - Weird (concentration)

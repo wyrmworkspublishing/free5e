@@ -331,6 +331,22 @@
 
 [Hypnotic Pattern](./Spell_Descriptions/H/Hypnotic_Pattern.md)
 
+[Ice Storm](./Spell_Descriptions/I/Ice_Storm.md)
+
+[Identify](./Spell_Descriptions/I/Identify.md)
+
+[Illusory Script](./Spell_Descriptions/I/Illusory_Script.md)
+
+[Imprisonment](./Spell_Descriptions/I/Imprisonment.md)
+
+[Incendiary Cloud](./Spell_Descriptions/I/Incendiary_Cloud.md)
+
+[Inflict Wounds](./Spell_Descriptions/I/Inflict_Wounds.md)
+
+[Insect Plague](./Spell_Descriptions/I/Insect_Plague.md)
+
+[Invisibility](./Spell_Descriptions/I/Invisibility.md)
+
 [Iz’zart's Swarm Limb](./Spell_Descriptions/I/Izzarts_Swarm_Limb.md)
 
 [Jess's Private Sanctum](./Spell_Descriptions/J/Jesss_Private_Sanctum.md)

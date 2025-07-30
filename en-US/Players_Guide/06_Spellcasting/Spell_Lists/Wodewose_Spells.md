@@ -85,7 +85,7 @@
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Giant Insect](#Giant_Insect_giant_insect) (concentration)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
-- Ice Storm
+- [Ice Storm](#Ice_Storm_ice_storm)
 - Locate Creature (concentration)
 - Polymorph (concentration)
 - Stone Shape
@@ -102,7 +102,7 @@
 - [Contagion](#Contagion_contagion)
 - [Geas](#Geas_geas)
 - [Greater Restoration](#Greater_Restoration_greater_restoration)
-- Insect Plague (concentration)
+- [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - Mass Cure Wounds
 - Planar Binding
 - Scrying (concentration)
@@ -139,7 +139,7 @@
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - [Control Weather](#Control_Weather_control_weather) (concentration)
 - [Earthquake](#Earthquake_earthquake) (concentration)
-- Incendiary Cloud (concentration)
+- [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
 - Sunburst
 
 ##### 9th Level

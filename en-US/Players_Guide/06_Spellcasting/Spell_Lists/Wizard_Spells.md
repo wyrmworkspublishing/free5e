@@ -34,8 +34,8 @@
 - [Find Familiar](#Find_Familiar_find_familiar) (ritual)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - [Grease](#Grease_grease)
-- Identify (ritual)
-- Illusory Script (ritual)
+- [Identify](#Identify_identify) (ritual)
+- [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
@@ -69,7 +69,7 @@
 - [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
 - [Gust of Wind](#Gust_of_Wind) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
-- Invisibility (concentration)
+- [Invisibility](#Invisibility_invisibility) (concentration)
 - Knock
 - Levitate (concentration)
 - Locate Object (concentration)
@@ -136,7 +136,7 @@
 - [Fire Shield](#Fire_Shield_fire_shield)
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
-- Ice Storm
+- [Ice Storm](#Ice_Storm_ice_storm)
 - [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
 - Locate Creature (concentration)
 - Phantasmal Killer (concentration)
@@ -222,7 +222,7 @@
 - [Control Weather](#Control_Weather_control_weather) (concentration)
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
-- Incendiary Cloud (concentration)
+- [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
 - Maze (concentration)
 - Mind Blank
 - Power Word Stun
@@ -233,7 +233,7 @@
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Foresight](#Foresight_foresight)
 - [Gate](#Gate_gate) (concentration)
-- Imprisonment
+- [Imprisonment](#Imprisonment_imprisonment)
 - Meteor Swarm
 - Power Word Kill
 - Prismatic Wall

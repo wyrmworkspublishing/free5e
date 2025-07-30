@@ -29,8 +29,8 @@
 - [Feather Fall](#Feather_Fall_feather_fall)
 - [Healing Word](#Healing_Word_healing_word)
 - [Heroism](#Heroism_heroism) (concentration)
-- Identify (ritual)
-- Illusory Script (ritual)
+- [Identify](#Identify_identify) (ritual)
+- [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - Longstrider
 - [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
 - Silent Image (concentration)
@@ -51,7 +51,7 @@
 - [Enthrall](#Enthrall_enthrall)
 - [Heat Metal](#Heat_Metal_heat_metal) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
-- Invisibility (concentration)
+- [Invisibility](#Invisibility_invisibility) (concentration)
 - Knock
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants (ritual)

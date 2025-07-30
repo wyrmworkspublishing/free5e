@@ -54,7 +54,7 @@
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
 - [Gust of Wind](#Gust_of_Wind) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
-- Invisibility (concentration)
+- [Invisibility](#Invisibility_invisibility) (concentration)
 - Knock
 - Levitate (concentration)
 - Magic Weapon (concentration)
@@ -101,7 +101,7 @@
 - [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
 - [Fire Shield](#Fire_Shield_fire_shield)
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
-- Ice Storm
+- [Ice Storm](#Ice_Storm_ice_storm)
 - Polymorph (concentration)
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
@@ -114,7 +114,7 @@
 - [Creation](#Creation_creation)
 - [Dominate Person](#Dominate_Person_dominate_person) (concentration)
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
-- Insect Plague (concentration)
+- [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
 - Seeming
 - Telekinesis (concentration)
@@ -151,7 +151,7 @@
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Earthquake](#Earthquake_earthquake) (concentration)
-- Incendiary Cloud (concentration)
+- [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
 - Power Word Stun
 - Sunburst
 

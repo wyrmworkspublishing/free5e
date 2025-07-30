@@ -24,7 +24,7 @@
 - [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (ritual, concentration)
 - [Guiding Bolt](#Guiding_Bolt_guiding_bolt)
 - [Healing Word](#Healing_Word_healing_word)
-- Inflict Wounds
+- [Inflict Wounds](#Inflict_Wounds_inflict_wounds)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Purify Food and Drink (ritual)
 - [Sanctuary](#Sanctuary_sanctuary)
@@ -92,7 +92,7 @@
 - [Geas](#Geas_geas)
 - Greater Restauration
 - [Hallow](#Hallow_hallow)
-- Insect Plague (concentration)
+- [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - Legend Lore
 - Mass Cure Wounds
 - Planar Binding
