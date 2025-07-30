@@ -87,7 +87,7 @@ See an ability’s description for examples of skill usage.
 
 Sometimes, the Conductor might ask for an ability check using a specific skill—for example, _“Make a Wisdom (Perception) check.”_
 At other times, a player might ask the Conductor if proficiency in a particular skill applies to a check.
-In either case, proficiency in a skill means an individual can add his or her proficiency bonus to ability checks that involve that skill.
+In either case, proficiency in a skill means an individual can add their proficiency bonus to ability checks that involve that skill.
 Without proficiency in the skill, the individual makes a normal ability check.
 
 For example, if a character attempts to climb up a dangerous cliff, the Conductor might ask for a Strength (Athletics) check.
