@@ -16,4 +16,4 @@ You don’t need material components for these spells, and when casting them you
 You have an innate ability to communicate simple thoughts and ideas with beasts of size Small or smaller.
 \
 **Languages.**
-You can speak, read, write, and sign Common and Gnomish.
+You can speak or sign, read, and write Common and Gnomish.
