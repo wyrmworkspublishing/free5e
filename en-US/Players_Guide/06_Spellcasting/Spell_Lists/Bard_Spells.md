@@ -70,7 +70,7 @@
 - [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Fear](#Fear_fear) (concentration)
-- Glyph of Warding
+- [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
 - Hypnotic Pattern (concentration)
 - Major Image (concentration)
 - Mass Healing Word
@@ -91,7 +91,7 @@
 - [Confusion](#Confusion_confusion) (concentration)
 - [Dimension Door](#Dimension_Door_dimension_door)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
-- Greater Invisibility (concentration)
+- [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - Hallucinatory Terrain
 - Locate Creature (concentration)
 - Phantasmal Killer (concentration)
@@ -103,8 +103,8 @@
 - [Awaken](#Awaken_awaken)
 - [Dominate Person](#Dominate_Person_dominate_person) (concentration)
 - [Dream](#Dream)
-- Geas
-- Greater Restoration
+- [Geas](#Geas_geas)
+- [Greater Restoration](#Greater_Restoration_greater_restoration)
 - Hold Monster (concentration)
 - Legend Lore
 - Mass Cure Wounds
@@ -147,7 +147,7 @@
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
-- Glibness
+- [Glibness](#Glibness_glibness)
 - Mind Blank
 - Power Word Stun
 

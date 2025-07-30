@@ -3,7 +3,7 @@
 
 ##### Cantrips (0 Level)
 
-- Guidance (concentration)
+- [Guidance](#Guidance_guidance) (concentration)
 - Light
 - Mending
 - Resistance (concentration)
@@ -22,7 +22,7 @@
 - [Detect Evil and Good](#Detect_Evil_and_Good_detect_evil_and_good) (concentration)
 - [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
 - [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (ritual, concentration)
-- Guiding Bolt
+- [Guiding Bolt](#Guiding_Bolt_guiding_bolt)
 - Healing Word
 - Inflict Wounds
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
@@ -39,7 +39,7 @@
 - [Continual Flame](#Continual_Flame_continual_flame)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Find Traps](#Find_Traps_find_traps)
-- Gentle Repose (ritual)
+- [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
 - Hold Person (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Object (concentration)
@@ -59,7 +59,7 @@
 - [Create Food and Water](#Create_Food_and_Water_create_food_and_water)
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
-- Glyph of Warding
+- [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
 - Magic Circle
 - Mass Healing Word
 - Meld into Stone (ritual)
@@ -89,7 +89,7 @@
 - [Contagion](#Contagion_contagion)
 - [Dispel Evil and Good](#Dispel_Evil_and_Good_dispel_evil_and_good) (concentration)
 - [Flame Strike](#Flame_Strike_flame_strike)
-- Geas
+- [Geas](#Geas_geas)
 - Greater Restauration
 - Hallow
 - Insect Plague (concentration)
@@ -135,6 +135,6 @@
 ##### 9th Level
 
 - [Astral Projection](#Astral_Projection_astral_projection)
-- Gate (concentration)
+- [Gate](#Gate_gate) (concentration)
 - Mass Heal
 - True Resurrection

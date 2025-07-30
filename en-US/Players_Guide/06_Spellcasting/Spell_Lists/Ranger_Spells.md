@@ -10,7 +10,7 @@
 - [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (concentration)
 - [Entangle](#Entangle_entangle) (concentration)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
-- Goodberry
+- [Goodberry](#Goodberry_goodberry)
 - Hunter's Mark (concentration)
 - Jump
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
@@ -25,7 +25,7 @@
 - [Darkvision](#Darkvision_darkvision)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Find Traps](#Find_Traps_find_traps)
-- Gust of Wind (concentration)
+- [Gust of Wind](#Gust_of_Wind) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants
 - Locate Object (concentration)

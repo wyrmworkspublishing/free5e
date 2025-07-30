@@ -3,7 +3,7 @@
 
 ##### Cantrips (0 Level)
 
-- Guidance (concentration)
+- [Guidance](#Guidance_guidance) (concentration)
 - Mending
 - [Naturecraft](#Naturecraft_naturecraft)
 - Poison Spray
@@ -22,7 +22,7 @@
 - [Entangle](#Entangle_entangle) (concentration)
 - [Faerie Fire](#Faerie_Fire_faerie_fire) (concentration)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
-- Goodberry
+- [Goodberry](#Goodberry_goodberry)
 - Healing Word
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
@@ -44,7 +44,7 @@
 - [Find Traps](#Find_Traps_find_traps)
 - [Flame Blade](#Flame_Blade_flame_blade) (concentration)
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
-- Gust of Wind (concentration)
+- [Gust of Wind](#Gust_of_Wind) (concentration)
 - Heat Metal (concentration)
 - Hold Person (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
@@ -83,7 +83,7 @@
 - [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
 - [Fire Shield](#Fire_Shield_fire_shield)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
-- Giant Insect (concentration)
+- [Giant Insect](#Giant_Insect_giant_insect) (concentration)
 - Hallucinatory Terrain
 - Ice Storm
 - Locate Creature (concentration)
@@ -100,8 +100,8 @@
 - [Cone of Cold](#Cone_of_Cold_cone_of_cold)
 - [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
 - [Contagion](#Contagion_contagion)
-- Geas
-- Greater Restoration
+- [Geas](#Geas_geas)
+- [Greater Restoration](#Greater_Restoration_greater_restoration)
 - Insect Plague (concentration)
 - Mass Cure Wounds
 - Planar Binding

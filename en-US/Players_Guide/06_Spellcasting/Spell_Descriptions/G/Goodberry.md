@@ -1,6 +1,6 @@
-#### Guardian of Faith
+#### Goodberry
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_4th-level conjuration_
+_1st-level transmutation_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.

@@ -265,7 +265,39 @@
 
 [Friends](./Spell_Descriptions/F/Friends.md)
 
+[Gaseous Form](./Spell_Descriptions/G/Gaseous_Form.md)
+
+[Gate](./Spell_Descriptions/G/Gate.md)
+
+[Geas](./Spell_Descriptions/G/Geas.md)
+
+[Gentle Repose](./Spell_Descriptions/G/Gentle_Repose.md)
+
+[Giant Insect](./Spell_Descriptions/G/Giant_Insect.md)
+
+[Glibness](./Spell_Descriptions/G/Glibness.md)
+
+[Globe of Invulnerability](./Spell_Descriptions/G/Globe_of_Invulnerability.md)
+
+[Glyph of Warding](./Spell_Descriptions/G/Glyph_of_Warding.md)
+
+[Goodberry](./Spell_Descriptions/G/Goodberry.md)
+
+[Grease](./Spell_Descriptions/G/Grease.md)
+
+[Greater Invisibility](./Spell_Descriptions/G/Greater_Invisibility.md)
+
+[Greater Restoration](./Spell_Descriptions/G/Greater_Restoration.md)
+
 [Guardian of Faith](./Spell_Descriptions/G/Guardian_of_Faith.md)
+
+[Guards and Wards](./Spell_Descriptions/G/Guards_and_Wards.md)
+
+[Guidance](./Spell_Descriptions/G/Guidance.md)
+
+[Guiding Bolt](./Spell_Descriptions/G/Guiding_Bolt.md)
+
+[Gust of Wind](./Spell_Descriptions/G/Gust_of_Wind.md)
 
 [Hellish Rebuke](./Spell_Descriptions/H/Hellish_Rebuke.md)
 

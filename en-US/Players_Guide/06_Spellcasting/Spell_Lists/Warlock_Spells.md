@@ -43,7 +43,7 @@
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Fear](#Fear_fear) (concentration)
 - [Fly](#Fly_fly) (concentration)
-- Gaseous Form (concentration)
+- [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
 - Hypnotic Pattern (concentration)
 - Magic Circle
 - Major Image (concentration)
@@ -92,14 +92,14 @@
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
-- Glibness
+- [Glibness](#Glibness_glibness)
 - Power Word Stun
 
 ##### 9th Level
 
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Foresight](#Foresight_foresight)
-- Geas
+- [Geas](#Geas_geas)
 - Imprisonment
 - Power Word Kill
 - True Polymorph (concentration)

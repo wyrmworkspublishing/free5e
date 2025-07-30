@@ -20,7 +20,7 @@
 - [Aid](#Aid_aid)
 - [Branding Smite](#Branding_Smite_branding_smite) (concentration)
 - [Find Steed](#Find_Steed_find_steed)
-- Gentle Repose
+- [Gentle Repose](#Gentle_Repose_gentle_repose)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Object (concentration)
 - Magic Weapon (concentration)
@@ -47,5 +47,5 @@
 ##### 5th Level
 
 - [Dispel Evil and Good](#Dispel_Evil_and_Good_dispel_evil_and_good) (concentration)
-- Geas
+- [Geas](#Geas_geas)
 - Raise Dead

@@ -33,7 +33,7 @@
 - [Feather Fall](#Feather_Fall_feather_fall)
 - [Find Familiar](#Find_Familiar_find_familiar) (ritual)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
-- Grease
+- [Grease](#Grease_grease)
 - Identify (ritual)
 - Illusory Script (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
@@ -66,8 +66,8 @@
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
-- Gentle Repose (ritual)
-- Gust of Wind (concentration)
+- [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
+- [Gust of Wind](#Gust_of_Wind) (concentration)
 - Hold Person (concentration)
 - Invisibility (concentration)
 - Knock
@@ -97,8 +97,8 @@
 - [Fear](#Fear_fear) (concentration)
 - [Fireball](#Fireball_fireball)
 - [Fly](#Fly_fly) (concentration)
-- Gaseous Form (concentration)
-- Glyph of Warding
+- [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
+- [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
 - Haste (concentration)
 - Hypnotic Pattern (concentration)
 - Lightning Bolt
@@ -134,7 +134,7 @@
 - [Divination](#Divination_divination) (ritual)
 - [Fabricate](#Fabricate_fabricate)
 - [Fire Shield](#Fire_Shield_fire_shield)
-- Greater Invisibility (concentration)
+- [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - Hallucinatory Terrain
 - Ice Storm
 - [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
@@ -156,7 +156,7 @@
 - [Creation](#Creation_creation)
 - [Dominate Person](#Dominate_Person_dominate_person) (concentration)
 - [Dream](#Dream)
-- Geas
+- [Geas](#Geas_geas)
 - Hold Monster (concentration)
 - Legend Lore
 - Mislead (concentration)
@@ -183,8 +183,8 @@
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
-- Globe of Invulnerability (concentration)
-- Guards and Wards
+- [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
+- [Guards and Wards](#Guards_and_Wards)
 - Magic Jar
 - Mass Suggestion
 - Move Earth (concentration)
@@ -232,7 +232,7 @@
 
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Foresight](#Foresight_foresight)
-- Gate (concentration)
+- [Gate](#Gate_gate) (concentration)
 - Imprisonment
 - Meteor Swarm
 - Power Word Kill

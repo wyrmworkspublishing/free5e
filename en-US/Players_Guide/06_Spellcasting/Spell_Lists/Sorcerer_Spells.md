@@ -31,7 +31,7 @@
 - [False Life](#False_Life_false_life)
 - [Feather Fall](#Feather_Fall_feather_fall)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
-- Grease
+- [Grease](#Grease_grease)
 - Jump
 - Mage Armor
 - Magic Missile
@@ -52,7 +52,7 @@
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - [Flame Blade](#Flame_Blade_flame_blade) (concentration)
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
-- Gust of Wind (concentration)
+- [Gust of Wind](#Gust_of_Wind) (concentration)
 - Hold Person (concentration)
 - Invisibility (concentration)
 - Knock
@@ -77,7 +77,7 @@
 - [Fear](#Fear_fear) (concentration)
 - [Fireball](#Fireball_fireball)
 - [Fly](#Fly_fly) (concentration)
-- Gaseous Form (concentration)
+- [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
 - Haste (concentration)
 - Hypnotic Pattern (concentration)
 - Lightning Bolt
@@ -100,7 +100,7 @@
 - [Dimension Door](#Dimension_Door_dimension_door)
 - [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
 - [Fire Shield](#Fire_Shield_fire_shield)
-- Greater Invisibility (concentration)
+- [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - Ice Storm
 - Polymorph (concentration)
 - Stoneskin (concentration)
@@ -129,7 +129,7 @@
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
-- Globe of Invulnerability (concentration)
+- [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
 - Mass Suggestion
 - Move Earth (concentration)
 - Sunbeam (concentration)
@@ -157,7 +157,7 @@
 
 ##### 9th Level
 
-- Gate (concentration)
+- [Gate](#Gate_gate) (concentration)
 - Meteor Swarm
 - Power Word Kill
 - Time Stop
