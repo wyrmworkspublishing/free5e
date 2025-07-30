@@ -40,7 +40,7 @@
 - [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
 - [Daylight](#Daylight_daylight)
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone)
-- Nondetection
+- [Nondetection](#Nondetection_nondetection)
 - Plant Growth
 - Protection from Energy (concentration)
 - Revivify

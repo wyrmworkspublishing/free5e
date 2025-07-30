@@ -75,7 +75,7 @@
 - [Major Image](#Major_Image_major_image) (concentration)
 - [Mass Healing Word](#Mass_Healing_Word_mass_healing_word)
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
-- Nondetection
+- [Nondetection](#Nondetection_nondetection)
 - Plant Growth
 - Sending
 - Slow (concentration)

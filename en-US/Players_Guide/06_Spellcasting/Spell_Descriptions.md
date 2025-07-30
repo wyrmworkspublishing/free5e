@@ -431,6 +431,8 @@
 
 [Natalex's Instant Summons](./Spell_Descriptions/N/Natalexs_Instant_Summons.md)
 
+[Nondetection](./Spell_Descriptions/N/Nondetection.md)
+
 [Paoliello's Hideous Laughter](./Spell_Descriptions/P/Paoliellos_Hideous_Laughter.md)
 
 [Pelham's Hovering Platter](./Spell_Descriptions/P/Pelhams_Hovering_Platter.md)

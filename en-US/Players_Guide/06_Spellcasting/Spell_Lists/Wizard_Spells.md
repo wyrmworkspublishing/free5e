@@ -105,7 +105,7 @@
 - [Magic Circle](#Magic_Circle_magic_circle)
 - [Major Image](#Major_Image_major_image) (concentration)
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
-- Nondetection
+- [Nondetection](#Nondetection_nondetection)
 - Phantom Steed (ritual)
 - Protection from Energy (concentration)
 - Remove Curse
