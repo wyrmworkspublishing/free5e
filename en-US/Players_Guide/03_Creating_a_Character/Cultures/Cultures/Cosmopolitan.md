@@ -26,4 +26,4 @@ The DC is lowered by 5 for you.
 > This culture has not yet been fully transferred from the Google Doc.
 
 **Languages.**
-You can speak, read, write, and sign in Common and two additional languages.
+You can speak or sign, read, and write Common and two additional languages.
