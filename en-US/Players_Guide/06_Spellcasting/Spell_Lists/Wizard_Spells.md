@@ -37,7 +37,7 @@
 - [Identify](#Identify_identify) (ritual)
 - [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
-- Jump
+- [Jump](#Jump_jump)
 - Longstrider
 - Mage Armor
 - Magic Missile

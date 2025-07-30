@@ -351,6 +351,8 @@
 
 [Jess's Private Sanctum](./Spell_Descriptions/J/Jesss_Private_Sanctum.md)
 
+[Jump](./Spell_Descriptions/J/Jump.md)
+
 [Katy's Spectral Sword](./Spell_Descriptions/K/Katys_Spectral_Sword.md)
 
 [Lesser Restoration](./Spell_Descriptions/L/Lesser_Restoration.md)

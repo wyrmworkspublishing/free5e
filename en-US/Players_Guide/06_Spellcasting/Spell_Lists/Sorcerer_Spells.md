@@ -32,7 +32,7 @@
 - [Feather Fall](#Feather_Fall_feather_fall)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - [Grease](#Grease_grease)
-- Jump
+- [Jump](#Jump_jump)
 - Mage Armor
 - Magic Missile
 - Shield

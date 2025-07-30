@@ -25,7 +25,7 @@
 - [Goodberry](#Goodberry_goodberry)
 - [Healing Word](#Healing_Word_healing_word)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
-- Jump
+- [Jump](#Jump_jump)
 - Longstrider
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Purify Food and Drink (ritual)
