@@ -47,6 +47,8 @@ Eyebite
 Feywild
 Forcecage
 Geas
+gnoll
+gnolls
 goblinoid
 goblinoids
 Goodberry
@@ -79,6 +81,7 @@ Melestrua
 Metamagic
 midjump
 Morscheck
+Multiattack
 Multiclassing
 narratively
 Natalex
