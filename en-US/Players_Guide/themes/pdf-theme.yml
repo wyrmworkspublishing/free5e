@@ -1,5 +1,5 @@
 extends:
-  - default
+  - default-sans-with-font-fallbacks
 font:
   catalog:
     merge: true
@@ -18,6 +18,10 @@ font:
       italic: roboto/roboto-v48-latin_latin-ext_math_symbols-italic.ttf
       bold: roboto/roboto-v48-latin_latin-ext_math_symbols-700.ttf
       bold_italic: roboto/roboto-v48-latin_latin-ext_math_symbols-700italic.ttf
+  fallbacks:
+    - Roboto
+    - Noto Sans
+    - Noto Emoji
 base:
   font-size: 12
   font-family: AtkinsonHyperlegibleNext
