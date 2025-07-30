@@ -18,4 +18,4 @@ Once you have used this trait, you cannot do so again until you finish a short o
 You gain proficiency in Sleight of Hand, and you gain expertise when picking a pocket or otherwise taking an item without notice.
 \
 **Languages.**
-You can speak, read, write, and sign Common and Halfling.
+You can speak or sign, read, and write Common and Halfling.
