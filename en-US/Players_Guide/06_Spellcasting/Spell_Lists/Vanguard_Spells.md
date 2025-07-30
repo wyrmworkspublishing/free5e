@@ -35,8 +35,8 @@
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Magic Circle](#Magic_Circle_magic_circle)
-- Remove Curse
-- Revivify
+- [Remove Curse](#Remove_Curse_remove_curse)
+- [Revivify](#Revivify_revivify)
 
 ##### 4th Level
 
@@ -48,4 +48,4 @@
 
 - [Dispel Evil and Good](#Dispel_Evil_and_Good_dispel_evil_and_good) (concentration)
 - [Geas](#Geas_geas)
-- Raise Dead
+- [Raise Dead](#Raise_Dead_raise_dead)

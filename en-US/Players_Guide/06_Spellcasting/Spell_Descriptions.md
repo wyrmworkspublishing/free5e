@@ -483,7 +483,31 @@
 
 [Purify Food and Drink](./Spell_Descriptions/P/Purify_Food_and_Drink.md)
 
+[Raise Dead](./Spell_Descriptions/R/Raise_Dead.md)
+
 [Rantock's Telepathic Bond](./Spell_Descriptions/R/Rantocks_Telepathic_Bond.md)
+
+[Ray of Enfeeblement](./Spell_Descriptions/R/Ray_of_Enfeeblement.md)
+
+[Ray of Frost](./Spell_Descriptions/R/Ray_of_Frost.md)
+
+[Regenerate](./Spell_Descriptions/R/Regenerate.md)
+
+[Reincarnate](./Spell_Descriptions/R/Reincarnate.md)
+
+[Remove Curse](./Spell_Descriptions/R/Remove_Curse.md)
+
+[Resilient Sphere](./Spell_Descriptions/R/Resilient_Sphere.md)
+
+[Resistance](./Spell_Descriptions/R/Resistance.md)
+
+[Resurrection](./Spell_Descriptions/R/Resurrection.md)
+
+[Reverse Gravity](./Spell_Descriptions/R/Reverse_Gravity.md)
+
+[Revivify](./Spell_Descriptions/R/Revivify.md)
+
+[Rope Trick](./Spell_Descriptions/R/Rope_Trick.md)
 
 [Sanctuary](./Spell_Descriptions/S/Sanctuary.md)
 

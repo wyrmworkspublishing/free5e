@@ -43,7 +43,7 @@
 - [Nondetection](#Nondetection_nondetection)
 - [Plant Growth](#Plant_Growth_plant_growth)
 - [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
-- Revivify
+- [Revivify](#Revivify_revivify)
 - Speak with Plants
 - Water Breathing
 - Water Walk

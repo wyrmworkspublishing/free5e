@@ -111,7 +111,7 @@
 - [Mislead](#Mislead_mislead) (concentration)
 - [Modify Memory](#Modify_Memory_modify_memory) (concentration)
 - [Planar Binding](#Planar_Binding_planar_binding)
-- Raise Dead
+- [Raise Dead](#Raise_Dead_raise_dead)
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - Scrying (concentration)
 - Seeming
@@ -136,8 +136,8 @@
 - [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
 - [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
 - [Project Image](#Project_Image_project_image) (concentration)
-- Regenerate
-- Resurrection
+- [Regenerate](#Regenerate_regenerate)
+- [Resurrection](#Resurrection_resurrection)
 - Symbol
 - Teleport
 

@@ -6,7 +6,7 @@
 - [Guidance](#Guidance_guidance) (concentration)
 - [Light](#Light_light)
 - [Mending](#Mending_mending)
-- Resistance (concentration)
+- [Resistance](#Resistance_resistance) (concentration)
 - Sacred Flame
 - Spare the Dying
 - [Thaumaturgy](#Thaumaturgy_thaumaturgy)
@@ -64,8 +64,8 @@
 - [Mass Healing Word](#Mass_Healing_Word_mass_healing_word)
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
 - [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
-- Remove Curse
-- Revivify
+- [Remove Curse](#Remove_Curse_remove_curse)
+- [Revivify](#Revivify_revivify)
 - Sending
 - Speak with Dead
 - Spirit Guardians (concentration)
@@ -96,7 +96,7 @@
 - [Legend Lore](#Legend_Lore_legend_lore)
 - [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
 - [Planar Binding](#Planar_Binding_planar_binding)
-- Raise Dead
+- [Raise Dead](#Raise_Dead_raise_dead)
 - Scrying (concentration)
 
 ##### 6th Level
@@ -120,8 +120,8 @@
 - [Etherealness](#Etherealness_etherealness)
 - [Fire Storm](#Fire_Storm_fire_storm)
 - [Plane Shift](#Plane_Shift_plane_shift)
-- Regenerate
-- Resurrection
+- [Regenerate](#Regenerate_regenerate)
+- [Resurrection](#Resurrection_resurrection)
 - Symbol
 
 ##### 8th Level

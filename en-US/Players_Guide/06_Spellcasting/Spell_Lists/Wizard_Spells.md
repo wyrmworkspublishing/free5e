@@ -15,7 +15,7 @@
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
 - [Poison Spray](#Poison_Spray_poison_spray)
 - [Prestidigitation](#Prestidigitation_prestidigitation)
-- Ray of Frost
+- [Ray of Frost](#Ray_of_Frost_ray_of_frost)
 - Shocking Grasp
 - True Strike (concentration)
 
@@ -77,8 +77,8 @@
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
-- Ray of Enfeeblement (concentration)
-- Rope Trick
+- [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
+- [Rope Trick](#Rope_Trick_rope_trick)
 - Scorching Ray
 - See Invisibility
 - Shatter
@@ -108,7 +108,7 @@
 - [Nondetection](#Nondetection_nondetection)
 - [Phantom Steed](#Phantom_Steed_phantom_steed) (ritual)
 - [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
-- Remove Curse
+- [Remove Curse](#Remove_Curse_remove_curse)
 - Sending
 - Sleet Storm (concentration)
 - Slow (concentration)
@@ -141,7 +141,7 @@
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - [Phantasmal Killer](#Phantasmal_Killer_phantasmal_killer) (concentration)
 - [Polymorph](#Polymorph_polymorph) (concentration)
-- Resilient Sphere <!-- Might be renamed --> (concentration)
+- [Resilient Sphere](#Resilient_Sphere_resilient_sphere) <!-- Might be renamed --> (concentration)
 - Stone Shape
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
@@ -206,7 +206,7 @@
 - [Plane Shift](#Plane_Shift_plane_shift)
 - [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
 - [Project Image](#Project_Image_project_image) (concentration)
-- Reverse Gravity (concentration)
+- [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
 - Sequester
 - Simulacrum
 - Symbol

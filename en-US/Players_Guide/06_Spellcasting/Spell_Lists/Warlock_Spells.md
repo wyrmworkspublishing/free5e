@@ -32,7 +32,7 @@
 - [Invisibility](#Invisibility_invisibility) (concentration)
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
-- Ray of Enfeeblement (concentration)
+- [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
 - Shatter
 - Spider Climb (concentration)
 - Suggestion (concentration)
@@ -47,7 +47,7 @@
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
 - [Magic Circle](#Magic_Circle_magic_circle)
 - [Major Image](#Major_Image_major_image) (concentration)
-- Remove Curse
+- [Remove Curse](#Remove_Curse_remove_curse)
 - Tongues
 - Vampiric Touch (concentration)
 

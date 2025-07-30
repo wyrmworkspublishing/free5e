@@ -8,7 +8,7 @@
 - [Naturecraft](#Naturecraft_naturecraft)
 - [Poison Spray](#Poison_Spray_poison_spray)
 - [Produce Flame](#Produce_Flame_produce_flame)
-- Resistance (concentration)
+- [Resistance](#Resistance_resistance) (concentration)
 - Shillelagh
 
 ##### 1st Level
@@ -64,7 +64,7 @@
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
 - [Plant Growth](#Plant_Growth_plant_growth)
 - [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
-- Revivify
+- [Revivify](#Revivify_revivify)
 - Sleet Storm (concentration)
 - Speak with Plants
 - Water Breathing (ritual)
@@ -105,6 +105,7 @@
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
 - [Planar Binding](#Planar_Binding_planar_binding)
+- [Reincarnate](#Reincarnate_reincarnate)
 - Scrying (concentration)
 - Tree Stride (concentration)
 - Wall of Stone (concentration)
@@ -127,8 +128,8 @@
 - [Fire Storm](#Fire_Storm_fire_storm)
 - [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
 - [Plane Shift](#Plane_Shift_plane_shift)
-- Regenerate
-- Reverse Gravity (concentration)
+- [Regenerate](#Regenerate_regenerate)
+- [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
 - Symbol
 
 ##### 8th Level

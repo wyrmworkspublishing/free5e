@@ -15,7 +15,7 @@
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
 - [Poison Spray](#Poison_Spray_poison_spray)
 - [Prestidigitation](#Prestidigitation_prestidigitation)
-- Ray of Frost
+- [Ray of Frost](#Ray_of_Frost_ray_of_frost)
 - Shocking Grasp
 - True Strike (concentration)
 
@@ -143,7 +143,7 @@
 - [Fire Storm](#Fire_Storm_fire_storm)
 - [Plane Shift](#Plane_Shift_plane_shift)
 - [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
-- Reverse Gravity (concentration)
+- [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
 - Teleport
 
 ##### 8th Level
