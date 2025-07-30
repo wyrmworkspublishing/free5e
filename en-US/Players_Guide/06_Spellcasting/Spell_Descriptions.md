@@ -357,7 +357,23 @@
 
 [Knock](./Spell_Descriptions/K/Knock.md)
 
+[Legend Lore](./Spell_Descriptions/L/Legend_Lore.md)
+
 [Lesser Restoration](./Spell_Descriptions/L/Lesser_Restoration.md)
+
+[Levitate](./Spell_Descriptions/L/Levitate.md)
+
+[Light](./Spell_Descriptions/L/Light.md)
+
+[Lightning Bolt](./Spell_Descriptions/L/Lightning_Bolt.md)
+
+[Locate Animals or Plants](./Spell_Descriptions/L/Locate_Animals_or_Plants.md)
+
+[Locate Creature](./Spell_Descriptions/L/Locate_Creature.md)
+
+[Locate Object](./Spell_Descriptions/L/Locate_Object.md)
+
+[Longstrider](./Spell_Descriptions/L/Longstrider.md)
 
 [Melestrua's Marvelous Marquee](./Spell_Descriptions/M/Melestruas_Marvelous_Marquee.md)
 

@@ -8,7 +8,7 @@
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - [Fire Bolt](#Fire_Bolt_fire_bolt)
 - [Friends](#Friends_friends)
-- Light
+- [Light](#Light_light)
 - Mage Hand
 - Mending
 - Message
@@ -56,7 +56,7 @@
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Invisibility](#Invisibility_invisibility) (concentration)
 - [Knock](#Knock_knock)
-- Levitate (concentration)
+- [Levitate](#Levitate_levitate) (concentration)
 - Magic Weapon (concentration)
 - Mirror Image
 - Misty Step
@@ -80,7 +80,7 @@
 - [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
 - [Haste](#Haste_haste) (concentration)
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
-- Lightning Bolt
+- [Lightning Bolt](#Lightning_Bolt_lightning_bolt)
 - Major Image (concentration)
 - Protection from Energy (concentration)
 - Sleet Storm (concentration)

@@ -8,7 +8,7 @@
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - [Fire Bolt](#Fire_Bolt_fire_bolt)
 - [Friends](#Friends_friends)
-- Light
+- [Light](#Light_light)
 - Mage Hand
 - Mending
 - Message
@@ -38,7 +38,7 @@
 - [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Jump](#Jump_jump)
-- Longstrider
+- [Longstrider](#Longstrider_longstrider)
 - Mage Armor
 - Magic Missile
 - [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
@@ -71,8 +71,8 @@
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Invisibility](#Invisibility_invisibility) (concentration)
 - [Knock](#Knock_knock)
-- Levitate (concentration)
-- Locate Object (concentration)
+- [Levitate](#Levitate_levitate) (concentration)
+- [Locate Object](#Locate_Object_locate_object) (concentration)
 - Magic Mouth (ritual)
 - Magic Weapon (concentration)
 - Mirror Image
@@ -101,7 +101,7 @@
 - [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
 - [Haste](#Haste_haste) (concentration)
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
-- Lightning Bolt
+- [Lightning Bolt](#Lightning_Bolt_lightning_bolt)
 - Magic Circle
 - Major Image (concentration)
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
@@ -138,7 +138,7 @@
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
-- Locate Creature (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - Phantasmal Killer (concentration)
 - Polymorph (concentration)
 - Resilient Sphere <!-- Might be renamed --> (concentration)
@@ -158,7 +158,7 @@
 - [Dream](#Dream)
 - [Geas](#Geas_geas)
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
-- Legend Lore
+- [Legend Lore](#Legend_Lore_legend_lore)
 - Mislead (concentration)
 - Modify Memory (concentration)
 - [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)

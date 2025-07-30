@@ -14,7 +14,7 @@
 - [Hunter's Mark](#Hunters_Mark_hunters_mark) (concentration)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Jump](#Jump_jump)
-- Longstrider
+- [Longstrider](#Longstrider_longstrider)
 - Speak with Animals
 
 ##### 2nd Level
@@ -27,8 +27,8 @@
 - [Find Traps](#Find_Traps_find_traps)
 - [Gust of Wind](#Gust_of_Wind) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
-- Locate Animals or Plants
-- Locate Object (concentration)
+- [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants)
+- [Locate Object](#Locate_Object_locate_object) (concentration)
 - Magic Weapon (concentration)
 - Pass without Trace (concentration)
 - Protection from Poison
@@ -55,7 +55,7 @@
 - [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Greater Restauration
-- Locate Creature (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - Stoneskin (concentration)
 
 ##### 5th Level

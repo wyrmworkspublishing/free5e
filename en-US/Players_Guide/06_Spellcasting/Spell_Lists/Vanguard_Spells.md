@@ -22,7 +22,7 @@
 - [Find Steed](#Find_Steed_find_steed)
 - [Gentle Repose](#Gentle_Repose_gentle_repose)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
-- Locate Object (concentration)
+- [Locate Object](#Locate_Object_locate_object) (concentration)
 - Magic Weapon (concentration)
 - Prayer of Healing
 - Protection from Poison
@@ -42,7 +42,7 @@
 
 - [Banishment](#Banishment_banishment) (concentration)
 - [Death Ward](#Death_Ward_death_ward)
-- Locate Creature (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 
 ##### 5th Level
 

@@ -61,7 +61,7 @@ Force is pure magical energy focused into a damaging form.
 Most effects that deal force damage are spells, including Magic Missile and spiritual weapon.
 
 **Lightning.**
-A Lightning Bolt spell and a blue dragon’s breath deal lightning damage.
+A [Lightning Bolt](#Lightning_Bolt_lightning_bolt) spell and a blue dragon’s breath deal lightning damage.
 
 **Necrotic.**
 Necrotic damage, dealt by certain undead and a spell such as [Chill Touch](#Chill_Touch_chill_touch), withers matter and even the soul.

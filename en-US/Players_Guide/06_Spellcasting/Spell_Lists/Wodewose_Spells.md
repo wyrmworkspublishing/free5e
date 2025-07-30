@@ -26,7 +26,7 @@
 - [Healing Word](#Healing_Word_healing_word)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Jump](#Jump_jump)
-- Longstrider
+- [Longstrider](#Longstrider_longstrider)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Purify Food and Drink (ritual)
 - Speak with Animals (ritual)
@@ -48,8 +48,8 @@
 - [Heat Metal](#Heat_Metal_heat_metal) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
-- Locate Animals or Plants (ritual)
-- Locate Object (concentration)
+- [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants) (ritual)
+- [Locate Object](#Locate_Object_locate_object) (concentration)
 - Moonbeam (concentration)
 - Pass without Trace (concentration)
 - Protection from Poison
@@ -86,7 +86,7 @@
 - [Giant Insect](#Giant_Insect_giant_insect) (concentration)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - [Ice Storm](#Ice_Storm_ice_storm)
-- Locate Creature (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - Polymorph (concentration)
 - Stone Shape
 - Stoneskin (concentration)

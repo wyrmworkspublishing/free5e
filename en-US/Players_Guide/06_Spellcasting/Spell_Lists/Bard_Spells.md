@@ -4,7 +4,7 @@
 ##### Cantrips (0 Level)
 
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
-- Light
+- [Light](#Light_light)
 - [Friends](#Friends_friends)
 - Mage Hand
 - Mending
@@ -31,7 +31,7 @@
 - [Heroism](#Heroism_heroism) (concentration)
 - [Identify](#Identify_identify) (ritual)
 - [Illusory Script](#Illusory_Script_illusory_script) (ritual)
-- Longstrider
+- [Longstrider](#Longstrider_longstrider)
 - [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
 - Silent Image (concentration)
 - Sleep
@@ -54,8 +54,8 @@
 - [Invisibility](#Invisibility_invisibility) (concentration)
 - [Knock](#Knock_knock)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
-- Locate Animals or Plants (ritual)
-- Locate Object (concentration)
+- [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants) (ritual)
+- [Locate Object](#Locate_Object_locate_object) (concentration)
 - Magic Mouth (ritual)
 - Mirror Image
 - See Invisibility
@@ -93,7 +93,7 @@
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
-- Locate Creature (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - Phantasmal Killer (concentration)
 - Polymorph (concentration)
 
@@ -106,7 +106,7 @@
 - [Geas](#Geas_geas)
 - [Greater Restoration](#Greater_Restoration_greater_restoration)
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
-- Legend Lore
+- [Legend Lore](#Legend_Lore_legend_lore)
 - Mass Cure Wounds
 - Mislead (concentration)
 - Modify Memory (concentration)

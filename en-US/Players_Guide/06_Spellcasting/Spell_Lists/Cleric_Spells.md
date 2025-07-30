@@ -4,7 +4,7 @@
 ##### Cantrips (0 Level)
 
 - [Guidance](#Guidance_guidance) (concentration)
-- Light
+- [Light](#Light_light)
 - Mending
 - Resistance (concentration)
 - Sacred Flame
@@ -42,7 +42,7 @@
 - [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
-- Locate Object (concentration)
+- [Locate Object](#Locate_Object_locate_object) (concentration)
 - Prayer of Healing
 - Protection from Poison
 - Silence (ritual)
@@ -80,7 +80,7 @@
 - [Divination](#Divination_divination) (ritual)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Guardian of Faith](#Guardian_of_Faith_guardian_of_faith)
-- Locate Creature (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - Stone Shape
 
 ##### 5th Level
@@ -93,7 +93,7 @@
 - Greater Restauration
 - [Hallow](#Hallow_hallow)
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
-- Legend Lore
+- [Legend Lore](#Legend_Lore_legend_lore)
 - Mass Cure Wounds
 - Planar Binding
 - Raise Dead
