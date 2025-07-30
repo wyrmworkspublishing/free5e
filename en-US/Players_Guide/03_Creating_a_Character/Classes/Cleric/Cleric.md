@@ -92,7 +92,7 @@ The spells must be of a level for which you have spell slots.
 
 For example, if you are a 3rd-level Cleric, you have four 1st-level and two 2nd-level spell slots.
 With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
-If you prepare the 1st-level spell Cure Wounds, you can cast it using a 1st-level or 2nd-level slot.
+If you prepare the 1st-level spell [Cure Wounds](#Cure_Wounds_cure_wounds), you can cast it using a 1st-level or 2nd-level slot.
 Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest.

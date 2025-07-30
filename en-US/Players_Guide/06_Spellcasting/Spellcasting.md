@@ -48,7 +48,7 @@ Some characters and monsters have special abilities that allow them to cast spel
 
 When a spellcaster casts a spell with a higher-level slot, the spell assumes that level.
 For example, if Umara casts Magic Missile with a 2nd-level slot, it’s 2nd level.
-Some spells, like Magic Missile and Cure Wounds, have more powerful effects at higher levels, as detailed in the spell’s description.
+Some spells, like Magic Missile and [Cure Wounds](#Cure_Wounds_cure_wounds), have more powerful effects at higher levels, as detailed in the spell’s description.
 
 #### Casting in Armor <!-- In the WotC SRD, this is an info box. -->
 
@@ -99,7 +99,7 @@ To try again, start over.
 #### Range
 
 The target of a spell must be within its range.
-For example, Magic Missile targets a creature, while Fireball targets the point of fire’s eruption.
+For example, Magic Missile targets a creature, while [Fireball](#Fireball_fireball) targets the point of fire’s eruption.
 
 Spell ranges are usually expressed in feet.
 Some spells target only a creature you touch, while others affect only you (self range).
@@ -183,7 +183,7 @@ If you’re in the spell’s area of effect, you can target yourself.
 
 #### Areas of Effect
 
-Spells like Burning Hands and Cone of Cold cover an area, affecting multiple creatures.
+Spells like [Burning Hands](#Burning_Hands_burning_hands) and [Cone of Cold](#Cone_of_Cold_cone_of_cold) cover an area, affecting multiple creatures.
 The spell’s description specifies its area of effect, which can be a cone, cube, cylinder, line, or sphere.
 Each shape has a point of origin, from which the spell’s energy erupts.
 The rules specify how to position the point of origin.
@@ -271,7 +271,7 @@ Creating undead through [Animate Dead](#Animate_Dead_animate_dead) is evil and r
 
 The effects of different spells combine while their durations overlap.
 However, the most potent effect from multiple castings applies while their durations overlap.
-For instance, if two Clerics cast Bless on the same target, the character gains the spell’s benefit only once, not twice.
+For instance, if two Clerics cast [Bless](#Bless_bless) on the same target, the character gains the spell’s benefit only once, not twice.
 
 ### Spell Lists
 > **Spell Name Changes**

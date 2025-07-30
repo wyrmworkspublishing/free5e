@@ -13,14 +13,15 @@
 
 ##### 1st Level
 
-- Bane (concentration)
-- Bless (concentration)
-- Command
-- Create or Destroy Water
-- Cure Wounds
-- Detect Evil and Good (concentration)
-- Detect Magic (ritual, concentration)
-- Detect Poison and Disease (ritual, concentration)
+- [Bane](#Bane_bane) (concentration)
+- [Bless](#Bless_bless) (concentration)
+- [Ceremony](#Ceremony_ceremony) (ritual)
+- [Command](#Command_command)
+- [Create or Destroy Water](#Create_or_Destroy_Water_create_or_destroy_water)
+- [Cure Wounds](#Cure_Wounds_cure_wounds)
+- [Detect Evil and Good](#Detect_Evil_and_Good_detect_evil_and_good) (concentration)
+- [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
+- [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (ritual, concentration)
 - Guiding Bolt
 - Healing Word
 - Inflict Wounds
@@ -33,11 +34,11 @@
 
 - [Aid](#Aid_aid)
 - [Augury](#Augury_augury) (ritual)
-- Blindness/Deafness
-- Calm Emotions (concentration)
-- Continual Flame
-- Enhance Ability (concentration)
-- Find Traps
+- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
+- [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
+- [Continual Flame](#Continual_Flame_continual_flame)
+- [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
+- [Find Traps](#Find_Traps_find_traps)
 - Gentle Repose (ritual)
 - Hold Person (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
@@ -53,10 +54,10 @@
 
 - [Animate Dead](#Animate_Dead_animate_dead)
 - [Beacon of Hope](#Beacon_of_Hope_beacon_of_hope) (concentration)
-- Bestow Curse (concentration)
-- Clairvoyance (concentration)
-- Create Food and Water
-- Daylight
+- [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
+- [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
+- [Create Food and Water](#Create_Food_and_Water_create_food_and_water)
+- [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - Glyph of Warding
 - Magic Circle
@@ -73,10 +74,10 @@
 
 ##### 4th Level
 
-- Banishment (concentration)
-- Control Water (concentration)
-- Death Ward
-- Divination (ritual)
+- [Banishment](#Banishment_banishment) (concentration)
+- [Control Water](#Control_Water_control_water) (concentration)
+- [Death Ward](#Death_Ward_death_ward)
+- [Divination](#Divination_divination) (ritual)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Guardian of Faith](#Guardian_of_Faith_guardian_of_faith)
 - Locate Creature (concentration)
@@ -85,8 +86,8 @@
 ##### 5th Level
 
 - [Commune](#Commune_commune) (ritual)
-- Contagion
-- Dispel Evil and Good (concentration)
+- [Contagion](#Contagion_contagion)
+- [Dispel Evil and Good](#Dispel_Evil_and_Good_dispel_evil_and_good) (concentration)
 - [Flame Strike](#Flame_Strike_flame_strike)
 - Geas
 - Greater Restauration
@@ -100,10 +101,10 @@
 
 ##### 6th Level
 
-- Blade Barrier (concentration)
-- Create Undead
-- Find the Path (concentration)
-- Forbiddance (ritual)
+- [Blade Barrier](#Blade_Barrier_blade_barrier) (concentration)
+- [Create Undead](#Create_Undead_create_undead)
+- [Find the Path](#Find_the_Path_find_the_path) (concentration)
+- [Forbiddance](#Forbiddance_forbiddance) (ritual)
 - Harm
 - Heal
 - Heroes’ Feast
@@ -114,10 +115,10 @@
 
 ##### 7th Level
 
-- Conjure Celestial (concentration)
-- Divine Word
-- Etherealness
-- Fire Storm
+- [Conjure Celestial](#Conjure_Celestial_conjure_celestial) (concentration)
+- [Divine Word](#Divine_Word_divine_word)
+- [Etherealness](#Etherealness_etherealness)
+- [Fire Storm](#Fire_Storm_fire_storm)
 - Plane Shift
 - Regenerate
 - Resurrection
@@ -126,8 +127,8 @@
 ##### 8th Level
 
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
-- Control Weather (concentration)
-- Earthquake (concentration)
+- [Control Weather](#Control_Weather_control_weather) (concentration)
+- [Earthquake](#Earthquake_earthquake) (concentration)
 - Holy Aura (concentration)
 - Sunburst
 

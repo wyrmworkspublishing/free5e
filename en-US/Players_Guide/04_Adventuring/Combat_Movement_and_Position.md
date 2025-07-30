@@ -26,7 +26,7 @@ Whenever you switch, subtract the distance you’ve already moved from the new s
 The result determines how much farther you can move.
 If the result is 0 or less, you can’t use the new speed during the current move.
 
-For example, if you have a speed of 30 and a flying speed of 60 because a Wizard cast the Fly spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
+For example, if you have a speed of 30 and a flying speed of 60 because a Wizard cast the [Fly](#Fly_fly) spell on you, you could fly 20 feet, then walk 10 feet, and then leap into the air to fly 30 feet more.
 
 ##### Difficult Terrain
 
@@ -91,7 +91,7 @@ If you leave a hostile creature’s reach during your move, you provoke an oppor
 ##### Flying Movement
 
 Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling.
-If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the Fly spell.
+If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [Fly](#Fly_fly) spell.
 
 ##### Creature Size
 

@@ -5,11 +5,11 @@
 
 - [Alarm](#Alarm_alarm)
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
-- Cure Wounds
-- Detect Magic (concentration)
-- Detect Poison and Disease (concentration)
-- Entangle (concentration)
-- Fog Cloud (concentration)
+- [Cure Wounds](#Cure_Wounds_cure_wounds)
+- [Detect Magic](#Detect_Magic_detect_magic) (concentration)
+- [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (concentration)
+- [Entangle](#Entangle_entangle) (concentration)
+- [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - Goodberry
 - Hunter's Mark (concentration)
 - Jump
@@ -21,10 +21,10 @@
 
 - [Aid](#Aid_aid)
 - [Animal Messenger](#Animal_Messenger_animal_messenger)
-- Barkskin (concentration)
-- Darkvision
-- Enhance Ability (concentration)
-- Find Traps
+- [Barkskin](#Barkskin_barkskin) (concentration)
+- [Darkvision](#Darkvision_darkvision)
+- [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
+- [Find Traps](#Find_Traps_find_traps)
 - Gust of Wind (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants
@@ -37,8 +37,8 @@
 
 ##### 3rd Level
 
-- Conjure Animals (concentration)
-- Daylight
+- [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
+- [Daylight](#Daylight_daylight)
 - Meld into Stone
 - Nondetection
 - Plant Growth
@@ -51,8 +51,8 @@
 
 ##### 4th Level
 
-- Conjure Woodland Beings (concentration)
-- Dominate Beast (concentration)
+- [Conjure Woodland Beings](#Conjure_Woodland_Beings_conjure_woodland_beings) (concentration)
+- [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Greater Restauration
 - Locate Creature (concentration)
@@ -60,5 +60,5 @@
 
 ##### 5th Level
 
-- Commune with Nature
+- [Commune with Nature](#Commune_with_Nature_commune_with_nature)
 - Tree Stride (concentration)

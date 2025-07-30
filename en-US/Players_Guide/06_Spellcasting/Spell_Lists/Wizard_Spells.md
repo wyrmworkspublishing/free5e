@@ -4,9 +4,10 @@
 ##### Cantrips (0 Level)
 
 - [Acid Splash](#Acid_Splash_acid_splash)
-- Chill Touch
-- Dancing Lights (concentration)
-- Fire Bolt
+- [Chill Touch](#Chill_Touch_chill_touch)
+- [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
+- [Fire Bolt](#Fire_Bolt_fire_bolt)
+- [Friends](#Friends_friends)
 - Light
 - Mage Hand
 - Mending
@@ -21,17 +22,17 @@
 ##### 1st Level
 
 - [Alarm](#Alarm_alarm) (ritual)
-- Burning Hands
-- Charm Person
-- Color Spray
-- Comprehend Languages (ritual)
-- Detect Magic (ritual, concentration)
-- Disguise Self
-- Expeditious Retreat (concentration)
-- False Life
-- Feather Fall
-- Find Familiar (ritual)
-- Fog Cloud (concentration)
+- [Burning Hands](#Burning_Hands_burning_hands)
+- [Charm Person](#Charm_Person_charm_person)
+- [Color Spray](#Color_Spray_color_spray)
+- [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
+- [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
+- [Disguise Self](#Disguise_Self_disguise_self)
+- [Expeditious Retreat](#Expeditious_Retreat_expeditious_retreat) (concentration)
+- [False Life](#False_Life_false_life)
+- [Feather Fall](#Feather_Fall_feather_fall)
+- [Find Familiar](#Find_Familiar_find_familiar) (ritual)
+- [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - Grease
 - Identify (ritual)
 - Illusory Script (ritual)
@@ -54,17 +55,17 @@
 - [Alter Self](#Alter_Self_alter_self) (concentration)
 - [Arcane Lock](#Arcane_Lock_arcane_lock)
 - [Augury](#Augury_augury) (ritual)
-- Blindness/Deafness
-- Blur (concentration)
+- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
+- [Blur](#Blur_blur) (concentration)
 - [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
-- Continual Flame
+- [Continual Flame](#Continual_Flame_continual_flame)
 - [Darkness](#Darkness_darkness) (concentration)
-- Darkvision
-- Detect Thoughts (concentration)
+- [Darkvision](#Darkvision_darkvision)
+- [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
 - [DT's Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist's Magic Aura --> (concentration)
-- Enhance Ability (concentration)
-- Enlarge/Reduce (concentration)
-- Flaming Sphere (concentration)
+- [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
+- [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
+- [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
 - Gentle Repose (ritual)
 - Gust of Wind (concentration)
 - Hold Person (concentration)
@@ -88,14 +89,14 @@
 ##### 3rd Level
 
 - [Animate Dead](#Animate_Dead_animate_dead)
-- Bestow Curse (concentration)
-- Blink
-- Clairvoyance (concentration)
+- [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
+- [Blink](#Blink_blink)
+- [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
 - [Counterspell](#Counterspell_counterspell)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
-- Fear (concentration)
-- Fireball
-- Fly (concentration)
+- [Fear](#Fear_fear) (concentration)
+- [Fireball](#Fireball_fireball)
+- [Fly](#Fly_fly) (concentration)
 - Gaseous Form (concentration)
 - Glyph of Warding
 - Haste (concentration)
@@ -120,18 +121,19 @@
 ##### 4th Level
 
 - [Arcane Eye](#Arcane_Eye_arcane_eye) (concentration)
-- Banishment (concentration)
-- Blight
+- [Banishment](#Banishment_banishment) (concentration)
+- [Blight](#Blight_blight)
 - [Cerilsen's Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
+- [Charm Monster](#Charm_Monster_charm_monster)
 - [Chloe's Faithful Hound](#Chloes_Faithful_Hound_chloes_faithful_hound) <!-- previously "Faithful Hound" -->
 - [Confusion](#Confusion_confusion) (concentration)
-- Conjure Minor Elementals (concentration)
-- Control Water (concentration)
+- [Conjure Minor Elementals](#Conjure_Minor_Elementals_conjure_minor_elementals) (concentration)
+- [Control Water](#Control_Water_control_water) (concentration)
 - [Coreador's Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
-- Dimension Door
-- Divination (ritual)
-- Fabricate
-- Fire Shield
+- [Dimension Door](#Dimension_Door_dimension_door)
+- [Divination](#Divination_divination) (ritual)
+- [Fabricate](#Fabricate_fabricate)
+- [Fire Shield](#Fire_Shield_fire_shield)
 - Greater Invisibility (concentration)
 - Hallucinatory Terrain
 - Ice Storm
@@ -147,13 +149,13 @@
 ##### 5th Level
 
 - [Animate Objects](#Animate_Objects_animate_objects) (concentration)
-- Cloudkill (concentration)
-- Cone of Cold
+- [Cloudkill](#Cloudkill) (concentration)
+- [Cone of Cold](#Cone_of_Cold_cone_of_cold)
 - [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
-- Contact Other Plane (ritual)
-- Creation
-- Dominate Person (concentration)
-- Dream
+- [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
+- [Creation](#Creation_creation)
+- [Dominate Person](#Dominate_Person_dominate_person) (concentration)
+- [Dream](#Dream)
 - Geas
 - Hold Monster (concentration)
 - Legend Lore
@@ -172,15 +174,15 @@
 
 ##### 6th Level
 
-- Chain Lightning
-- Circle of Death
-- Contingency
-- Create Undead
-- Disintegrate
+- [Chain Lightning](#Chain_Lightning_chain_lightning)
+- [Circle of Death](#Circle_of_Death_circle_of_death)
+- [Contingency](#Contingency_contingency)
+- [Create Undead](#Create_Undead_create_undead)
+- [Disintegrate](#Disintegrate_disintegrate)
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
-- Eyebite (concentration)
+- [Eyebite](#Eyebite_eyebite) (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
-- Flesh to Stone (concentration)
+- [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - Globe of Invulnerability (concentration)
 - Guards and Wards
 - Magic Jar
@@ -195,10 +197,10 @@
 ##### 7th Level
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- Delayed Blast Fireball (concentration)
-- Etherealness
-- Finger of Death
-- Forcecage
+- [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
+- [Etherealness](#Etherealness_etherealness)
+- [Finger of Death](#Finger_of_Death_finger_of_death)
+- [Forcecage](#Forcecage_forcecage)
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) (concentration) <!-- previously "Arcane Sword" -->
 - Mirage Arcane
 - Plane Shift
@@ -212,13 +214,14 @@
 
 ##### 8th Level
 
+<!-- spell-checker:words Feeblemind -->
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
-- Clone
-- Confound
-- Control Weather (concentration)
-- Demiplane
-- Dominate Monster (concentration)
+- [Clone](#Clone)
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
+- [Control Weather](#Control_Weather_control_weather) (concentration)
+- [Demiplane](#Demiplane_demiplane)
+- [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - Incendiary Cloud (concentration)
 - Maze (concentration)
 - Mind Blank
@@ -228,7 +231,7 @@
 ##### 9th Level
 
 - [Astral Projection](#Astral_Projection_astral_projection)
-- Foresight
+- [Foresight](#Foresight_foresight)
 - Gate (concentration)
 - Imprisonment
 - Meteor Swarm
