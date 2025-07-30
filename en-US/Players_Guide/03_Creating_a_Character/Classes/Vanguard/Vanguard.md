@@ -238,4 +238,4 @@ For others, the actual swearing of the oath is a formality, an official stamp on
 
 [**Oath of Devotion**](./Oath_of_Devotion.md)
 
-[**Oath of Silence**](./Oath_of_Silence.md)
+[**Oath of the Exemplar**](./Oath_of_the_Exemplar.md)

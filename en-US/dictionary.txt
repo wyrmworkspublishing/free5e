@@ -43,6 +43,7 @@ elven
 enpowered
 ESRD
 extradimensional
+Exemplarism
 Eyebite
 Feywild
 Forcecage
