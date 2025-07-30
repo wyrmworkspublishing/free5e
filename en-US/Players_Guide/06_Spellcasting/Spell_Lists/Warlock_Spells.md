@@ -6,8 +6,8 @@
 - [Chill Touch](#Chill_Touch_chill_touch)
 - [Eldritch Blast](#Eldritch_Blast_eldritch_blast)
 - [Friends](#Friends_friends)
-- Mage Hand
-- Minor Illusion
+- [Mage Hand](#Mage_Hand_mage_hand)
+- [Minor Illusion](#Minor_Illusion_minor_illusion)
 - Poison Spray
 - Prestidigitation
 - True Strike (concentration)
@@ -30,8 +30,8 @@
 - [Enthrall](#Enthrall_enthrall)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Invisibility](#Invisibility_invisibility) (concentration)
-- Mirror Image
-- Misty Step
+- [Mirror Image](#Mirror_Image_mirror_image)
+- [Misty Step](#Misty_Step_misty_step)
 - Ray of Enfeeblement (concentration)
 - Shatter
 - Spider Climb (concentration)
@@ -45,8 +45,8 @@
 - [Fly](#Fly_fly) (concentration)
 - [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
-- Magic Circle
-- Major Image (concentration)
+- [Magic Circle](#Magic_Circle_magic_circle)
+- [Major Image](#Major_Image_major_image) (concentration)
 - Remove Curse
 - Tongues
 - Vampiric Touch (concentration)
@@ -64,7 +64,7 @@
 - [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
 - [Dream](#Dream)
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
-- Mislead (concentration)
+- [Mislead](#Mislead_mislead) (concentration)
 - Planar Binding
 - Scrying (concentration)
 - Teleportation Circle
@@ -76,7 +76,7 @@
 - [Create Undead](#Create_Undead_create_undead)
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
-- Mass Suggestion
+- [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - True Seeing
 
 ##### 7th Level

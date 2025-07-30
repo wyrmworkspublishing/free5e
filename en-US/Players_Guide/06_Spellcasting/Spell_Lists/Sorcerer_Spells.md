@@ -9,10 +9,10 @@
 - [Fire Bolt](#Fire_Bolt_fire_bolt)
 - [Friends](#Friends_friends)
 - [Light](#Light_light)
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
+- [Mage Hand](#Mage_Hand_mage_hand)
+- [Mending](#Mending_mending)
+- [Message](#Message_message)
+- [Minor Illusion](#Minor_Illusion_minor_illusion)
 - Poison Spray
 - Prestidigitation
 - Ray of Frost
@@ -33,8 +33,8 @@
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - [Grease](#Grease_grease)
 - [Jump](#Jump_jump)
-- Mage Armor
-- Magic Missile
+- [Mage Armor](#Mage_Armor_mage_armor)
+- [Magic Missile](#Magic_Missile_magic_missile)
 - Shield
 - Silent Image (concentration)
 - Sleep
@@ -57,9 +57,9 @@
 - [Invisibility](#Invisibility_invisibility) (concentration)
 - [Knock](#Knock_knock)
 - [Levitate](#Levitate_levitate) (concentration)
-- Magic Weapon (concentration)
-- Mirror Image
-- Misty Step
+- [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
+- [Mirror Image](#Mirror_Image_mirror_image)
+- [Misty Step](#Misty_Step_misty_step)
 - Scorching Ray
 - See Invisiblity
 - Shatter
@@ -81,7 +81,7 @@
 - [Haste](#Haste_haste) (concentration)
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
 - [Lightning Bolt](#Lightning_Bolt_lightning_bolt)
-- Major Image (concentration)
+- [Major Image](#Major_Image_major_image) (concentration)
 - Protection from Energy (concentration)
 - Sleet Storm (concentration)
 - Slow (concentration)
@@ -130,8 +130,8 @@
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
-- Mass Suggestion
-- Move Earth (concentration)
+- [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
+- [Move Earth](#Move_Earth_move_earth) (concentration)
 - Sunbeam (concentration)
 - True Seeing
 
@@ -158,7 +158,7 @@
 ##### 9th Level
 
 - [Gate](#Gate_gate) (concentration)
-- Meteor Swarm
+- [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
 - Power Word Kill
 - Time Stop
 - Wish

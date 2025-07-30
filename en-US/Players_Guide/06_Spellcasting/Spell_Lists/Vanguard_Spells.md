@@ -23,7 +23,7 @@
 - [Gentle Repose](#Gentle_Repose_gentle_repose)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
-- Magic Weapon (concentration)
+- [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - Prayer of Healing
 - Protection from Poison
 - Warding Bond
@@ -34,7 +34,7 @@
 - [Create Food and Water](#Create_Food_and_Water_create_food_and_water)
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
-- Magic Circle
+- [Magic Circle](#Magic_Circle_magic_circle)
 - Remove Curse
 - Revivify
 

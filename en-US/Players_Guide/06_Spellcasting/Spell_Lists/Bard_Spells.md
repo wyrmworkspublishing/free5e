@@ -6,10 +6,10 @@
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - [Light](#Light_light)
 - [Friends](#Friends_friends)
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
+- [Mage Hand](#Mage_Hand_mage_hand)
+- [Mending](#Mending_mending)
+- [Message](#Message_message)
+- [Minor Illusion](#Minor_Illusion_minor_illusion)
 - Prestidigitation
 - True Strike (concentration)
 - Vicious Mockery
@@ -56,8 +56,8 @@
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants) (ritual)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
-- Magic Mouth (ritual)
-- Mirror Image
+- [Magic Mouth](#Magic_Mouth_magic_mouth) (ritual)
+- [Mirror Image](#Mirror_Image_mirror_image)
 - See Invisibility
 - Shatter
 - Silence (ritual)
@@ -72,8 +72,8 @@
 - [Fear](#Fear_fear) (concentration)
 - [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
-- Major Image (concentration)
-- Mass Healing Word
+- [Major Image](#Major_Image_major_image) (concentration)
+- [Mass Healing Word](#Mass_Healing_Word_mass_healing_word)
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - Nondetection
 - Plant Growth
@@ -107,9 +107,9 @@
 - [Greater Restoration](#Greater_Restoration_greater_restoration)
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - [Legend Lore](#Legend_Lore_legend_lore)
-- Mass Cure Wounds
-- Mislead (concentration)
-- Modify Memory (concentration)
+- [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
+- [Mislead](#Mislead_mislead) (concentration)
+- [Modify Memory](#Modify_Memory_modify_memory) (concentration)
 - Planar Binding
 - Raise Dead
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
@@ -123,7 +123,7 @@
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
 - [Heroes' Feast](#Heroes_Feast_heroes_feast)
-- Mass Suggestion
+- [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - Programmed Illusion
 - True Seeing
 
@@ -133,7 +133,7 @@
 - [Etherealness](#Etherealness_etherealness)
 - [Forcecage](#Forcecage_forcecage)
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) <!-- previously "Arcane Sword" --> (concentration)
-- Mirage Arcane
+- [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
 - Prismatic Spray
 - Project Image (concentration)
 - Regenerate
@@ -148,7 +148,7 @@
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Glibness](#Glibness_glibness)
-- Mind Blank
+- [Mind Blank](#Mind_Blank_mind_blank)
 - Power Word Stun
 
 ##### 9th Level

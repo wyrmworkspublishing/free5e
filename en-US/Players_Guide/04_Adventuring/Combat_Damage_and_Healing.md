@@ -58,7 +58,7 @@ Red dragons breathe fire, and many spells conjure flames to deal fire damage.
 
 **Force.**
 Force is pure magical energy focused into a damaging form.
-Most effects that deal force damage are spells, including Magic Missile and spiritual weapon.
+Most effects that deal force damage are spells, including [Magic Missile](#Magic_Missile_magic_missile) and spiritual weapon.
 
 **Lightning.**
 A [Lightning Bolt](#Lightning_Bolt_lightning_bolt) spell and a blue dragon’s breath deal lightning damage.

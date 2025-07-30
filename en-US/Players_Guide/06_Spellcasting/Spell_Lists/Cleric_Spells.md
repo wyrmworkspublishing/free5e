@@ -5,7 +5,7 @@
 
 - [Guidance](#Guidance_guidance) (concentration)
 - [Light](#Light_light)
-- Mending
+- [Mending](#Mending_mending)
 - Resistance (concentration)
 - Sacred Flame
 - Spare the Dying
@@ -60,9 +60,9 @@
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
-- Magic Circle
-- Mass Healing Word
-- Meld into Stone (ritual)
+- [Magic Circle](#Magic_Circle_magic_circle)
+- [Mass Healing Word](#Mass_Healing_Word_mass_healing_word)
+- [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
 - Protection from Energy (concentration)
 - Remove Curse
 - Revivify
@@ -94,7 +94,7 @@
 - [Hallow](#Hallow_hallow)
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - [Legend Lore](#Legend_Lore_legend_lore)
-- Mass Cure Wounds
+- [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
 - Planar Binding
 - Raise Dead
 - Scrying (concentration)
@@ -136,5 +136,5 @@
 
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Gate](#Gate_gate) (concentration)
-- Mass Heal
+- [Mass Heal](#Mass_Heal_mass_heal)
 - True Resurrection

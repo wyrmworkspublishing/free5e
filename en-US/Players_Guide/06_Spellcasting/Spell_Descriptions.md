@@ -375,9 +375,57 @@
 
 [Longstrider](./Spell_Descriptions/L/Longstrider.md)
 
+[Mage Armor](./Spell_Descriptions/M/Mage_Armor.md)
+
+[Mage Hand](./Spell_Descriptions/M/Mage_Hand.md)
+
+[Magic Circle](./Spell_Descriptions/M/Magic_Circle.md)
+
+[Magic Jar](./Spell_Descriptions/M/Magic_Jar.md)
+
+[Magic Missile](./Spell_Descriptions/M/Magic_Missile.md)
+
+[Magic Mouth](./Spell_Descriptions/M/Magic_Mough.md)
+
+[Major Image](./Spell_Descriptions/M/Major_Image.md)
+
+[Mass Cure Wounds](./Spell_Descriptions/M/Mass_Cure_Wounds.md)
+
+[Mass Heal](./Spell_Descriptions/M/Mass_Heal.md)
+
+[Mass Healing Word](./Spell_Descriptions/M/Mass_Healing_Word.md)
+
+[Mass Suggestion](./Spell_Descriptions/M/Mass_Suggestion.md)
+
+[Maze](./Spell_Descriptions/M/Maze.md)
+
+[Meld into Stone](./Spell_Descriptions/M/Meld_into_Stone.md)
+
 [Melestrua's Marvelous Marquee](./Spell_Descriptions/M/Melestruas_Marvelous_Marquee.md)
 
+[Mending](./Spell_Descriptions/M/Mending.md)
+
+[Meteor Swarm](./Spell_Descriptions/M/Meteor_Swarm.md)
+
+[Mind Blank](./Spell_Descriptions/M/Mind_Blank.md)
+
+[Minor Illusion](./Spell_Descriptions/M/Minor_Illusion.md)
+
+[Mirage Arcana](./Spell_Descriptions/M/Mirage_Arcane.md)
+
+[Mirror Image](./Spell_Descriptions/M/Mirror_Image.md)
+
+[Mislead](./Spell_Descriptions/M/Mislead.md)
+
+[Misty Step](./Spell_Descriptions/M/Misty_Step.md)
+
+[Modify Memory](./Spell_Descriptions/M/Modify_Memory.md)
+
+[Moonbeam](./Spell_Descriptions/M/Moonbeam.md)
+
 [Morscheck's Hand](./Spell_Descriptions/M/Morschecks_Hand.md)
+
+[Move Earth](./Spell_Descriptions/M/Move_Earth.md)
 
 [Naturecraft](./Spell_Descriptions/N/Naturecraft.md)
 

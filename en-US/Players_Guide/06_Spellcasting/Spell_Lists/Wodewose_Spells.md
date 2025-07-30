@@ -4,7 +4,7 @@
 ##### Cantrips (0 Level)
 
 - [Guidance](#Guidance_guidance) (concentration)
-- Mending
+- [Mending](#Mending_mending)
 - [Naturecraft](#Naturecraft_naturecraft)
 - Poison Spray
 - Produce Flame
@@ -50,7 +50,7 @@
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants) (ritual)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
-- Moonbeam (concentration)
+- [Moonbeam](#Moonbeam_moonbeam) (concentration)
 - Pass without Trace (concentration)
 - Protection from Poison
 - Spike Growth (concentration)
@@ -61,7 +61,7 @@
 - [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
-- Meld into Stone (ritual)
+- [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
 - Plant Growth
 - Protection from Energy (concentration)
 - Revivify
@@ -103,7 +103,7 @@
 - [Geas](#Geas_geas)
 - [Greater Restoration](#Greater_Restoration_greater_restoration)
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
-- Mass Cure Wounds
+- [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
 - Planar Binding
 - Scrying (concentration)
 - Tree Stride (concentration)
@@ -116,7 +116,7 @@
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - [Heal](#Heal_heal)
 - [[Heroes' Feast](#Heroes_Feast_heroes_feast)](#Heroes_Feast_heroes_feast)
-- Move Earth (concentration)
+- [Move Earth](#Move_Earth_move_earth) (concentration)
 - Sunbeam (concentration)
 - Transport via Plants
 - Wall of Thorns (concentration)
@@ -125,7 +125,7 @@
 ##### 7th Level
 
 - [Fire Storm](#Fire_Storm_fire_storm)
-- Mirage Arcane
+- [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
 - Plane Shift
 - Regenerate
 - Reverse Gravity (concentration)

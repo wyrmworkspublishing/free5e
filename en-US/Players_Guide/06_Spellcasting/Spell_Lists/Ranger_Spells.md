@@ -29,7 +29,7 @@
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
-- Magic Weapon (concentration)
+- [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - Pass without Trace (concentration)
 - Protection from Poison
 - Silence
@@ -39,7 +39,7 @@
 
 - [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
 - [Daylight](#Daylight_daylight)
-- Meld into Stone
+- [Meld into Stone](#Meld_into_Stone_meld_into_stone)
 - Nondetection
 - Plant Growth
 - Protection from Energy (concentration)
