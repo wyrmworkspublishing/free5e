@@ -31,4 +31,4 @@ Choose one of the following:
   You have expertise in one of the following skills: Arcana, History, Medicine, Nature, or Religion.
 
 **Languages.**
-You can speak, read, write, and sign Common and Draconic.
+You can speak or sign, read, and write Common and Draconic.
