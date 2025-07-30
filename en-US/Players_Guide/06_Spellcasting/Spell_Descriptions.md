@@ -299,9 +299,37 @@
 
 [Gust of Wind](./Spell_Descriptions/G/Gust_of_Wind.md)
 
+[Hallow](./Spell_Descriptions/H/Hallow.md)
+
+[Hallucinatory Terrain](./Spell_Descriptions/H/Hallucinatory_Terrain.md)
+
+[Harm](./Spell_Descriptions/H/Harm.md)
+
+[Haste](./Spell_Descriptions/H/Haste.md)
+
+[Heal](./Spell_Descriptions/H/Heal.md)
+
+[Healing Word](./Spell_Descriptions/H/Healing_Word.md)
+
+[Heat Metal](./Spell_Descriptions/H/Heat_Metal.md)
+
 [Hellish Rebuke](./Spell_Descriptions/H/Hellish_Rebuke.md)
 
+[Heroes' Feast](./Spell_Descriptions/H/Heroes_Feast.md)
+
+[Heroism](./Spell_Descriptions/H/Heroism.md)
+
 [Hex](./Spell_Descriptions/H/Hex.md)
+
+[Hold Monster](./Spell_Descriptions/H/Hold_Monster.md)
+
+[Hold Person](./Spell_Descriptions/H/Hold_Person.md)
+
+[Holy Aura](./Spell_Descriptions/H/Holy_Aura.md)
+
+[Hunter's Mark](./Spell_Descriptions/H/Hunters_Mark.md)
+
+[Hypnotic Pattern](./Spell_Descriptions/H/Hypnotic_Pattern.md)
 
 [Iz’zart's Swarm Limb](./Spell_Descriptions/I/Izzarts_Swarm_Limb.md)
 

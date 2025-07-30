@@ -53,7 +53,7 @@
 - [Flame Blade](#Flame_Blade_flame_blade) (concentration)
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
 - [Gust of Wind](#Gust_of_Wind) (concentration)
-- Hold Person (concentration)
+- [Hold Person](#Hold_Person_hold_person) (concentration)
 - Invisibility (concentration)
 - Knock
 - Levitate (concentration)
@@ -78,8 +78,8 @@
 - [Fireball](#Fireball_fireball)
 - [Fly](#Fly_fly) (concentration)
 - [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
-- Haste (concentration)
-- Hypnotic Pattern (concentration)
+- [Haste](#Haste_haste) (concentration)
+- [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
 - Lightning Bolt
 - Major Image (concentration)
 - Protection from Energy (concentration)
@@ -113,7 +113,7 @@
 - [Cone of Cold](#Cone_of_Cold_cone_of_cold)
 - [Creation](#Creation_creation)
 - [Dominate Person](#Dominate_Person_dominate_person) (concentration)
-- Hold Monster (concentration)
+- [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - Insect Plague (concentration)
 - [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
 - Seeming

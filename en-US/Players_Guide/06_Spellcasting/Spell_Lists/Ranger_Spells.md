@@ -11,7 +11,7 @@
 - [Entangle](#Entangle_entangle) (concentration)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - [Goodberry](#Goodberry_goodberry)
-- Hunter's Mark (concentration)
+- [Hunter's Mark](#Hunters_Mark_hunters_mark) (concentration)
 - Jump
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Longstrider

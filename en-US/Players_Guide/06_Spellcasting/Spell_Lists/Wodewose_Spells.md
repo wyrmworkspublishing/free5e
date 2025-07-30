@@ -23,7 +23,7 @@
 - [Faerie Fire](#Faerie_Fire_faerie_fire) (concentration)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - [Goodberry](#Goodberry_goodberry)
-- Healing Word
+- [Healing Word](#Healing_Word_healing_word)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - Jump
 - Longstrider
@@ -45,8 +45,8 @@
 - [Flame Blade](#Flame_Blade_flame_blade) (concentration)
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
 - [Gust of Wind](#Gust_of_Wind) (concentration)
-- Heat Metal (concentration)
-- Hold Person (concentration)
+- [Heat Metal](#Heat_Metal_heat_metal) (concentration)
+- [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants (ritual)
 - Locate Object (concentration)
@@ -84,7 +84,7 @@
 - [Fire Shield](#Fire_Shield_fire_shield)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Giant Insect](#Giant_Insect_giant_insect) (concentration)
-- Hallucinatory Terrain
+- [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - Ice Storm
 - Locate Creature (concentration)
 - Polymorph (concentration)
@@ -114,8 +114,8 @@
 - [Conjure Fey](#Conjure_Fey_conjure_fey) (concentration)
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
-- Heal
-- Heroes' Feast
+- [Heal](#Heal_heal)
+- [[Heroes' Feast](#Heroes_Feast_heroes_feast)](#Heroes_Feast_heroes_feast)
 - Move Earth (concentration)
 - Sunbeam (concentration)
 - Transport via Plants

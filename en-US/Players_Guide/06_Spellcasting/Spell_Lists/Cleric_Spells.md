@@ -23,7 +23,7 @@
 - [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
 - [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (ritual, concentration)
 - [Guiding Bolt](#Guiding_Bolt_guiding_bolt)
-- Healing Word
+- [Healing Word](#Healing_Word_healing_word)
 - Inflict Wounds
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Purify Food and Drink (ritual)
@@ -40,7 +40,7 @@
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Find Traps](#Find_Traps_find_traps)
 - [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
-- Hold Person (concentration)
+- [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Object (concentration)
 - Prayer of Healing
@@ -91,7 +91,7 @@
 - [Flame Strike](#Flame_Strike_flame_strike)
 - [Geas](#Geas_geas)
 - Greater Restauration
-- Hallow
+- [Hallow](#Hallow_hallow)
 - Insect Plague (concentration)
 - Legend Lore
 - Mass Cure Wounds
@@ -105,9 +105,9 @@
 - [Create Undead](#Create_Undead_create_undead)
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
 - [Forbiddance](#Forbiddance_forbiddance) (ritual)
-- Harm
-- Heal
-- Heroes’ Feast
+- [Harm](#Harm_harm)
+- [Heal](#Heal_heal)
+- [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - Planar Ally
 - Sunbeam (concentration)
 - True Seeing
@@ -129,7 +129,7 @@
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
 - [Control Weather](#Control_Weather_control_weather) (concentration)
 - [Earthquake](#Earthquake_earthquake) (concentration)
-- Holy Aura (concentration)
+- [Holy Aura](#Holy_Aura_holy_aura) (concentration)
 - Sunburst
 
 ##### 9th Level

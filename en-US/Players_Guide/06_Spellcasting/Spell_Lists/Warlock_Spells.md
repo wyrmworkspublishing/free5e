@@ -28,7 +28,7 @@
 
 - [Darkness](#Darkness_darkness) (concentration)
 - [Enthrall](#Enthrall_enthrall)
-- Hold Person (concentration)
+- [Hold Person](#Hold_Person_hold_person) (concentration)
 - Invisibility (concentration)
 - Mirror Image
 - Misty Step
@@ -44,7 +44,7 @@
 - [Fear](#Fear_fear) (concentration)
 - [Fly](#Fly_fly) (concentration)
 - [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
-- Hypnotic Pattern (concentration)
+- [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
 - Magic Circle
 - Major Image (concentration)
 - Remove Curse
@@ -57,13 +57,13 @@
 - [Blight](#Blight_blight)
 - [Charm Monster](#Charm_Monster_charm_monster)
 - [Dimension Door](#Dimension_Door_dimension_door)
-- Hallucinatory Terrain
+- [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 
 ##### 5th Level
 
 - [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
 - [Dream](#Dream)
-- Hold Monster (concentration)
+- [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - Mislead (concentration)
 - Planar Binding
 - Scrying (concentration)

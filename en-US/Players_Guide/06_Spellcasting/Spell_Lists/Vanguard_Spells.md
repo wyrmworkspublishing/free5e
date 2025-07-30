@@ -10,7 +10,7 @@
 - [Detect Magic](#Detect_Magic_detect_magic) (concentration)
 - [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (concentration)
 - [Divine Favor](#Divine_Favor_divine_favor)
-- Heroism (concentration)
+- [Heroism](#Heroism_heroism) (concentration)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Purify Food and Drink
 - Shield of Faith (concentration)

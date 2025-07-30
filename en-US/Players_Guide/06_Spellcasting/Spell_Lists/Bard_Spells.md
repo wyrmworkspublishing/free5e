@@ -27,8 +27,8 @@
 - [Disguise Self](#Disguise_Self_disguise_self)
 - [Faerie Fire](#Faerie_Fire_faerie_fire) (concentration)
 - [Feather Fall](#Feather_Fall_feather_fall)
-- Healing Word
-- Heroism (concentration)
+- [Healing Word](#Healing_Word_healing_word)
+- [Heroism](#Heroism_heroism) (concentration)
 - Identify (ritual)
 - Illusory Script (ritual)
 - Longstrider
@@ -49,8 +49,8 @@
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - [Enthrall](#Enthrall_enthrall)
-- Heat Metal (concentration)
-- Hold Person (concentration)
+- [Heat Metal](#Heat_Metal_heat_metal) (concentration)
+- [Hold Person](#Hold_Person_hold_person) (concentration)
 - Invisibility (concentration)
 - Knock
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
@@ -71,7 +71,7 @@
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Fear](#Fear_fear) (concentration)
 - [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
-- Hypnotic Pattern (concentration)
+- [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
 - Major Image (concentration)
 - Mass Healing Word
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
@@ -92,7 +92,7 @@
 - [Dimension Door](#Dimension_Door_dimension_door)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
-- Hallucinatory Terrain
+- [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - Locate Creature (concentration)
 - Phantasmal Killer (concentration)
 - Polymorph (concentration)
@@ -105,7 +105,7 @@
 - [Dream](#Dream)
 - [Geas](#Geas_geas)
 - [Greater Restoration](#Greater_Restoration_greater_restoration)
-- Hold Monster (concentration)
+- [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - Legend Lore
 - Mass Cure Wounds
 - Mislead (concentration)
@@ -122,7 +122,7 @@
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
-- Heroes’ Feast
+- [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - Mass Suggestion
 - Programmed Illusion
 - True Seeing

@@ -68,7 +68,7 @@
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
 - [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
 - [Gust of Wind](#Gust_of_Wind) (concentration)
-- Hold Person (concentration)
+- [Hold Person](#Hold_Person_hold_person) (concentration)
 - Invisibility (concentration)
 - Knock
 - Levitate (concentration)
@@ -99,8 +99,8 @@
 - [Fly](#Fly_fly) (concentration)
 - [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
 - [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
-- Haste (concentration)
-- Hypnotic Pattern (concentration)
+- [Haste](#Haste_haste) (concentration)
+- [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
 - Lightning Bolt
 - Magic Circle
 - Major Image (concentration)
@@ -135,7 +135,7 @@
 - [Fabricate](#Fabricate_fabricate)
 - [Fire Shield](#Fire_Shield_fire_shield)
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
-- Hallucinatory Terrain
+- [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - Ice Storm
 - [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
 - Locate Creature (concentration)
@@ -157,7 +157,7 @@
 - [Dominate Person](#Dominate_Person_dominate_person) (concentration)
 - [Dream](#Dream)
 - [Geas](#Geas_geas)
-- Hold Monster (concentration)
+- [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - Legend Lore
 - Mislead (concentration)
 - Modify Memory (concentration)
