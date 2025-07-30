@@ -26,4 +26,4 @@ You gain a climb speed equal to your walking speed.
 You are proficient with longbows and shortswords.
 \
 **Languages.**
-You can speak, read, write, and sign Common and Elvish.
+You can speak or sign, read, and write Common and Elvish.
