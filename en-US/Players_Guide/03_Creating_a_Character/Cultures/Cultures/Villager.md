@@ -18,4 +18,4 @@ But while the results of a success will be true, they may be distorted or exagge
 You gain expertise on Perception checks made while keeping watch during a rest.
 \
 **Languages.**
-You can speak, read, sign, and write Common and one other language.
+You can speak or sign, read, and write Common and one other language.
