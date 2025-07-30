@@ -435,9 +435,53 @@
 
 [Paoliello's Hideous Laughter](./Spell_Descriptions/P/Paoliellos_Hideous_Laughter.md)
 
+[Pass without Trace](./Spell_Descriptions/P/Pass_without_Trace.md)
+
+[Passwall](./Spell_Descriptions/P/Passwall.md)
+
 [Pelham's Hovering Platter](./Spell_Descriptions/P/Pelhams_Hovering_Platter.md)
 
+[Phantasmal Killer](./Spell_Descriptions/P/Phantasmal_Killer.md)
+
+[Phantom Steed](./Spell_Descriptions/P/Phantom_Steed.md)
+
+[Planar Ally](./Spell_Descriptions/P/Planar_Ally.md)
+
+[Planar Binding](./Spell_Descriptions/P/Planar_Binding.md)
+
+[Plane Shift](./Spell_Descriptions/P/Plane_Shift.md)
+
+[Plant Growth](./Spell_Descriptions/P/Plant_Growth.md)
+
+[Poison Spray](./Spell_Descriptions/P/Poison_Spray.md)
+
+[Polymorph](./Spell_Descriptions/P/Polymorph.md)
+
+[Power Word Kill](./Spell_Descriptions/P/Power_Word_Kill.md)
+
+[Power Word Stun](./Spell_Descriptions/P/Power_Word_Stun.md)
+
+[Prayer of Healing](./Spell_Descriptions/P/Prayer_of_Healing.md)
+
+[Prestidigitation](./Spell_Descriptions/P/Prestidigitation.md)
+
+[Prismatic Spray](./Spell_Descriptions/P/Prismatic_Spray.md)
+
+[Prismatic Wall](./Spell_Descriptions/P/Prismatic_Wall.md)
+
+[Produce Flame](./Spell_Descriptions/P/Produce_Flame.md)
+
+[Programmed Illusion](./Spell_Descriptions/P/Programmed_Illusion.md)
+
+[Project Image](./Spell_Descriptions/P/Project_Image.md)
+
+[Protection from Energy](./Spell_Descriptions/P/Protection_from_Energy.md)
+
 [Protection from Evil and Good](./Spell_Descriptions/P/Protection_from_Evil_and_Good.md)
+
+[Protection from Poison](./Spell_Descriptions/P/Protection_from_Poison.md)
+
+[Purify Food and Drink](./Spell_Descriptions/P/Purify_Food_and_Drink.md)
 
 [Rantock's Telepathic Bond](./Spell_Descriptions/R/Rantocks_Telepathic_Bond.md)
 

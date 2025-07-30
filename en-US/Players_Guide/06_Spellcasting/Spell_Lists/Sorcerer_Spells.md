@@ -13,8 +13,8 @@
 - [Mending](#Mending_mending)
 - [Message](#Message_message)
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
-- Poison Spray
-- Prestidigitation
+- [Poison Spray](#Poison_Spray_poison_spray)
+- [Prestidigitation](#Prestidigitation_prestidigitation)
 - Ray of Frost
 - Shocking Grasp
 - True Strike (concentration)
@@ -82,7 +82,7 @@
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
 - [Lightning Bolt](#Lightning_Bolt_lightning_bolt)
 - [Major Image](#Major_Image_major_image) (concentration)
-- Protection from Energy (concentration)
+- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
 - Sleet Storm (concentration)
 - Slow (concentration)
 - Stinking Cloud (concentration)
@@ -102,7 +102,7 @@
 - [Fire Shield](#Fire_Shield_fire_shield)
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - [Ice Storm](#Ice_Storm_ice_storm)
-- Polymorph (concentration)
+- [Polymorph](#Polymorph_polymorph) (concentration)
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
 
@@ -141,8 +141,8 @@
 - [Etherealness](#Etherealness_etherealness)
 - [Finger of Death](#Finger_of_Death_finger_of_death)
 - [Fire Storm](#Fire_Storm_fire_storm)
-- Plane Shift
-- Prismatic Spray
+- [Plane Shift](#Plane_Shift_plane_shift)
+- [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
 - Reverse Gravity (concentration)
 - Teleport
 
@@ -152,13 +152,13 @@
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Earthquake](#Earthquake_earthquake) (concentration)
 - [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
-- Power Word Stun
+- [Power Word Stun](#Power_Word_Stun_power_word_stun)
 - Sunburst
 
 ##### 9th Level
 
 - [Gate](#Gate_gate) (concentration)
 - [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
-- Power Word Kill
+- [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - Time Stop
 - Wish

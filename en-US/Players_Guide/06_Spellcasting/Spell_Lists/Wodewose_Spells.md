@@ -6,8 +6,8 @@
 - [Guidance](#Guidance_guidance) (concentration)
 - [Mending](#Mending_mending)
 - [Naturecraft](#Naturecraft_naturecraft)
-- Poison Spray
-- Produce Flame
+- [Poison Spray](#Poison_Spray_poison_spray)
+- [Produce Flame](#Produce_Flame_produce_flame)
 - Resistance (concentration)
 - Shillelagh
 
@@ -28,7 +28,7 @@
 - [Jump](#Jump_jump)
 - [Longstrider](#Longstrider_longstrider)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
-- Purify Food and Drink (ritual)
+- [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink) (ritual)
 - Speak with Animals (ritual)
 - Thunderwave
 
@@ -51,8 +51,8 @@
 - [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants) (ritual)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Moonbeam](#Moonbeam_moonbeam) (concentration)
-- Pass without Trace (concentration)
-- Protection from Poison
+- [Pass without Trace](#Pass_without_Trace_pass_without_trace) (concentration)
+- [Protection from Poison](#Protect_from_Poison_protection_from_poison)
 - Spike Growth (concentration)
 
 ##### 3rd Level
@@ -62,8 +62,8 @@
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
-- Plant Growth
-- Protection from Energy (concentration)
+- [Plant Growth](#Plant_Growth_plant_growth)
+- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
 - Revivify
 - Sleet Storm (concentration)
 - Speak with Plants
@@ -87,7 +87,7 @@
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
-- Polymorph (concentration)
+- [Polymorph](#Polymorph_polymorph) (concentration)
 - Stone Shape
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
@@ -104,7 +104,7 @@
 - [Greater Restoration](#Greater_Restoration_greater_restoration)
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
-- Planar Binding
+- [Planar Binding](#Planar_Binding_planar_binding)
 - Scrying (concentration)
 - Tree Stride (concentration)
 - Wall of Stone (concentration)
@@ -126,7 +126,7 @@
 
 - [Fire Storm](#Fire_Storm_fire_storm)
 - [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
-- Plane Shift
+- [Plane Shift](#Plane_Shift_plane_shift)
 - Regenerate
 - Reverse Gravity (concentration)
 - Symbol

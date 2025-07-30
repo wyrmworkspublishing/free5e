@@ -1,6 +1,6 @@
-#### Protection from Evil and Good
+#### Plane Shift
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_1st-level abjuration_
+_7th-level conjuration_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.

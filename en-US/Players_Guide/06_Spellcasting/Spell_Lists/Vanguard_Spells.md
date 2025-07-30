@@ -12,7 +12,7 @@
 - [Divine Favor](#Divine_Favor_divine_favor)
 - [Heroism](#Heroism_heroism) (concentration)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
-- Purify Food and Drink
+- [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink)
 - Shield of Faith (concentration)
 
 ##### 2nd Level
@@ -24,8 +24,8 @@
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
-- Prayer of Healing
-- Protection from Poison
+- [Prayer of Healing](#Prayer_of_Healing_prayer_of_healing)
+- [Protection from Poison](#Protect_from_Poison_protection_from_poison)
 - Warding Bond
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 

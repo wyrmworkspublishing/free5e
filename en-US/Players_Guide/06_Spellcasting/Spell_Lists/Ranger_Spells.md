@@ -30,8 +30,8 @@
 - [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
-- Pass without Trace (concentration)
-- Protection from Poison
+- [Pass without Trace](#Pass_without_Trace_pass_without_trace) (concentration)
+- [Protection from Poison](#Protect_from_Poison_protection_from_poison)
 - Silence
 - Spike Growth (concentration)
 
@@ -41,8 +41,8 @@
 - [Daylight](#Daylight_daylight)
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone)
 - [Nondetection](#Nondetection_nondetection)
-- Plant Growth
-- Protection from Energy (concentration)
+- [Plant Growth](#Plant_Growth_plant_growth)
+- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
 - Revivify
 - Speak with Plants
 - Water Breathing

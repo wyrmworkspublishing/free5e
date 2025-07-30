@@ -10,7 +10,7 @@
 - [Mending](#Mending_mending)
 - [Message](#Message_message)
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
-- Prestidigitation
+- [Prestidigitation](#Prestidigitation_prestidigitation)
 - True Strike (concentration)
 - Vicious Mockery
 
@@ -76,7 +76,7 @@
 - [Mass Healing Word](#Mass_Healing_Word_mass_healing_word)
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - [Nondetection](#Nondetection_nondetection)
-- Plant Growth
+- [Plant Growth](#Plant_Growth_plant_growth)
 - Sending
 - Slow (concentration)
 - Speak with Dead
@@ -94,8 +94,8 @@
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
-- Phantasmal Killer (concentration)
-- Polymorph (concentration)
+- [Phantasmal Killer](#Phantasmal_Killer_phantasmal_killer) (concentration)
+- [Polymorph](#Polymorph_polymorph) (concentration)
 
 ##### 5th Level
 
@@ -110,7 +110,7 @@
 - [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
 - [Mislead](#Mislead_mislead) (concentration)
 - [Modify Memory](#Modify_Memory_modify_memory) (concentration)
-- Planar Binding
+- [Planar Binding](#Planar_Binding_planar_binding)
 - Raise Dead
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - Scrying (concentration)
@@ -124,7 +124,7 @@
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
 - [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
-- Programmed Illusion
+- [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
 - True Seeing
 
 ##### 7th Level
@@ -134,8 +134,8 @@
 - [Forcecage](#Forcecage_forcecage)
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) <!-- previously "Arcane Sword" --> (concentration)
 - [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
-- Prismatic Spray
-- Project Image (concentration)
+- [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
+- [Project Image](#Project_Image_project_image) (concentration)
 - Regenerate
 - Resurrection
 - Symbol
@@ -149,11 +149,11 @@
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Glibness](#Glibness_glibness)
 - [Mind Blank](#Mind_Blank_mind_blank)
-- Power Word Stun
+- [Power Word Stun](#Power_Word_Stun_power_word_stun)
 
 ##### 9th Level
 
 - [Foresight](#Foresight_foresight)
-- Power Word Kill
-- Prismatic Wall
+- [Power Word Kill](#Power_Word_Kill_power_word_kill)
+- [Prismatic Wall](#Prismatic_Wall_prismatic_wall)
 - True Polymorph (concentration)

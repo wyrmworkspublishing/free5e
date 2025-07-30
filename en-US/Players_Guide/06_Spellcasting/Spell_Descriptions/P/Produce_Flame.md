@@ -1,6 +1,6 @@
-#### Protection from Evil and Good
+#### Produce Flame
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_1st-level abjuration_
+_Conjuration cantrip_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.

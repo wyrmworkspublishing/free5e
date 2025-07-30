@@ -13,8 +13,8 @@
 - [Mending](#Mending_mending)
 - [Message](#Message_message)
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
-- Poison Spray
-- Prestidigitation
+- [Poison Spray](#Poison_Spray_poison_spray)
+- [Prestidigitation](#Prestidigitation_prestidigitation)
 - Ray of Frost
 - Shocking Grasp
 - True Strike (concentration)
@@ -106,8 +106,8 @@
 - [Major Image](#Major_Image_major_image) (concentration)
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - [Nondetection](#Nondetection_nondetection)
-- Phantom Steed (ritual)
-- Protection from Energy (concentration)
+- [Phantom Steed](#Phantom_Steed_phantom_steed) (ritual)
+- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
 - Remove Curse
 - Sending
 - Sleet Storm (concentration)
@@ -139,8 +139,8 @@
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
-- Phantasmal Killer (concentration)
-- Polymorph (concentration)
+- [Phantasmal Killer](#Phantasmal_Killer_phantasmal_killer) (concentration)
+- [Polymorph](#Polymorph_polymorph) (concentration)
 - Resilient Sphere <!-- Might be renamed --> (concentration)
 - Stone Shape
 - Stoneskin (concentration)
@@ -162,8 +162,8 @@
 - [Mislead](#Mislead_mislead) (concentration)
 - [Modify Memory](#Modify_Memory_modify_memory) (concentration)
 - [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
-- Passwall
-- Planar Binding
+- [Passwall](#Passwall_passwall)
+- [Planar Binding](#Planar_Binding_planar_binding)
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - Scrying (concentration)
 - Seeming
@@ -189,7 +189,7 @@
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - [Move Earth](#Move_Earth_move_earth) (concentration)
 - [Natalex's Instant Summons](#Natalexs_Instant_Summons_natalexs_instant_summons) <!-- previously "Instant Summons"? --> (ritual)
-- Programmed Illusion
+- [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
 - Sunbeam (concentration)
 - True Seeing
 - Wall of Ice (concentration)
@@ -203,9 +203,9 @@
 - [Forcecage](#Forcecage_forcecage)
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) (concentration) <!-- previously "Arcane Sword" -->
 - [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
-- Plane Shift
-- Prismatic Spray
-- Project Image (concentration)
+- [Plane Shift](#Plane_Shift_plane_shift)
+- [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
+- [Project Image](#Project_Image_project_image) (concentration)
 - Reverse Gravity (concentration)
 - Sequester
 - Simulacrum
@@ -225,7 +225,7 @@
 - [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
 - [Maze](#Maze_maze) (concentration)
 - [Mind Blank](#Mind_Blank_mind_blank)
-- Power Word Stun
+- [Power Word Stun](#Power_Word_Stun_power_word_stun)
 - Sunburst
 
 ##### 9th Level
@@ -235,8 +235,8 @@
 - [Gate](#Gate_gate) (concentration)
 - [Imprisonment](#Imprisonment_imprisonment)
 - [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
-- Power Word Kill
-- Prismatic Wall
+- [Power Word Kill](#Power_Word_Kill_power_word_kill)
+- [Prismatic Wall](#Prismatic_Wall_prismatic_wall)
 - Shapechange (concentration)
 - Time Stop
 - True Polymorph (concentration)

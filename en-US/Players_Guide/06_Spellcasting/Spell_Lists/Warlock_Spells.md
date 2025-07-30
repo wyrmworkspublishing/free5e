@@ -8,8 +8,8 @@
 - [Friends](#Friends_friends)
 - [Mage Hand](#Mage_Hand_mage_hand)
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
-- Poison Spray
-- Prestidigitation
+- [Poison Spray](#Poison_Spray_poison_spray)
+- [Prestidigitation](#Prestidigitation_prestidigitation)
 - True Strike (concentration)
 
 ##### 1st Level
@@ -65,7 +65,7 @@
 - [Dream](#Dream)
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - [Mislead](#Mislead_mislead) (concentration)
-- Planar Binding
+- [Planar Binding](#Planar_Binding_planar_binding)
 - Scrying (concentration)
 - Teleportation Circle
 
@@ -84,7 +84,7 @@
 - [Etherealness](#Etherealness_etherealness)
 - [Finger of Death](#Finger_of_Death_finger_of_death)
 - [Forcecage](#Forcecage_forcecage)
-- Plane Shift
+- [Plane Shift](#Plane_Shift_plane_shift)
 
 ##### 8th Level
 
@@ -93,7 +93,7 @@
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Glibness](#Glibness_glibness)
-- Power Word Stun
+- [Power Word Stun](#Power_Word_Stun_power_word_stun)
 
 ##### 9th Level
 
@@ -101,6 +101,6 @@
 - [Foresight](#Foresight_foresight)
 - [Geas](#Geas_geas)
 - [Imprisonment](#Imprisonment_imprisonment)
-- Power Word Kill
+- [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - True Polymorph (concentration)
 - Weird (concentration)
