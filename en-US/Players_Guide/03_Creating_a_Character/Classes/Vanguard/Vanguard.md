@@ -5,13 +5,13 @@ Vanguards channel divine strength, standing as unyielding champions of causes gr
 > **Breaking your Oath**
 >
 > A Vanguard tries to hold to the highest standards of conduct, but even the most virtuous Vanguard is fallible.
-> Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a Vanguard to transgress his or her oath.
+> Sometimes the right path proves too demanding, sometimes a situation calls for the lesser of two evils, and sometimes the heat of emotion causes a Vanguard to transgress their oath.
 >
-> A Vanguard who has broken a vow typically seeks absolution from a Cleric who shares his or her faith or from another Vanguard of the same order.
+> A Vanguard who has broken a vow typically seeks absolution from a Cleric who shares their faith or from another Vanguard of the same order.
 > The Vanguard might spend an all- night vigil in prayer as a sign of penitence, or undertake a fast or similar act of self-denial.
 After a rite of confession and forgiveness, the Vanguard starts fresh.
 >
-> If a Vanguard willfully violates his or her oath and shows no sign of repentance, the consequences can be more serious.
+> If a Vanguard willfully violates their oath and shows no sign of repentance, the consequences can be more serious.
 > At the Conductor’s discretion, an impenitent Vanguard might be forced to abandon this class and adopt another.
 
 ##### Class Features

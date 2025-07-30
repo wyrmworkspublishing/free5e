@@ -230,7 +230,7 @@ When you roll for initiative and have no focus points remaining, you regain 4 fo
 ##### Martial Disciplines {#Adept_martial_disciplines}
 
 Many traditions of disciplinary pursuit are common in the monasteries scattered across the multiverse.
-Most monasteries practice one tradition exclusively, but a few honor multiple traditions and instruct each Adept according to his or her aptitude and interest.
+Most monasteries practice one tradition exclusively, but a few honor multiple traditions and instruct each Adept according to their aptitude and interest.
 All traditions rely on the same basic techniques, diverging as the student grows more Adept.
 Thus, an Adept need choose a tradition only upon reaching 3rd level.
 
