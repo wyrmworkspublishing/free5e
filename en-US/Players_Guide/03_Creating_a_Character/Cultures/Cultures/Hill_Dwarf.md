@@ -20,4 +20,4 @@ You are either proficient in either Animal Handling or with Land Vehicles.
 You have expertise in Survival.
 \
 **Languages.**
-You can speak or sign, read, and write Common, Dwarvish, and two additional languages.
+You can understand and communicate in Common, Dwarvish, and two additional languages.
