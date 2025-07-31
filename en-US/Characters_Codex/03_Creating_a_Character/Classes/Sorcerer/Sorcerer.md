@@ -1,12 +1,12 @@
-#### Sorcerer
+### Sorcerer
 
 Magic flows through Sorcerers like blood in their veins, manifesting as raw, instinctive power rather than studied technique.
 
-##### Class Features
+#### Class Features
 
 As a Sorcerer, you gain the following class features.
 
-###### Hit Points
+##### Hit Points
 
 **Hit Dice:**
 `1d6` per Sorcerer level
@@ -17,7 +17,7 @@ As a Sorcerer, you gain the following class features.
 **Hit Points at Higher Levels:**
 `1d6 (or 4) + your Constitution modifier per Sorcerer level after 1st`
 
-###### Proficiencies
+##### Proficiencies
 
 **Armor:**
 None
@@ -34,7 +34,7 @@ Constitution, Charisma
 **Skills:**
 Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
 
-###### Equipment
+##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -43,7 +43,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 - Two daggers
 
-###### The Sorcerer (table) {#Sorcerer_the_sorcerer_table}
+##### The Sorcerer (table) {#Sorcerer_the_sorcerer_table}
 
 | Level | Proficiency Bonus | Sorcery Points | Cantrips Known | Spells Known | Features                                                                               |
 |:------|:-----------------:|:--------------:|:--------------:|:------------:|:---------------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@ You start with the following equipment, in addition to the equipment granted by 
 |  19th |         +6        |       19       |        6       |      15      | [Ability Score Improvement](#Sorcerer_asi)                                             |
 |  20th |         +6        |       20       |        6       |      15      | [Sorcerous Restoration](#Sorcerer_sorcerous_restoration)                               |
 
-###### Spellcasting (1st Level) {#Sorcerer_spellcasting}
+##### Spellcasting (1st Level) {#Sorcerer_spellcasting}
 
 An event in your past, or in the life of a parent or ancestor, left an indelible mark on you, infusing you with arcane magic.
 This font of magic, whatever its origin, fuels your spells.
@@ -112,13 +112,13 @@ In addition, you use your Charisma modifier when setting the saving throw DC for
 \
 You can use an arcane focus as a spellcasting focus for your Sorcerer spells.
 
-###### Sorcerous Origin (1st Level) {#Sorcerer_sorcerous_origin}
+##### Sorcerous Origin (1st Level) {#Sorcerer_sorcerous_origin}
 
 Choose a [sorcerous origin](#Sorcerer_sorcerous_origins_list), which describes the source of your innate magical power.
 
 Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
 
-###### Font of Magic (2nd Level) {#Sorcerer_font_of_magic}
+##### Font of Magic (2nd Level) {#Sorcerer_font_of_magic}
 
 You tap into a deep wellspring of magic within yourself.
 This wellspring is represented by sorcery points, which allow you to create a variety of magical effects.
@@ -156,25 +156,13 @@ ___
 **Converting a Spell Slot to Sorcery Points.**
 As a bonus action on your turn, you can expend one spell slot and gain a number of sorcery points equal to the slot’s level.
 
-###### Metamagic (3rd & 10th & 17th Level) {#Sorcerer_metamagic}
+##### Metamagic (3rd & 10th & 17th Level) {#Sorcerer_metamagic}
 
 At 3rd level, you gain the ability to twist your spells to suit your needs.
-You gain two of the [Metamagic options](#Sorcerer_metamagic_options) of your choice, as listed below.
+You gain two of the following Metamagic options of your choice.
 You gain another one at 10th and 17th level.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted.
-
-###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Sorcerer_asi}
-
-At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two ability scores by 1, up to a maximum of 20.
-
-###### Sorcerous Restoration (20th Level) {#Sorcerer_sorcerous_restoration}
-
-You regain 4 expended sorcery points whenever you finish a short rest.
-
-##### Metamagic Options {#Sorcerer_metamagic_options}
-
-When you select options for [Metamagic](#Sorcerer_metamagic), choose from the following:
 
 [**Careful Spell**](./Metamagic/Careful_Spell.md)
 
@@ -192,7 +180,15 @@ When you select options for [Metamagic](#Sorcerer_metamagic), choose from the fo
 
 [**Twinned Spell**](./Metamagic/Twinned_Spell.md)
 
-##### Sorcerous Origins {#Sorcerer_sorcerous_origins_list}
+##### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Sorcerer_asi}
+
+At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two ability scores by 1, up to a maximum of 20.
+
+##### Sorcerous Restoration (20th Level) {#Sorcerer_sorcerous_restoration}
+
+You regain 4 expended sorcery points whenever you finish a short rest.
+
+#### Sorcerous Origins {#Sorcerer_sorcerous_origins_list}
 
 Different Sorcerers claim different origins for their innate magic with many variations such as magical ancestry or exposure to mystical energy.
 

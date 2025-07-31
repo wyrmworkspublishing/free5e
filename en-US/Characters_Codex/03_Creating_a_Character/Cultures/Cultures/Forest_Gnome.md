@@ -1,4 +1,4 @@
-#### Forest Gnome
+### Forest Gnome
 
 This playful and creative culture thrives in harmony with nature, deeply reverent of artistry, illusionary craft, and its profound connections with the smallest forest creatures.
 \

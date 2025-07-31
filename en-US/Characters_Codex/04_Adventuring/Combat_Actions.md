@@ -1,11 +1,11 @@
-#### Actions in Combat
+### Actions in Combat
 
 When you take your action on your turn, you can take one of the actions presented here, an action you gained from your class or a special feature, or an action that you improvise.
 Many monsters have action options of their own in their stat blocks.
 
 When you describe an action not detailed elsewhere in the rules, the Conductor tells you whether that action is possible and what kind of roll you need to make, if any, to determine success or failure.
 
-##### Attack
+#### Attack
 
 The most common action to take in combat is the Attack action, whether you are swinging a sword, firing an arrow from a bow, or brawling with your fists.
 
@@ -14,30 +14,30 @@ See the ["Making an Attack"](#Combat_Making_an_Attack_making_an_attack) section 
 
 Certain features, such as the _Extra Attack_ feature of the Fighter, allow you to make more than one attack with this action.
 
-##### Cast a Spell
+#### Cast a Spell
 
 Spellcasters like Wizards and Clerics, as well as many monsters, can use spells effectively in combat.
 Each spell has a casting time, specifying whether it requires an action, reaction, minutes, or hours.
 Casting isn’t always an action, but most spells take 1 action, so spellcasters often use their action in combat.
 
-##### Dash
+#### Dash
 
 When you dash, you gain extra movement equal to your speed, after any modifiers.
 For example, with a 30-foot speed, you can move up to 60 feet on your turn.
 Any speed change affects this movement by the same amount.
 If your speed drops to 15 feet, you can move up to 30 feet this turn.
 
-##### Disengage
+#### Disengage
 
 If you take the Disengage action, your movement doesn’t provoke opportunity attacks for the rest of the turn.
 
-##### Dodge
+#### Dodge
 
 When you take the Dodge action, you focus entirely on avoiding attacks.
 Until the start of your next turn, any attack roll made against you has disadvantage if you can pinpoint the attacker, and you make Dexterity saving throws with advantage.
-You lose this benefit if you are [incapacitated](#Conditions_incapacitated) (as explained in [chapter <mark>XX</mark>, "Conditions"](#Conditions_conditions)) or if your speed drops to 0.
+You lose this benefit if you are [incapacitated](#Conditions_incapacitated) (as explained in [appendix <mark>XX</mark>, "Conditions"](#Conditions_conditions)) or if your speed drops to 0.
 
-##### Help
+#### Help
 
 You can lend your aid to another creature in the completion of a task.
 When you take the Help action, the creature you aid gains advantage on the next ability check it makes to perform the task you are helping with, provided that it makes the check before the start of your next turn.
@@ -46,12 +46,12 @@ Alternatively, you can aid a friendly creature in attacking a creature within 5 
 You feint, distract the target, or in some other way team up to make your ally’s attack more effective.
 If your ally attacks the target before your next turn, the first attack roll is made with advantage.
 
-##### Hide
+#### Hide
 
 When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the [rules for hiding](#Using_Dexterity_hiding).
 If you succeed, you gain certain benefits, as described in the ["Targeting Without Exact Location" section](Combat_Making_an_Attack_targeting_without_exact_location) later in this chapter.
 
-##### Ready
+#### Ready
 
 Sometimes, you want to act before your next turn.
 You can take the Ready action to do so.
@@ -69,12 +69,12 @@ The spell must have a casting time of 1 action and holding onto the spell's magi
 If your concentration breaks, the spell dissipates.
 For example, if you’re concentrating on the [Web](#Web_web) spell and ready [Magic Missile](#Magic_Missile_magic_missile), your Web spell ends if you take damage before releasing Magic Missile.
 
-##### Search
+#### Search
 
 When you take the Search action, you devote your attention to finding something.
 Depending on the nature of your search, the Conductor might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
 
-##### Use an Object
+#### Use an Object
 
 You normally interact with an object while doing something else, such as when you draw a sword as part of an attack.
 When an object requires your action for its use, you take the Use an Object action.

@@ -1,4 +1,4 @@
-#### Street Fighter
+### Street Fighter
 
 - Your Strength or Constitution score increases by 1, to a maximum of 20.
 - You can roll 1d4 in place of your normal damage for unarmed strikes.

@@ -1,7 +1,7 @@
-#### Ranger Spells
+### Ranger Spells
 <!-- Since Rangers don't have ritual casting, ritual spells are not marked as such. -->
 
-##### 1st Level
+#### 1st Level
 
 - [Alarm](#Alarm_alarm)
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
@@ -17,7 +17,7 @@
 - [Longstrider](#Longstrider_longstrider)
 - Speak with Animals
 
-##### 2nd Level
+#### 2nd Level
 
 - [Aid](#Aid_aid)
 - [Animal Messenger](#Animal_Messenger_animal_messenger)
@@ -35,7 +35,7 @@
 - Silence
 - Spike Growth (concentration)
 
-##### 3rd Level
+#### 3rd Level
 
 - [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
 - [Daylight](#Daylight_daylight)
@@ -49,7 +49,7 @@
 - Water Walk
 - Wind Wall (concentration)
 
-##### 4th Level
+#### 4th Level
 
 - [Conjure Woodland Beings](#Conjure_Woodland_Beings_conjure_woodland_beings) (concentration)
 - [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
@@ -58,7 +58,7 @@
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - Stoneskin (concentration)
 
-##### 5th Level
+#### 5th Level
 
 - [Commune with Nature](#Commune_with_Nature_commune_with_nature)
 - Tree Stride (concentration)

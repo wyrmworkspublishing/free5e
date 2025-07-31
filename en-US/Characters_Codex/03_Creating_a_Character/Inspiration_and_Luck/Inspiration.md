@@ -1,4 +1,4 @@
-#### Inspiration
+### Inspiration
 
 Inspiration is a resource the Conductor may give players to reward certain contributions to the game, e.g. playing to traits and values, note taking, creative solutions, or other activities as they see fit.
 

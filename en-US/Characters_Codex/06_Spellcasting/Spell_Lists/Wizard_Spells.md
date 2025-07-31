@@ -1,7 +1,7 @@
-#### Wizard Spells
+### Wizard Spells
 <!-- Since Wizards have ritual casting, all ritual spells are marked as such. -->
 
-##### Cantrips (0 Level)
+#### Cantrips (0 Level)
 
 - [Acid Splash](#Acid_Splash_acid_splash)
 - [Chill Touch](#Chill_Touch_chill_touch)
@@ -19,7 +19,7 @@
 - Shocking Grasp
 - True Strike (concentration)
 
-##### 1st Level
+#### 1st Level
 
 - [Alarm](#Alarm_alarm) (ritual)
 - [Burning Hands](#Burning_Hands_burning_hands)
@@ -50,7 +50,7 @@
 - Thunderwave
 - Unseen Servant (ritual)
 
-##### 2nd Level
+#### 2nd Level
 
 - [Alter Self](#Alter_Self_alter_self) (concentration)
 - [Arcane Lock](#Arcane_Lock_arcane_lock)
@@ -86,7 +86,7 @@
 - Suggestion (concentration)
 - Web (concentration)
 
-##### 3rd Level
+#### 3rd Level
 
 - [Animate Dead](#Animate_Dead_animate_dead)
 - [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
@@ -118,7 +118,7 @@
 - Vampiric Touch (concentration)
 - Water Breathing (ritual)
 
-##### 4th Level
+#### 4th Level
 
 - [Arcane Eye](#Arcane_Eye_arcane_eye) (concentration)
 - [Banishment](#Banishment_banishment) (concentration)
@@ -146,7 +146,7 @@
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
 
-##### 5th Level
+#### 5th Level
 
 - [Animate Objects](#Animate_Objects_animate_objects) (concentration)
 - [Cloudkill](#Cloudkill) (concentration)
@@ -172,7 +172,7 @@
 - Wall of Force (concentration)
 - Wall of Stone (concentration)
 
-##### 6th Level
+#### 6th Level
 
 - [Chain Lightning](#Chain_Lightning_chain_lightning)
 - [Circle of Death](#Circle_of_Death_circle_of_death)
@@ -194,7 +194,7 @@
 - True Seeing
 - Wall of Ice (concentration)
 
-##### 7th Level
+#### 7th Level
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
@@ -212,7 +212,7 @@
 - Symbol
 - Teleport
 
-##### 8th Level
+#### 8th Level
 
 <!-- spell-checker:words Feeblemind -->
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
@@ -228,7 +228,7 @@
 - [Power Word Stun](#Power_Word_Stun_power_word_stun)
 - Sunburst
 
-##### 9th Level
+#### 9th Level
 
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Foresight](#Foresight_foresight)

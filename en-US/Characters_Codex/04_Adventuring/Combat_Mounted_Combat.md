@@ -1,10 +1,10 @@
-#### Mounted Combat
+### Mounted Combat
 
 A knight charging into battle on a warhorse, a Wizard casting spells from the back of a griffon, or a Cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 
-##### Mounting and Dismounting
+#### Mounting and Dismounting
 
 Mounting or dismounting a creature within 5 feet costs half your speed in movement.
 For instance, at 30 feet speed, you must spend 15 feet of movement to mount a horse.
@@ -16,7 +16,7 @@ If knocked prone while mounted, make the same saving throw.
 If knocked prone, use your reaction to dismount as it falls, landing on your feet.
 Otherwise, fall prone within 5 feet of the mount.
 
-##### Controlling a Mount
+#### Controlling a Mount
 
 While mounted, you have two options: control the mount or let it act independently.
 Intelligent creatures like dragons act independently.

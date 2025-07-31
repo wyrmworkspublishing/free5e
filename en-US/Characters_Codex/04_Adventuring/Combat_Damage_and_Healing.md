@@ -1,9 +1,9 @@
-#### Damage and Healing
+### Damage and Healing
 
 Injury and the risk of death are constant companions of those who explore fantasy gaming worlds.
 The thrust of a sword, a well-placed arrow, or a blast of flame from a [Fireball](#Fireball_fireball) spell all have the potential to damage, or even kill, the hardiest of creatures.
 
-##### Hit Points
+#### Hit Points
 
 Hit points represent a combination of physical and mental durability, the will to live, and luck.
 Creatures with more hit points are more difficult to kill.
@@ -15,7 +15,7 @@ This number changes frequently as a creature takes damage or receives healing.
 Whenever a creature takes damage, that damage is subtracted from its hit points.
 The loss of hit points has no effect on a creature’s capabilities until the creature drops to 0 hit points.
 
-##### Damage Rolls
+#### Damage Rolls
 
 Each weapon, spell, and harmful monster ability specifies the damage it deals.
 You roll the damage die or dice, add any modifiers, and apply the damage to your target.
@@ -28,7 +28,7 @@ A **spell** tells you which dice to roll for damage and whether to add any modif
 If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them.
 For example, when a Wizard casts [Fireball](#Fireball_fireball) or a Cleric casts [Flame Strike](#Flame_Strike_flame_strike), the spell’s damage is rolled once for all creatures caught in the blast.
 
-###### Critical Hits
+##### Critical Hits
 
 When you score a [critical hit](#Combat_Making_an_Attack_rolling_1_or_20), roll the attack’s damage dice twice and add them together.
 Add any relevant modifiers.
@@ -37,7 +37,7 @@ To speed up play, roll all damage dice at once.
 For example, with a dagger, roll 2d4 for damage instead of 1d4.
 If the attack involves other damage dice, roll them twice.
 
-###### Damage Types
+##### Damage Types
 
 Different attacks, damaging spells, and other harmful effects deal different types of damage.
 Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types.
@@ -84,7 +84,7 @@ Swords, axes, and monsters’ claws deal slashing damage.
 **Thunder.**
 A concussive burst of sound, such as the effect of the Thunderwave spell, deals thunder damage.
 
-##### Damage Resistance and Vulnerability
+#### Damage Resistance and Vulnerability
 
 Some creatures and objects are exceedingly difficult or unusually easy to hurt with certain types of damage.
 
@@ -98,7 +98,7 @@ A magical aura reduces all damage by 5, so the 25 is reduced to 10.
 Multiple instances of resistance or vulnerability for the same damage type count as one.
 For example, a creature has bludgeoning and nonmagical damage resistance, so nonmagical fire damage is reduced by half, not three-quarters.
 
-##### Healing
+#### Healing
 
 Unless it results in death, damage isn’t permanent.
 Even death is reversible through powerful magic.
@@ -111,21 +111,21 @@ If the Ranger has 14 current hit points and has a hit point maximum of 20, the R
 
 A creature that has died can’t regain hit points until magic such as the [Revivify](#Revivify_revivify) spell has restored it to life.
 
-##### Dropping to 0 Hit Points
+#### Dropping to 0 Hit Points
 
 When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
 
-###### Instant Death
+##### Instant Death
 
 Massive damage can kill you instantly.
 When damage reduced you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
 
-###### Falling Unconscious
+##### Falling Unconscious
 
-If damage reduces you to 0 hit points and fails to kill you, you fall [unconscious](#Conditions_unconscious) (see [<mark>chapter XX</mark>, "Conditions"](#Conditions_conditions)).
+If damage reduces you to 0 hit points and fails to kill you, you fall [unconscious](#Conditions_unconscious) (see [appendix <mark>XX</mark>, "Conditions"](#Conditions_conditions)).
 This unconsciousness ends if you regain any hit points.
 
-###### Death Saving Throws
+##### Death Saving Throws
 
 Whenever starting with 0 hit points, make a death saving throw to determine your fate.
 Unlike other saving throws, this one isn’t tied to an ability score.
@@ -148,7 +148,7 @@ If you take any damage while you have 0 hit points, you suffer a death saving th
 If the damage is from a critical hit, you suffer two failures instead.
 If the damage equals or exceeds your hit point maximum, you suffer instant death.
 
-###### Stabilizing a Creature
+##### Stabilizing a Creature
 
 To save a creature with 0 hit points, heal it.
 If healing is unavailable, stabilize it to prevent a failed death saving throw.
@@ -159,20 +159,20 @@ This requires a successful DC 10 Wisdom (Medicine) check.
 A **stable** creature doesn’t make death saving throws but remains unconscious.
 It regains 1 hit point after 1d4 hours if not healed.
 
-###### Monsters and Death
+##### Monsters and Death
 
 Most Conductors have a monster die the instant it drops to 0 hit points, rather than having it fall unconscious and make death saving throws.
 
 Mighty villains and special nonplayer characters are common exceptions; the Conductor might have them fall unconscious and follow the same rules as player characters.
 
-##### Knocking a Creature Out
+#### Knocking a Creature Out
 
 Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow.
 When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out.
 The attacker can make this choice the instant the damage is dealt.
 The creature falls unconscious and is stable.
 
-##### Temporary Hit Points
+#### Temporary Hit Points
 
 Temporary hit points are a buffer against damage, a pool of hit points that protect against injury.
 They are separate from your actual hit points and can exceed them.

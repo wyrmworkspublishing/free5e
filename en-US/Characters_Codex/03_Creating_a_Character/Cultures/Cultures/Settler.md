@@ -1,4 +1,4 @@
-#### Settler
+### Settler
 
 This culture, pragmatic and determined, values resilience, resourcefulness, and community-building.
 Its people tirelessly build and protect their homes.

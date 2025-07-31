@@ -1,4 +1,4 @@
-#### Fortunate
+### Fortunate
 
 - You gain 3 fate points.
   Whenever you make an attack roll, ability check, or saving throw and do not have disadvantage, you can spend a fate point to roll an additional d20 and choose whichever result you wish.

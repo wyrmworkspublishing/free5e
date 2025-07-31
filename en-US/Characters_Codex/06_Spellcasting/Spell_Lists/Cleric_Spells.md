@@ -1,7 +1,7 @@
-#### Cleric Spells
+### Cleric Spells
 <!-- Since Clerics have ritual casting, all ritual spells are marked as such. -->
 
-##### Cantrips (0 Level)
+#### Cantrips (0 Level)
 
 - [Guidance](#Guidance_guidance) (concentration)
 - [Light](#Light_light)
@@ -11,7 +11,7 @@
 - Spare the Dying
 - [Thaumaturgy](#Thaumaturgy_thaumaturgy)
 
-##### 1st Level
+#### 1st Level
 
 - [Bane](#Bane_bane) (concentration)
 - [Bless](#Bless_bless) (concentration)
@@ -30,7 +30,7 @@
 - [Sanctuary](#Sanctuary_sanctuary)
 - Shield of Faith (concentration)
 
-##### 2nd Level
+#### 2nd Level
 
 - [Aid](#Aid_aid)
 - [Augury](#Augury_augury) (ritual)
@@ -50,7 +50,7 @@
 - Warding Bond
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
-##### 3rd Level
+#### 3rd Level
 
 - [Animate Dead](#Animate_Dead_animate_dead)
 - [Beacon of Hope](#Beacon_of_Hope_beacon_of_hope) (concentration)
@@ -72,7 +72,7 @@
 - Tongues
 - Water Walk (ritual)
 
-##### 4th Level
+#### 4th Level
 
 - [Banishment](#Banishment_banishment) (concentration)
 - [Control Water](#Control_Water_control_water) (concentration)
@@ -83,7 +83,7 @@
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - Stone Shape
 
-##### 5th Level
+#### 5th Level
 
 - [Commune](#Commune_commune) (ritual)
 - [Contagion](#Contagion_contagion)
@@ -99,7 +99,7 @@
 - [Raise Dead](#Raise_Dead_raise_dead)
 - Scrying (concentration)
 
-##### 6th Level
+#### 6th Level
 
 - [Blade Barrier](#Blade_Barrier_blade_barrier) (concentration)
 - [Create Undead](#Create_Undead_create_undead)
@@ -113,7 +113,7 @@
 - True Seeing
 - Word of Recall
 
-##### 7th Level
+#### 7th Level
 
 - [Conjure Celestial](#Conjure_Celestial_conjure_celestial) (concentration)
 - [Divine Word](#Divine_Word_divine_word)
@@ -124,7 +124,7 @@
 - [Resurrection](#Resurrection_resurrection)
 - Symbol
 
-##### 8th Level
+#### 8th Level
 
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
 - [Control Weather](#Control_Weather_control_weather) (concentration)
@@ -132,7 +132,7 @@
 - [Holy Aura](#Holy_Aura_holy_aura) (concentration)
 - Sunburst
 
-##### 9th Level
+#### 9th Level
 
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Gate](#Gate_gate) (concentration)

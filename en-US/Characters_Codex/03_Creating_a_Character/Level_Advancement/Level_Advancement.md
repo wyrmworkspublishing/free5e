@@ -1,4 +1,4 @@
-### Level Advancement
+## Level Advancement
 
 As your character gains experience points and levels up, they gain additional features and proficiency bonuses.
 Each level also grants an extra Hit Die, which can be rolled and added to your hit point maximum, or used as a fixed value.

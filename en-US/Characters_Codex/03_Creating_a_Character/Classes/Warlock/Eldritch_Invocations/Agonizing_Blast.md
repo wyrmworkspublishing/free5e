@@ -1,4 +1,4 @@
-###### Agonizing Blast
+##### Agonizing Blast
 
 **Prerequisite:**
 [Eldritch Blast](#Eldritch_Blast_eldritch_blast) cantrip

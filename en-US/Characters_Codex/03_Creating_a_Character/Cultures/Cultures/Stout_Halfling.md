@@ -1,4 +1,4 @@
-#### Stout Halfling
+### Stout Halfling
 
 This cheerful, hardworking culture values comfort, community, and storytelling.
 Its people are proud of nurturing others and preserving traditions.

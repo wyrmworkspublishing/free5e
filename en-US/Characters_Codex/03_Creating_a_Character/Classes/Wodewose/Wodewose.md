@@ -1,4 +1,4 @@
-#### Wodewose
+### Wodewose
 
 Feeling the pulse of the natural world, Wodewoses channel its untamed energy, moving in harmony with the forces that shape all life.
 
@@ -16,11 +16,11 @@ Feeling the pulse of the natural world, Wodewoses channel its untamed energy, mo
 > Wodewoses from regions that lack the plants described here have chosen other plants to take on similar uses.
 > For instance, a Wodewose of a desert region might value the yucca tree and cactus plants.
 
-##### Class Features
+#### Class Features
 
 As a Wodewose, you gain the following class features.
 
-###### Hit Points
+##### Hit Points
 
 **Hit Dice:**
 `1d8` per Wodewose level
@@ -31,7 +31,7 @@ As a Wodewose, you gain the following class features.
 **Hit Points at Higher Levels:**
 `1d8 (or 5) + your Constitution modifier per Wodewose level after 1st`
 
-###### Proficiencies
+##### Proficiencies
 
 <!-- TODO Maybe remove the limitation of not using metal armor or shields? -->
 **Armor:**
@@ -49,7 +49,7 @@ Intelligence, Wisdom
 **Skills:**
 Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
 
-###### Equipment
+##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -57,7 +57,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a saber or (b) any simple melee weapon
 - Leather armor, an explorer’s pack, and a Wodewose focus
 
-###### The Wodewoses (table) {#Wodewose_the_wodewose_table}
+##### The Wodewoses (table) {#Wodewose_the_wodewose_table}
 
 | Level | Proficiency Bonus | Cantrips Known | Features                                                                                   |
 |:------|:-----------------:|:--------------:|:-------------------------------------------------------------------------------------------|
@@ -82,14 +82,14 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th  |        +6         |        4       | [Ability Score Improvement](#Wodewose_asi)                                                 |
 | 20th  |        +6         |        4       | [Elder Wose](#Wodewose_elder_wose)                                                         |
 
-###### Wild Speech Language (1st Level) {#Wodewose_wild_speech_language}
+##### Wild Speech Language (1st Level) {#Wodewose_wild_speech_language}
 
 You know Wild Speech, the secret language of Wodewoses.
 You can speak the language and use it to leave hidden messages.
 You and others who know this language automatically spot such a message.
 Others spot the message’s presence with a successful DC 15 Wisdom (Perception) check but can’t decipher it without magic.
 
-###### Spellcasting (1st Level) {#Wodewose_spellcasting}
+##### Spellcasting (1st Level) {#Wodewose_spellcasting}
 
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 
@@ -135,9 +135,9 @@ You can cast a Wodewose spell as a ritual if that spell has the ritual tag and y
 \
 **Spellcasting Focus**
 \
-You can use a Wodewose focus (see chapter <mark>XX</mark>, ["Equipment"](#Equipment_equipment)) as a spellcasting focus for your Wodewose spells.
+You can use a Wodewose focus (see [chapter <mark>XX</mark>, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Wodewose spells.
 
-###### Wild Shape (2nd Level) {#Wodewose_wild_shape}
+##### Wild Shape (2nd Level) {#Wodewose_wild_shape}
 
 You can use your action to magically assume the shape of a beast that you have observed before.
 You can use this feature twice.
@@ -183,33 +183,33 @@ While you are transformed, the following rules apply:
   Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it.
   Equipment that merges with the form has no effect until you leave the form.
 
-###### Wodewose Circle (2nd & 6th & 10th & 14th Level) {#Wodewose_wodewose_circle}
+##### Wodewose Circle (2nd & 6th & 10th & 14th Level) {#Wodewose_wodewose_circle}
 
 At 2nd level, you choose to identify with a circle of Wodewoses.
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Wodewose_asi}
+##### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Wodewose_asi}
 
 At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two ability scores by 1, up to a maximum of 20.
 
-###### Timeless Body (18th Level) {#Wodewose_timeless_body}
+##### Timeless Body (18th Level) {#Wodewose_timeless_body}
 
 The primal magic that you wield causes you to age more slowly.
 For every 10 years that pass, your body ages only 1 year.
 
-###### Beast Spells (18th Level) {#Wodewose_beast_spells}
+##### Beast Spells (18th Level) {#Wodewose_beast_spells}
 
 You can cast many of your Wodewose spells in any shape you assume using [Wild Shape](#Wodewose_wild_shape).
 You can perform the somatic and verbal components of a Wodewose spell while in a beast shape, but you aren’t able to provide material components.
 
-###### Elder Wose
+##### Elder Wose
 
 You can use your Wild Shape an unlimited number of times.
 
 Additionally, you can ignore the verbal and somatic components of your Wodewose spells, as well as any material components that lack a cost and aren’t consumed by a spell.
 You gain this benefit in both your normal shape and your beast shape from [Wild Shape](#Wodewose_wild_shape).
 
-##### Wodewose Circles
+#### Wodewose Circles
 
 [**Circle of the City**](./Circle_of_the_City.md)
 

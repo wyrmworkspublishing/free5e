@@ -1,4 +1,4 @@
-#### Heavily Outfitted
+### Heavily Outfitted
 
 **Prerequisite:**
 Proficiency with medium armor

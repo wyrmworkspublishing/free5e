@@ -1,4 +1,4 @@
-## Planes of Existence
+# Planes of Existence
 
 The multiverse consists of many interconnected planes, each with its own nature.
 Most adventures take place on a **Material Plane**, one of many that can host different campaign settings.

@@ -1,4 +1,4 @@
-### Combat
+## Combat
 
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting.
 The game organizes the chaos of combat into a cycle of rounds and turns.

@@ -1,4 +1,4 @@
-#### Mounted Warrior
+### Mounted Warrior
 
 - You must be wielding a weapon with the reach property, mounted, and move 20 or more feet towards a target in order to use this feat.
   When you do so, make a melee weapon attack against a creature within your weapon’s reach.

@@ -1,4 +1,4 @@
-#### Moderately Outfitted
+### Moderately Outfitted
 
 **Prerequisite:**
 Proficiency with light armor

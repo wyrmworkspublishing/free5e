@@ -1,4 +1,4 @@
-#### Stealth Expert
+### Stealth Expert
 
 **Prerequisite:**
 Dexterity 13 or higher

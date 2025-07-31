@@ -1,4 +1,4 @@
-###### Otherworldly Leap
+##### Otherworldly Leap
 
 **Prerequisite:**
 9th level

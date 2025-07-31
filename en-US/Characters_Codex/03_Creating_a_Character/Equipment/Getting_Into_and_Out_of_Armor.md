@@ -1,4 +1,4 @@
-##### Getting Into and Out of Armor
+#### Getting Into and Out of Armor
 
 The time it takes to don or doff armor depends on the armor’s category.
 \

@@ -1,12 +1,12 @@
-#### Warlock
+### Warlock
 
 By forging pacts with mysterious entities, Warlocks gain supernatural gifts, though such power always comes at a price.
 
-##### Class Features
+#### Class Features
 
 As a Warlock, you gain the following class features.
 
-###### Hit Points
+##### Hit Points
 
 **Hit Dice:**
 `1d8` per Warlock level
@@ -17,7 +17,7 @@ As a Warlock, you gain the following class features.
 **Hit Points at Higher Levels:**
 `1d8 (or 5) + your Constitution modifier per Warlock level after 1st`
 
-###### Proficiencies
+##### Proficiencies
 
 **Armor:**
 Light armor
@@ -34,7 +34,7 @@ Wisdom, Charisma
 **Skills:**
 Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
 
-###### Equipment
+##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -43,7 +43,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a scholar’s pack or (b) a dungeoneer’s pack
 - Leather armor, any simple weapon, and two daggers
 
-###### The Warlock (table) {#Warlock_the_warlock_table}
+##### The Warlock (table) {#Warlock_the_warlock_table}
 
 | Level | Proficiency Bonus | Cantrips Known | Spells Known | Spell Slots | Slot Level | Invocations Known | Features                                                                               |
 |:------|:-----------------:|:--------------:|:------------:|:-----------:|:----------:|:-----------------:|:---------------------------------------------------------------------------------------|
@@ -68,12 +68,12 @@ You start with the following equipment, in addition to the equipment granted by 
 |  19st |        +6         |        4       |      15      |      4      |     5th    |         8         | [Ability Score Improvement](#Warlock_asi)                                              |
 |  20st |        +6         |        4       |      15      |      4      |     5th    |         8         | [Eldritch Master](#Warlock_eldritch_master)                                            |
 
-###### Otherworldly Patron (1st & 6th & 10th & 14th Level) {#Warlock_otherworldly_patron}
+##### Otherworldly Patron (1st & 6th & 10th & 14th Level) {#Warlock_otherworldly_patron}
 
 At 1st level, you’ve forged a pact with a powerful otherworldly being.
 Each offers unique abilities at 1st, 6th, 10th, and 14th level, reflecting their distinct power and influence.
 
-###### Pact Magic (1st Level) {#Warlock_pact_magic}
+##### Pact Magic (1st Level) {#Warlock_pact_magic}
 
 Your arcane research and the magic bestowed on you by your patron have given you facility with spells.
 \
@@ -115,7 +115,7 @@ In addition, you use your Charisma modifier when setting the saving throw DC for
 \
 You can use an arcane focus as a spellcasting focus for your Warlock spells.
 
-###### Eldritch Invocations (2nd Level) {#Warlock_eldritch_invocations}
+##### Eldritch Invocations (2nd Level) {#Warlock_eldritch_invocations}
 
 In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.
 
@@ -125,16 +125,22 @@ When you gain certain Warlock levels, you gain additional invocations of your ch
 
 Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.
 
-###### Pact Boon (3rd Level) {#Warlock_pact_boon}
+##### Pact Boon (3rd Level) {#Warlock_pact_boon}
 
 Your otherworldly patron bestows a gift upon you for your loyal service.
-You gain one of the features detailed [at the end of the class description](#Pact_Boons_pact_boons).
+You gain one of the following features of your choice.
 
-###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Warlock_asi}
+[**Pact of the Blade**](./Pact_Boons/Pact_of_the_Blade.md)
+
+[**Pact of the Chain**](./Pact_Boons/Pact_of_the_Chain.md)
+
+[**Pact of the Tome**](./Pact_Boons/Pact_of_the_Tome.md)
+
+##### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Warlock_asi}
 
 At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two ability scores by 1, up to a maximum of 20.
 
-###### Mystic Arcanum (11th Level & 13th Level & 15th Level & 17th Level) {#Warlock_mystic_arcanum}
+##### Mystic Arcanum (11th Level & 13th Level & 15th Level & 17th Level) {#Warlock_mystic_arcanum}
 
 At 11th level, your patron bestows upon you a magical secret called an arcanum.
 Choose one 6th-level spell from the [Warlock spell list](#Warlock_Spells_warlock_spells) as this arcanum.
@@ -145,7 +151,7 @@ You must finish a long rest before you can do so again.
 At higher levels, you gain more Warlock spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level.
 You regain all uses of your Mystic Arcanum when you finish a long rest.
 
-###### Eldritch Master (20th Level) {#Warlock_eldritch_master}
+##### Eldritch Master (20th Level) {#Warlock_eldritch_master}
 
 You can draw on your inner reserve of mystical power while entreating your patron to regain expended spell slots.
 You can spend 1 minute entreating your patron for aid to regain all your expended spell slots from your Pact Magic feature.
@@ -153,9 +159,7 @@ Once you regain spell slots with this feature, you must finish a long rest befor
 
 [**Eldritch Invocations**](./Eldritch_Invocations.md)
 
-[**Pact Boons**](./Pact_Boons.md)
-
-##### Otherworldly Patrons
+#### Otherworldly Patrons
 
 The beings that serve as patrons for Warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power.
 Various patrons give their Warlocks access to different powers and invocations, and expect significant favors in return.
@@ -168,7 +172,7 @@ Warlocks who serve the same patron might view each other as allies, siblings, or
 
 [**The Overseer**](./The_Overseer.md)
 
-##### Your Pact Boon
+#### Your Pact Boon
 
 Each Pact Boon option produces a special creature or an object that reflects your patron’s nature.
 \

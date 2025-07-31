@@ -1,4 +1,4 @@
-#### Weapons
+### Weapons
 
 Your class grants proficiency in weapons reflecting its focus and your likely use.
 Whether you prefer a longsword or longbow, your weapon and skill can mean life or death in adventuring.

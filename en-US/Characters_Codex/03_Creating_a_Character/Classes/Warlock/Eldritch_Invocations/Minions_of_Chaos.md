@@ -1,4 +1,4 @@
-###### Minions of Chaos
+##### Minions of Chaos
 
 **Prerequisite:**
 9th level

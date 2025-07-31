@@ -1,4 +1,4 @@
-#### Ability Checks
+### Ability Checks
 
 An ability check tests a character’s or monster’s innate talent and training in an effort to overcome a challenge.
 The Conductor calls for an ability check when a character or monster attempts an action (other than an attack) that has a chance of failure.
@@ -29,7 +29,7 @@ As with other d20 rolls, apply bonuses and penalties, and compare the total to t
 If the total equals or exceeds the DC, the ability check is a success—the creature overcomes the challenge at hand.
 Otherwise, it’s a failure, which means the character or monster makes no progress toward the objective or makes progress combined with a setback determined by the Conductor.
 
-##### Contests
+#### Contests
 
 When characters or monsters oppose each other, a contest determines the outcome.
 Both make ability checks for their efforts, applying bonuses and penalties.
@@ -42,7 +42,7 @@ One contestant may win by default.
 For instance, if two characters tie in a contest to grab a ring, neither succeeds.
 In a contest between a monster and an adventurer, a tie keeps the door shut.
 
-##### Skills
+#### Skills
 
 Each ability covers various capabilities, including proficiencies in skills.
 A skill represents a specific aspect of an ability score, and proficiency indicates focus on that aspect.
@@ -102,7 +102,7 @@ For example, if you must swim from an offshore island to the mainland, your Cond
 In this case, you can apply Athletics proficiency and ask for a Constitution (Athletics) check, adding your proficiency bonus as usual.
 Similarly, when your dwarf Dreadnought uses raw strength to intimidate an enemy, your Conductor might ask for a Strength (Intimidation) check, despite Intimidation being usually associated with Charisma.
 
-##### Passive Checks
+#### Passive Checks
 
 A passive check is a special kind of ability check that doesn’t involve any die rolls.
 Such a check can represent the average result for a task done repeatedly, such as searching for secret doors over and over again, or can be used when the Conductor wants to secretly determine whether the characters succeed at something without rolling dice, such as noticing a hidden monster (passive [Wisdom (Perception)](#Using_Wisdom_wisdom_checks)), noticing that someone is acting suspicious (passive [Wisdom (Insight)](#Using_Wisdom_wisdom_checks)), or noticing something out of place (passive [Intelligence (Investigation)](#Using_Intelligence_intelligence)).
@@ -121,7 +121,7 @@ For example, if a 1st-level character has a Wisdom of 15 and proficiency in Perc
 
 The rules on hiding in the [“Dexterity”](#Using_Dexterity_dexterity) section below rely on passive checks, as do the exploration rules.
 
-##### Working Together
+#### Working Together
 
 Characters team up to attempt tasks.
 The leader or character with the highest ability modifier can make an ability check with advantage, reflecting help.
@@ -132,7 +132,7 @@ For example, opening a lock requires thieves’ tools proficiency, so a characte
 Also, help is only useful when working together would be productive.
 Some tasks, like threading a needle, are harder with help.
 
-##### Group Checks
+#### Group Checks
 
 When a group attempts a task, the Conductor may ask for a group ability check.
 Skilled characters help cover those who aren’t.

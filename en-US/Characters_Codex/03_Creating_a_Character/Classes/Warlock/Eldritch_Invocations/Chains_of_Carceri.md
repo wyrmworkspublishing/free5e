@@ -1,4 +1,4 @@
-###### Chains of Carceri
+##### Chains of Carceri
 
 **Prerequisite:**
 15th level, [Pact of the Chain](#Pact_of_the_Chain_pact_of_the_chain) feature

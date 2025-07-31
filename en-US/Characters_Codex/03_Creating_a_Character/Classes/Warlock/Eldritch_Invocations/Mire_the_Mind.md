@@ -1,4 +1,4 @@
-###### Mire the Mind
+##### Mire the Mind
 
 **Prerequisite:**
 5th level

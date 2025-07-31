@@ -1,4 +1,4 @@
-#### Mystical Talent
+### Mystical Talent
 
 **Choose a class:**
 Bard, Cleric, Sorcerer, Vanguard, Warlock, Wizard, or Wodewose.

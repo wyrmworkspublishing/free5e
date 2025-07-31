@@ -1,4 +1,4 @@
-### Languages
+## Languages
 
 Your culture determines your default languages that you can understand and communicate in, provided there is no disability or condition that prevents you from doing so.
 When learning a language, you select whether you know the spoken or the signed language, if available.

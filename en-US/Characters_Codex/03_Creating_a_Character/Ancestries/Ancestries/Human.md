@@ -1,10 +1,10 @@
-#### Human
+### Human
 
 Humans have a vast range of skin tones, hair colors, and physical builds that reflect their wide range of environments.
 Their round ears and softer facial features contrast with the more distinct traits of other ancestries.
 Humans' adaptability allows them to thrive in various climates, from rugged mountain ranges to dense urban centers, making them one of the most widespread peoples.
 
-##### Human Traits
+#### Human Traits
 
 Your human character has a number of traits in common with all other humans.
 \

@@ -1,9 +1,9 @@
-#### Halfling
+### Halfling
 
 Halflings are small, typically with round features and a penchant for comfort and community.
 Their ingenuity and resourcefulness shine in their love for storytelling and exploration.
 
-##### Halfling Traits
+#### Halfling Traits
 Your halfling character has a number of traits in common with all other halflings.
 \
 **Age.**

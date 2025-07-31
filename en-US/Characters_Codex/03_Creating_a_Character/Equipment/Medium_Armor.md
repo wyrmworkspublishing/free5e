@@ -1,4 +1,4 @@
-##### Medium Armor
+#### Medium Armor
 
 Medium armor offers more protection than light armor, but it also impairs movement more.
 If you wear medium armor, you add your Dexterity modifier, to a maximum of +2, to the base number from your armor type to determine your Armor Class.

@@ -1,7 +1,7 @@
-#### Warlock Spells
+### Warlock Spells
 <!-- While Warlocks don't have ritual casting by default, the "Book of Ancient Secrets" invocation lets them use ritual spells. So all ritual spells are marked as such. -->
 
-##### Cantrips (0 Level)
+#### Cantrips (0 Level)
 
 - [Chill Touch](#Chill_Touch_chill_touch)
 - [Eldritch Blast](#Eldritch_Blast_eldritch_blast)
@@ -12,7 +12,7 @@
 - [Prestidigitation](#Prestidigitation_prestidigitation)
 - True Strike (concentration)
 
-##### 1st Level
+#### 1st Level
 
 - [Charm Person](#Charm_Person_charm_person)
 - [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
@@ -24,7 +24,7 @@
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Unseen Servant (ritual)
 
-##### 2nd Level
+#### 2nd Level
 
 - [Darkness](#Darkness_darkness) (concentration)
 - [Enthrall](#Enthrall_enthrall)
@@ -37,7 +37,7 @@
 - Spider Climb (concentration)
 - Suggestion (concentration)
 
-##### 3rd Level
+#### 3rd Level
 
 - [Counterspell](#Counterspell_counterspell)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
@@ -51,7 +51,7 @@
 - Tongues
 - Vampiric Touch (concentration)
 
-##### 4th Level
+#### 4th Level
 
 - [Banishment](#Banishment_banishment) (concentration)
 - [Blight](#Blight_blight)
@@ -59,7 +59,7 @@
 - [Dimension Door](#Dimension_Door_dimension_door)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 
-##### 5th Level
+#### 5th Level
 
 - [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
 - [Dream](#Dream)
@@ -69,7 +69,7 @@
 - Scrying (concentration)
 - Teleportation Circle
 
-##### 6th Level
+#### 6th Level
 
 - [Circle of Death](#Circle_of_Death_circle_of_death)
 - [Conjure Fey](#Conjure_Fey_conjure_fey) (concentration)
@@ -79,14 +79,14 @@
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - True Seeing
 
-##### 7th Level
+#### 7th Level
 
 - [Etherealness](#Etherealness_etherealness)
 - [Finger of Death](#Finger_of_Death_finger_of_death)
 - [Forcecage](#Forcecage_forcecage)
 - [Plane Shift](#Plane_Shift_plane_shift)
 
-##### 8th Level
+#### 8th Level
 
 <!-- spell-checker:words Feeblemind -->
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
@@ -95,7 +95,7 @@
 - [Glibness](#Glibness_glibness)
 - [Power Word Stun](#Power_Word_Stun_power_word_stun)
 
-##### 9th Level
+#### 9th Level
 
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Foresight](#Foresight_foresight)

@@ -1,4 +1,4 @@
-#### Battle Caster
+### Battle Caster
 
 **Prerequisite:**
 The ability to cast at least one spell of 1st-level or higher.

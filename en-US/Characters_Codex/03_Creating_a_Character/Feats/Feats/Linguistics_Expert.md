@@ -1,4 +1,4 @@
-#### Linguistics Expert
+### Linguistics Expert
 
 - Your Intelligence score increases by 1, to a maximum of 20.
 - You learn three languages of your choice.

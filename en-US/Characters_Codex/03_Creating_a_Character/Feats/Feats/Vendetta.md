@@ -1,4 +1,4 @@
-#### Vendetta
+### Vendetta
 
 Something or someone has had a profound impact on your life—and earned your unending rancor.
 

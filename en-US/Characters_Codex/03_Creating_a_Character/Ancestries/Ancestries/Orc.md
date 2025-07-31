@@ -1,10 +1,10 @@
-#### Orc
+### Orc
 
 Orcs are tall and powerfully built, with greenish, gray, or brown skin, and prominent tusks.
 While often misunderstood, orcs are deeply loyal and value strength, community, and perseverance.
 Their cultures are as varied as their environments, ranging from nomadic hunters to urban warriors.
 
-##### Orc Traits
+#### Orc Traits
 Characters with orc heritage share the following traits:
 \
 **Age.**

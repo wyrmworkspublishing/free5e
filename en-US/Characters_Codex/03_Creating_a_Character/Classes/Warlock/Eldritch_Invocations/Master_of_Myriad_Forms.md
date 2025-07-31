@@ -1,4 +1,4 @@
-###### Master of Myriad Forms
+##### Master of Myriad Forms
 
 **Prerequisite:**
 15th level

@@ -1,4 +1,4 @@
-#### Fear Breaker
+### Fear Breaker
 
 Choose up to 3 specific weapons to use this maneuver with when you first gain it.
 

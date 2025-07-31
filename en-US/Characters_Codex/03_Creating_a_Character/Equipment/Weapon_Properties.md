@@ -1,4 +1,4 @@
-##### Weapon Properties
+#### Weapon Properties
 
 Many weapons have special properties related to their use, as shown in the Weapons table.
 \
@@ -50,7 +50,7 @@ This weapon requires two hands when you attack with it.
 This weapon can be used with one or two hands.
 A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee attack.
 
-###### Improvised Weapons
+##### Improvised Weapons
 
 Characters without weapons may attack with improvised weapons, such as broken glass, table legs, frying pans, wagon wheels, or dead goblins.
 Often, improvised weapons resemble actual weapons and can be treated as such.
@@ -60,13 +60,13 @@ Objects unrelated to weapons deal 1d4 damage (assigned by the Conductor).
 Ranged weapons used for melee attacks or thrown melee weapons without the thrown property also deal 1d4 damage.
 Improvised thrown weapons have a normal range of 20 feet and a long range of 60 feet.
 
-###### Silvered Weapons
+##### Silvered Weapons
 
 Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver.
 You can silver a single weapon or ten pieces of ammunition for 100 gp.
 This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
-###### Special Weapons
+##### Special Weapons
 Weapons with special rules are described here.
 \
 **Lance.** {#Weapon_Properties_special_lance}

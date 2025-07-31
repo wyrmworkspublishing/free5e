@@ -1,10 +1,10 @@
-#### Dwarf
+### Dwarf
 
 Sturdy and resilient, dwarves are known for their compact build with strong frames and broad features.
 Their intricate beards and braids often represent cultural pride.
 Dwarves have a reputation for craftsmanship and have a deep connection to the earth, often favoring mountainous or underground regions.
 
-##### Dwarf Traits
+#### Dwarf Traits
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 \
 **Age.**

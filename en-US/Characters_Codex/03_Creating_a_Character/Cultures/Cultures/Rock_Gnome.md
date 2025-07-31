@@ -1,4 +1,4 @@
-#### Rock Gnome
+### Rock Gnome
 
 This curious and inventive culture thrives on experimentation and exploration, finding joy in creating novel things and unraveling mysteries.
 \

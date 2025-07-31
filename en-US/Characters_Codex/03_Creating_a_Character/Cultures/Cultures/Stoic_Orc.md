@@ -1,4 +1,4 @@
-#### Stoic Orc
+### Stoic Orc
 
 Contemplative and disciplined, this culture embraces wisdom and ritual.
 Its members value clarity of mind, spiritual insight, and a deep connection to tradition.

@@ -1,4 +1,4 @@
-#### Mounts and Vehicles
+### Mounts and Vehicles
 
 A good mount aids in wilderness travel by carrying gear that slows you down.
 The Mounts and Other Animals table lists each animal’s speed and base carrying capacity.
@@ -22,7 +22,7 @@ An exotic saddle is required for riding any aquatic or flying mount.
 **Vehicle Proficiency.**
 If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
 
-##### Mounts and Other Animals (table)
+#### Mounts and Other Animals (table)
 
 | Item           |   Cost |  Speed | Carrying Capacity |
 |:---------------|-------:|-------:|------------------:|
@@ -35,7 +35,7 @@ If you have proficiency with a certain kind of vehicle (land or water), you can 
 | Pony           |  30 gp | 40 ft. |           225 lb. |
 | Warhorse       | 400 gp | 60 ft. |           540 lb. |
 
-##### Tack, Harness, and Drawn Vehicles (table)
+#### Tack, Harness, and Drawn Vehicles (table)
 
 | Item                  |   Cost |  Weight |
 |:----------------------|-------:|--------:|

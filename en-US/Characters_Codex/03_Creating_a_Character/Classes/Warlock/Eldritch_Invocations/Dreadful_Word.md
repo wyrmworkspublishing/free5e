@@ -1,4 +1,4 @@
-###### Dreadful Word
+##### Dreadful Word
 
 **Prerequisite:**
 7th level

@@ -1,4 +1,4 @@
-### Artists
+## Artists
 
 <!-- TODO Include artists -->
 

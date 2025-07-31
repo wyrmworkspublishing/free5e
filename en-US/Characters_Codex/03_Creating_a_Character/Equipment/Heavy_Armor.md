@@ -1,4 +1,4 @@
-##### Heavy Armor
+#### Heavy Armor
 
 Of all the armor categories, heavy armor offers the best protection.
 These suits of armor cover the entire body and are designed to stop a wide range of attacks.

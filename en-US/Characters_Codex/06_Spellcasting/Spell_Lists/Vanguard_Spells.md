@@ -1,7 +1,7 @@
-#### Vanguard Spells
+### Vanguard Spells
 <!-- Since Vanguards don't have ritual casting, ritual spells are not marked as such. -->
 
-##### 1st Level
+#### 1st Level
 
 - [Bless](#Bless_bless) (concentration)
 - [Command](#Command_command)
@@ -15,7 +15,7 @@
 - [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink)
 - Shield of Faith (concentration)
 
-##### 2nd Level
+#### 2nd Level
 
 - [Aid](#Aid_aid)
 - [Branding Smite](#Branding_Smite_branding_smite) (concentration)
@@ -29,7 +29,7 @@
 - Warding Bond
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
-##### 3rd Level
+#### 3rd Level
 
 - [Create Food and Water](#Create_Food_and_Water_create_food_and_water)
 - [Daylight](#Daylight_daylight)
@@ -38,13 +38,13 @@
 - [Remove Curse](#Remove_Curse_remove_curse)
 - [Revivify](#Revivify_revivify)
 
-##### 4th Level
+#### 4th Level
 
 - [Banishment](#Banishment_banishment) (concentration)
 - [Death Ward](#Death_Ward_death_ward)
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 
-##### 5th Level
+#### 5th Level
 
 - [Dispel Evil and Good](#Dispel_Evil_and_Good_dispel_evil_and_good) (concentration)
 - [Geas](#Geas_geas)

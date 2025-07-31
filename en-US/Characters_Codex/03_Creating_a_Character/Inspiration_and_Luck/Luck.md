@@ -1,4 +1,4 @@
-#### Variant Rule: Luck
+### Variant Rule: Luck
 
 Every PC has a special resource called Luck.
 You use Luck to influence the result of any attack roll, ability check, or saving throw.

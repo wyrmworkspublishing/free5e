@@ -1,4 +1,4 @@
-#### Tactical Support
+### Tactical Support
 
 - When using the Help action to aid an ally in attacking a creature, the targeted creature can be up to 30 feet away instead of 5 feet.
 - If an ally benefiting from your Help action scores a critical hit on the targeted creature, you can use your reaction to make a single weapon attack against that creature.

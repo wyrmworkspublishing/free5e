@@ -1,4 +1,4 @@
-#### Vanguard
+### Vanguard
 
 Vanguards channel divine strength, standing as unyielding champions of causes greater than themselves.
 
@@ -14,11 +14,11 @@ After a rite of confession and forgiveness, the Vanguard starts fresh.
 > If a Vanguard willfully violates their oath and shows no sign of repentance, the consequences can be more serious.
 > At the Conductor’s discretion, an impenitent Vanguard might be forced to abandon this class and adopt another.
 
-##### Class Features
+#### Class Features
 
 As a Vanguard, you gain the following class features.
 
-###### Hit Points
+##### Hit Points
 
 **Hit Dice:**
 `1d10` per Vanguard level
@@ -29,7 +29,7 @@ As a Vanguard, you gain the following class features.
 **Hit Points at Higher Levels:**
 `1d10 (or 6) + your Constitution modifier per Vanguard level after 1st`
 
-###### Proficiencies
+##### Proficiencies
 
 **Armor:**
 All armor, shields
@@ -46,7 +46,7 @@ Wisdom, Charisma
 **Skills:**
 Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
 
-###### Equipment
+##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -55,7 +55,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest’s pack or (b) an explorer’s pack
 - Chain mail and a holy symbol
 
-###### The Vanguard (table) {#Vanguard_the_vanguard_table}
+##### The Vanguard (table) {#Vanguard_the_vanguard_table}
 
 | Level | Proficiency Bonus | Features                                                                                                                   |
 |:------|:-----------------:|:---------------------------------------------------------------------------------------------------------------------------|
@@ -80,7 +80,7 @@ You start with the following equipment, in addition to the equipment granted by 
 |  19th |         +6        | [Ability Score Improvement](#Vanguard_asi)                                                                                 |
 |  20th |         +6        | Oath of Duty feature                                                                                                       |
 
-###### Divine Sense (1st Level) {#Vanguard_divine_sense}
+##### Divine Sense (1st Level) {#Vanguard_divine_sense}
 
 <!-- spell-checker:words Orobas -->
 The presence of strong evil registers on your senses like a noxious odor, and powerful good rings like heavenly music in your ears.
@@ -92,7 +92,7 @@ Within the same radius, you also detect the presence of any place or object that
 You can use this feature a number of times equal to `1 + your Charisma modifier`.
 When you finish a long rest, you regain all expended uses.
 
-###### Lay on Hands (1st Level) {#Vanguard_lay_on_hands}
+##### Lay on Hands (1st Level) {#Vanguard_lay_on_hands}
 
 Your blessed touch can heal wounds.
 You have a pool of healing power that replenishes when you take a long rest.
@@ -105,13 +105,21 @@ You can cure multiple diseases and neutralize multiple poisons with a single use
 
 This feature has no effect on undead and constructs.
 
-###### Fighting Style (2nd Level) {#Vanguard_fighting_style}
+##### Fighting Style (2nd Level) {#Vanguard_fighting_style}
 
 You adopt a style of fighting as your specialty.
-Choose one of the options listed [at the end of the class description](#Vanguard_fighting_styles_list).
+Choose one of the following options.
 You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-###### Spellcasting (2nd Level) {#Vanguard_spellcasting}
+[**Defense**](../_Fighting_Styles/Defense.md)
+
+[**Dueling**](../_Fighting_Styles/Dueling.md)
+
+[**Great Weapon Fighting**](../_Fighting_Styles/Great_Weapon_Fighting.md)
+
+[**Protection**](../_Fighting_Styles/Protection.md)
+
+##### Spellcasting (2nd Level) {#Vanguard_spellcasting}
 
 You have learned to draw on divine magic through meditation and prayer to cast spells as a Cleric does.
 
@@ -150,17 +158,17 @@ In addition, you use your Charisma modifier when setting the saving throw DC for
 \
 You can use a holy symbol as a spellcasting focus for your Vanguard spells.
 
-###### Divine Smite (2nd Level) {#Vanguard_divine_smite}
+##### Divine Smite (2nd Level) {#Vanguard_divine_smite}
 
 When you hit a creature with a melee weapon attack, you can expend one spell slot to deal radiant damage to the target, in addition to the weapon’s damage.
 The extra damage is `2d8` for a 1st-level spell slot, `plus 1d8` for each spell level higher than 1st, to a maximum of `5d8`.
 The damage increases by `1d8` if the target is an undead or a fiend.
 
-###### Divine Health (3rd Level) {#Vanguard_divine_health}
+##### Divine Health (3rd Level) {#Vanguard_divine_health}
 
 The divine magic flowing through you makes you immune to disease.
 
-###### Oath of Duty (3rd Level) {#Vanguard_oath_of_duty}
+##### Oath of Duty (3rd Level) {#Vanguard_oath_of_duty}
 
 You swear the oath that binds you as a Vanguard forever.
 Up to this time you have been in a preparatory stage, committed to the path but not yet sworn to it.
@@ -186,50 +194,40 @@ You must then finish a short or long rest to use your Channel Divinity again.
 Some Channel Divinity effects require saving throws.
 When you use such an effect from this class, the DC equals your Vanguard spell save DC.
 
-###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Vanguard_asi}
+##### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Vanguard_asi}
 
 At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two ability scores by 1, up to a maximum of 20.
 
-###### Extra Attack (5th Level) {#Vanguard_extra_attack}
+##### Extra Attack (5th Level) {#Vanguard_extra_attack}
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-###### Aura of Protection (6th & 18th Level) {#Vanguard_aura_of_protection}
+##### Aura of Protection (6th & 18th Level) {#Vanguard_aura_of_protection}
 
 Starting at 6th level, whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1).
 You must be conscious to grant this bonus.
 At 18th level, the range of this aura increases to 30 feet.
 
-###### Aura of Courage (10th & 18th Level) {#Vanguard_aura_of_courage}
+##### Aura of Courage (10th & 18th Level) {#Vanguard_aura_of_courage}
 
 Starting at 10th level, you and friendly creatures within 10 feet of you can’t be frightened while you are conscious.
 
 At 18th level, the range of this aura increases to 30 feet.
 
-###### Improved Divine Smite (11th Level) {#Vanguard_improved_divine_smite}
+##### Improved Divine Smite (11th Level) {#Vanguard_improved_divine_smite}
 
 You are so suffused with righteous might that all your melee weapon strikes carry divine power with them.
 Whenever you hit a creature with a melee weapon, the creature takes an extra `1d8?  radiant damage.
 If you also use your [Divine Smite](#Vanguard_divine_smite) with an attack, you add this damage to the extra damage of your Divine Smite.
 
-###### Cleansing Touch (14th Level) {#Vanguard_cleansing_touch}
+##### Cleansing Touch (14th Level) {#Vanguard_cleansing_touch}
 
 You can use your action to end one spell on yourself or on one willing creature that you touch.
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once).
 You regain expended uses when you finish a long rest.
 
-##### Fighting Styles {#Vanguard_fighting_styles_list}
-
-[**Defense**](../_Fighting_Styles/Defense.md)
-
-[**Dueling**](../_Fighting_Styles/Dueling.md)
-
-[**Great Weapon Fighting**](../_Fighting_Styles/Great_Weapon_Fighting.md)
-
-[**Protection**](../_Fighting_Styles/Protection.md)
-
-##### Oaths of Duty {#Vanguard_oath_of_duty_list}
+#### Oaths of Duty {#Vanguard_oath_of_duty_list}
 
 Becoming a Vanguard involves taking vows that commit the Vanguard to the cause of righteousness, an active path of fighting wickedness.
 The final oath, taken when they reach 3rd level, is the culmination of all the Vanguard's training.

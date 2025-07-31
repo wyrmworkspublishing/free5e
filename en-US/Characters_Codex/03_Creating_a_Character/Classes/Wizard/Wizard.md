@@ -1,12 +1,12 @@
-#### Wizard
+### Wizard
 
 Through study, discipline, and boundless curiosity, Wizards unravel the secrets of magic, bending reality through sheer knowledge.
 
-##### Class Features
+#### Class Features
 
 As a Wizard, you gain the following class features.
 
-###### Hit Points
+##### Hit Points
 
 **Hit Dice:**
 `1d6` per Wizard level
@@ -17,7 +17,7 @@ As a Wizard, you gain the following class features.
 **Hit Points at Higher Levels:**
 `1d6 (or 4) + your Constitution modifier per Wizard level after 1st`
 
-###### Proficiencies
+##### Proficiencies
 
 **Armor:**
 None
@@ -34,7 +34,7 @@ Intelligence, Wisdom
 **Skills:**
 Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
-###### Equipment
+##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -43,7 +43,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a scholar’s pack or (b) an explorer’s pack
 - A spellbook
 
-##### The Wizard (table) {#Wizard_the_wizard_table}
+#### The Wizard (table) {#Wizard_the_wizard_table}
 
 | Level | Proficiency Bonus | Cantrips Known | Features                                                                         |
 |:------|:-----------------:|:--------------:|:---------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th  |         +6        |        5       | [Ability Score Improvement](#Wizard_asi)                                         |
 | 20th  |         +6        |        5       | [Signature Spell](#Wizard_signature_spell)                                       |
 
-###### Spellcasting (1st Level) {#Wizard_spellcasting}
+##### Spellcasting (1st Level) {#Wizard_spellcasting}
 
 As a student of arcane magic, you have a spellbook containing spells that show the first glimmerings of your true power.
 
@@ -154,7 +154,7 @@ Each time you gain a Wizard level, you can add two Wizard spells of your choice 
 Each of these spells must be of a level for which you have spell slots, as shown on the [Wizard table](#Wizard_the_wizard_table).
 On your adventures, you might find other spells that you can add to your spellbook (see the "Your Spellbook" box).
 
-###### Arcane Recovery (1st Level) {#Wizard_arcane_recovery}
+##### Arcane Recovery (1st Level) {#Wizard_arcane_recovery}
 
 You have learned to regain some of your magical energy by studying your spellbook.
 Once per day when you finish a short rest, you can choose expended spell slots to recover.
@@ -163,16 +163,16 @@ The spell slots can have a combined level that is equal to or less than half you
 For example, if you’re a 4th-level Wizard, you can recover up to two levels worth of spell slots.
 You can recover either a 2nd-level spell slot or two 1st-level spell slots.
 
-###### Arcane Tradition (2nd Level) {#Wizard_arcane_tradition}
+##### Arcane Tradition (2nd Level) {#Wizard_arcane_tradition}
 
 Choose an arcane tradition.
 Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
 
-###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Wizard_asi}
+##### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Wizard_asi}
 
 At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two ability scores by 1, up to a maximum of 20.
 
-###### Spell Mastery (18th Level) {#Wizard_spell_mastery}
+##### Spell Mastery (18th Level) {#Wizard_spell_mastery}
 
 You have achieved such mastery over certain spells that you can cast them at will.
 Choose a 1st-level Wizard spell and a 2nd-level Wizard spell that are in your spellbook.
@@ -181,7 +181,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 
 By spending 8 hours in study, you can exchange one or both of the spells you chose for different spells of the same levels.
 
-###### Signature Spells (20th Level) {#Wizard_signature_spell}
+##### Signature Spells (20th Level) {#Wizard_signature_spell}
 
 You gain mastery over two powerful spells and can cast them with little effort.
 Choose two 3rd-level Wizard spells in your spellbook as your signature spells.
@@ -190,7 +190,7 @@ When you do so, you can’t do so again until you finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
 
-##### Arcane Traditions
+#### Arcane Traditions
 
 The study of Wizardry, dating back to early magical discoveries, is prevalent in fantasy gaming worlds with diverse magical traditions.
 

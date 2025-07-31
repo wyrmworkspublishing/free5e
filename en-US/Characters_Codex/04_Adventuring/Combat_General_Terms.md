@@ -1,6 +1,6 @@
-#### General Terms
+### General Terms
 
-##### Combat Step by Step
+#### Combat Step by Step
 
 1. **Determine [surprise](#Combat_General_Terms_surprise).**
    The Conductor determines whether anyone involved in the combat encounter is surprised.
@@ -15,7 +15,7 @@
    When everyone involved in the combat has had a turn, the round ends.
    Repeat step 4 until the fighting stops.
 
-##### Surprise {#Combat_General_Terms_surprise}
+#### Surprise {#Combat_General_Terms_surprise}
 
 A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them.
 A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them.
@@ -29,7 +29,7 @@ Any character or monster that doesn’t notice a threat is surprised at the star
 If you’re surprised, you can’t move or take an action on your first turn of the combat, and you can’t take a reaction until that turn ends.
 A member of a group can be surprised even if the other members aren’t.
 
-##### Initiative {#Combat_General_Terms_initiative}
+#### Initiative {#Combat_General_Terms_initiative}
 
 Initiative determines the order of turns during combat.
 When combat starts, every participant makes a Dexterity check to determine their place in the initiative order.
@@ -43,7 +43,7 @@ If a tie occurs, the Conductor decides the order among tied Conductor-controlled
 The Conductor can decide the order if the tie is between a monster and a player character.
 Optionally, the Conductor can have the tied characters and monsters each roll a d20 to determine the order, highest roll going first.
 
-##### Your Turn {#Combat_General_Terms_your_turn}
+#### Your Turn {#Combat_General_Terms_your_turn}
 
 On your turn, you can **move** a distance up to your speed and **take one action**.
 You decide whether to move first or take your action first.
@@ -57,7 +57,7 @@ The ["Movement and Position"](#Combat_Movement_and_Position_movement_and_positio
 You can forgo moving, taking an action, or doing anything at all on your turn.
 If you can’t decide what to do on your turn, consider taking the Dodge or Ready action, as described in ["Actions in Combat."](#Combat_Actions_actions_in_combat).
 
-##### Bonus Actions
+#### Bonus Actions
 
 Various class features, spells, and other abilities let you take an additional action on your turn called a bonus action.
 The _Cunning Action_ feature, for example, allows a Rogue to take a bonus action.
@@ -68,7 +68,7 @@ You can take only one bonus action on your turn, so you must choose which bonus 
 
 You choose when to take a bonus action during your turn, unless the bonus action’s timing is specified, and anything that deprives you of your ability to take actions also prevents you from taking a bonus action.
 
-##### Other Activity on Your Turn
+#### Other Activity on Your Turn
 
 Your turn can include a variety of flourishes that require neither your action nor your move.
 
@@ -81,7 +81,7 @@ Your turn can include a variety of flourishes that require neither your action n
 The Conductor might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle.
 For instance, the Conductor could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge.
 
-##### Reactions
+#### Reactions
 
 Certain special abilities, spells, and situations allow you to take a special action called a _reaction_.
 A reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else’s.

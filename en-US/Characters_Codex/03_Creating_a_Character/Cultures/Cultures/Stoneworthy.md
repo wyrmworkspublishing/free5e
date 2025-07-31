@@ -1,4 +1,4 @@
-#### Stoneworthy
+### Stoneworthy
 
 Grounded and practical, this culture excels in trade, crafting, and survival.
 Its people value patience, ingenuity, and enduring strength in the face of challenges.

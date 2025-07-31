@@ -1,4 +1,4 @@
-#### Trade Goods
+### Trade Goods
 
 Most wealth isn’t in coins but in livestock, grain, land, tax rights, or resource rights.
 
@@ -8,7 +8,7 @@ Guilds set prices and control who offers goods.
 Merchants often trade without currency.
 The Trade Goods table shows common trade goods’ values.
 
-##### Trade Goods (table)
+#### Trade Goods (table)
 
 |   Cost | Goods                                        |
 |-------:|:---------------------------------------------|

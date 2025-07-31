@@ -1,12 +1,12 @@
-#### Ranger
+### Ranger
 
 Rangers navigate both the wilds and society’s fringes, striking with precision and a deep understanding of their environment.
 
-##### Class Features
+#### Class Features
 
 As a Ranger, you gain the following class features.
 
-###### Hit Points
+##### Hit Points
 
 **Hit Dice:**
 `1d10` per Ranger level
@@ -17,7 +17,7 @@ As a Ranger, you gain the following class features.
 **Hit Points at Higher Levels:**
 `1d10 (or 6) + your Constitution modifier per Ranger level after 1st`
 
-###### Proficiencies
+##### Proficiencies
 
 **Armor:**
 Light armor, medium armor, shields
@@ -34,7 +34,7 @@ Strength, Dexterity
 **Skills:**
 Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
-###### Equipment
+##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -43,7 +43,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a dungeoneer’s pack or (b) an explorer’s pack
 - A longbow and a quiver of 20 arrows
 
-###### The Ranger (table) {#Ranger_the_ranger_table}
+##### The Ranger (table) {#Ranger_the_ranger_table}
 
 | Level | Proficiency Bonus | Features                                                                                                     | Spells Known |
 |:------|:-----------------:|:-------------------------------------------------------------------------------------------------------------|:------------:|
@@ -68,7 +68,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th  |         +6        | [Ability Score Improvement](#Ranger_asi)                                                                     |      11      |
 | 20th  |         +6        | [Foe Slayer](#Ranger_foe_slayer)                                                                             |      11      |
 
-###### Favored Enemy (1st & 6th & 14th Level) {#Ranger_favored_enemy}
+##### Favored Enemy (1st & 6th & 14th Level) {#Ranger_favored_enemy}
 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
@@ -82,7 +82,7 @@ When you gain this feature, you also learn one language of your choice that is s
 You choose one additional favored enemy, as well as an associated language, at 6th and 14th level.
 As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
 
-###### Natural Explorer (1st & 6th & 10th Level) {#Ranger_natural_explorer}
+##### Natural Explorer (1st & 6th & 10th Level) {#Ranger_natural_explorer}
 
 You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions.
 Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, or swamp.
@@ -99,13 +99,21 @@ While traveling for an hour or more in your favored terrain, you gain the follow
 
 You choose additional favored terrain types at 6th and 10th level.
 
-###### Fighting Style (2nd Level) {#Ranger_fighting_style}
+##### Fighting Style (2nd Level) {#Ranger_fighting_style}
 
 You adopt a particular style of fighting as your specialty.
-Choose one of the options listed [at the end of the class description](#Ranger_fighting_styles_list).
+Choose one of the following options.
 You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
-###### Spellcasting (2nd Level) {#Ranger_spellcasting}
+[**Archery**](../_Fighting_Styles/Archery.md)
+
+[**Defense**](../_Fighting_Styles/Defense.md)
+
+[**Dueling**](../_Fighting_Styles/Dueling.md)
+
+[**Two-Weapon Fighting**](../_Fighting_Styles/Two-Weapon_Fighting.md)
+
+##### Spellcasting (2nd Level) {#Ranger_spellcasting}
 
 You have learned to use the magical essence of nature to cast spells, much as a Wodewose does.
 See [chapter <mark>XX</mark>](#Spellcasting_spellcasting) for the general rules of spellcasting and [chapter <mark>XX</mark>](#Ranger_Spells_ranger_spells) for the Ranger spell list.
@@ -140,33 +148,33 @@ In addition, you use your Wisdom modifier when setting the saving throw DC for a
 > \
 > **Spell attack modifier** = `your proficiency bonus + your Wisdom modifier`
 
-###### Ranger Archetype (3rd Level) {#Ranger_ranger_archetype}
+##### Ranger Archetype (3rd Level) {#Ranger_ranger_archetype}
 
 Choose an [archetype](#Ranger_ranger_archetypes_list) that you strive to emulate.
 Your choice grants you features at 3rd level and again at 7th, 11th, and 15th level.
 
-###### Primeval Awareness (3rd Level) {#Ranger_primeval_awareness}
+##### Primeval Awareness (3rd Level) {#Ranger_primeval_awareness}
 
 You can use your action and expend one Ranger spell slot to focus your awareness on the region around you.
 For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead.
 This feature doesn’t reveal the creatures’ location or number.
 
-###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Ranger_asi}
+##### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Ranger_asi}
 
 At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two ability scores by 1, up to a maximum of 20.
 
-###### Extra Attack (5th Level) {#Ranger_extra_attack}
+##### Extra Attack (5th Level) {#Ranger_extra_attack}
 
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-###### Land’s Stride (8th Level) {#Ranger_lands_stride}
+##### Land’s Stride (8th Level) {#Ranger_lands_stride}
 
 Moving through nonmagical difficult terrain costs you no extra movement.
 You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
 In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the [Entangle](#Entangle_entangle) spell.
 
-###### Hide in Plain Sight (10th Level) {#Ranger_hide_in_plain_sight}
+##### Hide in Plain Sight (10th Level) {#Ranger_hide_in_plain_sight}
 
 You can spend 1 minute creating camouflage for yourself.
 You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
@@ -175,33 +183,23 @@ Once you are camouflaged in this way, you can try to hide by pressing yourself u
 You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions.
 Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
-###### Vanish (14th Level) {#Ranger_vanish}
+##### Vanish (14th Level) {#Ranger_vanish}
 
 You can use the Hide action as a bonus action on your turn.
 Also, you can’t be tracked by nonmagical means, unless you choose to leave a trail.
 
-###### Feral Senses (18th Level) {#Ranger_feral_senses}
+##### Feral Senses (18th Level) {#Ranger_feral_senses}
 
 At 18th level, you gain preternatural senses that help you fight creatures you couldn’t usually sense.
 You can pinpoint any creature within 30 feet of you, provided that the creature isn’t hidden from you, and you aren’t blinded or deafened.
 
-###### Foe Slayer (20th Level) {#Ranger_foe_slayer}
+##### Foe Slayer (20th Level) {#Ranger_foe_slayer}
 
 You become an unparalleled hunter of your enemies.
 Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies.
 You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
 
-##### Fighting Styles {#Ranger_fighting_styles_list}
-
-[**Archery**](../_Fighting_Styles/Archery.md)
-
-[**Defense**](../_Fighting_Styles/Defense.md)
-
-[**Dueling**](../_Fighting_Styles/Dueling.md)
-
-[**Two-Weapon Fighting**](../_Fighting_Styles/Two-Weapon_Fighting.md)
-
-##### Ranger Archetypes {#Ranger_ranger_archetypes_list}
+#### Ranger Archetypes {#Ranger_ranger_archetypes_list}
 
 The ideal of the Ranger has two classic expressions: the Hunter and the Bounty Hunter.
 

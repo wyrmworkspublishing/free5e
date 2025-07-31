@@ -1,4 +1,7 @@
-### Spell Descriptions
+## Spell Descriptions
+
+### A
+
 [Acid Splash](./Spell_Descriptions/A/Acid_Splash.md)
 
 [Aid](./Spell_Descriptions/A/Aid.md)
@@ -35,6 +38,8 @@
 
 [Awaken](./Spell_Descriptions/A/Awaken.md)
 
+### B
+
 [Bane](./Spell_Descriptions/B/Bane.md)
 
 [Banishment](./Spell_Descriptions/B/Banishment.md)
@@ -62,6 +67,8 @@
 [Branding Smite](./Spell_Descriptions/B/Branding_Smite.md)
 
 [Burning Hands](./Spell_Descriptions/B/Burning_Hands.md)
+
+### C
 
 [Call Lightning](./Spell_Descriptions/C/Call_Lightning.md)
 
@@ -145,6 +152,8 @@
 
 [Cure Wounds](./Spell_Descriptions/C/Cure_Wounds.md)
 
+### D
+
 [Dancing Lights](./Spell_Descriptions/D/Dancing_Lights.md)
 
 [Darkness](./Spell_Descriptions/D/Darkness.md)
@@ -193,6 +202,8 @@
 
 [DT's Magic Aura](./Spell_Descriptions/D/DTs_Magic_Aura.md)
 
+### E
+
 [Earthquake](./Spell_Descriptions/E/Earthquake.md)
 
 [Eldritch Blast](./Spell_Descriptions/E/Eldritch_Blast.md)
@@ -212,6 +223,8 @@
 [Expeditious Retreat](./Spell_Descriptions/E/Expeditious_Retreat.md)
 
 [Eyebite](./Spell_Descriptions/E/Eyebite.md)
+
+### F
 
 [Fabricate](./Spell_Descriptions/F/Fabricate.md)
 
@@ -265,6 +278,8 @@
 
 [Friends](./Spell_Descriptions/F/Friends.md)
 
+### G
+
 [Gaseous Form](./Spell_Descriptions/G/Gaseous_Form.md)
 
 [Gate](./Spell_Descriptions/G/Gate.md)
@@ -299,6 +314,8 @@
 
 [Gust of Wind](./Spell_Descriptions/G/Gust_of_Wind.md)
 
+### H
+
 [Hallow](./Spell_Descriptions/H/Hallow.md)
 
 [Hallucinatory Terrain](./Spell_Descriptions/H/Hallucinatory_Terrain.md)
@@ -331,6 +348,8 @@
 
 [Hypnotic Pattern](./Spell_Descriptions/H/Hypnotic_Pattern.md)
 
+### I
+
 [Ice Storm](./Spell_Descriptions/I/Ice_Storm.md)
 
 [Identify](./Spell_Descriptions/I/Identify.md)
@@ -349,13 +368,19 @@
 
 [Iz’zart's Swarm Limb](./Spell_Descriptions/I/Izzarts_Swarm_Limb.md)
 
+### J
+
 [Jess's Private Sanctum](./Spell_Descriptions/J/Jesss_Private_Sanctum.md)
 
 [Jump](./Spell_Descriptions/J/Jump.md)
 
+### K
+
 [Katy's Spectral Sword](./Spell_Descriptions/K/Katys_Spectral_Sword.md)
 
 [Knock](./Spell_Descriptions/K/Knock.md)
+
+### L
 
 [Legend Lore](./Spell_Descriptions/L/Legend_Lore.md)
 
@@ -374,6 +399,8 @@
 [Locate Object](./Spell_Descriptions/L/Locate_Object.md)
 
 [Longstrider](./Spell_Descriptions/L/Longstrider.md)
+
+### M
 
 [Mage Armor](./Spell_Descriptions/M/Mage_Armor.md)
 
@@ -427,11 +454,17 @@
 
 [Move Earth](./Spell_Descriptions/M/Move_Earth.md)
 
+### N
+
 [Naturecraft](./Spell_Descriptions/N/Naturecraft.md)
 
 [Natalex's Instant Summons](./Spell_Descriptions/N/Natalexs_Instant_Summons.md)
 
 [Nondetection](./Spell_Descriptions/N/Nondetection.md)
+
+<!-- No spells start with O -->
+
+### P
 
 [Paoliello's Hideous Laughter](./Spell_Descriptions/P/Paoliellos_Hideous_Laughter.md)
 
@@ -483,6 +516,10 @@
 
 [Purify Food and Drink](./Spell_Descriptions/P/Purify_Food_and_Drink.md)
 
+<!-- No spells start with Q -->
+
+### R
+
 [Raise Dead](./Spell_Descriptions/R/Raise_Dead.md)
 
 [Rantock's Telepathic Bond](./Spell_Descriptions/R/Rantocks_Telepathic_Bond.md)
@@ -509,8 +546,28 @@
 
 [Rope Trick](./Spell_Descriptions/R/Rope_Trick.md)
 
+### S
+
 [Sanctuary](./Spell_Descriptions/S/Sanctuary.md)
 
+### T
+
 [Thaumaturgy](./Spell_Descriptions/T/Thaumaturgy.md)
+
+### U
+
+<!-- TODO -->
+
+### V
+
+<!-- TODO -->
+
+### W
+
+<!-- TODO -->
+
+<!-- No spells start with X or Y -->
+
+### Z
 
 [Zone of Truth](./Spell_Descriptions/Z/Zone_of_Truth.md)

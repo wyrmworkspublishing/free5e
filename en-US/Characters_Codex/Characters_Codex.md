@@ -19,9 +19,7 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [**Spellcasting**](./06_Spellcasting/Spellcasting.md)
 
-[**Conditions**](./07_Conditions/Conditions.md)
-
-[**Appendix: Cross-System Character Conversion**](./Appendix/01_Cross-System_Character_Conversion/Cross-System_Character_Conversion.md)
+[**Appendix**](./Appendix/Appendix.md)
 
 [**Credits**](./Credits/Credits.md)
 

@@ -1,4 +1,4 @@
-#### Bull Rush
+### Bull Rush
 
 When you take the Dash action and move at least 10 feet in a straight line toward a target, you can immediately take a bonus action to perform one of the following:
 

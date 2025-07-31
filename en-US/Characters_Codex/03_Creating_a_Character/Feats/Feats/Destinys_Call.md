@@ -1,4 +1,4 @@
-#### Destiny’s Call
+### Destiny’s Call
 
 - An ability score of your choice increases by 1.
 - When you gain inspiration, you can choose one party member within 30 feet of you.

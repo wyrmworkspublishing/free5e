@@ -1,4 +1,4 @@
-#### Selling Treasure
+### Selling Treasure
 
 Opportunities arise to find treasure, equipment, weapons, armor, and more in dungeons.
 You can sell your loot in towns or settlements if you find buyers.

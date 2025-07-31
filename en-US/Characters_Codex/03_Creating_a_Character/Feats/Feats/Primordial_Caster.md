@@ -1,4 +1,4 @@
-#### Primordial Caster
+### Primordial Caster
 
 **Prerequisite:**
 The ability to cast at least one spell

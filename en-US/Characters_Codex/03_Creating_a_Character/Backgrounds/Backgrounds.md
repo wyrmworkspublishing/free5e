@@ -1,4 +1,4 @@
-### Backgrounds
+## Backgrounds
 
 Every story begins somewhere.
 Your character's background is about what they did before becoming an adventurer.
@@ -7,6 +7,9 @@ A Fighter might be a knight or soldier, a Wizard might be a sage or artisan, or 
 While cultures reflect the environment and values of the community that your character considers home, backgrounds reflect your character’s individual experiences before adventuring.
 
 Their background offers vital story cues: what changed to drive them to adventure, why they left their past life, how they obtained their gear, or why they lack wealth despite family riches.
+
+### Creating a Background
+
 Consider how their background ties to their class skills and unique traits.
 
 <!-- markdownlint-disable blanks-around-lists ol-prefix ul-indent -->

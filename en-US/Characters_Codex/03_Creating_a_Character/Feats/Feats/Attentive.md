@@ -1,4 +1,4 @@
-#### Attentive
+### Attentive
 
 - When rolling initiative you gain a +5 bonus.
 - You can only be surprised if you are unconscious.

@@ -1,4 +1,4 @@
-#### Swift Combatant
+### Swift Combatant
 
 **Prerequisite:**
 8th level or higher

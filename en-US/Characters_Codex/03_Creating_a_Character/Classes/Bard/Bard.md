@@ -1,12 +1,12 @@
-#### Bard
+### Bard
 
 Bards channel creativity into magic, shaping the world through speech, movement, or craft.
 
-##### Class Features
+#### Class Features
 
 As a Bard, you gain the following class features.
 
-###### Hit Points
+##### Hit Points
 
 **Hit Dice:**
 `1d8` per Bard level
@@ -17,7 +17,7 @@ As a Bard, you gain the following class features.
 **Hit Points at Higher Levels:**
 `1d8 (or 5) + your Constitution modifier per Bard level after 1st`
 
-###### Proficiencies
+##### Proficiencies
 
 **Armor:**
 Light armor
@@ -34,7 +34,7 @@ Dexterity, Charisma
 **Skills:**
 Choose any three
 
-###### Equipment
+##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -43,7 +43,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a lute or (b) any other musical instrument
 - Leather armor and a dagger
 
-###### The Bard (table) {#Bard_the_bard_table}
+##### The Bard (table) {#Bard_the_bard_table}
 
 | Level | Proficiency Bonus | Cantrips Known | Spells Known | Features                                                                                                                     |
 |:------|:-----------------:|:--------------:|:------------:|:-----------------------------------------------------------------------------------------------------------------------------|
@@ -68,7 +68,7 @@ You start with the following equipment, in addition to the equipment granted by 
 |  19th |         +6        |        6       |      15      | [Ability Score Improvement](#Bard_asi)                                                                                       |
 |  20th |         +6        |        6       |      15      | [Superior Inspiration](#Bard_superior_inspiration)                                                                           |
 
-##### Spellcasting (1st Level) {#Bard_spellcasting}
+#### Spellcasting (1st Level) {#Bard_spellcasting}
 
 You have learned to untangle and reshape the fabric of reality in harmony with your wishes and music.
 
@@ -119,7 +119,7 @@ You can cast any Bard spell you know as a [ritual](#Spellcasting_rituals) if tha
 \
 You can use a musical instrument (see [chapter <mark>XX</mark>, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Bard spells.
 
-###### Bardic Inspiration (1st & 5th & 10th & 15th Level) {#Bard_bardic_inspiration}
+##### Bardic Inspiration (1st & 5th & 10th & 15th Level) {#Bard_bardic_inspiration}
 
 As a bonus action, you can inspire one creature within 60 feet who can sense you.
 The creature gains a Bardic Inspiration die (d6) to add to one ability check, attack roll, or saving throw within the next 10 minutes, after seeing the d20 roll but before knowing the outcome.
@@ -128,38 +128,38 @@ You have a number of uses equal to your Charisma modifier (minimum one), regaini
 
 Bardic Inspiration die size increases at levels 5 (d8), 10 (d10), and 15 (d12).
 
-###### Jack of All Trades (2nd Level) {#Bard_jack_of_all_trades}
+##### Jack of All Trades (2nd Level) {#Bard_jack_of_all_trades}
 
 You can add half your proficiency bonus, rounded down, to any ability check that uses a skill in which you aren’t proficient and doesn’t already include your proficiency bonus.
 
-###### Song of Rest (2nd & 9th & 13th & 17th Level) {#Bard_song_of_rest}
+##### Song of Rest (2nd & 9th & 13th & 17th Level) {#Bard_song_of_rest}
 
 Beginning at 2nd level, you can use soothing performance art to help revitalize your wounded allies during a short rest.
 If you or any friendly creatures who can sense your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
 
 The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
 
-###### Bard College (3rd Level) {#Bard_bard_college}
+##### Bard College (3rd Level) {#Bard_bard_college}
 
 You delve into the advanced techniques of a Bard college of your choice.
 Your choice grants you features at 3rd level and again at 6th and 14th level.
 
-###### Expertise (3rd & 10th Level) {#Bard_expertise}
+##### Expertise (3rd & 10th Level) {#Bard_expertise}
 
 At 3rd level, choose two of your skill proficiencies.
 You gain expertise with the chosen proficiencies.
 
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
 
-###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Bard_asi}
+##### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Bard_asi}
 
 At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two ability scores by 1, up to a maximum of 20.
 
-###### Font of Inspiration (5th Level) {#Bard_font_of_inspiration}
+##### Font of Inspiration (5th Level) {#Bard_font_of_inspiration}
 
 You regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
 
-###### Countercharm (6th Level) {#Bard_countercharm}
+##### Countercharm (6th Level) {#Bard_countercharm}
 
 You gain the ability to use performance art to disrupt mind-influencing effects.
 As an action, you can start a performance that lasts until the end of your next turn.
@@ -167,7 +167,7 @@ During that time, you and any friendly creatures within 30 feet of you have adva
 A creature must be able to pinpoint you, as applicable to the art form, to gain this benefit.
 The performance ends early if you are incapacitated or prevented from continuing or if you voluntarily end it (no action required).
 
-###### Magical Secrets (10th & 14th & 18th Level) {#Bard_magical_secrets}
+##### Magical Secrets (10th & 14th & 18th Level) {#Bard_magical_secrets}
 
 By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines.
 Choose two spells from any class, including this one.
@@ -177,11 +177,11 @@ The chosen spells count as Bard spells for you and are included in the number in
 
 You learn two additional spells from any class at 14th level and again at 18th level.
 
-###### Superior Inspiration (20th Level) {#Bard_superior_inspiration}
+##### Superior Inspiration (20th Level) {#Bard_superior_inspiration}
 
 When you roll initiative and have no uses of Bardic Inspiration left, you regain one use.
 
-##### Bard Colleges
+#### Bard Colleges
 
 [**College of Lore**](./College_of_Lore.md)
 

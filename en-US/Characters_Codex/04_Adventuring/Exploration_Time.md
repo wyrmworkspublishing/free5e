@@ -1,4 +1,4 @@
-#### Time
+### Time
 
 In situations where keeping track of the passage of time is important, the Conductor determines the time a task requires.
 The Conductor might use a different time scale depending on the context of the situation at hand.

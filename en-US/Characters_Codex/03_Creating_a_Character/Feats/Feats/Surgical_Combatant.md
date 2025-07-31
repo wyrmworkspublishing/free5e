@@ -1,4 +1,4 @@
-#### Surgical Combatant
+### Surgical Combatant
 
 - When you take the Attack action and make a weapon attack, as well as any additional attacks granted by Extra Attack:
   Until the start of your next turn, your weapon attacks score a critical hit on a roll of 19–20.

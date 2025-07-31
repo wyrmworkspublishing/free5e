@@ -1,4 +1,4 @@
-#### Rite Master
+### Rite Master
 
 **Prerequisite:**
 Intelligence or Wisdom 13 or higher

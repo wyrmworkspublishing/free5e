@@ -1,4 +1,4 @@
-###### Lifedrinker
+##### Lifedrinker
 
 **Prerequisite:**
 12th level, [Pact of the Blade](#Pact_of_the_Blade_pact_of_the_blade) feature

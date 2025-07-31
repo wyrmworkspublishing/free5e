@@ -1,12 +1,12 @@
-#### Cleric
+### Cleric
 
 Clerics wield divine power as weapons and shields, serving as living conduits of their deity’s will.
 
-##### Class Features
+#### Class Features
 
 As a Cleric, you gain the following class features.
 
-###### Hit Points
+##### Hit Points
 
 **Hit Dice:**
 `1d8` per Cleric level
@@ -17,7 +17,7 @@ As a Cleric, you gain the following class features.
 **Hit Points at Higher Levels:**
 1d8 (or 5) + your Constitution modifier per Cleric level after 1st
 
-###### Proficiencies
+##### Proficiencies
 
 **Armor:**
 Light armor, medium armor, shields
@@ -34,7 +34,7 @@ Wisdom, Charisma
 **Skills:**
 Choose two from History, Insight, Medicine, Persuasion, and Religion
 
-###### Equipment
+##### Equipment
 
 You start with the following equipment, in addition to the equipment granted by your background:
 
@@ -44,7 +44,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) a priest’s pack or (b) an explorer’s pack
 - A shield and a holy symbol
 
-###### The Cleric (table) {#Cleric_the_cleric_table}
+##### The Cleric (table) {#Cleric_the_cleric_table}
 
 | Level | Proficiency Bonus | Cantrips Known | Features                                                                                                         |
 |:------|:-----------------:|:--------------:|:-----------------------------------------------------------------------------------------------------------------|
@@ -69,7 +69,7 @@ You start with the following equipment, in addition to the equipment granted by 
 | 19th  |        +6         |        5       | [Ability Score Improvement](#Cleric_asi)                                                                         |
 | 20th  |        +6         |        5       | [Divine Intervention](#Cleric_divine_intervention) improvement                                                   |
 
-###### Spellcasting (1st Level) {#Cleric_spellcasting}
+##### Spellcasting (1st Level) {#Cleric_spellcasting}
 As a conduit for divine power, you can cast Cleric spells.
 
 **Cantrips**
@@ -117,7 +117,7 @@ You can cast a Cleric spell as a ritual if that spell has the ritual tag and you
 \
 You can use a holy symbol (see [chapter <mark>XX</mark>, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Cleric spells.
 
-###### Divine Domain (1st Level) {#Cleric_divine_domain}
+##### Divine Domain (1st Level) {#Cleric_divine_domain}
 
 Choose one domain related to your deity.
 Your choice grants you domain spells and other features when you choose it at 1st level.
@@ -130,7 +130,7 @@ Once you gain a domain spell, you always have it prepared, and it doesn’t coun
 
 If you have a domain spell that doesn’t appear on the Cleric spell list, the spell is nonetheless a Cleric spell for you.
 
-###### Channel Divinity (2nd & 6th & 18th Level) {#Cleric_channel_divinity}
+##### Channel Divinity (2nd & 6th & 18th Level) {#Cleric_channel_divinity}
 
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects.
 You start with two such effects: _Turn Undead_ and an effect determined by your domain.
@@ -145,8 +145,8 @@ When you use such an effect from this class, the DC equals your Cleric spell sav
 Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests.
 When you finish a short or long rest, you regain your expended uses.
 
-**Channel Divinity: Turn Undead**
-\
+###### Channel Divinity: Turn Undead
+
 As an action, you present your holy symbol and speak a prayer censuring the undead.
 Each undead that can pinpoint you within 30 feet of you must make a Wisdom saving throw.
 If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
@@ -156,11 +156,11 @@ It also can’t take reactions.
 For its action, it can use only the Dash action or try to escape from an effect that prevents it from moving.
 If there’s nowhere to move, the creature can use the Dodge action.
 
-###### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Cleric_asi}
+##### Ability Score Improvement (4th & 8th & 12th & 16th & 19th Level) {#Cleric_asi}
 
 At levels 4, 8, 12, 16, and 19, you can increase one ability score by 2 or two ability scores by 1, up to a maximum of 20.
 
-###### Destroy Undead (5th & 8th & 11th & 17th Level) {#Cleric_destroy_undead}
+##### Destroy Undead (5th & 8th & 11th & 17th Level) {#Cleric_destroy_undead}
 
 Starting at 5th level, when an undead fails its saving throw against your Turn Undead feature, the creature is instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Destroy Undead table.
 
@@ -172,7 +172,7 @@ Starting at 5th level, when an undead fails its saving throw against your Turn U
 | 14th         |         3 or lower       |
 | 17th         |         4 or lower       |
 
-###### Divine Intervention (10th & 20th Level) {#Cleric_divine_intervention}
+##### Divine Intervention (10th & 20th Level) {#Cleric_divine_intervention}
 
 Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is great.
 
@@ -186,7 +186,7 @@ Otherwise, you can use it again after you finish a long rest.
 
 At 20th level, your call for intervention succeeds automatically, no roll required.
 
-##### Cleric Domains
+#### Cleric Domains
 
 [**Martyr Domain**](Martyr_Domain.md)
 

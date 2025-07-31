@@ -1,4 +1,4 @@
-##### Weapon Proficiency
+#### Weapon Proficiency
 
 Your ancestry, class, and feats grant proficiency with simple or martial weapons.
 Simple weapons, like clubs and maces, are easy to use and suitable for most people.

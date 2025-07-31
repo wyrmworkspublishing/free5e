@@ -1,4 +1,4 @@
-#### Ability Scores and Modifiers
+### Ability Scores and Modifiers
 
 Each creature’s ability has a score, a number defining its magnitude.
 It measures innate capabilities and training in related activities.

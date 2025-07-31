@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 Welcome to the Free5e Character's Codex, brought to you by Wyrmworks Publishing.
 Our mission is to enhance inclusivity and accessibility in tabletop roleplaying.

@@ -1,8 +1,8 @@
-##### Strength
+#### Strength
 
 Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.
 
-###### Strength Checks
+##### Strength Checks
 
 A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation.
 The Athletics skill reflects aptitude in certain kinds of Strength checks.
@@ -26,12 +26,12 @@ The Conductor might also call for a Strength check when you try to accomplish ta
 - Tip over a statue
 - Keep a boulder from rolling
 
-###### Attack Rolls and Damage
+##### Attack Rolls and Damage
 
 You add your Strength modifier to your attack roll and your damage roll when attacking with a melee weapon such as a mace, a battleaxe, or a javelin.
 You use melee weapons to make melee attacks in hand* to-hand combat, and some of them can be thrown to make a ranged attack.
 
-###### Lifting and Carrying
+##### Lifting and Carrying
 
 Your Strength score determines the amount of weight you can bear.
 The following terms define what you can lift or carry.
@@ -49,7 +49,7 @@ Larger creatures can bear more weight, whereas Tiny creatures can carry less.
 For each size category above Medium, double the creature’s carrying capacity and the amount it can push, drag, or lift.
 For a Tiny creature, halve these weights.
 
-###### Variant: Encumbrance
+##### Variant: Encumbrance
 
 The rules for lifting and carrying are intentionally simple.
 Here is a variant if you are looking for more detailed rules for determining how a character is hindered by the weight of equipment.

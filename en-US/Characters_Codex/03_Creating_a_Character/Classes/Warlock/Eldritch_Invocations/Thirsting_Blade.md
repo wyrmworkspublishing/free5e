@@ -1,4 +1,4 @@
-###### Thirsting Blade
+##### Thirsting Blade
 
 **Prerequisite:**
 5th level, [Pact of the Blade](#Pact_of_the_Blade_pact_of_the_blade) feature

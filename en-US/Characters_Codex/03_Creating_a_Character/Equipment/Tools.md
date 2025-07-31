@@ -1,4 +1,4 @@
-#### Tools
+### Tools
 
 A tool aids in tasks like crafting, repairing, forging, or picking locks.
 Ancestry, culture, class, background, or feats grant proficiency with specific tools.

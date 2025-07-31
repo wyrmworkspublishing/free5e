@@ -1,4 +1,4 @@
-#### Deep Gnome
+### Deep Gnome
 
 Clever and secretive, those of this culture navigate the underground with stealth and cunning.
 They prize ingenuity, misdirection, and their close connection to the shadowed realms.

@@ -1,4 +1,4 @@
-## How to Play
+# How to Play
 
 Playing a tabletop roleplaying game (TTRPG) is all about imagining a character in a fantasy world and using dice to determine what happens.
 Here’s how it works:

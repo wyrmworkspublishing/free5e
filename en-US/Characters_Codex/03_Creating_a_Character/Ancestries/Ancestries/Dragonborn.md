@@ -1,9 +1,9 @@
-#### Dragonborn
+### Dragonborn
 
 Dragonborn are towering humanoids with draconic features, including scales in a spectrum of colors and reptilian eyes.
 They possess imposing physiques and a proud heritage.
 
-##### Dragonborn Traits
+#### Dragonborn Traits
 Your draconic heritage manifests in a variety of traits you share with other dragonborn.
 \
 **Age.**

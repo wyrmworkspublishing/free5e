@@ -1,9 +1,9 @@
-#### Elf
+### Elf
 
 Elves have sharp, angular features and pointed ears that vary widely in color, often reflecting their connection to nature or magic.
 They are long-lived, known for valuing art, knowledge, and harmony with their environment.
 
-##### Elf Traits
+#### Elf Traits
 Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
 \
 **Age.**

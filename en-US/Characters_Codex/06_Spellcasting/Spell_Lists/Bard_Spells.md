@@ -1,7 +1,7 @@
-#### Bard Spells
+### Bard Spells
 <!-- Since Bards have ritual casting, all ritual spells are marked as such. -->
 
-##### Cantrips (0 Level)
+#### Cantrips (0 Level)
 
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - [Light](#Light_light)
@@ -14,7 +14,7 @@
 - True Strike (concentration)
 - Vicious Mockery
 
-##### 1st Level
+#### 1st Level
 
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
 - [Bane](#Bane_bane) (concentration)
@@ -39,7 +39,7 @@
 - Thunderwave
 - Unseen Servant (ritual)
 
-##### 2nd Level
+#### 2nd Level
 
 - [Aid](#Aid_aid)
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
@@ -64,7 +64,7 @@
 - Suggestion (concentration)
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
-##### 3rd Level
+#### 3rd Level
 
 - [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
 - [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
@@ -84,7 +84,7 @@
 - Stinking Cloud (concentration)
 - Tongues
 
-##### 4th Level
+#### 4th Level
 
 - [Charm Monster](#Charm_Monster_charm_monster)
 - [Compulsion](#Compulsion_compulsion)
@@ -97,7 +97,7 @@
 - [Phantasmal Killer](#Phantasmal_Killer_phantasmal_killer) (concentration)
 - [Polymorph](#Polymorph_polymorph) (concentration)
 
-##### 5th Level
+#### 5th Level
 
 - [Animate Objects](#Animate_Objects_animate_objects) (concentration)
 - [Awaken](#Awaken_awaken)
@@ -117,7 +117,7 @@
 - Seeming
 - Teleportation Circle
 
-##### 6th Level
+#### 6th Level
 
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - [Eyebite](#Eyebite_eyebite) (concentration)
@@ -127,7 +127,7 @@
 - [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
 - True Seeing
 
-##### 7th Level
+#### 7th Level
 
 - [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
 - [Etherealness](#Etherealness_etherealness)
@@ -141,7 +141,7 @@
 - Symbol
 - Teleport
 
-##### 8th Level
+#### 8th Level
 
 <!-- spell-checker:words Feeblemind -->
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
@@ -151,7 +151,7 @@
 - [Mind Blank](#Mind_Blank_mind_blank)
 - [Power Word Stun](#Power_Word_Stun_power_word_stun)
 
-##### 9th Level
+#### 9th Level
 
 - [Foresight](#Foresight_foresight)
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)

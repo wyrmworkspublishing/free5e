@@ -1,4 +1,4 @@
-#### Thespian
+### Thespian
 
 - Your Charisma score increases by 1, to a maximum of 20.
 - You have advantage on Deception and Performance checks made when attempting to mimic another creature’s looks, mannerisms, or speech.

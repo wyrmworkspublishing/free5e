@@ -1,4 +1,4 @@
-#### Assistive Items
+### Assistive Items
 
 These tools support characters with disabilities using the trait and assistance mechanics in the [Disabilities variant rule](#Disabilities_variant_rule_disabilities).
 The descriptions offer suggested benefits, but the player and Conductor should discuss how the item interacts with a character's disability without erasing it.

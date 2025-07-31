@@ -1,4 +1,4 @@
-##### Equipment Packs
+#### Equipment Packs
 
 The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack.
 The contents of these packs are listed here.

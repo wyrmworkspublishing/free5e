@@ -1,4 +1,4 @@
-#### Armor
+### Armor
 Fantasy gaming worlds have diverse cultures with varying technology levels, offering adventurers a wide range of armor types, from leather to chain mail and costly plate armor.
 The Armor table categorizes these common armor types into light, medium, and heavy armor, along with their cost, weight, and other properties.
 Many warriors also use shields.

@@ -1,11 +1,11 @@
-#### Proficiency Bonus
+### Proficiency Bonus
 
 Characters and monsters have a proficiency bonus determined by level, which is incorporated into their stat blocks and used in ability checks, saving throws, and attack rolls.
 
 Your proficiency bonus can’t be added to a single die roll or other number more than once.
 For example, if two different rules allow you to add your proficiency bonus to a Wisdom saving throw, you add it only once when you make the save.
 
-##### Expertise
+#### Expertise
 
 If you have expertise in a skill, you double your proficiency bonus when using that skill.
 

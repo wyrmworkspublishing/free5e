@@ -1,7 +1,7 @@
-#### Sorcerer Spells
+### Sorcerer Spells
 <!-- Since Sorcerers don't have ritual casting, ritual spells are not marked as such. -->
 
-##### Cantrips (0 Level)
+#### Cantrips (0 Level)
 
 - [Acid Splash](#Acid_Splash_acid_splash)
 - [Chill Touch](#Chill_Touch_chill_touch)
@@ -19,7 +19,7 @@
 - Shocking Grasp
 - True Strike (concentration)
 
-##### 1st Level
+#### 1st Level
 
 - [Burning Hands](#Burning_Hands_burning_hands)
 - [Charm Person](#Charm_Person_charm_person)
@@ -40,7 +40,7 @@
 - Sleep
 - Thunderwave
 
-##### 2nd Level
+#### 2nd Level
 
 - [Alter Self](#Alter_Self_alter_self) (concentration)
 - [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
@@ -67,7 +67,7 @@
 - Suggestion (concentration)
 - Web (concentration)
 
-##### 3rd Level
+#### 3rd Level
 
 - [Blink](#Blink_blink)
 - [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
@@ -91,7 +91,7 @@
 - Water Breathing
 - Water Walk
 
-##### 4th Level
+#### 4th Level
 
 - [Banishment](#Banishment_banishment) (concentration)
 - [Blight](#Blight_blight)
@@ -106,7 +106,7 @@
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
 
-##### 5th Level
+#### 5th Level
 
 - [Animate Objects](#Animate_Objects_animate_objects) (concentration)
 - [Cloudkill](#Cloudkill) (concentration)
@@ -121,7 +121,7 @@
 - Teleportation Circle
 - Wall of Stone (concentration)
 
-##### 6th Level
+#### 6th Level
 
 - [Chain Lightning](#Chain_Lightning_chain_lightning)
 - [Circle of Death](#Circle_of_Death_circle_of_death)
@@ -135,7 +135,7 @@
 - Sunbeam (concentration)
 - True Seeing
 
-##### 7th Level
+#### 7th Level
 
 - [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
 - [Etherealness](#Etherealness_etherealness)
@@ -146,7 +146,7 @@
 - [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
 - Teleport
 
-##### 8th Level
+#### 8th Level
 
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
@@ -155,7 +155,7 @@
 - [Power Word Stun](#Power_Word_Stun_power_word_stun)
 - Sunburst
 
-##### 9th Level
+#### 9th Level
 
 - [Gate](#Gate_gate) (concentration)
 - [Meteor Swarm](#Meteor_Swarm_meteor_swarm)

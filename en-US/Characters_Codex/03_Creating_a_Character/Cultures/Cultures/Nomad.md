@@ -1,4 +1,4 @@
-#### Nomad
+### Nomad
 
 Wanderers and explorers, this culture values the journey over the destination.
 Its members are resourceful, attuned to nature, and skilled at navigating physical and social challenges.

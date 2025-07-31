@@ -1,4 +1,4 @@
-###### Bewitching Whispers
+##### Bewitching Whispers
 
 **Prerequisite:**
 7th level

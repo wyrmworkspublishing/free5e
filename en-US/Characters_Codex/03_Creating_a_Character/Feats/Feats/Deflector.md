@@ -1,4 +1,4 @@
-#### Deflector
+### Deflector
 
 **Prerequisite:**
 Dexterity 13 or higher

@@ -1,4 +1,4 @@
-### Cultures
+## Cultures
 
 Your culture describes how and where you were raised.
 Choose a culture for your character.

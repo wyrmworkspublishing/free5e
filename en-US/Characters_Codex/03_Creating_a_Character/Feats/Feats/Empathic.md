@@ -1,4 +1,4 @@
-#### Empathic
+### Empathic
 
 - Your Wisdom or Charisma score increases by 1.
 - You gain expertise on Insight checks made against other creatures.

@@ -1,4 +1,4 @@
-#### Multiclassing
+### Multiclassing
 
 Multiclassing lets you gain levels in multiple classes, mixing their abilities to create unique character concepts.
 You can gain a level in a new class whenever you advance, instead of your current class.
@@ -9,7 +9,7 @@ As you level up, you may stay in your original class with a few levels in anothe
 You might even start progressing in a third or fourth class.
 Compared to a single-class character of the same level, you sacrifice focus for versatility.
 
-##### Prerequisites
+#### Prerequisites
 
 To qualify for a new class, meet the ability score prerequisites for both your current and new classes, as shown in the Multiclassing Prerequisites table.
 For instance, a Dreadnought multiclassing into Wodewose must have 13 or higher Strength and Wisdom scores.
@@ -36,12 +36,12 @@ _Multiclassing Prerequisites (table)_
 
 ___
 
-##### Experience Points
+#### Experience Points
 
 The experience point cost to gain a level is always based on your total character level, as shown in the Character Advancement table, not your level in a particular class.
 So, if you are a Cleric 6/Fighter 1, you must gain enough XP to reach 8th level before you can take your second level as a Fighter or your seventh level as a Cleric.
 
-##### Hit Points and Hit Dice
+#### Hit Points and Hit Dice
 
 You gain the hit points from your new class as described for levels after 1st.
 You gain the 1st-level hit points for a class only when you are a 1st-level character.
@@ -52,12 +52,12 @@ For example, both the Fighter and the Vanguard have a d10, so if you are a Vangu
 If your classes give you Hit Dice of different types, keep track of them separately.
 If you are a Vanguard 5/Cleric 5, for example, you have five d10 Hit Dice and five d8 Hit Dice.
 
-##### Proficiency Bonus
+#### Proficiency Bonus
 
 Your proficiency bonus is always based on your total character level, as shown in the [Character Advancement table in chapter XX](#Level_Advancement_level_advancement), not your level in a particular class.
 For example, if you are a Fighter 3/Rogue 2, you have the proficiency bonus of a 5th-level character, which is +3.
 
-###### Multiclassing Proficiencies (table)
+##### Multiclassing Proficiencies (table)
 
 | Class       | Proficiencies Gained                                                                                       |
 |:------------|:-----------------------------------------------------------------------------------------------------------|
@@ -74,29 +74,29 @@ For example, if you are a Fighter 3/Rogue 2, you have the proficiency bonus of a
 | Warlock     | Light armor, simple weapons                                                                                |
 | Wizard      | —                                                                                                          |
 
-##### Class Features
+#### Class Features
 
 When you gain a new level in a class, you get its features for that level.
 You don’t, however, receive the class’s starting equipment, and a few features have additional rules when you’re multiclassing: Channel Divinity, Extra Attack, Unarmored Defense, and Spellcasting.
 
-###### Channel Divinity
+##### Channel Divinity
 
 If you already have the _Channel Divinity_ feature and gain a level in a class that also grants the feature, you gain the _Channel Divinity_ effects granted by that class, but getting the feature again doesn’t give you an additional use of it.
 You gain additional uses only when you reach a class level that explicitly grants them to you.
 For example, if you are a Cleric 6/Vanguard 4, you can use _Channel Divinity_ twice between rests because you are high enough level in the Cleric class to have more uses.
 Whenever you use the feature, you can choose any of the _Channel Divinity_ effects available to you from your two classes.
 
-###### Extra Attack
+##### Extra Attack
 
 If you gain the _Extra Attack_ class feature from more than one class, the features don’t add together.
 You can’t make more than two attacks with this feature unless it says you do (as the Fighter’s version of _Extra Attack_ does).
 Similarly, the Warlock’s eldritch invocation _Thirsting Blade_ doesn’t give you additional attacks if you also have _Extra Attack_.
 
-###### Unarmored Defense
+##### Unarmored Defense
 
 If you already have the _Unarmored Defense_ feature, you can’t gain it again from another class.
 
-###### Spellcasting
+##### Spellcasting
 
 Your capacity for spellcasting depends partly on your combined levels in all your spellcasting classes and partly on your individual levels in those classes.
 Once you have the Spellcasting feature from more than one class, use the rules below.

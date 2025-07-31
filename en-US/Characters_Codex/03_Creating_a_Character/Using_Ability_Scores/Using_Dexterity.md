@@ -1,7 +1,7 @@
-##### Dexterity
+#### Dexterity
 Dexterity measures agility, reflexes, and balance.
 
-###### Dexterity Checks
+##### Dexterity Checks
 
 A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing.
 The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
@@ -27,21 +27,21 @@ The Conductor might call for a Dexterity check when you try to accomplish tasks 
 - Catch a falling item
 - Maneuver through a tight or crowded space
 
-###### Attack Rolls and Damage
+##### Attack Rolls and Damage
 
 You add your Dexterity modifier to your attack roll and your damage roll when attacking with a ranged weapon, such as a sling or a longbow.
 You can also add your Dexterity modifier to your attack roll and your damage roll when attacking with a melee weapon that has the finesse property, such as a dagger or a rapier.
 
-###### Armor Class
+##### Armor Class
 
 Depending on the armor you wear, you might add some or all of your Dexterity modifier to your Armor Class.
 
-###### Initiative
+##### Initiative
 
 At the beginning of every combat, you roll initiative by making a Dexterity check.
 Initiative determines the order of creatures’ turns in combat.
 
-###### Hiding
+##### Hiding
 
 The Conductor decides when hiding is appropriate.
 Make a Dexterity (Stealth) check to hide.
@@ -56,7 +56,7 @@ However, the Conductor may allow you to stay hidden if the creature is distracte
 
 There is a chance that when one creature is hidden another creature might notice them even if not searching.
 To determine whether that happens, the Conductor compares the [Dexterity (Stealth)](#Using_Dexterity_dexterity_checks) check of the hiding creature with the passive [Wisdom (Perception)](#Using_Wisdom_wisdom_checks) score of any creature which has a chance of noticing.
-Check the section on [Passive Checks](#Ability_Checks_passive_checks) under [<mark>section XX</mark>, "Ability Checks"](#Ability_Checks_ability_checks) for more details.
+Check the section on [Passive Checks](#Ability_Checks_passive_checks) under [section <mark>XX</mark>, "Ability Checks"](#Ability_Checks_ability_checks) for more details.
 
 > **What Can You Perceive?**
 > One of the main factors in determining whether you can sense or pinpoint a hidden creature or object is how effectively your senses function in the area, which may be lightly or heavily obscured, as described in [chapter XX, “Adventuring”](#Adventuring_adventuring).

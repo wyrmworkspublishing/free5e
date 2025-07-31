@@ -1,4 +1,4 @@
-#### Shield Focus
+### Shield Focus
 
 You gain the following benefits while wielding a shield:
 

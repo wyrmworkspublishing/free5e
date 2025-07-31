@@ -1,4 +1,4 @@
-###### Book of Ancient Secrets
+##### Book of Ancient Secrets
 
 **Prerequisite:**
 [Pact of the Tome](#Pact_of_the_Tome_pact_of_the_tome) feature

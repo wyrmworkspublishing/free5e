@@ -1,4 +1,4 @@
-#### Soilborne Halfling
+### Soilborne Halfling
 
 This culture, wild and unbound, is deeply connected to the earth and its rhythms.
 Its people value freedom, natural wisdom, and living in harmony with the land.

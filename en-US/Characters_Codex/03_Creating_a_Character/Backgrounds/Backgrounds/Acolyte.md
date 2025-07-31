@@ -1,4 +1,4 @@
-#### Acolyte
+### Acolyte
 
 You’ve dedicated your life to serving a temple or pantheon of gods, acting as an intermediary between the holy and mortal realms.
 While not necessarily a Cleric, you perform sacred rites and sacrifices to guide worshipers to the divine.

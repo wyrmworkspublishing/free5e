@@ -1,4 +1,4 @@
-### Feats
+## Feats
 
 A feat represents a character’s special capabilities, embodying training, experience, and abilities above and beyond a class’s capabilities.
 

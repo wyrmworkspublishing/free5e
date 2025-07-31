@@ -1,4 +1,4 @@
-###### Eldritch Spear
+##### Eldritch Spear
 
 **Prerequisite:**
 [Eldritch Blast](#Eldritch_Blast_eldritch_blast) cantrip

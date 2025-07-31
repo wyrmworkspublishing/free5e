@@ -1,4 +1,4 @@
-#### Cosmopolitan
+### Cosmopolitan
 
 Urban dwellers from this culture value adaptability, social connections, and quick thinking.
 They thrive in diverse environments, seamlessly navigating social circles and leveraging their resourcefulness.

@@ -1,4 +1,4 @@
-### Alignment
+## Alignment
 
 A creature’s alignment in the game world describes its moral and personal attitudes.
 It’s a combination of morality (good, evil, or neutral) and attitudes toward society and order (lawful, chaotic, or neutral).

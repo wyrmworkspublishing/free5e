@@ -1,4 +1,4 @@
-### Classes
+## Classes
 
 > **Class Name Changes**
 >
@@ -10,7 +10,7 @@
 > - **Monk → Adept:** Expanding the concept without appropriating a cultural tradition
 > - **Paladin → Vanguard:** Removing the association with a real-world religious conflict
 
-#### Choosing a Class
+### Choosing a Class
 Your class defines what your character does best and how they contribute to the group.
 Some focus on physical combat, others on spellcasting, and some blend both.
 

@@ -1,4 +1,4 @@
-### Equipment
+## Equipment
 
 Common coins are made of gold, silver, and copper, with different denominations based on their metal worth.
 

@@ -1,4 +1,4 @@
-#### Rallying Speaker
+### Rallying Speaker
 
 **Prerequisite:**
 Charisma 13 or higher

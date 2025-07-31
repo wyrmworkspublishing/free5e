@@ -1,4 +1,4 @@
-#### Resonant Bond
+### Resonant Bond
 
 You can form a greater bond, resonance, with a non-consumable magic item during a rest.
 You can only form one resonance at a time.

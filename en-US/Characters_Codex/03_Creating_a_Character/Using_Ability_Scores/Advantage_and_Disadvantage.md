@@ -1,4 +1,4 @@
-#### Advantage and Disadvantage
+### Advantage and Disadvantage
 
 When a special ability or spell grants advantage or disadvantage on an ability check, saving throw, or attack roll, you roll a second d20.
 Use the higher roll for advantage and the lower roll for disadvantage.

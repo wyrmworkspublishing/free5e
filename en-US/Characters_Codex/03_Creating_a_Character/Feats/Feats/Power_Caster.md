@@ -1,4 +1,4 @@
-#### Power Caster
+### Power Caster
 
 **Prerequisite:**
 The ability to cast at least one spell

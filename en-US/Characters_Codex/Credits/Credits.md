@@ -1,4 +1,4 @@
-## Credits
+# Credits
 
 Project Lead & Writer: Dale Critchley [https://wyrmworkspublishing.com](https://wyrmworkspublishing.com)
 \

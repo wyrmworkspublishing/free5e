@@ -19,7 +19,7 @@ When you make an attack using a creature or object as a weapon, you can choose t
 
 You can apply the benefit of any [Fighting Style](#Fighter_fighting_style) you know to any weapon attack (including unarmed strikes and improvised weapons).
 If you have multiple Fighting Styles you may pick one which benefits the attack.
-Additionally, at the end of a long rest, you can change your [Fighting Style](#Fighter_fighting_styles_list) selection.
+Additionally, at the end of a long rest, you can change your Fighting Style selection.
 
 ###### Endurance (7th Level)
 
@@ -28,7 +28,7 @@ When you use your [Second Wind](#Fighter_second_wind) feature, you gain resistan
 
 ###### Additional Fighting Style (10th Level)
 
-You can choose a second [option](#Fighter_fighting_styles_list) from the [Fighting Style](#Fighter_fighting_style) class feature.
+You can choose a second option from the [Fighting Style](#Fighter_fighting_style) class feature.
 
 ###### Brutal Blows (15th Level)
 

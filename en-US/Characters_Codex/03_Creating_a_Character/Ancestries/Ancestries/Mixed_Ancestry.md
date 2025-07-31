@@ -1,6 +1,6 @@
-#### Mixed Ancestry
+### Mixed Ancestry
 
-##### Mixed Traits
+#### Mixed Traits
 
 Your parents descend from different ancestries from each other, and you have inherited a blend of traits from them.
 \

@@ -1,4 +1,4 @@
-#### Medium Armor Expert
+### Medium Armor Expert
 
 **Prerequisite:**
 Proficiency with medium armor

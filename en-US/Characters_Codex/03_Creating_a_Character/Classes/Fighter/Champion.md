@@ -15,7 +15,7 @@ In addition, when you make a [running long jump](#Exploration_Movement_jumping),
 
 ###### Additional Fighting Style (10th Level)
 
-You can choose a second [option](#Fighter_fighting_styles_list) from the [Fighting Style](#Fighter_fighting_style) class feature.
+You can choose a second option from the [Fighting Style](#Fighter_fighting_style) class feature.
 
 ###### Superior Critical (15th Level)
 

@@ -1,9 +1,9 @@
-#### Tiefling
+### Tiefling
 
 Tieflings are humanoids marked by fiendish ancestry, often with horns, tails, and skin tones ranging from human-like hues to deep reds, blues, or purples.
 Their feet may be cloven hooves or humanlike with clawed toenails.
 
-##### Tiefling Traits
+#### Tiefling Traits
 Tieflings share certain inherited traits as a result of their infernal descent.
 \
 **Age.**

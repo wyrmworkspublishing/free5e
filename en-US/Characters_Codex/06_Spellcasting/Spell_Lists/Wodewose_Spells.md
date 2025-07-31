@@ -1,7 +1,7 @@
-#### Wodewose Spells
+### Wodewose Spells
 <!-- Since Wodewoses have ritual casting, all ritual spells are marked as such. -->
 
-##### Cantrips (0 Level)
+#### Cantrips (0 Level)
 
 - [Guidance](#Guidance_guidance) (concentration)
 - [Mending](#Mending_mending)
@@ -11,7 +11,7 @@
 - [Resistance](#Resistance_resistance) (concentration)
 - Shillelagh
 
-##### 1st Level
+#### 1st Level
 
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
 - [Charm Person](#Charm_Person_charm_person)
@@ -32,7 +32,7 @@
 - Speak with Animals (ritual)
 - Thunderwave
 
-##### 2nd Level
+#### 2nd Level
 
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
 - [Augury](#Augury_augury) (ritual)
@@ -55,7 +55,7 @@
 - [Protection from Poison](#Protect_from_Poison_protection_from_poison)
 - Spike Growth (concentration)
 
-##### 3rd Level
+#### 3rd Level
 
 - [Call Lightning](#Call_Lightning_call_lightning) (concentration)
 - [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
@@ -71,7 +71,7 @@
 - Water Walk (ritual)
 - Wind Wall (concentration)
 
-##### 4th Level
+#### 4th Level
 
 - [Blight](#Blight_blight)
 - [Charm Monster](#Charm_Monster_charm_monster)
@@ -92,7 +92,7 @@
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
 
-##### 5th Level
+#### 5th Level
 
 - [Antilife Shell](#Antilife_Shell_antilife_shell) (concentration)
 - [Awaken](#Awaken_awaken)
@@ -110,7 +110,7 @@
 - Tree Stride (concentration)
 - Wall of Stone (concentration)
 
-##### 6th Level
+#### 6th Level
 
 - [Conjure Fey](#Conjure_Fey_conjure_fey) (concentration)
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
@@ -123,7 +123,7 @@
 - Wall of Thorns (concentration)
 - Wind Walk
 
-##### 7th Level
+#### 7th Level
 
 - [Fire Storm](#Fire_Storm_fire_storm)
 - [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
@@ -132,7 +132,7 @@
 - [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
 - Symbol
 
-##### 8th Level
+#### 8th Level
 
 <!-- spell-checker:words Feeblemind -->
 - [Animal Shapes](#Animal_Shapes_animal_shapes) (concentration)
@@ -143,7 +143,7 @@
 - [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
 - Sunburst
 
-##### 9th Level
+#### 9th Level
 
 - [Foresight](#Foresight_foresight)
 - Shapechange (concentration)

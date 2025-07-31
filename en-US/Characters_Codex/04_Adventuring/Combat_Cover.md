@@ -1,4 +1,4 @@
-#### Cover
+### Cover
 
 Walls, trees, creatures, and other obstacles can provide cover during combat, making a target more difficult to harm.
 A target can benefit from cover only when an attack or other effect originates on the opposite side of the cover.

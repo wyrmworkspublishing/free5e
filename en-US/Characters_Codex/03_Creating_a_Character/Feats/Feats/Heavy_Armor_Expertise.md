@@ -1,4 +1,4 @@
-#### Heavy Armor Expertise
+### Heavy Armor Expertise
 
 **Prerequisite:**
 Proficiency with heavy armor
