@@ -22,12 +22,6 @@ An exotic saddle is required for riding any aquatic or flying mount.
 **Vehicle Proficiency.**
 If you have proficiency with a certain kind of vehicle (land or water), you can add your proficiency bonus to any check you make to control that kind of vehicle in difficult circumstances.
 \
-**Rowed Vessels.**
-Keelboats and rowboats are used on lakes and rivers.
-If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle.
-These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores.
-A rowboat weighs 100 pounds, in case adventurers carry it over land.
-
 ##### Mounts and Other Animals (table)
 
 | Item           |   Cost |  Speed | Carrying Capacity |
@@ -60,14 +54,3 @@ A rowboat weighs 100 pounds, in case adventurers carry it over land.
 | Sled                  |  20 gp | 300 lb. |
 | Stabling (per day)    |   5 sp |       — |
 | Wagon                 |  35 gp | 400 lb. |
-
-##### Waterborne Vehicles (table)
-
-| Item         |      Cost |     Speed |
-|:-------------|----------:|----------:|
-| Galley       | 30,000 gp |     4 mph |
-| Keelboat     |  3,000 gp |     1 mph |
-| Longship     | 10,000 gp |     3 mph |
-| Rowboat      |     50 gp | 1 1/2 mph |
-| Sailing Ship | 10,000 gp |     2 mph |
-| Warship      | 25,000 gp | 2 1/2 mph |
