@@ -1,5 +1,4 @@
 ### Adept
-<!-- spell-checker:words Arkylie Kilyle nerfed -->
 
 By honing their awareness beyond ordinary limits, adepts unlock hidden potential within themselves, achieving feats that others consider impossible.
 
@@ -75,21 +74,6 @@ While you are wearing no armor and not wielding a shield, your AC equals `10 + y
 ##### Martial Arts (1st Level) {#Adept_martial_arts}
 
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and Adept weapons, which are shortswords and any simple melee weapons that don’t have the two-handed or heavy property.
-
-> **Warning:**
-> The wording of the next sentence is still up for discussion in the Google Doc.
-
-<!-- Comment by Arkylie (Kilyle):
-You gain the following benefits for unarmed strikes or monk weapons:
-XYZ
-You lose these benefits if you are wearing armor or wielding a shield.  "Monk weapons" are simple, one-handed melee weapons that are lightweight (and also include the shortsword).
-
-Note: This wording might not suffice to define the category, but prefer positive wording over negative where it can be used.  And kick the restrictions part to the end of the explanation, rather than letting it get in the way of understanding the core benefit -- especially since most players will easily grasp "monk doesn't wear armor or she loses her abilities" and not need to have it pointed out a lot.  In fact it might fit a sidebar just by itself, pointing out which abilities get nerfed when you're wearing armor.
-
-"Prefer positive over negative" is a bit at odds with me rephrasing other things from positive **to** negative.
-
-I think what I'm trying for is to state the base case, and **then** the exceptions.  "You do X, but lose this ability if you J or K or L" reads more cleanly than "If you !J and !K and !L then you can X."
--->
 
 You gain the following benefits while you are unarmed or wielding only Adept weapons and you aren’t wearing armor or wielding a shield:
 
@@ -172,9 +156,6 @@ The target must succeed on a Constitution saving throw or be stunned until the e
 Your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 ##### Evasion (7th Level) {#Adept_evasion}
-
-> **Warning:**
-> The wording of this feature is still up for discussion in the Google Doc.
 
 Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a [Fireball](#Fireball_fireball) spell.
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
