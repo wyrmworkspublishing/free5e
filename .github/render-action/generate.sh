@@ -103,6 +103,7 @@ function convert_asciidoc_to_pdf {
   mkdir -p "${PDF_BASE_FILE_DIR}"
 
   asciidoctor-pdf \
+      -a imagesdir=".." \
       -a pdf-fontsdir="GEM_FONTS_DIR;$FONTS_BASE_DIR" \
       -a pdf-themesdir="$MD_BASE_DIR/themes" \
       -a pdf-theme=pdf \

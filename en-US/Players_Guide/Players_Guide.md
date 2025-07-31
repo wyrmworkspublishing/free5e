@@ -26,3 +26,7 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 [**Credits**](./Credits/Credits.md)
 
 [**Legal**](./Legal.md)
+
+<<<
+
+[**Blurb**](./Blurb.md)
