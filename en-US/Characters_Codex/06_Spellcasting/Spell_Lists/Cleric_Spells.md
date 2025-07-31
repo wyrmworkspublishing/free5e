@@ -7,8 +7,8 @@
 - [Light](#Light_light)
 - [Mending](#Mending_mending)
 - [Resistance](#Resistance_resistance) (concentration)
-- Sacred Flame
-- Spare the Dying
+- [Sacred Flame](#Sacred_Flame_sacred_flame)
+- [Spare the Dying](#Spare_the_Dying_spare_the_dying)
 - [Thaumaturgy](#Thaumaturgy_thaumaturgy)
 
 #### 1st Level
@@ -28,7 +28,7 @@
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink) (ritual)
 - [Sanctuary](#Sanctuary_sanctuary)
-- Shield of Faith (concentration)
+- [Shield of Faith](#Shield_of_Faith_shield_of_faith) (concentration)
 
 #### 2nd Level
 
@@ -45,8 +45,8 @@
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Prayer of Healing](#Prayer_of_Healing_prayer_of_healing)
 - [Protection from Poison](#Protection_from_Poison_protection_from_poison)
-- Silence (ritual)
-- Spiritual Weapon
+- [Silence](#Silence_silence) (ritual)
+- [Spiritual Weapon](#Spiritual_Weapon_spiritual_weapon)
 - Warding Bond
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
@@ -66,9 +66,9 @@
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Remove Curse](#Remove_Curse_remove_curse)
 - [Revivify](#Revivify_revivify)
-- Sending
-- Speak with Dead
-- Spirit Guardians (concentration)
+- [Sending](#Sending_sending)
+- [Speak with Dead](#Speak_with_Dead_speak_with_dead)
+- [Spirit Guardians](#Spirit_Guardians_spirit_guardians) (concentration)
 - Tongues
 - Water Walk (ritual)
 
@@ -81,7 +81,7 @@
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Guardian of Faith](#Guardian_of_Faith_guardian_of_faith)
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
-- Stone Shape
+- [Stone Shape](#Stone_Shape_stone_shape)
 
 #### 5th Level
 
@@ -97,7 +97,7 @@
 - [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
 - [Planar Binding](#Planar_Binding_planar_binding)
 - [Raise Dead](#Raise_Dead_raise_dead)
-- Scrying (concentration)
+- [Scrying](#Scrying_scrying) (concentration)
 
 #### 6th Level
 
@@ -109,7 +109,7 @@
 - [Heal](#Heal_heal)
 - [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - [Planar Ally](#Planar_Ally_planar_ally)
-- Sunbeam (concentration)
+- [Sunbeam](#Sunbeam_sunbeam) (concentration)
 - True Seeing
 - Word of Recall
 
@@ -122,7 +122,7 @@
 - [Plane Shift](#Plane_Shift_plane_shift)
 - [Regenerate](#Regenerate_regenerate)
 - [Resurrection](#Resurrection_resurrection)
-- Symbol
+- [Symbol](#Symbol_symbol)
 
 #### 8th Level
 
@@ -130,7 +130,7 @@
 - [Control Weather](#Control_Weather_control_weather) (concentration)
 - [Earthquake](#Earthquake_earthquake) (concentration)
 - [Holy Aura](#Holy_Aura_holy_aura) (concentration)
-- Sunburst
+- [Sunburst](#Sunburst_sunburst)
 
 #### 9th Level
 

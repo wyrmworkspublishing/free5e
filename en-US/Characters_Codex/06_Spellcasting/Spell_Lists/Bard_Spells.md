@@ -33,9 +33,9 @@
 - [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Longstrider](#Longstrider_longstrider)
 - [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
-- Silent Image (concentration)
-- Sleep
-- Speak with Animals (ritual)
+- [Silent Image](#Silent_Image_silent_image) (concentration)
+- [Sleep](#Sleep_sleep)
+- [Speak with Animals](#Speak_with_Animals_speak_with_animals) (ritual)
 - Thunderwave
 - Unseen Servant (ritual)
 
@@ -58,10 +58,10 @@
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Magic Mouth](#Magic_Mouth_magic_mouth) (ritual)
 - [Mirror Image](#Mirror_Image_mirror_image)
-- See Invisibility
-- Shatter
-- Silence (ritual)
-- Suggestion (concentration)
+- [See Invisibility](#See_Invisibility_see_invisibility)
+- [Shatter](#Shatter_shatter)
+- [Silence](#Silence_silence) (ritual)
+- [Suggestion](#Suggestion_suggestion) (concentration)
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
 #### 3rd Level
@@ -77,11 +77,11 @@
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - [Nondetection](#Nondetection_nondetection)
 - [Plant Growth](#Plant_Growth_plant_growth)
-- Sending
-- Slow (concentration)
-- Speak with Dead
-- Speak with Plants
-- Stinking Cloud (concentration)
+- [Sending](#Sending_sending)
+- [Slow](#Slow_slow) (concentration)
+- [Speak with Dead](#Speak_with_Dead_speak_with_dead)
+- [Speak with Plants](#Speak_with_Plants_speak_with_plants)
+- [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
 - Tongues
 
 #### 4th Level
@@ -113,8 +113,8 @@
 - [Planar Binding](#Planar_Binding_planar_binding)
 - [Raise Dead](#Raise_Dead_raise_dead)
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
-- Scrying (concentration)
-- Seeming
+- [Scrying](#Scrying_scrying) (concentration)
+- [Seeming](#Seeming_seeming)
 - Teleportation Circle
 
 #### 6th Level
@@ -138,7 +138,7 @@
 - [Project Image](#Project_Image_project_image) (concentration)
 - [Regenerate](#Regenerate_regenerate)
 - [Resurrection](#Resurrection_resurrection)
-- Symbol
+- [Symbol](#Symbol_symbol)
 - Teleport
 
 #### 8th Level

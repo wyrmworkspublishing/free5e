@@ -15,7 +15,7 @@
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Jump](#Jump_jump)
 - [Longstrider](#Longstrider_longstrider)
-- Speak with Animals
+- [Speak with Animals](#Speak_with_Animals_speak_with_animals)
 
 #### 2nd Level
 
@@ -32,8 +32,8 @@
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Pass without Trace](#Pass_without_Trace_pass_without_trace) (concentration)
 - [Protection from Poison](#Protection_from_Poison_protection_from_poison)
-- Silence
-- Spike Growth (concentration)
+- [Silence](#Silence_silence)
+- [Spike Growth](#Spike_Growth_spike_growth) (concentration)
 
 #### 3rd Level
 
@@ -44,7 +44,7 @@
 - [Plant Growth](#Plant_Growth_plant_growth)
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Revivify](#Revivify_revivify)
-- Speak with Plants
+- [Speak with Plants](#Speak_with_Plants_speak_with_plants)
 - Water Breathing
 - Water Walk
 - Wind Wall (concentration)
@@ -56,7 +56,7 @@
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - Greater Restauration
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
-- Stoneskin (concentration)
+- [Stoneskin](#Stoneskin_stoneskin) (concentration)
 
 #### 5th Level
 

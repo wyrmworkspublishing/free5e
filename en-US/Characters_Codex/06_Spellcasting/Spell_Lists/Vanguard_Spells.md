@@ -13,7 +13,7 @@
 - [Heroism](#Heroism_heroism) (concentration)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink)
-- Shield of Faith (concentration)
+- [Shield of Faith](#Shield_of_Faith_shield_of_faith) (concentration)
 
 #### 2nd Level
 

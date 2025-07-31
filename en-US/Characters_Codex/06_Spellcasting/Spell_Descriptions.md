@@ -548,7 +548,77 @@
 
 ### S
 
+[Sacred Flame](./Spell_Descriptions/S/Sacred_Flame.md)
+
 [Sanctuary](./Spell_Descriptions/S/Sanctuary.md)
+
+[Scorching Ray](./Spell_Descriptions/S/Scorching_Ray.md)
+
+[Scrying](./Spell_Descriptions/S/Scrying.md)
+
+[See Invisibility](./Spell_Descriptions/S/See_Invisibility.md)
+
+[Seeming](./Spell_Descriptions/S/Seeming.md)
+
+[Sending](./Spell_Descriptions/S/Sending.md)
+
+[Sequester](./Spell_Descriptions/S/Sequester.md)
+
+[Shapechange](./Spell_Descriptions/S/Shapechange.md)
+
+[Shatter](./Spell_Descriptions/S/Shatter.md)
+
+[Shield](./Spell_Descriptions/S/Shield.md)
+
+[Shield of Faith](./Spell_Descriptions/S/Shield_of_Faith.md)
+
+[Shillelagh](./Spell_Descriptions/S/Shillelagh.md)
+
+[Shocking Grasp](./Spell_Descriptions/S/Shocking_Grasp.md)
+
+[Silence](./Spell_Descriptions/S/Silence.md)
+
+[Silent Image](./Spell_Descriptions/S/Silent_Image.md)
+
+[Simulacrum](./Spell_Descriptions/S/Simulacrum.md)
+
+[Sleep](./Spell_Descriptions/S/Sleep.md)
+
+[Sleet Storm](./Spell_Descriptions/S/Sleet_Storm.md)
+
+[Slow](./Spell_Descriptions/S/Slow.md)
+
+[Spare the Dying](./Spell_Descriptions/S/Spare_the_Dying.md)
+
+[Speak with Animals](./Spell_Descriptions/S/Speak_with_Animals.md)
+
+[Speak with Dead](./Spell_Descriptions/S/Speak_with_Dead.md)
+
+[Speak with Plants](./Spell_Descriptions/S/Speak_with_Plants.md)
+
+[Spider Climb](./Spell_Descriptions/S/Spider_Climb.md)
+
+[Spike Growth](./Spell_Descriptions/S/Spike_Growth.md)
+
+[Spirit Guardians](./Spell_Descriptions/S/Spirit_Guardians.md)
+
+[Spiritual Weapon](./Spell_Descriptions/S/Spiritual_Weapon.md)
+
+[Stinking Cloud](./Spell_Descriptions/S/Stinking_Cloud.md)
+
+[Stone Shape](./Spell_Descriptions/S/Stone_Shape.md)
+
+[Stoneskin](./Spell_Descriptions/S/Stoneskin.md)
+
+[Storm of Vengeance](./Spell_Descriptions/S/Storm_of_Vengeance.md)
+
+[Suggestion](./Spell_Descriptions/S/Suggestion.md)
+
+[Sunbeam](./Spell_Descriptions/S/Sunbeam.md)
+
+[Sunburst](./Spell_Descriptions/S/Sunburst.md)
+
+[Symbol](./Spell_Descriptions/S/Symbol.md)
 
 ### T
 

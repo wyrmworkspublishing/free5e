@@ -16,7 +16,7 @@
 - [Poison Spray](#Poison_Spray_poison_spray)
 - [Prestidigitation](#Prestidigitation_prestidigitation)
 - [Ray of Frost](#Ray_of_Frost_ray_of_frost)
-- Shocking Grasp
+- [Shocking Grasp](#Shocking_Grasp_shocking_grasp)
 - True Strike (concentration)
 
 #### 1st Level
@@ -35,9 +35,9 @@
 - [Jump](#Jump_jump)
 - [Mage Armor](#Mage_Armor_mage_armor)
 - [Magic Missile](#Magic_Missile_magic_missile)
-- Shield
-- Silent Image (concentration)
-- Sleep
+- [Shield](#Shield_shield)
+- [Silent Image](#Silent_Image_silent_image) (concentration)
+- [Sleep](#Sleep_sleep)
 - Thunderwave
 
 #### 2nd Level
@@ -60,11 +60,11 @@
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
-- Scorching Ray
+- [Scorching Ray](#Scorching_Ray_scorching_ray)
 - See Invisiblity
-- Shatter
-- Spider Climb (concentration)
-- Suggestion (concentration)
+- [Shatter](#Shatter_shatter)
+- [Spider Climb](#Spider_Climb_spider_climb) (concentration)
+- [Suggestion](#Suggestion_suggestion) (concentration)
 - Web (concentration)
 
 #### 3rd Level
@@ -83,9 +83,9 @@
 - [Lightning Bolt](#Lightning_Bolt_lightning_bolt)
 - [Major Image](#Major_Image_major_image) (concentration)
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
-- Sleet Storm (concentration)
-- Slow (concentration)
-- Stinking Cloud (concentration)
+- [Sleet Storm](#Sleet_Storm_sleet_storm) (concentration)
+- [Slow](#Slow_slow) (concentration)
+- [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
 - Tongues
 - Vampiric Touch (concentration)
 - Water Breathing
@@ -103,7 +103,7 @@
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Polymorph](#Polymorph_polymorph) (concentration)
-- Stoneskin (concentration)
+- [Stoneskin](#Stoneskin_stoneskin) (concentration)
 - Wall of Fire (concentration)
 
 #### 5th Level
@@ -116,7 +116,7 @@
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
-- Seeming
+- [Seeming](#Seeming_seeming)
 - Telekinesis (concentration)
 - Teleportation Circle
 - Wall of Stone (concentration)
@@ -132,7 +132,7 @@
 - [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - [Move Earth](#Move_Earth_move_earth) (concentration)
-- Sunbeam (concentration)
+- [Sunbeam](#Sunbeam_sunbeam) (concentration)
 - True Seeing
 
 #### 7th Level
@@ -153,7 +153,7 @@
 - [Earthquake](#Earthquake_earthquake) (concentration)
 - [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
 - [Power Word Stun](#Power_Word_Stun_power_word_stun)
-- Sunburst
+- [Sunburst](#Sunburst_sunburst)
 
 #### 9th Level
 

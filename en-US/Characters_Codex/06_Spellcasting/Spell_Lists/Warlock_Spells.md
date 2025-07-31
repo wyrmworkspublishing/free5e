@@ -33,9 +33,9 @@
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
 - [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
-- Shatter
-- Spider Climb (concentration)
-- Suggestion (concentration)
+- [Shatter](#Shatter_shatter)
+- [Spider Climb](#Spider_Climb_spider_climb) (concentration)
+- [Suggestion](#Suggestion_suggestion) (concentration)
 
 #### 3rd Level
 
@@ -66,7 +66,7 @@
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - [Mislead](#Mislead_mislead) (concentration)
 - [Planar Binding](#Planar_Binding_planar_binding)
-- Scrying (concentration)
+- [Scrying](#Scrying_scrying) (concentration)
 - Teleportation Circle
 
 #### 6th Level
