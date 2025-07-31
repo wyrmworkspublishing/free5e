@@ -17,6 +17,14 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
    It's just for your friends!
    (If you'd like to commission a professional portrait of your character, check the credits of this book for some great artists who love illustrating characters!)
 
+<!-- spell-checker:words flamberge -->
+> **Reflavor, Don't Rewrite**
+> \
+> Want your [Magic Missile](#Magic_Missile_magic_missile) to look like flying fish or your fighter to wield a wavy flamberge sword?
+> No problem!
+> You can change the style of weapons, spells, and features to suit your character’s concept as long as the mechanics stay the same.
+> Work with your Conductor to make Free5e your own.
+
 [**Classes**](./Classes/Classes.md)
 
 [**Ancestries**](./Ancestries/Ancestries.md)

@@ -107,6 +107,7 @@ quarterstaff
 quarterstaffs
 quasit
 Rantock
+reflavor
 Restauration
 Roleplay
 sahuagin
