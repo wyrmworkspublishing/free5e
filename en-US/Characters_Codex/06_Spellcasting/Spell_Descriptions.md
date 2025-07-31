@@ -660,7 +660,33 @@
 
 ### W
 
-<!-- TODO -->
+[Wall of Fire](./Spell_Descriptions/W/Wall_of_Fire.md)
+
+[Wall of Force](./Spell_Descriptions/W/Wall_of_Force.md)
+
+[Wall of Ice](./Spell_Descriptions/W/Wall_of_Ice.md)
+
+[Wall of Stone](./Spell_Descriptions/W/Wall_of_Stone.md)
+
+[Wall of Thorns](./Spell_Descriptions/W/Wall_of_Thorns.md)
+
+[Warding Bond](./Spell_Descriptions/W/Warding_Bond.md)
+
+[Water Breathing](./Spell_Descriptions/W/Water_Breathing.md)
+
+[Water Walk](./Spell_Descriptions/W/Water_Walk.md)
+
+[Web](./Spell_Descriptions/W/Web.md)
+
+[Weird](./Spell_Descriptions/W/Weird.md)
+
+[Wind Walk](./Spell_Descriptions/W/Wind_Walk.md)
+
+[Wind Wall](./Spell_Descriptions/W/Wind_Wall.md)
+
+[Wish](./Spell_Descriptions/W/Wish.md)
+
+[Word of Recall](./Spell_Descriptions/W/Word_of_Recall.md)
 
 <!-- No spells start with X or Y -->
 

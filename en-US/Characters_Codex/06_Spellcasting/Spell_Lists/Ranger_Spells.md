@@ -45,9 +45,9 @@
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Revivify](#Revivify_revivify)
 - [Speak with Plants](#Speak_with_Plants_speak_with_plants)
-- Water Breathing
-- Water Walk
-- Wind Wall (concentration)
+- [Water Breathing](#Water_Breathing_water_breathing)
+- [Water Walk](#Water_Walk_water_walk)
+- [Wind Wall](#Wind_Wall_wind_wall) (concentration)
 
 #### 4th Level
 

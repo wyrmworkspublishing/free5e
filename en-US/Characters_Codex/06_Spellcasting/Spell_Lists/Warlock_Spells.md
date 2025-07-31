@@ -103,4 +103,4 @@
 - [Imprisonment](#Imprisonment_imprisonment)
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - [True Polymorph](#True_Polymorph_true_polymorph) (concentration)
-- Weird (concentration)
+- [Weird](#Weird_weird) (concentration)

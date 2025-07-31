@@ -67,9 +67,9 @@
 - [Revivify](#Revivify_revivify)
 - [Sleet Storm](#Sleet_Storm_sleet_storm) (concentration)
 - [Speak with Plants](#Speak_with_Plants_speak_with_plants)
-- Water Breathing (ritual)
-- Water Walk (ritual)
-- Wind Wall (concentration)
+- [Water Breathing](#Water_Breathing_water_breathing) (ritual)
+- [Water Walk](#Water_Walk_water_walk) (ritual)
+- [Wind Wall](#Wind_Wall_wind_wall) (concentration)
 
 #### 4th Level
 
@@ -90,7 +90,7 @@
 - [Polymorph](#Polymorph_polymorph) (concentration)
 - [Stone Shape](#Stone_Shape_stone_shape)
 - [Stoneskin](#Stoneskin_stoneskin) (concentration)
-- Wall of Fire (concentration)
+- [Wall of Fire](#Wall_of_Fire_wall_of_fire) (concentration)
 
 #### 5th Level
 
@@ -108,7 +108,7 @@
 - [Reincarnate](#Reincarnate_reincarnate)
 - [Scrying](#Scrying_scrying) (concentration)
 - [Tree Stride](#Tree_Stride_tree_stride) (concentration)
-- Wall of Stone (concentration)
+- [Wall of Stone](#Wall_of_Stone_wall_of_stone) (concentration)
 
 #### 6th Level
 
@@ -120,8 +120,8 @@
 - [Move Earth](#Move_Earth_move_earth) (concentration)
 - [Sunbeam](#Sunbeam_sunbeam) (concentration)
 - [Transport via Plants](#Transport_via_Plants_transport_via_plants)
-- Wall of Thorns (concentration)
-- Wind Walk
+- [Wall of Thorns](#Wall_of_Thorns_wall_of_thorns) (concentration)
+- [Wind Walk](#Wind_Walk_wind_walk)
 
 #### 7th Level
 

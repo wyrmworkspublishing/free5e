@@ -26,7 +26,7 @@
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Prayer of Healing](#Prayer_of_Healing_prayer_of_healing)
 - [Protection from Poison](#Protection_from_Poison_protection_from_poison)
-- Warding Bond
+- [Warding Bond](#Warding_Bond_warding_bond)
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
 #### 3rd Level

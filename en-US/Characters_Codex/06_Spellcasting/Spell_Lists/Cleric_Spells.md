@@ -47,7 +47,7 @@
 - [Protection from Poison](#Protection_from_Poison_protection_from_poison)
 - [Silence](#Silence_silence) (ritual)
 - [Spiritual Weapon](#Spiritual_Weapon_spiritual_weapon)
-- Warding Bond
+- [Warding Bond](#Warding_Bond_warding_bond)
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
 #### 3rd Level
@@ -70,7 +70,7 @@
 - [Speak with Dead](#Speak_with_Dead_speak_with_dead)
 - [Spirit Guardians](#Spirit_Guardians_spirit_guardians) (concentration)
 - [Tongues](#Tongues_tongues)
-- Water Walk (ritual)
+- [Water Walk](#Water_Walk_water_walk) (ritual)
 
 #### 4th Level
 
@@ -111,7 +111,7 @@
 - [Planar Ally](#Planar_Ally_planar_ally)
 - [Sunbeam](#Sunbeam_sunbeam) (concentration)
 - [True Seeing](#True_Seeing_true_seeing)
-- Word of Recall
+- [Word of Recall](#Word_of_Recall_word_of_recall)
 
 #### 7th Level
 

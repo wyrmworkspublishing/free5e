@@ -84,7 +84,7 @@
 - [Shatter](#Shatter_shatter)
 - [Spider Climb](#Spider_Climb_spider_climb) (concentration)
 - [Suggestion](#Suggestion_suggestion) (concentration)
-- Web (concentration)
+- [Web](#Web_web) (concentration)
 
 #### 3rd Level
 
@@ -116,7 +116,7 @@
 - [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
 - [Tongues](#Tongues_tongues)
 - [Vampiric Touch](#Vampiric_Touch_vampiric_touch) (concentration)
-- Water Breathing (ritual)
+- [Water Breathing](#Water_Breathing_water_breathing) (ritual)
 
 #### 4th Level
 
@@ -144,7 +144,7 @@
 - [Resilient Sphere](#Resilient_Sphere_resilient_sphere) <!-- Might be renamed --> (concentration)
 - [Stone Shape](#Stone_Shape_stone_shape)
 - [Stoneskin](#Stoneskin_stoneskin) (concentration)
-- Wall of Fire (concentration)
+- [Wall of Fire](#Wall_of_Fire_wall_of_fire) (concentration)
 
 #### 5th Level
 
@@ -169,8 +169,8 @@
 - [Seeming](#Seeming_seeming)
 - [Telekinesis](#Telekinesis_telekinesis) (concentration)
 - [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
-- Wall of Force (concentration)
-- Wall of Stone (concentration)
+- [Wall of Force](#Wall_of_Force_wall_of_force) (concentration)
+- [Wall of Stone](#Wall_of_Stone_wall_of_stone) (concentration)
 
 #### 6th Level
 
@@ -192,7 +192,7 @@
 - [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
 - [Sunbeam](#Sunbeam_sunbeam) (concentration)
 - [True Seeing](#True_Seeing_true_seeing)
-- Wall of Ice (concentration)
+- [Wall of Ice](#Wall_of_Ice_wall_of_ice) (concentration)
 
 #### 7th Level
 
@@ -240,5 +240,5 @@
 - [Shapechange](#Shapechange_shapechange) (concentration)
 - [Time Stop](#Time_Stop_time_stop)
 - [True Polymorph](#True_Polymorph_true_polymorph) (concentration)
-- Weird (concentration)
-- Wish
+- [Weird](#Weird_weird) (concentration)
+- [Wish](#Wish_wish)

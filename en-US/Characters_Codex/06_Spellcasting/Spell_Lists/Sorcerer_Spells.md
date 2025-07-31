@@ -65,7 +65,7 @@
 - [Shatter](#Shatter_shatter)
 - [Spider Climb](#Spider_Climb_spider_climb) (concentration)
 - [Suggestion](#Suggestion_suggestion) (concentration)
-- Web (concentration)
+- [Web](#Web_web) (concentration)
 
 #### 3rd Level
 
@@ -88,8 +88,8 @@
 - [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
 - [Tongues](#Tongues_tongues)
 - [Vampiric Touch](#Vampiric_Touch_vampiric_touch) (concentration)
-- Water Breathing
-- Water Walk
+- [Water Breathing](#Water_Breathing_water_breathing)
+- [Water Walk](#Water_Walk_water_walk)
 
 #### 4th Level
 
@@ -104,7 +104,7 @@
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Polymorph](#Polymorph_polymorph) (concentration)
 - [Stoneskin](#Stoneskin_stoneskin) (concentration)
-- Wall of Fire (concentration)
+- [Wall of Fire](#Wall_of_Fire_wall_of_fire) (concentration)
 
 #### 5th Level
 
@@ -119,7 +119,7 @@
 - [Seeming](#Seeming_seeming)
 - [Telekinesis](#Telekinesis_telekinesis) (concentration)
 - [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
-- Wall of Stone (concentration)
+- [Wall of Stone](#Wall_of_Stone_wall_of_stone) (concentration)
 
 #### 6th Level
 
@@ -161,4 +161,4 @@
 - [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - [Time Stop](#Time_Stop_time_stop)
-- Wish
+- [Wish](#Wish_wish)
