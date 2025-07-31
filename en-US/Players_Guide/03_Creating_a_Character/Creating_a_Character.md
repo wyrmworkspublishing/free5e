@@ -11,7 +11,7 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
 6. Determine ability scores
 7. Choose your starting equipment
 8. Choose starting spells if applicable
-9. Add details like appearance, personality, etc.
+9. Add details like appearance, personality, alignment (optional), etc.
    Consider drawing a picture of your character.
    It doesn't have to be fancy!
    It's just for your friends!

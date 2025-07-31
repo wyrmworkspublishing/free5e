@@ -57,7 +57,22 @@ If you are a Vanguard 5/Cleric 5, for example, you have five d10 Hit Dice and fi
 Your proficiency bonus is always based on your total character level, as shown in the [Character Advancement table in chapter XX](#Level_Advancement_level_advancement), not your level in a particular class.
 For example, if you are a Fighter 3/Rogue 2, you have the proficiency bonus of a 5th-level character, which is +3.
 
-<!-- TODO Add the multiclassing proficiencies table -->
+###### Multiclassing Proficiencies (table)
+
+| Class       | Proficiencies Gained                                                                                       |
+|:------------|:-----------------------------------------------------------------------------------------------------------|
+| Dreadnought | Shields, simple weapons, martial weapons                                                                   |
+| Bard        | Light armor, one skill of your choice, one musical instrument of your choice                               |
+| Cleric      | Light armor, medium armor, shields                                                                         |
+| Wodewose    | Light armor, medium armor, shields (Wodewoses will not wear armor or use shields made of metal)            |
+| Fighter     | Light armor, medium armor, shields, simple weapons, martial weapons                                        |
+| Adept       | Simple weapons, shortswords                                                                                |
+| Vanguard    | Light armor, medium armor, shields, simple weapons, martial weapons                                        |
+| Ranger      | Light armor, medium armor, shields, simple weapons, martial weapons, one skill from the class’s skill list |
+| Rogue       | Light armor, one skill from the class’s skill list, thieves' tools                                         |
+| Sorcerer    | —                                                                                                          |
+| Warlock     | Light armor, simple weapons                                                                                |
+| Wizard      | —                                                                                                          |
 
 ##### Class Features
 
@@ -111,33 +126,9 @@ You can use the spell slots of those levels to cast the spells you do know—and
 **Pact Magic.**
 If you have both the Spellcasting class feature and the Pact Magic class feature from the Warlock class, you can use the spell slots you gain from the Pact Magic feature to cast spells you know or have prepared from classes with the Spellcasting class feature, and you can use the spell slots you gain from the Spellcasting class feature to cast Warlock spells you know.
 
-<!-- TODO Add the multiclass spellcaster spell slots per spell level table -->
+___
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+_Multiclass Spellcaster: Spell Slots per Spell Level (table)_
 
-###### Alignment
-
-A creature’s alignment in the game world describes its moral and personal attitudes.
-It’s a combination of morality (good, evil, or neutral) and attitudes toward society and order (lawful, chaotic, or neutral).
-Thus, nine alignments exist.
-
-These brief descriptions outline the typical behavior of a creature with an alignment.
-Individuals may vary, and few are consistently faithful to their alignment’s precepts.
-
-**Lawful good (LG)** creatures can be counted on to do the right thing as expected by society.
-\
-**Neutral good (NG)** folk do the best they can to help others according to their needs.
-\
-**Chaotic good (CG)** creatures act as their conscience directs, with little regard for what others expect.
-\
-**Lawful neutral (LN)** individuals act in accordance with law, tradition, or personal codes.
-\
-**Neutral (N)** is the alignment of those who prefer to steer clear of moral questions and don’t take sides, doing what seems best at the time.
-\
-**Chaotic neutral (CN)** creatures follow their whims, holding their personal freedom above all else.
-\
-**Lawful evil (LE)** creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order.
-\
-**Neutral evil (NE)** is the alignment of those who do whatever they can get away with, without compassion or qualms.
-\
-**Chaotic evil (CE)** creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust.
-
-<!-- TODO add the languages section -->
+[**Full Caster Spell slot table**](../Classes/Full_Caster_Spellslot_table.md)
+___

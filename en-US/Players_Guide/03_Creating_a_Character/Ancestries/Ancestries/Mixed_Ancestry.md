@@ -13,6 +13,13 @@ Your size is Medium unless both parents are a different size.
 \
 **Speed.**
 Your base walking speed is the average of your parents’ speeds, rounded up to the nearest 5 feet.
+\
+**Ancestral Traits.**
+You inherit one major and one minor physical ability from your parents.
 
-> **Warning:**
-> This ancestry has not yet been fully transferred from the Google Doc.
+- **Major:**
+  Breath Weapon, Damage Resistance, Dwarven Resilience, Gnome Cunning, Hellish Resistance, Infernal Legacy, It Takes a Village, Lucky
+- **Minor:**
+  Brave, Darkvision, Fey Ancestry, Halfling Nimbleness, Heavy Lifter, Intrepid, Mighty Attacks, Trance
+
+If you want to use ancestries from other sources as your parents, the <mark>Conductors Handbook</mark> contains instructions on how to determine major and minor features of those ancestries.

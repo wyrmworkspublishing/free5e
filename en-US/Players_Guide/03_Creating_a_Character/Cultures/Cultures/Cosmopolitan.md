@@ -21,9 +21,10 @@ You gain proficiency in Persuasion and one other skill of your choice.
 **Urban Denizen.**
 You can make an Investigation check to learn a person’s location (or gain a helpful clue) by discreetly asking in the right places.
 The DC is lowered by 5 for you.
-
-> **Warning:**
-> This culture has not yet been fully transferred from the Google Doc.
-
+\
+**Well-Connected.**
+You gain an extra contact (see [Backgrounds](#Backgrounds_backgrounds)).
+This person is of a different ancestry or national origin than yourself.
+\
 **Languages.**
 You can speak, read, write, and sign in Common and two additional languages.
