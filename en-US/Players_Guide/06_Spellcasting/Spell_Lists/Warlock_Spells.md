@@ -19,7 +19,7 @@
 - [Hex](#Hex_hex) (concentration)
 - [Expeditious Retreat](#Expeditious_Retreat_expeditious_retreat) (concentration)
 - [Hellish Rebuke](#Hellish_Rebuke_hellish_rebuke)
-- Illusory Script (ritual)
+- [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Unseen Servant (ritual)
@@ -28,8 +28,8 @@
 
 - [Darkness](#Darkness_darkness) (concentration)
 - [Enthrall](#Enthrall_enthrall)
-- Hold Person (concentration)
-- Invisibility (concentration)
+- [Hold Person](#Hold_Person_hold_person) (concentration)
+- [Invisibility](#Invisibility_invisibility) (concentration)
 - Mirror Image
 - Misty Step
 - Ray of Enfeeblement (concentration)
@@ -43,8 +43,8 @@
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Fear](#Fear_fear) (concentration)
 - [Fly](#Fly_fly) (concentration)
-- Gaseous Form (concentration)
-- Hypnotic Pattern (concentration)
+- [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
+- [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
 - Magic Circle
 - Major Image (concentration)
 - Remove Curse
@@ -57,13 +57,13 @@
 - [Blight](#Blight_blight)
 - [Charm Monster](#Charm_Monster_charm_monster)
 - [Dimension Door](#Dimension_Door_dimension_door)
-- Hallucinatory Terrain
+- [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 
 ##### 5th Level
 
 - [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
 - [Dream](#Dream)
-- Hold Monster (concentration)
+- [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - Mislead (concentration)
 - Planar Binding
 - Scrying (concentration)
@@ -92,15 +92,15 @@
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
-- Glibness
+- [Glibness](#Glibness_glibness)
 - Power Word Stun
 
 ##### 9th Level
 
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Foresight](#Foresight_foresight)
-- Geas
-- Imprisonment
+- [Geas](#Geas_geas)
+- [Imprisonment](#Imprisonment_imprisonment)
 - Power Word Kill
 - True Polymorph (concentration)
 - Weird (concentration)

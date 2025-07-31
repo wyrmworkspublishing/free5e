@@ -3,7 +3,7 @@
 
 ##### Cantrips (0 Level)
 
-- Guidance (concentration)
+- [Guidance](#Guidance_guidance) (concentration)
 - Mending
 - [Naturecraft](#Naturecraft_naturecraft)
 - Poison Spray
@@ -22,10 +22,10 @@
 - [Entangle](#Entangle_entangle) (concentration)
 - [Faerie Fire](#Faerie_Fire_faerie_fire) (concentration)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
-- Goodberry
-- Healing Word
+- [Goodberry](#Goodberry_goodberry)
+- [Healing Word](#Healing_Word_healing_word)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
-- Jump
+- [Jump](#Jump_jump)
 - Longstrider
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - Purify Food and Drink (ritual)
@@ -44,9 +44,9 @@
 - [Find Traps](#Find_Traps_find_traps)
 - [Flame Blade](#Flame_Blade_flame_blade) (concentration)
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
-- Gust of Wind (concentration)
-- Heat Metal (concentration)
-- Hold Person (concentration)
+- [Gust of Wind](#Gust_of_Wind) (concentration)
+- [Heat Metal](#Heat_Metal_heat_metal) (concentration)
+- [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - Locate Animals or Plants (ritual)
 - Locate Object (concentration)
@@ -83,9 +83,9 @@
 - [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
 - [Fire Shield](#Fire_Shield_fire_shield)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
-- Giant Insect (concentration)
-- Hallucinatory Terrain
-- Ice Storm
+- [Giant Insect](#Giant_Insect_giant_insect) (concentration)
+- [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
+- [Ice Storm](#Ice_Storm_ice_storm)
 - Locate Creature (concentration)
 - Polymorph (concentration)
 - Stone Shape
@@ -100,9 +100,9 @@
 - [Cone of Cold](#Cone_of_Cold_cone_of_cold)
 - [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
 - [Contagion](#Contagion_contagion)
-- Geas
-- Greater Restoration
-- Insect Plague (concentration)
+- [Geas](#Geas_geas)
+- [Greater Restoration](#Greater_Restoration_greater_restoration)
+- [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - Mass Cure Wounds
 - Planar Binding
 - Scrying (concentration)
@@ -114,8 +114,8 @@
 - [Conjure Fey](#Conjure_Fey_conjure_fey) (concentration)
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
-- Heal
-- Heroes' Feast
+- [Heal](#Heal_heal)
+- [[Heroes' Feast](#Heroes_Feast_heroes_feast)](#Heroes_Feast_heroes_feast)
 - Move Earth (concentration)
 - Sunbeam (concentration)
 - Transport via Plants
@@ -139,7 +139,7 @@
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - [Control Weather](#Control_Weather_control_weather) (concentration)
 - [Earthquake](#Earthquake_earthquake) (concentration)
-- Incendiary Cloud (concentration)
+- [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
 - Sunburst
 
 ##### 9th Level

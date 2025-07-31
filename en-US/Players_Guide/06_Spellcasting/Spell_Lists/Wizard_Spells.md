@@ -33,11 +33,11 @@
 - [Feather Fall](#Feather_Fall_feather_fall)
 - [Find Familiar](#Find_Familiar_find_familiar) (ritual)
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
-- Grease
-- Identify (ritual)
-- Illusory Script (ritual)
+- [Grease](#Grease_grease)
+- [Identify](#Identify_identify) (ritual)
+- [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
-- Jump
+- [Jump](#Jump_jump)
 - Longstrider
 - Mage Armor
 - Magic Missile
@@ -66,11 +66,11 @@
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
-- Gentle Repose (ritual)
-- Gust of Wind (concentration)
-- Hold Person (concentration)
-- Invisibility (concentration)
-- Knock
+- [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
+- [Gust of Wind](#Gust_of_Wind) (concentration)
+- [Hold Person](#Hold_Person_hold_person) (concentration)
+- [Invisibility](#Invisibility_invisibility) (concentration)
+- [Knock](#Knock_knock)
 - Levitate (concentration)
 - Locate Object (concentration)
 - Magic Mouth (ritual)
@@ -97,10 +97,10 @@
 - [Fear](#Fear_fear) (concentration)
 - [Fireball](#Fireball_fireball)
 - [Fly](#Fly_fly) (concentration)
-- Gaseous Form (concentration)
-- Glyph of Warding
-- Haste (concentration)
-- Hypnotic Pattern (concentration)
+- [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
+- [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
+- [Haste](#Haste_haste) (concentration)
+- [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
 - Lightning Bolt
 - Magic Circle
 - Major Image (concentration)
@@ -134,9 +134,9 @@
 - [Divination](#Divination_divination) (ritual)
 - [Fabricate](#Fabricate_fabricate)
 - [Fire Shield](#Fire_Shield_fire_shield)
-- Greater Invisibility (concentration)
-- Hallucinatory Terrain
-- Ice Storm
+- [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
+- [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
+- [Ice Storm](#Ice_Storm_ice_storm)
 - [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
 - Locate Creature (concentration)
 - Phantasmal Killer (concentration)
@@ -156,8 +156,8 @@
 - [Creation](#Creation_creation)
 - [Dominate Person](#Dominate_Person_dominate_person) (concentration)
 - [Dream](#Dream)
-- Geas
-- Hold Monster (concentration)
+- [Geas](#Geas_geas)
+- [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - Legend Lore
 - Mislead (concentration)
 - Modify Memory (concentration)
@@ -183,8 +183,8 @@
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
-- Globe of Invulnerability (concentration)
-- Guards and Wards
+- [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
+- [Guards and Wards](#Guards_and_Wards)
 - Magic Jar
 - Mass Suggestion
 - Move Earth (concentration)
@@ -222,7 +222,7 @@
 - [Control Weather](#Control_Weather_control_weather) (concentration)
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
-- Incendiary Cloud (concentration)
+- [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
 - Maze (concentration)
 - Mind Blank
 - Power Word Stun
@@ -232,8 +232,8 @@
 
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Foresight](#Foresight_foresight)
-- Gate (concentration)
-- Imprisonment
+- [Gate](#Gate_gate) (concentration)
+- [Imprisonment](#Imprisonment_imprisonment)
 - Meteor Swarm
 - Power Word Kill
 - Prismatic Wall

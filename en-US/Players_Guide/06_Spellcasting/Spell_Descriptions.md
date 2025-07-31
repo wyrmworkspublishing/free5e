@@ -265,17 +265,97 @@
 
 [Friends](./Spell_Descriptions/F/Friends.md)
 
+[Gaseous Form](./Spell_Descriptions/G/Gaseous_Form.md)
+
+[Gate](./Spell_Descriptions/G/Gate.md)
+
+[Geas](./Spell_Descriptions/G/Geas.md)
+
+[Gentle Repose](./Spell_Descriptions/G/Gentle_Repose.md)
+
+[Giant Insect](./Spell_Descriptions/G/Giant_Insect.md)
+
+[Glibness](./Spell_Descriptions/G/Glibness.md)
+
+[Globe of Invulnerability](./Spell_Descriptions/G/Globe_of_Invulnerability.md)
+
+[Glyph of Warding](./Spell_Descriptions/G/Glyph_of_Warding.md)
+
+[Goodberry](./Spell_Descriptions/G/Goodberry.md)
+
+[Grease](./Spell_Descriptions/G/Grease.md)
+
+[Greater Invisibility](./Spell_Descriptions/G/Greater_Invisibility.md)
+
+[Greater Restoration](./Spell_Descriptions/G/Greater_Restoration.md)
+
 [Guardian of Faith](./Spell_Descriptions/G/Guardian_of_Faith.md)
+
+[Guards and Wards](./Spell_Descriptions/G/Guards_and_Wards.md)
+
+[Guidance](./Spell_Descriptions/G/Guidance.md)
+
+[Guiding Bolt](./Spell_Descriptions/G/Guiding_Bolt.md)
+
+[Gust of Wind](./Spell_Descriptions/G/Gust_of_Wind.md)
+
+[Hallow](./Spell_Descriptions/H/Hallow.md)
+
+[Hallucinatory Terrain](./Spell_Descriptions/H/Hallucinatory_Terrain.md)
+
+[Harm](./Spell_Descriptions/H/Harm.md)
+
+[Haste](./Spell_Descriptions/H/Haste.md)
+
+[Heal](./Spell_Descriptions/H/Heal.md)
+
+[Healing Word](./Spell_Descriptions/H/Healing_Word.md)
+
+[Heat Metal](./Spell_Descriptions/H/Heat_Metal.md)
 
 [Hellish Rebuke](./Spell_Descriptions/H/Hellish_Rebuke.md)
 
+[Heroes' Feast](./Spell_Descriptions/H/Heroes_Feast.md)
+
+[Heroism](./Spell_Descriptions/H/Heroism.md)
+
 [Hex](./Spell_Descriptions/H/Hex.md)
+
+[Hold Monster](./Spell_Descriptions/H/Hold_Monster.md)
+
+[Hold Person](./Spell_Descriptions/H/Hold_Person.md)
+
+[Holy Aura](./Spell_Descriptions/H/Holy_Aura.md)
+
+[Hunter's Mark](./Spell_Descriptions/H/Hunters_Mark.md)
+
+[Hypnotic Pattern](./Spell_Descriptions/H/Hypnotic_Pattern.md)
+
+[Ice Storm](./Spell_Descriptions/I/Ice_Storm.md)
+
+[Identify](./Spell_Descriptions/I/Identify.md)
+
+[Illusory Script](./Spell_Descriptions/I/Illusory_Script.md)
+
+[Imprisonment](./Spell_Descriptions/I/Imprisonment.md)
+
+[Incendiary Cloud](./Spell_Descriptions/I/Incendiary_Cloud.md)
+
+[Inflict Wounds](./Spell_Descriptions/I/Inflict_Wounds.md)
+
+[Insect Plague](./Spell_Descriptions/I/Insect_Plague.md)
+
+[Invisibility](./Spell_Descriptions/I/Invisibility.md)
 
 [Iz’zart's Swarm Limb](./Spell_Descriptions/I/Izzarts_Swarm_Limb.md)
 
 [Jess's Private Sanctum](./Spell_Descriptions/J/Jesss_Private_Sanctum.md)
 
+[Jump](./Spell_Descriptions/J/Jump.md)
+
 [Katy's Spectral Sword](./Spell_Descriptions/K/Katys_Spectral_Sword.md)
+
+[Knock](./Spell_Descriptions/K/Knock.md)
 
 [Lesser Restoration](./Spell_Descriptions/L/Lesser_Restoration.md)
 

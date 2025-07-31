@@ -1,6 +1,6 @@
-#### Guardian of Faith
+#### Guards and Wards
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_4th-level conjuration_
+_6th-level abjuration_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.

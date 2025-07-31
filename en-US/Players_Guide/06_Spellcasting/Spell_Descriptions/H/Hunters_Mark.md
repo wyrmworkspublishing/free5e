@@ -1,6 +1,6 @@
-#### Guardian of Faith
+#### Hunter's Mark
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_4th-level conjuration_
+_1st-level divination_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.

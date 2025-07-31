@@ -1,6 +1,6 @@
-#### Guardian of Faith
+#### Guidance
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_4th-level conjuration_
+_Divination cantrip_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.

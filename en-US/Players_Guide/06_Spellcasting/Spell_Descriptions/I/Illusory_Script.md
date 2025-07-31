@@ -1,6 +1,6 @@
-#### Guardian of Faith
+#### Illusory Script
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_4th-level conjuration_
+_1st-level illusion (ritual)_
 
 > **Warning:**
 > This spell has not yet been transferred from the Google Doc.
