@@ -6,7 +6,7 @@
 [_metadata_:casting_time_unit]:- "minute"
 [_metadata_:ritual]:- "true"
 [_metadata_:range]:- "30 feet"
-[_metadata_:target]:- "20 foot cube"
+[_metadata_:target]:- "20-foot cube"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
