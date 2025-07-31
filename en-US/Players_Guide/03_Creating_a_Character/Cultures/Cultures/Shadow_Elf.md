@@ -17,4 +17,4 @@ At 5th level, you can cast [Darkness](#Darkness_darkness) once per long rest.
 You don’t need material components for these spells, and when casting them your spellcasting ability is Intelligence, Wisdom, or Charisma (whichever is highest).
 \
 **Languages.**
-You can speak or sign, read, and write Common, Elvish, and Undercommon.
+You can understand and communicate in Common, Elvish, and Undercommon.
