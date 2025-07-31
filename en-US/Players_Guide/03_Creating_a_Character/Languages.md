@@ -1,6 +1,9 @@
 ### Languages
 
-Your culture determines your default languages that you can speak, read, and write, provided there is no disability or condition that prevents you from doing so. Some characters may also know one or more signed languages. All Standard Languages have a separate signed analog.
+Your culture determines your default languages that you can understand and communicate in, provided there is no disability or condition that prevents you from doing so.
+When learning a language, you select whether you know the spoken or the signed language, if available.
+All Standard Languages have a separate signed analog.
+Learning another way to communicate in a language (signing if you can speak it or vice versa) counts as learning a separate language.
 Your background may grant access to additional languages of your choice.
 Note these languages on your character sheet.
 
