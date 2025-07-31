@@ -22,4 +22,4 @@ You’re also naturally adapted to cold climates.
 Whenever you make a History check related to the origin of stonework, you are considered to have expertise in the History skill.
 \
 **Languages.**
-You can speak, read, write, and sign Common, Dwarvish, and one other language.
+You can understand and communicate in Common, Dwarvish, and one other language.

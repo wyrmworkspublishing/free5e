@@ -16,4 +16,4 @@ With 10 minutes and simple materials like household items, battlefield rust, or 
 These weapons function identically to their regular versions, but have a gp value of 0 and break if you roll a 1 on an attack using them.
 \
 **Languages.**
-You can speak, read, write, and sign Common and one other language.
+You can understand and communicate in Common and one other language.

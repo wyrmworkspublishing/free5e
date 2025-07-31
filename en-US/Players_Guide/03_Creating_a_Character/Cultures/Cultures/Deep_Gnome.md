@@ -19,4 +19,4 @@ You don’t need material components for these spells, and when casting them you
 You gain expertise on Stealth checks made to hide in rocky terrain.
 \
 **Languages.**
-You can speak, read, write, and sign Common, Gnomish, and Undercommon.
+You can understand and communicate in Common, Gnomish, and Undercommon.

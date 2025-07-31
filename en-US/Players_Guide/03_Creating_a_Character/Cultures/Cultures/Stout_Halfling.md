@@ -16,4 +16,4 @@ You gain proficiency with calligrapher’s tools.
 In addition, you gain expertise on Intelligence checks to recall details about past events you took part in by first checking your journals.
 \
 **Languages.**
-You can speak, read, write, and sign Common, Halfling, and one other language.
+You can understand and communicate in Common, Halfling, and one other language.

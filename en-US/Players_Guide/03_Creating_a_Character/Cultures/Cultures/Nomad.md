@@ -17,4 +17,4 @@ After observing an outside area for 1 minute, you can predict the weather within
 You cannot foresee magical changes, but you can use an action to make an Insight or Perception check to notice them.
 \
 **Languages.**
-You can speak, read, write, and sign Common and two additional languages.
+You can understand and communicate in Common and two additional languages.

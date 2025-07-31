@@ -18,4 +18,4 @@ You know a cantrip of your choice, which can be chosen from [any spell list](#Sp
 Your spellcasting ability score for this cantrip is Intelligence, Wisdom, or Charisma (whichever is highest).
 \
 **Languages.**
-You can speak, read, write, and sign in Common, Elvish, and one other language.
+You can understand and communicate in Common, Elvish, and one other language.

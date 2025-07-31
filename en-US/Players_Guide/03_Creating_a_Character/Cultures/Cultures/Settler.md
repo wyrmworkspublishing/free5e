@@ -17,4 +17,4 @@ You are proficient in the Insight and Survival skills.
 You gain expertise on any check made to determine whether something is poisonous.
 \
 **Languages.**
-You can speak, read, write, and sign Common, and two additional languages.
+You can understand and communicate in Common and two additional languages.

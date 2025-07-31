@@ -21,4 +21,4 @@ You gain advantage on Wisdom saving throws against illusions and against being c
 You are proficient with hand crossbows, short swords, and war picks.
 \
 **Languages.**
-You can speak, read, write, and sign Common, Dwarvish, and Undercommon.
+You can understand and communicate in Common, Dwarvish, and Undercommon.

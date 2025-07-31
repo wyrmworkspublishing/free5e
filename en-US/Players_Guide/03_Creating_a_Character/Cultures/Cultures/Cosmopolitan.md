@@ -27,4 +27,4 @@ You gain an extra contact (see [Backgrounds](#Backgrounds_backgrounds)).
 This person is of a different ancestry or national origin than yourself.
 \
 **Languages.**
-You can speak, read, write, and sign in Common and two additional languages.
+You can understand and communicate in Common and two additional languages.
