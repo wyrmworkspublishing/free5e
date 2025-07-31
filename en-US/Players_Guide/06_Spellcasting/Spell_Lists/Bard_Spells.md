@@ -4,13 +4,13 @@
 ##### Cantrips (0 Level)
 
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
-- Light
+- [Light](#Light_light)
 - [Friends](#Friends_friends)
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
-- Prestidigitation
+- [Mage Hand](#Mage_Hand_mage_hand)
+- [Mending](#Mending_mending)
+- [Message](#Message_message)
+- [Minor Illusion](#Minor_Illusion_minor_illusion)
+- [Prestidigitation](#Prestidigitation_prestidigitation)
 - True Strike (concentration)
 - Vicious Mockery
 
@@ -31,7 +31,7 @@
 - [Heroism](#Heroism_heroism) (concentration)
 - [Identify](#Identify_identify) (ritual)
 - [Illusory Script](#Illusory_Script_illusory_script) (ritual)
-- Longstrider
+- [Longstrider](#Longstrider_longstrider)
 - [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
 - Silent Image (concentration)
 - Sleep
@@ -54,10 +54,10 @@
 - [Invisibility](#Invisibility_invisibility) (concentration)
 - [Knock](#Knock_knock)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
-- Locate Animals or Plants (ritual)
-- Locate Object (concentration)
-- Magic Mouth (ritual)
-- Mirror Image
+- [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants) (ritual)
+- [Locate Object](#Locate_Object_locate_object) (concentration)
+- [Magic Mouth](#Magic_Mouth_magic_mouth) (ritual)
+- [Mirror Image](#Mirror_Image_mirror_image)
 - See Invisibility
 - Shatter
 - Silence (ritual)
@@ -72,11 +72,11 @@
 - [Fear](#Fear_fear) (concentration)
 - [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
-- Major Image (concentration)
-- Mass Healing Word
+- [Major Image](#Major_Image_major_image) (concentration)
+- [Mass Healing Word](#Mass_Healing_Word_mass_healing_word)
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
-- Nondetection
-- Plant Growth
+- [Nondetection](#Nondetection_nondetection)
+- [Plant Growth](#Plant_Growth_plant_growth)
 - Sending
 - Slow (concentration)
 - Speak with Dead
@@ -93,9 +93,9 @@
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
-- Locate Creature (concentration)
-- Phantasmal Killer (concentration)
-- Polymorph (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
+- [Phantasmal Killer](#Phantasmal_Killer_phantasmal_killer) (concentration)
+- [Polymorph](#Polymorph_polymorph) (concentration)
 
 ##### 5th Level
 
@@ -106,12 +106,12 @@
 - [Geas](#Geas_geas)
 - [Greater Restoration](#Greater_Restoration_greater_restoration)
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
-- Legend Lore
-- Mass Cure Wounds
-- Mislead (concentration)
-- Modify Memory (concentration)
-- Planar Binding
-- Raise Dead
+- [Legend Lore](#Legend_Lore_legend_lore)
+- [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
+- [Mislead](#Mislead_mislead) (concentration)
+- [Modify Memory](#Modify_Memory_modify_memory) (concentration)
+- [Planar Binding](#Planar_Binding_planar_binding)
+- [Raise Dead](#Raise_Dead_raise_dead)
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - Scrying (concentration)
 - Seeming
@@ -123,8 +123,8 @@
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
 - [Heroes' Feast](#Heroes_Feast_heroes_feast)
-- Mass Suggestion
-- Programmed Illusion
+- [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
+- [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
 - True Seeing
 
 ##### 7th Level
@@ -133,11 +133,11 @@
 - [Etherealness](#Etherealness_etherealness)
 - [Forcecage](#Forcecage_forcecage)
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) <!-- previously "Arcane Sword" --> (concentration)
-- Mirage Arcane
-- Prismatic Spray
-- Project Image (concentration)
-- Regenerate
-- Resurrection
+- [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
+- [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
+- [Project Image](#Project_Image_project_image) (concentration)
+- [Regenerate](#Regenerate_regenerate)
+- [Resurrection](#Resurrection_resurrection)
 - Symbol
 - Teleport
 
@@ -148,12 +148,12 @@
 - [Confound](#Confound_confound) <!-- previously "Feeblemind" >
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Glibness](#Glibness_glibness)
-- Mind Blank
-- Power Word Stun
+- [Mind Blank](#Mind_Blank_mind_blank)
+- [Power Word Stun](#Power_Word_Stun_power_word_stun)
 
 ##### 9th Level
 
 - [Foresight](#Foresight_foresight)
-- Power Word Kill
-- Prismatic Wall
+- [Power Word Kill](#Power_Word_Kill_power_word_kill)
+- [Prismatic Wall](#Prismatic_Wall_prismatic_wall)
 - True Polymorph (concentration)

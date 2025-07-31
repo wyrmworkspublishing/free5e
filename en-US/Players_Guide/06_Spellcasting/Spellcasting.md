@@ -39,7 +39,7 @@ For instance, the 3rd-level Wizard Umara has four 1st-level and two 2nd-level sl
 
 When casting a spell, a character expends a slot of that level or higher, effectively filling it.
 A spell slot is a groove of a specific size, with 1st-level slots being the smallest and 9th-level slots being the largest.
-So, when Umara casts Magic Missile, a 1st-level spell, she spends one slot and has three remaining.
+So, when Umara casts [Magic Missile](#Magic_Missile_magic_missile), a 1st-level spell, she spends one slot and has three remaining.
 
 Finishing a long rest restores expended spell slots.
 Some characters and monsters have special abilities that allow them to cast spells without using spell slots, such as Warlocks choosing certain eldritch invocations and pit fiends from the Nine Hells.
@@ -47,7 +47,7 @@ Some characters and monsters have special abilities that allow them to cast spel
 ##### Casting a Spell at a Higher Level
 
 When a spellcaster casts a spell with a higher-level slot, the spell assumes that level.
-For example, if Umara casts Magic Missile with a 2nd-level slot, it’s 2nd level.
+For example, if Umara casts [Magic Missile](#Magic_Missile_magic_missile) with a 2nd-level slot, it’s 2nd level.
 Some spells, like Magic Missile and [Cure Wounds](#Cure_Wounds_cure_wounds), have more powerful effects at higher levels, as detailed in the spell’s description.
 
 #### Casting in Armor <!-- In the WotC SRD, this is an info box. -->
@@ -99,7 +99,7 @@ To try again, start over.
 #### Range
 
 The target of a spell must be within its range.
-For example, Magic Missile targets a creature, while [Fireball](#Fireball_fireball) targets the point of fire’s eruption.
+For example, [Magic Missile](#Magic_Missile_magic_missile) targets a creature, while [Fireball](#Fireball_fireball) targets the point of fire’s eruption.
 
 Spell ranges are usually expressed in feet.
 Some spells target only a creature you touch, while others affect only you (self range).

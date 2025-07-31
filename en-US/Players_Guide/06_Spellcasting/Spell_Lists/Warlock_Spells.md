@@ -6,10 +6,10 @@
 - [Chill Touch](#Chill_Touch_chill_touch)
 - [Eldritch Blast](#Eldritch_Blast_eldritch_blast)
 - [Friends](#Friends_friends)
-- Mage Hand
-- Minor Illusion
-- Poison Spray
-- Prestidigitation
+- [Mage Hand](#Mage_Hand_mage_hand)
+- [Minor Illusion](#Minor_Illusion_minor_illusion)
+- [Poison Spray](#Poison_Spray_poison_spray)
+- [Prestidigitation](#Prestidigitation_prestidigitation)
 - True Strike (concentration)
 
 ##### 1st Level
@@ -30,9 +30,9 @@
 - [Enthrall](#Enthrall_enthrall)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Invisibility](#Invisibility_invisibility) (concentration)
-- Mirror Image
-- Misty Step
-- Ray of Enfeeblement (concentration)
+- [Mirror Image](#Mirror_Image_mirror_image)
+- [Misty Step](#Misty_Step_misty_step)
+- [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
 - Shatter
 - Spider Climb (concentration)
 - Suggestion (concentration)
@@ -45,9 +45,9 @@
 - [Fly](#Fly_fly) (concentration)
 - [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
-- Magic Circle
-- Major Image (concentration)
-- Remove Curse
+- [Magic Circle](#Magic_Circle_magic_circle)
+- [Major Image](#Major_Image_major_image) (concentration)
+- [Remove Curse](#Remove_Curse_remove_curse)
 - Tongues
 - Vampiric Touch (concentration)
 
@@ -64,8 +64,8 @@
 - [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
 - [Dream](#Dream)
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
-- Mislead (concentration)
-- Planar Binding
+- [Mislead](#Mislead_mislead) (concentration)
+- [Planar Binding](#Planar_Binding_planar_binding)
 - Scrying (concentration)
 - Teleportation Circle
 
@@ -76,7 +76,7 @@
 - [Create Undead](#Create_Undead_create_undead)
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
-- Mass Suggestion
+- [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - True Seeing
 
 ##### 7th Level
@@ -84,7 +84,7 @@
 - [Etherealness](#Etherealness_etherealness)
 - [Finger of Death](#Finger_of_Death_finger_of_death)
 - [Forcecage](#Forcecage_forcecage)
-- Plane Shift
+- [Plane Shift](#Plane_Shift_plane_shift)
 
 ##### 8th Level
 
@@ -93,7 +93,7 @@
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Glibness](#Glibness_glibness)
-- Power Word Stun
+- [Power Word Stun](#Power_Word_Stun_power_word_stun)
 
 ##### 9th Level
 
@@ -101,6 +101,6 @@
 - [Foresight](#Foresight_foresight)
 - [Geas](#Geas_geas)
 - [Imprisonment](#Imprisonment_imprisonment)
-- Power Word Kill
+- [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - True Polymorph (concentration)
 - Weird (concentration)

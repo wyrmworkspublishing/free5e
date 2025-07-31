@@ -8,14 +8,14 @@
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - [Fire Bolt](#Fire_Bolt_fire_bolt)
 - [Friends](#Friends_friends)
-- Light
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
-- Poison Spray
-- Prestidigitation
-- Ray of Frost
+- [Light](#Light_light)
+- [Mage Hand](#Mage_Hand_mage_hand)
+- [Mending](#Mending_mending)
+- [Message](#Message_message)
+- [Minor Illusion](#Minor_Illusion_minor_illusion)
+- [Poison Spray](#Poison_Spray_poison_spray)
+- [Prestidigitation](#Prestidigitation_prestidigitation)
+- [Ray of Frost](#Ray_of_Frost_ray_of_frost)
 - Shocking Grasp
 - True Strike (concentration)
 
@@ -38,9 +38,9 @@
 - [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Jump](#Jump_jump)
-- Longstrider
-- Mage Armor
-- Magic Missile
+- [Longstrider](#Longstrider_longstrider)
+- [Mage Armor](#Mage_Armor_mage_armor)
+- [Magic Missile](#Magic_Missile_magic_missile)
 - [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
 - [Pelham's Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" --> (ritual)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
@@ -71,14 +71,14 @@
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Invisibility](#Invisibility_invisibility) (concentration)
 - [Knock](#Knock_knock)
-- Levitate (concentration)
-- Locate Object (concentration)
-- Magic Mouth (ritual)
-- Magic Weapon (concentration)
-- Mirror Image
-- Misty Step
-- Ray of Enfeeblement (concentration)
-- Rope Trick
+- [Levitate](#Levitate_levitate) (concentration)
+- [Locate Object](#Locate_Object_locate_object) (concentration)
+- [Magic Mouth](#Magic_Mouth_magic_mouth) (ritual)
+- [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
+- [Mirror Image](#Mirror_Image_mirror_image)
+- [Misty Step](#Misty_Step_misty_step)
+- [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
+- [Rope Trick](#Rope_Trick_rope_trick)
 - Scorching Ray
 - See Invisibility
 - Shatter
@@ -101,14 +101,14 @@
 - [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
 - [Haste](#Haste_haste) (concentration)
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
-- Lightning Bolt
-- Magic Circle
-- Major Image (concentration)
+- [Lightning Bolt](#Lightning_Bolt_lightning_bolt)
+- [Magic Circle](#Magic_Circle_magic_circle)
+- [Major Image](#Major_Image_major_image) (concentration)
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
-- Nondetection
-- Phantom Steed (ritual)
-- Protection from Energy (concentration)
-- Remove Curse
+- [Nondetection](#Nondetection_nondetection)
+- [Phantom Steed](#Phantom_Steed_phantom_steed) (ritual)
+- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
+- [Remove Curse](#Remove_Curse_remove_curse)
 - Sending
 - Sleet Storm (concentration)
 - Slow (concentration)
@@ -138,10 +138,10 @@
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
-- Locate Creature (concentration)
-- Phantasmal Killer (concentration)
-- Polymorph (concentration)
-- Resilient Sphere <!-- Might be renamed --> (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
+- [Phantasmal Killer](#Phantasmal_Killer_phantasmal_killer) (concentration)
+- [Polymorph](#Polymorph_polymorph) (concentration)
+- [Resilient Sphere](#Resilient_Sphere_resilient_sphere) <!-- Might be renamed --> (concentration)
 - Stone Shape
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
@@ -158,12 +158,12 @@
 - [Dream](#Dream)
 - [Geas](#Geas_geas)
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
-- Legend Lore
-- Mislead (concentration)
-- Modify Memory (concentration)
+- [Legend Lore](#Legend_Lore_legend_lore)
+- [Mislead](#Mislead_mislead) (concentration)
+- [Modify Memory](#Modify_Memory_modify_memory) (concentration)
 - [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
-- Passwall
-- Planar Binding
+- [Passwall](#Passwall_passwall)
+- [Planar Binding](#Planar_Binding_planar_binding)
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - Scrying (concentration)
 - Seeming
@@ -185,11 +185,11 @@
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
 - [Guards and Wards](#Guards_and_Wards)
-- Magic Jar
-- Mass Suggestion
-- Move Earth (concentration)
+- [Magic Jar](#Magic_Jar_magic_jar)
+- [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
+- [Move Earth](#Move_Earth_move_earth) (concentration)
 - [Natalex's Instant Summons](#Natalexs_Instant_Summons_natalexs_instant_summons) <!-- previously "Instant Summons"? --> (ritual)
-- Programmed Illusion
+- [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
 - Sunbeam (concentration)
 - True Seeing
 - Wall of Ice (concentration)
@@ -202,11 +202,11 @@
 - [Finger of Death](#Finger_of_Death_finger_of_death)
 - [Forcecage](#Forcecage_forcecage)
 - [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) (concentration) <!-- previously "Arcane Sword" -->
-- Mirage Arcane
-- Plane Shift
-- Prismatic Spray
-- Project Image (concentration)
-- Reverse Gravity (concentration)
+- [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
+- [Plane Shift](#Plane_Shift_plane_shift)
+- [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
+- [Project Image](#Project_Image_project_image) (concentration)
+- [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
 - Sequester
 - Simulacrum
 - Symbol
@@ -223,9 +223,9 @@
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
-- Maze (concentration)
-- Mind Blank
-- Power Word Stun
+- [Maze](#Maze_maze) (concentration)
+- [Mind Blank](#Mind_Blank_mind_blank)
+- [Power Word Stun](#Power_Word_Stun_power_word_stun)
 - Sunburst
 
 ##### 9th Level
@@ -234,9 +234,9 @@
 - [Foresight](#Foresight_foresight)
 - [Gate](#Gate_gate) (concentration)
 - [Imprisonment](#Imprisonment_imprisonment)
-- Meteor Swarm
-- Power Word Kill
-- Prismatic Wall
+- [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
+- [Power Word Kill](#Power_Word_Kill_power_word_kill)
+- [Prismatic Wall](#Prismatic_Wall_prismatic_wall)
 - Shapechange (concentration)
 - Time Stop
 - True Polymorph (concentration)

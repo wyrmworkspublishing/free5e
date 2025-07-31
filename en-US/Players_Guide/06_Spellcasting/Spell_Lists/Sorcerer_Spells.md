@@ -8,14 +8,14 @@
 - [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
 - [Fire Bolt](#Fire_Bolt_fire_bolt)
 - [Friends](#Friends_friends)
-- Light
-- Mage Hand
-- Mending
-- Message
-- Minor Illusion
-- Poison Spray
-- Prestidigitation
-- Ray of Frost
+- [Light](#Light_light)
+- [Mage Hand](#Mage_Hand_mage_hand)
+- [Mending](#Mending_mending)
+- [Message](#Message_message)
+- [Minor Illusion](#Minor_Illusion_minor_illusion)
+- [Poison Spray](#Poison_Spray_poison_spray)
+- [Prestidigitation](#Prestidigitation_prestidigitation)
+- [Ray of Frost](#Ray_of_Frost_ray_of_frost)
 - Shocking Grasp
 - True Strike (concentration)
 
@@ -33,8 +33,8 @@
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - [Grease](#Grease_grease)
 - [Jump](#Jump_jump)
-- Mage Armor
-- Magic Missile
+- [Mage Armor](#Mage_Armor_mage_armor)
+- [Magic Missile](#Magic_Missile_magic_missile)
 - Shield
 - Silent Image (concentration)
 - Sleep
@@ -56,10 +56,10 @@
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Invisibility](#Invisibility_invisibility) (concentration)
 - [Knock](#Knock_knock)
-- Levitate (concentration)
-- Magic Weapon (concentration)
-- Mirror Image
-- Misty Step
+- [Levitate](#Levitate_levitate) (concentration)
+- [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
+- [Mirror Image](#Mirror_Image_mirror_image)
+- [Misty Step](#Misty_Step_misty_step)
 - Scorching Ray
 - See Invisiblity
 - Shatter
@@ -80,9 +80,9 @@
 - [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
 - [Haste](#Haste_haste) (concentration)
 - [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
-- Lightning Bolt
-- Major Image (concentration)
-- Protection from Energy (concentration)
+- [Lightning Bolt](#Lightning_Bolt_lightning_bolt)
+- [Major Image](#Major_Image_major_image) (concentration)
+- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
 - Sleet Storm (concentration)
 - Slow (concentration)
 - Stinking Cloud (concentration)
@@ -102,7 +102,7 @@
 - [Fire Shield](#Fire_Shield_fire_shield)
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - [Ice Storm](#Ice_Storm_ice_storm)
-- Polymorph (concentration)
+- [Polymorph](#Polymorph_polymorph) (concentration)
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
 
@@ -130,8 +130,8 @@
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
-- Mass Suggestion
-- Move Earth (concentration)
+- [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
+- [Move Earth](#Move_Earth_move_earth) (concentration)
 - Sunbeam (concentration)
 - True Seeing
 
@@ -141,9 +141,9 @@
 - [Etherealness](#Etherealness_etherealness)
 - [Finger of Death](#Finger_of_Death_finger_of_death)
 - [Fire Storm](#Fire_Storm_fire_storm)
-- Plane Shift
-- Prismatic Spray
-- Reverse Gravity (concentration)
+- [Plane Shift](#Plane_Shift_plane_shift)
+- [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
+- [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
 - Teleport
 
 ##### 8th Level
@@ -152,13 +152,13 @@
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Earthquake](#Earthquake_earthquake) (concentration)
 - [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
-- Power Word Stun
+- [Power Word Stun](#Power_Word_Stun_power_word_stun)
 - Sunburst
 
 ##### 9th Level
 
 - [Gate](#Gate_gate) (concentration)
-- Meteor Swarm
-- Power Word Kill
+- [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
+- [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - Time Stop
 - Wish

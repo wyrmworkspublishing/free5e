@@ -357,23 +357,157 @@
 
 [Knock](./Spell_Descriptions/K/Knock.md)
 
+[Legend Lore](./Spell_Descriptions/L/Legend_Lore.md)
+
 [Lesser Restoration](./Spell_Descriptions/L/Lesser_Restoration.md)
+
+[Levitate](./Spell_Descriptions/L/Levitate.md)
+
+[Light](./Spell_Descriptions/L/Light.md)
+
+[Lightning Bolt](./Spell_Descriptions/L/Lightning_Bolt.md)
+
+[Locate Animals or Plants](./Spell_Descriptions/L/Locate_Animals_or_Plants.md)
+
+[Locate Creature](./Spell_Descriptions/L/Locate_Creature.md)
+
+[Locate Object](./Spell_Descriptions/L/Locate_Object.md)
+
+[Longstrider](./Spell_Descriptions/L/Longstrider.md)
+
+[Mage Armor](./Spell_Descriptions/M/Mage_Armor.md)
+
+[Mage Hand](./Spell_Descriptions/M/Mage_Hand.md)
+
+[Magic Circle](./Spell_Descriptions/M/Magic_Circle.md)
+
+[Magic Jar](./Spell_Descriptions/M/Magic_Jar.md)
+
+[Magic Missile](./Spell_Descriptions/M/Magic_Missile.md)
+
+[Magic Mouth](./Spell_Descriptions/M/Magic_Mough.md)
+
+[Major Image](./Spell_Descriptions/M/Major_Image.md)
+
+[Mass Cure Wounds](./Spell_Descriptions/M/Mass_Cure_Wounds.md)
+
+[Mass Heal](./Spell_Descriptions/M/Mass_Heal.md)
+
+[Mass Healing Word](./Spell_Descriptions/M/Mass_Healing_Word.md)
+
+[Mass Suggestion](./Spell_Descriptions/M/Mass_Suggestion.md)
+
+[Maze](./Spell_Descriptions/M/Maze.md)
+
+[Meld into Stone](./Spell_Descriptions/M/Meld_into_Stone.md)
 
 [Melestrua's Marvelous Marquee](./Spell_Descriptions/M/Melestruas_Marvelous_Marquee.md)
 
+[Mending](./Spell_Descriptions/M/Mending.md)
+
+[Meteor Swarm](./Spell_Descriptions/M/Meteor_Swarm.md)
+
+[Mind Blank](./Spell_Descriptions/M/Mind_Blank.md)
+
+[Minor Illusion](./Spell_Descriptions/M/Minor_Illusion.md)
+
+[Mirage Arcana](./Spell_Descriptions/M/Mirage_Arcane.md)
+
+[Mirror Image](./Spell_Descriptions/M/Mirror_Image.md)
+
+[Mislead](./Spell_Descriptions/M/Mislead.md)
+
+[Misty Step](./Spell_Descriptions/M/Misty_Step.md)
+
+[Modify Memory](./Spell_Descriptions/M/Modify_Memory.md)
+
+[Moonbeam](./Spell_Descriptions/M/Moonbeam.md)
+
 [Morscheck's Hand](./Spell_Descriptions/M/Morschecks_Hand.md)
+
+[Move Earth](./Spell_Descriptions/M/Move_Earth.md)
 
 [Naturecraft](./Spell_Descriptions/N/Naturecraft.md)
 
 [Natalex's Instant Summons](./Spell_Descriptions/N/Natalexs_Instant_Summons.md)
 
+[Nondetection](./Spell_Descriptions/N/Nondetection.md)
+
 [Paoliello's Hideous Laughter](./Spell_Descriptions/P/Paoliellos_Hideous_Laughter.md)
+
+[Pass without Trace](./Spell_Descriptions/P/Pass_without_Trace.md)
+
+[Passwall](./Spell_Descriptions/P/Passwall.md)
 
 [Pelham's Hovering Platter](./Spell_Descriptions/P/Pelhams_Hovering_Platter.md)
 
+[Phantasmal Killer](./Spell_Descriptions/P/Phantasmal_Killer.md)
+
+[Phantom Steed](./Spell_Descriptions/P/Phantom_Steed.md)
+
+[Planar Ally](./Spell_Descriptions/P/Planar_Ally.md)
+
+[Planar Binding](./Spell_Descriptions/P/Planar_Binding.md)
+
+[Plane Shift](./Spell_Descriptions/P/Plane_Shift.md)
+
+[Plant Growth](./Spell_Descriptions/P/Plant_Growth.md)
+
+[Poison Spray](./Spell_Descriptions/P/Poison_Spray.md)
+
+[Polymorph](./Spell_Descriptions/P/Polymorph.md)
+
+[Power Word Kill](./Spell_Descriptions/P/Power_Word_Kill.md)
+
+[Power Word Stun](./Spell_Descriptions/P/Power_Word_Stun.md)
+
+[Prayer of Healing](./Spell_Descriptions/P/Prayer_of_Healing.md)
+
+[Prestidigitation](./Spell_Descriptions/P/Prestidigitation.md)
+
+[Prismatic Spray](./Spell_Descriptions/P/Prismatic_Spray.md)
+
+[Prismatic Wall](./Spell_Descriptions/P/Prismatic_Wall.md)
+
+[Produce Flame](./Spell_Descriptions/P/Produce_Flame.md)
+
+[Programmed Illusion](./Spell_Descriptions/P/Programmed_Illusion.md)
+
+[Project Image](./Spell_Descriptions/P/Project_Image.md)
+
+[Protection from Energy](./Spell_Descriptions/P/Protection_from_Energy.md)
+
 [Protection from Evil and Good](./Spell_Descriptions/P/Protection_from_Evil_and_Good.md)
 
+[Protection from Poison](./Spell_Descriptions/P/Protection_from_Poison.md)
+
+[Purify Food and Drink](./Spell_Descriptions/P/Purify_Food_and_Drink.md)
+
+[Raise Dead](./Spell_Descriptions/R/Raise_Dead.md)
+
 [Rantock's Telepathic Bond](./Spell_Descriptions/R/Rantocks_Telepathic_Bond.md)
+
+[Ray of Enfeeblement](./Spell_Descriptions/R/Ray_of_Enfeeblement.md)
+
+[Ray of Frost](./Spell_Descriptions/R/Ray_of_Frost.md)
+
+[Regenerate](./Spell_Descriptions/R/Regenerate.md)
+
+[Reincarnate](./Spell_Descriptions/R/Reincarnate.md)
+
+[Remove Curse](./Spell_Descriptions/R/Remove_Curse.md)
+
+[Resilient Sphere](./Spell_Descriptions/R/Resilient_Sphere.md)
+
+[Resistance](./Spell_Descriptions/R/Resistance.md)
+
+[Resurrection](./Spell_Descriptions/R/Resurrection.md)
+
+[Reverse Gravity](./Spell_Descriptions/R/Reverse_Gravity.md)
+
+[Revivify](./Spell_Descriptions/R/Revivify.md)
+
+[Rope Trick](./Spell_Descriptions/R/Rope_Trick.md)
 
 [Sanctuary](./Spell_Descriptions/S/Sanctuary.md)
 

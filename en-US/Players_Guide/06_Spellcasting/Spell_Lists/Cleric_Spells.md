@@ -4,9 +4,9 @@
 ##### Cantrips (0 Level)
 
 - [Guidance](#Guidance_guidance) (concentration)
-- Light
-- Mending
-- Resistance (concentration)
+- [Light](#Light_light)
+- [Mending](#Mending_mending)
+- [Resistance](#Resistance_resistance) (concentration)
 - Sacred Flame
 - Spare the Dying
 - [Thaumaturgy](#Thaumaturgy_thaumaturgy)
@@ -26,7 +26,7 @@
 - [Healing Word](#Healing_Word_healing_word)
 - [Inflict Wounds](#Inflict_Wounds_inflict_wounds)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
-- Purify Food and Drink (ritual)
+- [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink) (ritual)
 - [Sanctuary](#Sanctuary_sanctuary)
 - Shield of Faith (concentration)
 
@@ -42,9 +42,9 @@
 - [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
-- Locate Object (concentration)
-- Prayer of Healing
-- Protection from Poison
+- [Locate Object](#Locate_Object_locate_object) (concentration)
+- [Prayer of Healing](#Prayer_of_Healing_prayer_of_healing)
+- [Protection from Poison](#Protect_from_Poison_protection_from_poison)
 - Silence (ritual)
 - Spiritual Weapon
 - Warding Bond
@@ -60,12 +60,12 @@
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
-- Magic Circle
-- Mass Healing Word
-- Meld into Stone (ritual)
-- Protection from Energy (concentration)
-- Remove Curse
-- Revivify
+- [Magic Circle](#Magic_Circle_magic_circle)
+- [Mass Healing Word](#Mass_Healing_Word_mass_healing_word)
+- [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
+- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
+- [Remove Curse](#Remove_Curse_remove_curse)
+- [Revivify](#Revivify_revivify)
 - Sending
 - Speak with Dead
 - Spirit Guardians (concentration)
@@ -80,7 +80,7 @@
 - [Divination](#Divination_divination) (ritual)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
 - [Guardian of Faith](#Guardian_of_Faith_guardian_of_faith)
-- Locate Creature (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - Stone Shape
 
 ##### 5th Level
@@ -93,10 +93,10 @@
 - Greater Restauration
 - [Hallow](#Hallow_hallow)
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
-- Legend Lore
-- Mass Cure Wounds
-- Planar Binding
-- Raise Dead
+- [Legend Lore](#Legend_Lore_legend_lore)
+- [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
+- [Planar Binding](#Planar_Binding_planar_binding)
+- [Raise Dead](#Raise_Dead_raise_dead)
 - Scrying (concentration)
 
 ##### 6th Level
@@ -108,7 +108,7 @@
 - [Harm](#Harm_harm)
 - [Heal](#Heal_heal)
 - [Heroes' Feast](#Heroes_Feast_heroes_feast)
-- Planar Ally
+- [Planar Ally](#Planar_Ally_planar_ally)
 - Sunbeam (concentration)
 - True Seeing
 - Word of Recall
@@ -119,9 +119,9 @@
 - [Divine Word](#Divine_Word_divine_word)
 - [Etherealness](#Etherealness_etherealness)
 - [Fire Storm](#Fire_Storm_fire_storm)
-- Plane Shift
-- Regenerate
-- Resurrection
+- [Plane Shift](#Plane_Shift_plane_shift)
+- [Regenerate](#Regenerate_regenerate)
+- [Resurrection](#Resurrection_resurrection)
 - Symbol
 
 ##### 8th Level
@@ -136,5 +136,5 @@
 
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Gate](#Gate_gate) (concentration)
-- Mass Heal
+- [Mass Heal](#Mass_Heal_mass_heal)
 - True Resurrection

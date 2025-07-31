@@ -4,11 +4,11 @@
 ##### Cantrips (0 Level)
 
 - [Guidance](#Guidance_guidance) (concentration)
-- Mending
+- [Mending](#Mending_mending)
 - [Naturecraft](#Naturecraft_naturecraft)
-- Poison Spray
-- Produce Flame
-- Resistance (concentration)
+- [Poison Spray](#Poison_Spray_poison_spray)
+- [Produce Flame](#Produce_Flame_produce_flame)
+- [Resistance](#Resistance_resistance) (concentration)
 - Shillelagh
 
 ##### 1st Level
@@ -26,9 +26,9 @@
 - [Healing Word](#Healing_Word_healing_word)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Jump](#Jump_jump)
-- Longstrider
+- [Longstrider](#Longstrider_longstrider)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
-- Purify Food and Drink (ritual)
+- [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink) (ritual)
 - Speak with Animals (ritual)
 - Thunderwave
 
@@ -48,11 +48,11 @@
 - [Heat Metal](#Heat_Metal_heat_metal) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
-- Locate Animals or Plants (ritual)
-- Locate Object (concentration)
-- Moonbeam (concentration)
-- Pass without Trace (concentration)
-- Protection from Poison
+- [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants) (ritual)
+- [Locate Object](#Locate_Object_locate_object) (concentration)
+- [Moonbeam](#Moonbeam_moonbeam) (concentration)
+- [Pass without Trace](#Pass_without_Trace_pass_without_trace) (concentration)
+- [Protection from Poison](#Protect_from_Poison_protection_from_poison)
 - Spike Growth (concentration)
 
 ##### 3rd Level
@@ -61,10 +61,10 @@
 - [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
-- Meld into Stone (ritual)
-- Plant Growth
-- Protection from Energy (concentration)
-- Revivify
+- [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
+- [Plant Growth](#Plant_Growth_plant_growth)
+- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
+- [Revivify](#Revivify_revivify)
 - Sleet Storm (concentration)
 - Speak with Plants
 - Water Breathing (ritual)
@@ -86,8 +86,8 @@
 - [Giant Insect](#Giant_Insect_giant_insect) (concentration)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - [Ice Storm](#Ice_Storm_ice_storm)
-- Locate Creature (concentration)
-- Polymorph (concentration)
+- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
+- [Polymorph](#Polymorph_polymorph) (concentration)
 - Stone Shape
 - Stoneskin (concentration)
 - Wall of Fire (concentration)
@@ -103,8 +103,9 @@
 - [Geas](#Geas_geas)
 - [Greater Restoration](#Greater_Restoration_greater_restoration)
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
-- Mass Cure Wounds
-- Planar Binding
+- [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
+- [Planar Binding](#Planar_Binding_planar_binding)
+- [Reincarnate](#Reincarnate_reincarnate)
 - Scrying (concentration)
 - Tree Stride (concentration)
 - Wall of Stone (concentration)
@@ -116,7 +117,7 @@
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - [Heal](#Heal_heal)
 - [[Heroes' Feast](#Heroes_Feast_heroes_feast)](#Heroes_Feast_heroes_feast)
-- Move Earth (concentration)
+- [Move Earth](#Move_Earth_move_earth) (concentration)
 - Sunbeam (concentration)
 - Transport via Plants
 - Wall of Thorns (concentration)
@@ -125,10 +126,10 @@
 ##### 7th Level
 
 - [Fire Storm](#Fire_Storm_fire_storm)
-- Mirage Arcane
-- Plane Shift
-- Regenerate
-- Reverse Gravity (concentration)
+- [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
+- [Plane Shift](#Plane_Shift_plane_shift)
+- [Regenerate](#Regenerate_regenerate)
+- [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
 - Symbol
 
 ##### 8th Level
