@@ -25,7 +25,7 @@
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Prayer of Healing](#Prayer_of_Healing_prayer_of_healing)
-- [Protection from Poison](#Protect_from_Poison_protection_from_poison)
+- [Protection from Poison](#Protection_from_Poison_protection_from_poison)
 - Warding Bond
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 

@@ -81,7 +81,7 @@ _Grassland (table)_
 |:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | 3rd            | [Invisibility](#Invisibility_invisibility), [Pass without Trace](#Pass_without_Trace_pass_without_trace)                                     |
 | 5th            | [Daylight](#Daylight_daylight), [Haste](#Haste_haste)                                                                                        |
-| 7th            | [Divination](#Divintation_divination), [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)                                       |
+| 7th            | [Divination](#Divination_divination), [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)                                       |
 | 9th            | [Dream](#Dream_dream), [Insect Plague](#Insect_Plague_insect_plague)                                                                         |
 
 ___

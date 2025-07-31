@@ -44,7 +44,7 @@
 - [Find Traps](#Find_Traps_find_traps)
 - [Flame Blade](#Flame_Blade_flame_blade) (concentration)
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
-- [Gust of Wind](#Gust_of_Wind) (concentration)
+- [Gust of Wind](#Gust_of_Wind_gust_of_wind) (concentration)
 - [Heat Metal](#Heat_Metal_heat_metal) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
@@ -52,7 +52,7 @@
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Moonbeam](#Moonbeam_moonbeam) (concentration)
 - [Pass without Trace](#Pass_without_Trace_pass_without_trace) (concentration)
-- [Protection from Poison](#Protect_from_Poison_protection_from_poison)
+- [Protection from Poison](#Protection_from_Poison_protection_from_poison)
 - Spike Growth (concentration)
 
 #### 3rd Level
@@ -63,7 +63,7 @@
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
 - [Plant Growth](#Plant_Growth_plant_growth)
-- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
+- [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Revivify](#Revivify_revivify)
 - Sleet Storm (concentration)
 - Speak with Plants

@@ -16,7 +16,7 @@ _Fiend Expanded Spells (table)_
 | Spell Level | Spells                                                                              |
 |------------:|:------------------------------------------------------------------------------------|
 |         1st | [Burning Hands](#Burning_Hands_burning_hands), [Command](#Command_command)          |
-|         2nd | [Blindness/Deafness](#Blindness_Deafness_blindness_deafness), [Scorching Ray](#Scorching_Ray_scorching_ray) |
+|         2nd | [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness), [Scorching Ray](#Scorching_Ray_scorching_ray) |
 |         3rd | [Fireball](#Fireball_fireball), [Stinking Cloud](#Stinking_Cloud_stinking_cloud)    |
 |         4th | [Fire Shield](#Fire_Shield_fire_shield), [Wall of Fire](#Wall_of_Fire_wall_of_fire) |
 |         5th | [Flame Strike](#Flame_Strike_flame_strike), [Hallow](#Hallow_hallow)                |

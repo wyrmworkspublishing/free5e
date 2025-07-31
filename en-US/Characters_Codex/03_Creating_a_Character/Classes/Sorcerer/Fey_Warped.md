@@ -20,7 +20,7 @@ _Fey Origin Spells (table)_
 
 | Sorcerer Level | Spells |
 |---------------:|:-------|
-|            1st | [Charm Person](#Charm_Person_charm_person), [Faerie Fire](#Faerie_Fire_faery_fire) |
+|            1st | [Charm Person](#Charm_Person_charm_person), [Faerie Fire](#Faerie_Fire_faerie_fire) |
 |            3nd | [Mirror Image](#Mirror_Image_mirror_image), [Misty Step](#Misty_Step_misty_step) |
 |            5th | [Blink](#Blink_blink), [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) |
 |            7th | [Confusion](#Confusion_confusion), [Greater Invisibility](#Greater_Invisibility_greater_invisibility) |

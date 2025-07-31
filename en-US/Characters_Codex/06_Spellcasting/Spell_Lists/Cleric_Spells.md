@@ -44,7 +44,7 @@
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Prayer of Healing](#Prayer_of_Healing_prayer_of_healing)
-- [Protection from Poison](#Protect_from_Poison_protection_from_poison)
+- [Protection from Poison](#Protection_from_Poison_protection_from_poison)
 - Silence (ritual)
 - Spiritual Weapon
 - Warding Bond
@@ -63,7 +63,7 @@
 - [Magic Circle](#Magic_Circle_magic_circle)
 - [Mass Healing Word](#Mass_Healing_Word_mass_healing_word)
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
-- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
+- [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Remove Curse](#Remove_Curse_remove_curse)
 - [Revivify](#Revivify_revivify)
 - Sending

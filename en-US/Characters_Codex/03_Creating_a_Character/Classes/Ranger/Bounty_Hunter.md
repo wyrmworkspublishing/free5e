@@ -41,7 +41,7 @@ If you are already proficient in Intimidation, you gain expertise in Intimidatio
 ###### Dead or Alive (3rd Level) {#Bounty_Hunter_dead_or_alive}
 
 You can mark a target to bring them down dead or alive.
-You can place this mark on a creature you can pinpoint within 120 feet as a bonus action, or as part of placing a mark on the creature that requires a bonus action (such as [Hunter’s Mark](#Hunters_Mark_hunters_mark)).
+You can place this mark on a creature you can pinpoint within 120 feet as a bonus action, or as part of placing a mark on the creature that requires a bonus action (such as [Hunter's Mark](#Hunters_Mark_hunters_mark)).
 This mark lasts for 1 minute, or until you use it again.
 Choose one of the following when you mark a creature:
 

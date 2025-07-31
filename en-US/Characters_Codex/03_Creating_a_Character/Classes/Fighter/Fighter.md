@@ -115,7 +115,7 @@ Beginning at 5th level, you can attack twice, instead of once, whenever you take
 
 The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
 
-##### Indomitable (9th & 13th & 17th Level)
+##### Indomitable (9th & 13th & 17th Level) {#Fighter_indomitable}
 
 Beginning at 9th level, you can reroll a saving throw that you fail.
 If you do so, you must use the new roll, and you can’t use this feature again until you finish a long rest.

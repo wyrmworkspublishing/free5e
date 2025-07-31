@@ -67,7 +67,7 @@
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
 - [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
-- [Gust of Wind](#Gust_of_Wind) (concentration)
+- [Gust of Wind](#Gust_of_Wind_gust_of_wind) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Invisibility](#Invisibility_invisibility) (concentration)
 - [Knock](#Knock_knock)
@@ -107,7 +107,7 @@
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - [Nondetection](#Nondetection_nondetection)
 - [Phantom Steed](#Phantom_Steed_phantom_steed) (ritual)
-- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
+- [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Remove Curse](#Remove_Curse_remove_curse)
 - Sending
 - Sleet Storm (concentration)
@@ -184,7 +184,7 @@
 - [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
-- [Guards and Wards](#Guards_and_Wards)
+- [Guards and Wards](#Guards_and_Wards_guards_and_wards)
 - [Magic Jar](#Magic_Jar_magic_jar)
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - [Move Earth](#Move_Earth_move_earth) (concentration)

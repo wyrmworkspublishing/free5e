@@ -1,4 +1,4 @@
-#### Naturecraft
+#### Nondetection
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level abjuration_
 

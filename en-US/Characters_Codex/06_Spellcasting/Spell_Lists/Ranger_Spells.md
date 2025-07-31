@@ -25,13 +25,13 @@
 - [Darkvision](#Darkvision_darkvision)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Find Traps](#Find_Traps_find_traps)
-- [Gust of Wind](#Gust_of_Wind) (concentration)
+- [Gust of Wind](#Gust_of_Wind_gust_of_wind) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Pass without Trace](#Pass_without_Trace_pass_without_trace) (concentration)
-- [Protection from Poison](#Protect_from_Poison_protection_from_poison)
+- [Protection from Poison](#Protection_from_Poison_protection_from_poison)
 - Silence
 - Spike Growth (concentration)
 
@@ -42,7 +42,7 @@
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone)
 - [Nondetection](#Nondetection_nondetection)
 - [Plant Growth](#Plant_Growth_plant_growth)
-- [Protection from Energy](#Protect_from_Energy_protection_from_energy) (concentration)
+- [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Revivify](#Revivify_revivify)
 - Speak with Plants
 - Water Breathing
