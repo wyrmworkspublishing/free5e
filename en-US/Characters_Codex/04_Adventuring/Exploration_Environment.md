@@ -43,7 +43,7 @@ Environmental factors such as noise or wind can reduce a sense’s effectiveness
 If an effect depends on a creature pinpointing you using an imprecise sense, use its passive Wisdom (Perception) to determine whether it succeeds.
 \
 \
-<mark>* See the chapter _Monster Information_ in _Free-Range Monsters_ for more information on tremorsense.</mark>
+\* See the chapter _Monster Information_ in the _Monstrous Manuscript_ for more information on tremorsense.
 
 ##### Sense {#Exploration_Environment_sense}
 

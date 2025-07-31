@@ -22,4 +22,4 @@ You inherit one major and one minor physical ability from your parents.
 - **Minor:**
   Brave, Darkvision, Fey Ancestry, Halfling Nimbleness, Heavy Lifter, Intrepid, Mighty Attacks, Trance
 
-If you want to use ancestries from other sources as your parents, the <mark>Conductors Handbook</mark> contains instructions on how to determine major and minor features of those ancestries.
+If you want to use ancestries from other sources as your parents, the Conductor's Companion contains instructions on how to determine major and minor features of those ancestries.

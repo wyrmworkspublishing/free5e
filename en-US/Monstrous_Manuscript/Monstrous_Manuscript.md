@@ -1,6 +1,6 @@
-# Free5e Free Range Monsters
+# Free5e Monstrous Manuscript
 
-(Title Pending, <mark>Preview Work-in-Progress</mark>)
+(<mark>Preview Work-in-Progress</mark>)
 
 Sign up to receive email updates at [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard)
 Follow and Back the Kickstarter to make this a reality at [https://www.kickstarter.com/projects/wyrmworkspublishing/free5e-a-free-open-source-dungeons-and-dragons-alternative?ref=dmx0j9](https://www.kickstarter.com/projects/wyrmworkspublishing/free5e-a-free-open-source-dungeons-and-dragons-alternative?ref=dmx0j9)

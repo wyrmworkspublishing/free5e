@@ -1,5 +1,5 @@
-# Free5e Player’s Guide
-(Title Pending, Preview Work-in-Progress)
+# Free5e Character's Codex
+(<mark>Preview Work-in-Progress</mark>)
 
 <mark>Highlighted Portions</mark> are scheduled for significant modification.
 \

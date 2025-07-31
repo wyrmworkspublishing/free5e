@@ -9,7 +9,7 @@ You stand at the threshold of adventure, not someone else's, but one shaped by y
 
 **This is Free5e.**
 
-More than just rules, this Player’s Guide is your gateway to collaborative adventure.
+More than just rules, this Character's Codex is your gateway to collaborative adventure.
 Build heroes shaped by imagination and lived experience.
 Face the unknown with tools forged for equity, creativity, and community.
 
@@ -23,11 +23,11 @@ Craft heroes who reflect complex identities, layered motivations, and abilities 
 
 > **This is just the beginning.**
 > \
-> The Free5e Player’s Guide is one of three core volumes.
+> The Free5e Character's Codex is one of three core volumes.
 > Ready to lead adventures of your own?
-> The Game Conductor’s Handbook gives you everything you need to build and run stories for others.
+> The Conductor's Companion gives you everything you need to build and run stories for others.
 > Need foes to challenge your heroes?
-> Free Range Monsters unleashes a host of ready-to-use adversaries.
+> Monstrous Manuscript unleashes a host of ready-to-use adversaries.
 > Find them all at [Free5e.com](https://free5e.com) or scan the code below.
 > \
 > ![Free5e.com](../../assets/free5e.com-qr-code/qr-code.svg)

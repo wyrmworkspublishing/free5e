@@ -1,6 +1,6 @@
-# Free5e Conductor Handbook
+# Free5e Conductor's Companion
 
-(Title Pending, Preview Work-in-Progress)
+(<mark>Preview Work-in-Progress</mark>)
 
 <mark>Highlighted Portions</mark> are scheduled for significant modification.
 \

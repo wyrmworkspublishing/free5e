@@ -12,12 +12,12 @@ This work includes material taken from the Lazy GM's Resource Document by Michae
 This work includes material taken from the Lazy GM's 5e Monster Builder Resource Document written by Teos Abadía of [Alphastream.org](https://Alphastream.org), Scott Fitzgerald Gray of [Insaneangel.com](https://Insaneangel.com), and Michael E. Shea of [SlyFlourish.com](https://SlyFlourish.com), available under a Creative Commons Attribution 4.0 International License.
 <!-- TODO Add a link to the license -->
 
-The text of Free5e Free Range Monsters © 2025 by Wyrmworks Publishing and available at [https://free5e.com](https://free5e.com) is licensed under Creative Commons Attribution 4.0 International.
+The text of Free5e Monstrous Manuscript © 2025 by Wyrmworks Publishing and available at [https://free5e.com](https://free5e.com) is licensed under Creative Commons Attribution 4.0 International.
 To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
 You are free to use this content in any manner permitted by that license as long as you include the following attribution statement in your own work:
-> This work includes material adapted from **Free5e Free Range Monsters**, © 2025 by Wyrmworks Publishing, and available at [https://free5e.com](https://free5e.com).
-> **Free5e Free Range Monsters** is licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0).
+> This work includes material adapted from **Free5e Monstrous Manuscript**, © 2025 by Wyrmworks Publishing, and available at [https://free5e.com](https://free5e.com).
+> **Free5e Monstrous Manuscript** is licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0).
 > To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 >
 > This adaptation also includes material originally taken from:
