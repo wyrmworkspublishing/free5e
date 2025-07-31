@@ -26,4 +26,4 @@ When you create a device, choose one of the following options:
   The box stops playing when it reaches the song’s end or when it is closed.
 
 **Languages.**
-You can speak or sign, read, and write Common, Gnomish, and one other language.
+You can understand and communicate in Common, Gnomish, and one other language.
