@@ -151,7 +151,7 @@ Choose one matching your mandate:
   You also gain resistance to bludgeoning, piercing, and slashing damage for 1 minute.
 - **Illuminated Soul** (Light, Life)
   \
-  As an action, you emit a 30 foot aura for 1 minute.
+  As an action, you emit a 30-foot aura for 1 minute.
   Allies in the area gain advantage on saving throws against being blinded, charmed, or frightened and regain 1d6 hit points at the start of their turns.
 - **Shifting Facade** (Trickery, Knowledge)
   \
