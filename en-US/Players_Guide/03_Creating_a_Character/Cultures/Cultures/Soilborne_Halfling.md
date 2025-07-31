@@ -16,4 +16,4 @@ You can't use this trait again until after you finish a long rest.
 You gain proficiency in two of the following skills: Acrobatics, Animal Handling, Nature, Religion, or Survival.
 \
 **Languages.**
-You can speak or sign, read, and write Common, Halfling, and Terran.
+You can understand and communicate in Common, Halfling, and Terran.
