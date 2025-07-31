@@ -654,7 +654,9 @@
 
 ### V
 
-<!-- TODO -->
+[Vampiric Touch](./Spell_Descriptions/V/Vampiric_Touch.md)
+
+[Vicious Mockery](./Spell_Descriptions/V/Vicious_Mockery.md)
 
 ### W
 

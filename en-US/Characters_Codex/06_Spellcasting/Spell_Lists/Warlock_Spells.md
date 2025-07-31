@@ -49,7 +49,7 @@
 - [Major Image](#Major_Image_major_image) (concentration)
 - [Remove Curse](#Remove_Curse_remove_curse)
 - [Tongues](#Tongues_tongues)
-- Vampiric Touch (concentration)
+- [Vampiric Touch](#Vampiric_Touch_vampiric_touch) (concentration)
 
 #### 4th Level
 

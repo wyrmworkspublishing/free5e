@@ -115,7 +115,7 @@
 - [Speak with Dead](#Speak_with_Dead_speak_with_dead)
 - [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
 - [Tongues](#Tongues_tongues)
-- Vampiric Touch (concentration)
+- [Vampiric Touch](#Vampiric_Touch_vampiric_touch) (concentration)
 - Water Breathing (ritual)
 
 #### 4th Level

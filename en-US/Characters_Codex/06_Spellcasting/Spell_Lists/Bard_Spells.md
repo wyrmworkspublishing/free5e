@@ -12,7 +12,7 @@
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
 - [Prestidigitation](#Prestidigitation_prestidigitation)
 - [True Strike](#True_Strike_true_strike) (concentration)
-- Vicious Mockery
+- [Vicious Mockery](#Vicious_Mockery_vicious_mockery)
 
 #### 1st Level
 
