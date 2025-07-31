@@ -46,7 +46,7 @@ title-page:
     font-size: 20
 footer:
   border-style: dashed
-  height: 0.75in
+  height: 0.5in
   sectlevels: 2
   title-style: toc
   recto:
