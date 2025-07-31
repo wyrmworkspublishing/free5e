@@ -217,7 +217,7 @@ _Adventuring Gear (table)_
 | Ink (1 ounce bottle)              |  10 gp |          — |
 | Ink pen                           |   2 cp |          — |
 | Jug or pitcher                    |   2 cp |      4 lb. |
-| Ladder (10 foot)                  |   1 sp |     25 lb. |
+| Ladder (10-foot)                  |   1 sp |     25 lb. |
 | Lamp                              |   5 sp |      1 lb. |
 | Lantern, bullseye                 |  10 gp |      2 lb. |
 | Lantern, hooded                   |   5 gp |      2 lb. |
