@@ -5,8 +5,9 @@ ADD https://github.com/sass/dart-sass/releases/download/1.89.2/dart-sass-1.89.2-
 RUN tar -xvzf sass.tar.gz
 
 FROM ubuntu:latest
-RUN apt-get update
-RUN apt-get install -y asciidoctor bash nodejs npm pandoc tree
+RUN apt-get update && \
+    apt-get install -y asciidoctor bash nodejs npm pandoc weasyprint tree && \
+    rm -rf /var/lib/apt/lists/*
 RUN gem install asciidoctor-pdf asciidoctor-epub3 asciidoctor-reducer asciimath kramdown-asciidoc
 RUN npm i --global downdoc
 COPY --from=sass-provider /tmp/dart-sass/ /usr/local/sbin/

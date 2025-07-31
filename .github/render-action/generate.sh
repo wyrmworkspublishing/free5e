@@ -46,7 +46,7 @@ function convert_markdown_to_asciidoc {
       -a stem \
       -a table-stripes=even \
       -a toc \
-      -a toclevels=4 \
+      -a toclevels=3 \
       --auto-ids \
       --auto-id-prefix="${md_filename%.md}_" \
       --auto-id-separator="_" \
@@ -85,7 +85,6 @@ function convert_asciidoc_to_html {
       -a stylesdir="${css_filesdir}" \
       -a stylesheet=free5e.css \
       -a toc=left \
-      -a toclevels=3 \
       "${adoc_filepath}" \
       -o "${html_filepath}"
 }
@@ -199,7 +198,70 @@ function convert_docbook_to_latex {
       "${docbook_filepath}"
 }
 
-clean_up_generated
+function convert_html_to_pdfua {
+  MD_BASE_FILE_NAME="${MD_BASE_FILE##*/}"
+  BOOK_BASE_FILE_DIR="$(dirname -- ${MD_BASE_FILE#*/})"
+  HTML_BASE_FILE_DIR="../html/${BOOK_BASE_FILE_DIR}"
+  HTML_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.html"
+  PDFUA_BASE_FILE_DIR="../pdf/"
+  PDFUA_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}_accessible_from_html.pdf"
+
+  html_filepath="$(pwd)/${HTML_BASE_FILE_DIR}/${HTML_BASE_FILE_NAME}"
+  pdfua_filepath="$(pwd)/${PDFUA_BASE_FILE_DIR}/${PDFUA_BASE_FILE_NAME}"
+
+  mkdir -p "${PDFUA_BASE_FILE_DIR}"
+
+  pandoc \
+      --from html \
+      --to pdf \
+      --pdf-engine=weasyprint \
+       --pdf-engine-opt=--pdf-variant=pdf/ua-1 \
+      --output "${pdfua_filepath}" \
+      "${html_filepath}"
+}
+
+function convert_docbook_to_pdfua {
+  MD_BASE_FILE_NAME="${MD_BASE_FILE##*/}"
+  DOCBOOK_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.xml"
+  PDFUA_BASE_FILE_DIR="../pdf/"
+  PDFUA_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}_accessible_from_docbook.pdf"
+
+  docbook_filepath="$(pwd)/${DOCBOOK_BASE_FILE_NAME}"
+  pdfua_filepath="$(pwd)/${PDFUA_BASE_FILE_DIR}/${PDFUA_BASE_FILE_NAME}"
+
+  mkdir -p "${PDFUA_BASE_FILE_DIR}"
+
+  pandoc \
+      --from docbook \
+      --to pdf \
+      --pdf-engine=weasyprint \
+       --pdf-engine-opt=--pdf-variant=pdf/ua-1 \
+      --output "${pdfua_filepath}" \
+      "${docbook_filepath}"
+}
+
+function convert_docx_to_pdfua {
+  MD_BASE_FILE_NAME="${MD_BASE_FILE##*/}"
+  DOCX_BASE_FILE_DIR="../docx/"
+  DOCX_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}.docx"
+  PDFUA_BASE_FILE_DIR="../pdf/"
+  PDFUA_BASE_FILE_NAME="${MD_BASE_FILE_NAME%.md}_accessible_from_docx.pdf"
+
+  docx_filepath="$(pwd)/${DOCX_BASE_FILE_DIR}/${DOCX_BASE_FILE_NAME}"
+  pdfua_filepath="$(pwd)/${PDFUA_BASE_FILE_DIR}/${PDFUA_BASE_FILE_NAME}"
+
+  mkdir -p "${PDFUA_BASE_FILE_DIR}"
+
+  pandoc \
+      --from docx \
+      --to pdf \
+      --pdf-engine=weasyprint \
+       --pdf-engine-opt=--pdf-variant=pdf/ua-1 \
+      --output "${pdfua_filepath}" \
+      "${docx_filepath}"
+}
+
+#clean_up_generated
 
 # Check the languages to be read
 IFS=', ' read -r -a languages <<< "${LANGUAGES_TO_RENDER}"
@@ -210,7 +272,7 @@ for language in "${languages[@]}"; do
   mkdir -p "${GENERATED_FILES_TARGET_DIR}/${language}"
   echo "About to generate files to ${GENERATED_FILES_TARGET_DIR}/${language}..."
   
-  DATE_FORMAT=$(echo "DATE_FORMAT_${language}" | tr - _)
+  DATE_FORMAT=$(echo "DATE_FORMAT_${language}" | tr - _)q
 
   FONTS_BASE_DIR="$(pwd)/assets/fonts"
 
@@ -218,97 +280,109 @@ for language in "${languages[@]}"; do
   BASEFILE_PLAYER_BOOK=$(echo "BASEFILE_PLAYER_BOOK_${language}" | tr - _)
   echo "Converting the ${language} player book Markdown files to AsciiDoc, starting with ${!BASEFILE_PLAYER_BOOK}..."
   pushd $(dirname -- "${!BASEFILE_PLAYER_BOOK}")
-  convert_markdown_to_asciidoc
+  #convert_markdown_to_asciidoc
   popd
 
   # Generate the conductor book AsciiDoc files
   BASEFILE_CONDUCTOR_BOOK=$(echo "BASEFILE_CONDUCTOR_BOOK_${language}" | tr - _)
   echo "Converting the ${language} conductor book Markdown files to AsciiDoc, starting with ${!BASEFILE_CONDUCTOR_BOOK}..."
   pushd $(dirname -- "${!BASEFILE_CONDUCTOR_BOOK}")
-  convert_markdown_to_asciidoc
+  #convert_markdown_to_asciidoc
   popd
 
   # Generate the conductor book AsciiDoc files
   BASEFILE_MONSTER_BOOK=$(echo "BASEFILE_MONSTER_BOOK_${language}" | tr - _)
   echo "Converting the ${language} monster book Markdown files to AsciiDoc, starting with ${!BASEFILE_MONSTER_BOOK}..."
   pushd $(dirname -- "${!BASEFILE_MONSTER_BOOK}")
-  convert_markdown_to_asciidoc
+  #convert_markdown_to_asciidoc
   popd
 
-  echo "Generated the following AsciiDoc files:"
-  pushd "${GENERATED_FILES_TARGET_DIR}/${language}"
-  tree
+  #echo "Generated the following AsciiDoc files:"
+  #pushd "${GENERATED_FILES_TARGET_DIR}/${language}"
+  #tree
 
   # In the newly generated AsciiDoc files, replace links with includes
-  for adoc in $(find . -name '*.adoc'); do
-    sed -i'.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
-  done
+  #for adoc in $(find . -name '*.adoc'); do
+  #  sed -i'.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
+  #done
 
   # Now make sure that the tables look decent
-  for adoc in $(find . -name '*.adoc'); do
-    sed -i'.1.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
-    mv $adoc "$adoc.2.bak"
-    awk '
-      /^$/ { blank++ }
-      blank && /^\|===$/ { blank=0; print "[%autowidth,width=100%]" }
-      /^./ { blank=0 }
-      { print }
-    ' "$adoc.2.bak" > $adoc
-  done
-  popd
+  #for adoc in $(find . -name '*.adoc'); do
+  #  sed -i'.1.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
+  #  mv $adoc "$adoc.2.bak"
+  #  awk '
+  #    /^$/ { blank++ }
+  #    blank && /^\|===$/ { blank=0; print "[%autowidth,width=100%]" }
+  #    /^./ { blank=0 }
+  #    { print }
+  #  ' "$adoc.2.bak" > $adoc
+  #done
+  #popd
 
   # Generate HTML, PDF, EPUB3, and DocBook formats for the books
   MD_BASE_DIR="$(pwd)/$(dirname -- ${!BASEFILE_PLAYER_BOOK})"
   pushd "generated/${language}/adoc"
   MD_BASE_FILE="${!BASEFILE_PLAYER_BOOK}"
-  convert_asciidoc_to_html
+  #convert_asciidoc_to_html
   convert_asciidoc_to_pdf
-  convert_asciidoc_to_epub
-  convert_asciidoc_to_docbook
+  #convert_asciidoc_to_epub
+  #convert_asciidoc_to_docbook
   popd
 
   MD_BASE_DIR="$(pwd)/$(dirname -- ${!BASEFILE_CONDUCTOR_BOOK})"
   pushd "generated/${language}/adoc"
   echo "Currently in $(pwd)..."
   MD_BASE_FILE="${!BASEFILE_CONDUCTOR_BOOK}"
-  convert_asciidoc_to_html
-  convert_asciidoc_to_pdf
-  convert_asciidoc_to_epub
-  convert_asciidoc_to_docbook
+  #convert_asciidoc_to_html
+  #convert_asciidoc_to_pdf
+  #convert_asciidoc_to_epub
+  #convert_asciidoc_to_docbook
   popd
 
   MD_BASE_DIR="$(pwd)/$(dirname -- ${!BASEFILE_MONSTER_BOOK})"
   pushd "generated/${language}/adoc"
   MD_BASE_FILE="${!BASEFILE_MONSTER_BOOK}"
-  convert_asciidoc_to_html
-  convert_asciidoc_to_pdf
-  convert_asciidoc_to_epub
-  convert_asciidoc_to_docbook
+  #convert_asciidoc_to_html
+  #convert_asciidoc_to_pdf
+  #convert_asciidoc_to_epub
+  #convert_asciidoc_to_docbook
   popd
 
   # Generate DOCX, ODT, and LaTeX files formats for the books
   MD_BASE_DIR="$(pwd)/$(dirname -- $BASEFILE_PLAYER_BOOK)"
   pushd "generated/${language}/docbook"
   MD_BASE_FILE="${!BASEFILE_PLAYER_BOOK}"
-  convert_docbook_to_docx
-  convert_docbook_to_odt
-  convert_docbook_to_latex
+  #convert_docbook_to_docx
+  #convert_docbook_to_odt
+  #convert_docbook_to_latex
+  #convert_html_to_pdfua
+  #convert_docbook_to_pdfua
+  #convert_docx_to_pdfua
+
   popd
 
   MD_BASE_DIR="$(pwd)/$(dirname -- $BASEFILE_CONDUCTOR_BOOK)"
   pushd "generated/${language}/docbook"
   MD_BASE_FILE="${!BASEFILE_CONDUCTOR_BOOK}"
-  convert_docbook_to_docx
-  convert_docbook_to_odt
-  convert_docbook_to_latex
+  #convert_docbook_to_docx
+  #convert_docbook_to_odt
+  #convert_docbook_to_latex
+  #convert_html_to_pdfua
+  #convert_docbook_to_pdfua
+  #convert_docx_to_pdfua
+
   popd
 
   MD_BASE_DIR="$(pwd)/$(dirname -- $BASEFILE_MONSTER_BOOK)"
   pushd "generated/${language}/docbook"
   MD_BASE_FILE="${!BASEFILE_MONSTER_BOOK}"
-  convert_docbook_to_docx
-  convert_docbook_to_odt
-  convert_docbook_to_latex
+  #convert_docbook_to_docx
+  #convert_docbook_to_odt
+  #convert_docbook_to_latex
+  #convert_html_to_pdfua
+  #convert_docbook_to_pdfua
+  #convert_docx_to_pdfua
+
   popd
 done
 

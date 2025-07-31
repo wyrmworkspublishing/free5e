@@ -2,7 +2,7 @@ FROM blalasaadri/free5e-render-base:latest
 
 WORKDIR /free5e
 
-COPY generate.sh generate.sh
+COPY generate.sh .
 
 WORKDIR /free5e/data
 
