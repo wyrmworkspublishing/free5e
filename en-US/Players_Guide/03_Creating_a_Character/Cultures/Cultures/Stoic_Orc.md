@@ -17,4 +17,4 @@ Wisdom is your spellcasting ability for these spells.
 In addition, you may cast other spells you learn as rituals if those spells have the ritual tag.
 \
 **Languages.**
-You can speak or sign, read, and write Common and Orc.
+You can understand and communicate in Common and Orc.
