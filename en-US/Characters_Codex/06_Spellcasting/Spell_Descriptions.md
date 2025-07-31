@@ -622,7 +622,31 @@
 
 ### T
 
+[Telekinesis](./Spell_Descriptions/T/Telekinesis.md)
+
+[Teleport](./Spell_Descriptions/T/Teleport.md)
+
+[Teleportation Circle](./Spell_Descriptions/T/Teleportation_Circle.md)
+
 [Thaumaturgy](./Spell_Descriptions/T/Thaumaturgy.md)
+
+[Thunderwave](./Spell_Descriptions/T/Thunderwave.md)
+
+[Time Stop](./Spell_Descriptions/T/Time_Stop.md)
+
+[Tongues](./Spell_Descriptions/T/Tongues.md)
+
+[Transport via Plants](./Spell_Descriptions/T/Transport_via_Plants.md)
+
+[Tree Stride](./Spell_Descriptions/T/Tree_Stride.md)
+
+[True Polymorph](./Spell_Descriptions/T/True_Polymorph.md)
+
+[True Resurrection](./Spell_Descriptions/T/True_Resurrection.md)
+
+[True Seeing](./Spell_Descriptions/T/True_Seeing.md)
+
+[True Strike](./Spell_Descriptions/T/True_Strike.md)
 
 ### U
 

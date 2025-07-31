@@ -11,7 +11,7 @@
 - [Message](#Message_message)
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
 - [Prestidigitation](#Prestidigitation_prestidigitation)
-- True Strike (concentration)
+- [True Strike](#True_Strike_true_strike) (concentration)
 - Vicious Mockery
 
 #### 1st Level
@@ -36,7 +36,7 @@
 - [Silent Image](#Silent_Image_silent_image) (concentration)
 - [Sleep](#Sleep_sleep)
 - [Speak with Animals](#Speak_with_Animals_speak_with_animals) (ritual)
-- Thunderwave
+- [Thunderwave](#Thunderwave_thunderwave)
 - Unseen Servant (ritual)
 
 #### 2nd Level
@@ -82,7 +82,7 @@
 - [Speak with Dead](#Speak_with_Dead_speak_with_dead)
 - [Speak with Plants](#Speak_with_Plants_speak_with_plants)
 - [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
-- Tongues
+- [Tongues](#Tongues_tongues)
 
 #### 4th Level
 
@@ -115,7 +115,7 @@
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - [Scrying](#Scrying_scrying) (concentration)
 - [Seeming](#Seeming_seeming)
-- Teleportation Circle
+- [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
 
 #### 6th Level
 
@@ -125,7 +125,7 @@
 - [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
-- True Seeing
+- [True Seeing](#True_Seeing_true_seeing)
 
 #### 7th Level
 
@@ -139,7 +139,7 @@
 - [Regenerate](#Regenerate_regenerate)
 - [Resurrection](#Resurrection_resurrection)
 - [Symbol](#Symbol_symbol)
-- Teleport
+- [Teleport](#Teleport_teleport)
 
 #### 8th Level
 
@@ -156,4 +156,4 @@
 - [Foresight](#Foresight_foresight)
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - [Prismatic Wall](#Prismatic_Wall_prismatic_wall)
-- True Polymorph (concentration)
+- [True Polymorph](#True_Polymorph_true_polymorph) (concentration)

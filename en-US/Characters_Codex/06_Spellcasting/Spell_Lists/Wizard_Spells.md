@@ -17,7 +17,7 @@
 - [Prestidigitation](#Prestidigitation_prestidigitation)
 - [Ray of Frost](#Ray_of_Frost_ray_of_frost)
 - [Shocking Grasp](#Shocking_Grasp_shocking_grasp)
-- True Strike (concentration)
+- [True Strike](#True_Strike_true_strike) (concentration)
 
 #### 1st Level
 
@@ -47,7 +47,7 @@
 - [Shield](#Shield_shield)
 - [Silent Image](#Silent_Image_silent_image) (concentration)
 - [Sleep](#Sleep_sleep)
-- Thunderwave
+- [Thunderwave](#Thunderwave_thunderwave)
 - Unseen Servant (ritual)
 
 #### 2nd Level
@@ -114,7 +114,7 @@
 - [Slow](#Slow_slow) (concentration)
 - [Speak with Dead](#Speak_with_Dead_speak_with_dead)
 - [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
-- Tongues
+- [Tongues](#Tongues_tongues)
 - Vampiric Touch (concentration)
 - Water Breathing (ritual)
 
@@ -167,8 +167,8 @@
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
 - [Scrying](#Scrying_scrying) (concentration)
 - [Seeming](#Seeming_seeming)
-- Telekinesis (concentration)
-- Teleportation Circle
+- [Telekinesis](#Telekinesis_telekinesis) (concentration)
+- [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
 - Wall of Force (concentration)
 - Wall of Stone (concentration)
 
@@ -191,7 +191,7 @@
 - [Natalex's Instant Summons](#Natalexs_Instant_Summons_natalexs_instant_summons) <!-- previously "Instant Summons"? --> (ritual)
 - [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
 - [Sunbeam](#Sunbeam_sunbeam) (concentration)
-- True Seeing
+- [True Seeing](#True_Seeing_true_seeing)
 - Wall of Ice (concentration)
 
 #### 7th Level
@@ -210,7 +210,7 @@
 - [Sequester](#Sequester_sequester)
 - [Simulacrum](#Simulacrum_simulacrum)
 - [Symbol](#Symbol_symbol)
-- Teleport
+- [Teleport](#Teleport_teleport)
 
 #### 8th Level
 
@@ -238,7 +238,7 @@
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - [Prismatic Wall](#Prismatic_Wall_prismatic_wall)
 - [Shapechange](#Shapechange_shapechange) (concentration)
-- Time Stop
-- True Polymorph (concentration)
+- [Time Stop](#Time_Stop_time_stop)
+- [True Polymorph](#True_Polymorph_true_polymorph) (concentration)
 - Weird (concentration)
 - Wish

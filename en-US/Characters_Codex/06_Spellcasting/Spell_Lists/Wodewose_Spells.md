@@ -30,7 +30,7 @@
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink) (ritual)
 - [Speak with Animals](#Speak_with_Animals_speak_with_animals) (ritual)
-- Thunderwave
+- [Thunderwave](#Thunderwave_thunderwave)
 
 #### 2nd Level
 
@@ -107,7 +107,7 @@
 - [Planar Binding](#Planar_Binding_planar_binding)
 - [Reincarnate](#Reincarnate_reincarnate)
 - [Scrying](#Scrying_scrying) (concentration)
-- Tree Stride (concentration)
+- [Tree Stride](#Tree_Stride_tree_stride) (concentration)
 - Wall of Stone (concentration)
 
 #### 6th Level
@@ -119,7 +119,7 @@
 - [[Heroes' Feast](#Heroes_Feast_heroes_feast)](#Heroes_Feast_heroes_feast)
 - [Move Earth](#Move_Earth_move_earth) (concentration)
 - [Sunbeam](#Sunbeam_sunbeam) (concentration)
-- Transport via Plants
+- [Transport via Plants](#Transport_via_Plants_transport_via_plants)
 - Wall of Thorns (concentration)
 - Wind Walk
 
@@ -148,4 +148,4 @@
 - [Foresight](#Foresight_foresight)
 - [Shapechange](#Shapechange_shapechange) (concentration)
 - [Storm of Vengeance](#Storm_of_Vengeance_storm_of_vengeance) (concentration)
-- True Resurrection
+- [True Resurrection](#True_Resurrection_true_resurrection)

@@ -10,7 +10,7 @@
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
 - [Poison Spray](#Poison_Spray_poison_spray)
 - [Prestidigitation](#Prestidigitation_prestidigitation)
-- True Strike (concentration)
+- [True Strike](#True_Strike_true_strike) (concentration)
 
 #### 1st Level
 
@@ -48,7 +48,7 @@
 - [Magic Circle](#Magic_Circle_magic_circle)
 - [Major Image](#Major_Image_major_image) (concentration)
 - [Remove Curse](#Remove_Curse_remove_curse)
-- Tongues
+- [Tongues](#Tongues_tongues)
 - Vampiric Touch (concentration)
 
 #### 4th Level
@@ -67,7 +67,7 @@
 - [Mislead](#Mislead_mislead) (concentration)
 - [Planar Binding](#Planar_Binding_planar_binding)
 - [Scrying](#Scrying_scrying) (concentration)
-- Teleportation Circle
+- [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
 
 #### 6th Level
 
@@ -77,7 +77,7 @@
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
-- True Seeing
+- [True Seeing](#True_Seeing_true_seeing)
 
 #### 7th Level
 
@@ -102,5 +102,5 @@
 - [Geas](#Geas_geas)
 - [Imprisonment](#Imprisonment_imprisonment)
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)
-- True Polymorph (concentration)
+- [True Polymorph](#True_Polymorph_true_polymorph) (concentration)
 - Weird (concentration)

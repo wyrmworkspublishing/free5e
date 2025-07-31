@@ -17,7 +17,7 @@
 - [Prestidigitation](#Prestidigitation_prestidigitation)
 - [Ray of Frost](#Ray_of_Frost_ray_of_frost)
 - [Shocking Grasp](#Shocking_Grasp_shocking_grasp)
-- True Strike (concentration)
+- [True Strike](#True_Strike_true_strike) (concentration)
 
 #### 1st Level
 
@@ -38,7 +38,7 @@
 - [Shield](#Shield_shield)
 - [Silent Image](#Silent_Image_silent_image) (concentration)
 - [Sleep](#Sleep_sleep)
-- Thunderwave
+- [Thunderwave](#Thunderwave_thunderwave)
 
 #### 2nd Level
 
@@ -86,7 +86,7 @@
 - [Sleet Storm](#Sleet_Storm_sleet_storm) (concentration)
 - [Slow](#Slow_slow) (concentration)
 - [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
-- Tongues
+- [Tongues](#Tongues_tongues)
 - Vampiric Touch (concentration)
 - Water Breathing
 - Water Walk
@@ -117,8 +117,8 @@
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
 - [Seeming](#Seeming_seeming)
-- Telekinesis (concentration)
-- Teleportation Circle
+- [Telekinesis](#Telekinesis_telekinesis) (concentration)
+- [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
 - Wall of Stone (concentration)
 
 #### 6th Level
@@ -133,7 +133,7 @@
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - [Move Earth](#Move_Earth_move_earth) (concentration)
 - [Sunbeam](#Sunbeam_sunbeam) (concentration)
-- True Seeing
+- [True Seeing](#True_Seeing_true_seeing)
 
 #### 7th Level
 
@@ -144,7 +144,7 @@
 - [Plane Shift](#Plane_Shift_plane_shift)
 - [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
 - [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
-- Teleport
+- [Teleport](#Teleport_teleport)
 
 #### 8th Level
 
@@ -160,5 +160,5 @@
 - [Gate](#Gate_gate) (concentration)
 - [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)
-- Time Stop
+- [Time Stop](#Time_Stop_time_stop)
 - Wish

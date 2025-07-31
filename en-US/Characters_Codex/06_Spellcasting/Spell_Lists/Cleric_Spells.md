@@ -69,7 +69,7 @@
 - [Sending](#Sending_sending)
 - [Speak with Dead](#Speak_with_Dead_speak_with_dead)
 - [Spirit Guardians](#Spirit_Guardians_spirit_guardians) (concentration)
-- Tongues
+- [Tongues](#Tongues_tongues)
 - Water Walk (ritual)
 
 #### 4th Level
@@ -110,7 +110,7 @@
 - [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - [Planar Ally](#Planar_Ally_planar_ally)
 - [Sunbeam](#Sunbeam_sunbeam) (concentration)
-- True Seeing
+- [True Seeing](#True_Seeing_true_seeing)
 - Word of Recall
 
 #### 7th Level
@@ -137,4 +137,4 @@
 - [Astral Projection](#Astral_Projection_astral_projection)
 - [Gate](#Gate_gate) (concentration)
 - [Mass Heal](#Mass_Heal_mass_heal)
-- True Resurrection
+- [True Resurrection](#True_Resurrection_true_resurrection)
