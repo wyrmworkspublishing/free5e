@@ -129,6 +129,7 @@ teleporting
 Teos
 Tiefling
 Tieflings
+Theurge
 Thunderwave
 Treeborne
 tremorsense
