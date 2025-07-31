@@ -48,7 +48,7 @@
 - [Silent Image](#Silent_Image_silent_image) (concentration)
 - [Sleep](#Sleep_sleep)
 - [Thunderwave](#Thunderwave_thunderwave)
-- Unseen Servant (ritual)
+- [Unseen Servant](#Unseen_Servant_unseen_servant) (ritual)
 
 #### 2nd Level
 

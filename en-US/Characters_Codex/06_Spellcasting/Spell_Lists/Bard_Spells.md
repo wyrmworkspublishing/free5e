@@ -37,7 +37,7 @@
 - [Sleep](#Sleep_sleep)
 - [Speak with Animals](#Speak_with_Animals_speak_with_animals) (ritual)
 - [Thunderwave](#Thunderwave_thunderwave)
-- Unseen Servant (ritual)
+- [Unseen Servant](#Unseen_Servant_unseen_servant) (ritual)
 
 #### 2nd Level
 

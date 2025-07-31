@@ -22,7 +22,7 @@
 - [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
-- Unseen Servant (ritual)
+- [Unseen Servant](#Unseen_Servant_unseen_servant) (ritual)
 
 #### 2nd Level
 

@@ -650,7 +650,7 @@
 
 ### U
 
-<!-- TODO -->
+[Unseen Servant](./Spell_Descriptions/U/Unseen_Servant.md)
 
 ### V
 
