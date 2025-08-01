@@ -59,6 +59,7 @@ gnolls
 goblinoid
 goblinoids
 Goodberry
+goristro
 Greataxe
 Greatclub
 Greatsword
@@ -124,6 +125,7 @@ Scrying
 Shadowfell
 Shapechange
 shapechanger
+shapechangers
 shapeshifting
 Shortbow
 shortsword

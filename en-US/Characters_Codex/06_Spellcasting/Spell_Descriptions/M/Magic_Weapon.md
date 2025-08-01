@@ -1,6 +1,14 @@
 #### Magic Weapon
+<!-- TODO Check and tag this spell -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level transmutation_
 
-> **Warning:**
-> This spell has not yet been transferred from the Google Doc.
+**Casting Time:** 1 bonus action \
+**Range:** Touch \
+**Components:** V, S \
+**Duration:** Concentration, up to 1 hour
+
+Until the spell ends, one nonmagical weapon becomes +1 magic weapon.
+
+**At Higher Levels.**
+The bonus increases by +1 for every 2 slot levels above 2nd (maximum +3).
