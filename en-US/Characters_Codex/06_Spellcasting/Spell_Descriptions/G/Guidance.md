@@ -1,6 +1,14 @@
 #### Guidance
+<!-- TODO Check and tag this spell -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Divination cantrip_
 
-> **Warning:**
-> This spell has not yet been transferred from the Google Doc.
+**Casting Time:** 1 action \
+**Range:** Touch \
+**Components:** V, S \
+**Duration:** Concentration, up to 1 minute
+
+You touch one willing creature.
+Once before the spell ends, the target can roll a `d4` and add the number rolled to one ability check of its choice.
+It can roll the die before or after making the ability check.
+The spell then ends.
