@@ -16,8 +16,8 @@
 - [Poison Spray](#Poison_Spray_poison_spray)
 - [Prestidigitation](#Prestidigitation_prestidigitation)
 - [Ray of Frost](#Ray_of_Frost_ray_of_frost)
-- Shocking Grasp
-- True Strike (concentration)
+- [Shocking Grasp](#Shocking_Grasp_shocking_grasp)
+- [True Strike](#True_Strike_true_strike) (concentration)
 
 #### 1st Level
 
@@ -35,10 +35,10 @@
 - [Jump](#Jump_jump)
 - [Mage Armor](#Mage_Armor_mage_armor)
 - [Magic Missile](#Magic_Missile_magic_missile)
-- Shield
-- Silent Image (concentration)
-- Sleep
-- Thunderwave
+- [Shield](#Shield_shield)
+- [Silent Image](#Silent_Image_silent_image) (concentration)
+- [Sleep](#Sleep_sleep)
+- [Thunderwave](#Thunderwave_thunderwave)
 
 #### 2nd Level
 
@@ -60,12 +60,12 @@
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
-- Scorching Ray
+- [Scorching Ray](#Scorching_Ray_scorching_ray)
 - See Invisiblity
-- Shatter
-- Spider Climb (concentration)
-- Suggestion (concentration)
-- Web (concentration)
+- [Shatter](#Shatter_shatter)
+- [Spider Climb](#Spider_Climb_spider_climb) (concentration)
+- [Suggestion](#Suggestion_suggestion) (concentration)
+- [Web](#Web_web) (concentration)
 
 #### 3rd Level
 
@@ -83,13 +83,13 @@
 - [Lightning Bolt](#Lightning_Bolt_lightning_bolt)
 - [Major Image](#Major_Image_major_image) (concentration)
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
-- Sleet Storm (concentration)
-- Slow (concentration)
-- Stinking Cloud (concentration)
-- Tongues
-- Vampiric Touch (concentration)
-- Water Breathing
-- Water Walk
+- [Sleet Storm](#Sleet_Storm_sleet_storm) (concentration)
+- [Slow](#Slow_slow) (concentration)
+- [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
+- [Tongues](#Tongues_tongues)
+- [Vampiric Touch](#Vampiric_Touch_vampiric_touch) (concentration)
+- [Water Breathing](#Water_Breathing_water_breathing)
+- [Water Walk](#Water_Walk_water_walk)
 
 #### 4th Level
 
@@ -103,8 +103,8 @@
 - [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Polymorph](#Polymorph_polymorph) (concentration)
-- Stoneskin (concentration)
-- Wall of Fire (concentration)
+- [Stoneskin](#Stoneskin_stoneskin) (concentration)
+- [Wall of Fire](#Wall_of_Fire_wall_of_fire) (concentration)
 
 #### 5th Level
 
@@ -116,10 +116,10 @@
 - [Hold Monster](#Hold_Monster_hold_monster) (concentration)
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
-- Seeming
-- Telekinesis (concentration)
-- Teleportation Circle
-- Wall of Stone (concentration)
+- [Seeming](#Seeming_seeming)
+- [Telekinesis](#Telekinesis_telekinesis) (concentration)
+- [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
+- [Wall of Stone](#Wall_of_Stone_wall_of_stone) (concentration)
 
 #### 6th Level
 
@@ -132,8 +132,8 @@
 - [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - [Move Earth](#Move_Earth_move_earth) (concentration)
-- Sunbeam (concentration)
-- True Seeing
+- [Sunbeam](#Sunbeam_sunbeam) (concentration)
+- [True Seeing](#True_Seeing_true_seeing)
 
 #### 7th Level
 
@@ -144,7 +144,7 @@
 - [Plane Shift](#Plane_Shift_plane_shift)
 - [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
 - [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
-- Teleport
+- [Teleport](#Teleport_teleport)
 
 #### 8th Level
 
@@ -153,12 +153,12 @@
 - [Earthquake](#Earthquake_earthquake) (concentration)
 - [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
 - [Power Word Stun](#Power_Word_Stun_power_word_stun)
-- Sunburst
+- [Sunburst](#Sunburst_sunburst)
 
 #### 9th Level
 
 - [Gate](#Gate_gate) (concentration)
 - [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)
-- Time Stop
-- Wish
+- [Time Stop](#Time_Stop_time_stop)
+- [Wish](#Wish_wish)

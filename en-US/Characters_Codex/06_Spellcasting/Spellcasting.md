@@ -16,7 +16,7 @@ Some might be recorded in ancient spellbooks or trapped in the minds of dead god
 ### Spell Level
 
 Spells have levels from 0 to 9, indicating their power.
-Magic missile is 1st level, while Wish is 9th.
+[Magic missile](#Magic_Missile_magic_missile) is 1st level, while [Wish](#Wish_wish) is 9th.
 Cantrips are simple but powerful spells cast almost by rote, level 0.
 Higher level spells require higher character level.
 Spell level and character level don’t directly correspond.

@@ -16,8 +16,8 @@
 - [Poison Spray](#Poison_Spray_poison_spray)
 - [Prestidigitation](#Prestidigitation_prestidigitation)
 - [Ray of Frost](#Ray_of_Frost_ray_of_frost)
-- Shocking Grasp
-- True Strike (concentration)
+- [Shocking Grasp](#Shocking_Grasp_shocking_grasp)
+- [True Strike](#True_Strike_true_strike) (concentration)
 
 #### 1st Level
 
@@ -44,11 +44,11 @@
 - [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
 - [Pelham's Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" --> (ritual)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
-- Shield
-- Silent Image (concentration)
-- Sleep
-- Thunderwave
-- Unseen Servant (ritual)
+- [Shield](#Shield_shield)
+- [Silent Image](#Silent_Image_silent_image) (concentration)
+- [Sleep](#Sleep_sleep)
+- [Thunderwave](#Thunderwave_thunderwave)
+- [Unseen Servant](#Unseen_Servant_unseen_servant) (ritual)
 
 #### 2nd Level
 
@@ -79,12 +79,12 @@
 - [Misty Step](#Misty_Step_misty_step)
 - [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
 - [Rope Trick](#Rope_Trick_rope_trick)
-- Scorching Ray
-- See Invisibility
-- Shatter
-- Spider Climb (concentration)
-- Suggestion (concentration)
-- Web (concentration)
+- [Scorching Ray](#Scorching_Ray_scorching_ray)
+- [See Invisibility](#See_Invisibility_see_invisibility)
+- [Shatter](#Shatter_shatter)
+- [Spider Climb](#Spider_Climb_spider_climb) (concentration)
+- [Suggestion](#Suggestion_suggestion) (concentration)
+- [Web](#Web_web) (concentration)
 
 #### 3rd Level
 
@@ -109,14 +109,14 @@
 - [Phantom Steed](#Phantom_Steed_phantom_steed) (ritual)
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Remove Curse](#Remove_Curse_remove_curse)
-- Sending
-- Sleet Storm (concentration)
-- Slow (concentration)
-- Speak with Dead
-- Stinking Cloud (concentration)
-- Tongues
-- Vampiric Touch (concentration)
-- Water Breathing (ritual)
+- [Sending](#Sending_sending)
+- [Sleet Storm](#Sleet_Storm_sleet_storm) (concentration)
+- [Slow](#Slow_slow) (concentration)
+- [Speak with Dead](#Speak_with_Dead_speak_with_dead)
+- [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
+- [Tongues](#Tongues_tongues)
+- [Vampiric Touch](#Vampiric_Touch_vampiric_touch) (concentration)
+- [Water Breathing](#Water_Breathing_water_breathing) (ritual)
 
 #### 4th Level
 
@@ -142,9 +142,9 @@
 - [Phantasmal Killer](#Phantasmal_Killer_phantasmal_killer) (concentration)
 - [Polymorph](#Polymorph_polymorph) (concentration)
 - [Resilient Sphere](#Resilient_Sphere_resilient_sphere) <!-- Might be renamed --> (concentration)
-- Stone Shape
-- Stoneskin (concentration)
-- Wall of Fire (concentration)
+- [Stone Shape](#Stone_Shape_stone_shape)
+- [Stoneskin](#Stoneskin_stoneskin) (concentration)
+- [Wall of Fire](#Wall_of_Fire_wall_of_fire) (concentration)
 
 #### 5th Level
 
@@ -165,12 +165,12 @@
 - [Passwall](#Passwall_passwall)
 - [Planar Binding](#Planar_Binding_planar_binding)
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
-- Scrying (concentration)
-- Seeming
-- Telekinesis (concentration)
-- Teleportation Circle
-- Wall of Force (concentration)
-- Wall of Stone (concentration)
+- [Scrying](#Scrying_scrying) (concentration)
+- [Seeming](#Seeming_seeming)
+- [Telekinesis](#Telekinesis_telekinesis) (concentration)
+- [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
+- [Wall of Force](#Wall_of_Force_wall_of_force) (concentration)
+- [Wall of Stone](#Wall_of_Stone_wall_of_stone) (concentration)
 
 #### 6th Level
 
@@ -190,9 +190,9 @@
 - [Move Earth](#Move_Earth_move_earth) (concentration)
 - [Natalex's Instant Summons](#Natalexs_Instant_Summons_natalexs_instant_summons) <!-- previously "Instant Summons"? --> (ritual)
 - [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
-- Sunbeam (concentration)
-- True Seeing
-- Wall of Ice (concentration)
+- [Sunbeam](#Sunbeam_sunbeam) (concentration)
+- [True Seeing](#True_Seeing_true_seeing)
+- [Wall of Ice](#Wall_of_Ice_wall_of_ice) (concentration)
 
 #### 7th Level
 
@@ -207,10 +207,10 @@
 - [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
 - [Project Image](#Project_Image_project_image) (concentration)
 - [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
-- Sequester
-- Simulacrum
-- Symbol
-- Teleport
+- [Sequester](#Sequester_sequester)
+- [Simulacrum](#Simulacrum_simulacrum)
+- [Symbol](#Symbol_symbol)
+- [Teleport](#Teleport_teleport)
 
 #### 8th Level
 
@@ -226,7 +226,7 @@
 - [Maze](#Maze_maze) (concentration)
 - [Mind Blank](#Mind_Blank_mind_blank)
 - [Power Word Stun](#Power_Word_Stun_power_word_stun)
-- Sunburst
+- [Sunburst](#Sunburst_sunburst)
 
 #### 9th Level
 
@@ -237,8 +237,8 @@
 - [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - [Prismatic Wall](#Prismatic_Wall_prismatic_wall)
-- Shapechange (concentration)
-- Time Stop
-- True Polymorph (concentration)
-- Weird (concentration)
-- Wish
+- [Shapechange](#Shapechange_shapechange) (concentration)
+- [Time Stop](#Time_Stop_time_stop)
+- [True Polymorph](#True_Polymorph_true_polymorph) (concentration)
+- [Weird](#Weird_weird) (concentration)
+- [Wish](#Wish_wish)

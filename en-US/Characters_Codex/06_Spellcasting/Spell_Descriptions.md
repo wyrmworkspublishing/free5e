@@ -548,23 +548,145 @@
 
 ### S
 
+[Sacred Flame](./Spell_Descriptions/S/Sacred_Flame.md)
+
 [Sanctuary](./Spell_Descriptions/S/Sanctuary.md)
+
+[Scorching Ray](./Spell_Descriptions/S/Scorching_Ray.md)
+
+[Scrying](./Spell_Descriptions/S/Scrying.md)
+
+[See Invisibility](./Spell_Descriptions/S/See_Invisibility.md)
+
+[Seeming](./Spell_Descriptions/S/Seeming.md)
+
+[Sending](./Spell_Descriptions/S/Sending.md)
+
+[Sequester](./Spell_Descriptions/S/Sequester.md)
+
+[Shapechange](./Spell_Descriptions/S/Shapechange.md)
+
+[Shatter](./Spell_Descriptions/S/Shatter.md)
+
+[Shield](./Spell_Descriptions/S/Shield.md)
+
+[Shield of Faith](./Spell_Descriptions/S/Shield_of_Faith.md)
+
+[Shillelagh](./Spell_Descriptions/S/Shillelagh.md)
+
+[Shocking Grasp](./Spell_Descriptions/S/Shocking_Grasp.md)
+
+[Silence](./Spell_Descriptions/S/Silence.md)
+
+[Silent Image](./Spell_Descriptions/S/Silent_Image.md)
+
+[Simulacrum](./Spell_Descriptions/S/Simulacrum.md)
+
+[Sleep](./Spell_Descriptions/S/Sleep.md)
+
+[Sleet Storm](./Spell_Descriptions/S/Sleet_Storm.md)
+
+[Slow](./Spell_Descriptions/S/Slow.md)
+
+[Spare the Dying](./Spell_Descriptions/S/Spare_the_Dying.md)
+
+[Speak with Animals](./Spell_Descriptions/S/Speak_with_Animals.md)
+
+[Speak with Dead](./Spell_Descriptions/S/Speak_with_Dead.md)
+
+[Speak with Plants](./Spell_Descriptions/S/Speak_with_Plants.md)
+
+[Spider Climb](./Spell_Descriptions/S/Spider_Climb.md)
+
+[Spike Growth](./Spell_Descriptions/S/Spike_Growth.md)
+
+[Spirit Guardians](./Spell_Descriptions/S/Spirit_Guardians.md)
+
+[Spiritual Weapon](./Spell_Descriptions/S/Spiritual_Weapon.md)
+
+[Stinking Cloud](./Spell_Descriptions/S/Stinking_Cloud.md)
+
+[Stone Shape](./Spell_Descriptions/S/Stone_Shape.md)
+
+[Stoneskin](./Spell_Descriptions/S/Stoneskin.md)
+
+[Storm of Vengeance](./Spell_Descriptions/S/Storm_of_Vengeance.md)
+
+[Suggestion](./Spell_Descriptions/S/Suggestion.md)
+
+[Sunbeam](./Spell_Descriptions/S/Sunbeam.md)
+
+[Sunburst](./Spell_Descriptions/S/Sunburst.md)
+
+[Symbol](./Spell_Descriptions/S/Symbol.md)
 
 ### T
 
+[Telekinesis](./Spell_Descriptions/T/Telekinesis.md)
+
+[Teleport](./Spell_Descriptions/T/Teleport.md)
+
+[Teleportation Circle](./Spell_Descriptions/T/Teleportation_Circle.md)
+
 [Thaumaturgy](./Spell_Descriptions/T/Thaumaturgy.md)
+
+[Thunderwave](./Spell_Descriptions/T/Thunderwave.md)
+
+[Time Stop](./Spell_Descriptions/T/Time_Stop.md)
+
+[Tongues](./Spell_Descriptions/T/Tongues.md)
+
+[Transport via Plants](./Spell_Descriptions/T/Transport_via_Plants.md)
+
+[Tree Stride](./Spell_Descriptions/T/Tree_Stride.md)
+
+[True Polymorph](./Spell_Descriptions/T/True_Polymorph.md)
+
+[True Resurrection](./Spell_Descriptions/T/True_Resurrection.md)
+
+[True Seeing](./Spell_Descriptions/T/True_Seeing.md)
+
+[True Strike](./Spell_Descriptions/T/True_Strike.md)
 
 ### U
 
-<!-- TODO -->
+[Unseen Servant](./Spell_Descriptions/U/Unseen_Servant.md)
 
 ### V
 
-<!-- TODO -->
+[Vampiric Touch](./Spell_Descriptions/V/Vampiric_Touch.md)
+
+[Vicious Mockery](./Spell_Descriptions/V/Vicious_Mockery.md)
 
 ### W
 
-<!-- TODO -->
+[Wall of Fire](./Spell_Descriptions/W/Wall_of_Fire.md)
+
+[Wall of Force](./Spell_Descriptions/W/Wall_of_Force.md)
+
+[Wall of Ice](./Spell_Descriptions/W/Wall_of_Ice.md)
+
+[Wall of Stone](./Spell_Descriptions/W/Wall_of_Stone.md)
+
+[Wall of Thorns](./Spell_Descriptions/W/Wall_of_Thorns.md)
+
+[Warding Bond](./Spell_Descriptions/W/Warding_Bond.md)
+
+[Water Breathing](./Spell_Descriptions/W/Water_Breathing.md)
+
+[Water Walk](./Spell_Descriptions/W/Water_Walk.md)
+
+[Web](./Spell_Descriptions/W/Web.md)
+
+[Weird](./Spell_Descriptions/W/Weird.md)
+
+[Wind Walk](./Spell_Descriptions/W/Wind_Walk.md)
+
+[Wind Wall](./Spell_Descriptions/W/Wind_Wall.md)
+
+[Wish](./Spell_Descriptions/W/Wish.md)
+
+[Word of Recall](./Spell_Descriptions/W/Word_of_Recall.md)
 
 <!-- No spells start with X or Y -->
 

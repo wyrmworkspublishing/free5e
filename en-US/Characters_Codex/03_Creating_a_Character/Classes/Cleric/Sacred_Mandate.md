@@ -96,7 +96,7 @@ At 6th level, the effects improve or gain additional features.
   For 1 minute, you and allies in the area gain advantage on one Intelligence, Wisdom, or Charisma check of your choice, as divine clarity sharpens your senses and mind.
   \
   **6th Level:**
-  You and each creature of your choice within 30 feet have truesight for one minute.
+  You and each creature of your choice within 30 feet have [truesight](#Exploration_Environment_truesight) for one minute.
 - **Channel Divinity: Phantom’s Whim** (Trickery, Knowledge)
   \
   As a bonus action, you cloak a creature that you choose within 30 feet in illusions.

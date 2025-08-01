@@ -11,8 +11,8 @@
 - [Message](#Message_message)
 - [Minor Illusion](#Minor_Illusion_minor_illusion)
 - [Prestidigitation](#Prestidigitation_prestidigitation)
-- True Strike (concentration)
-- Vicious Mockery
+- [True Strike](#True_Strike_true_strike) (concentration)
+- [Vicious Mockery](#Vicious_Mockery_vicious_mockery)
 
 #### 1st Level
 
@@ -33,11 +33,11 @@
 - [Illusory Script](#Illusory_Script_illusory_script) (ritual)
 - [Longstrider](#Longstrider_longstrider)
 - [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
-- Silent Image (concentration)
-- Sleep
-- Speak with Animals (ritual)
-- Thunderwave
-- Unseen Servant (ritual)
+- [Silent Image](#Silent_Image_silent_image) (concentration)
+- [Sleep](#Sleep_sleep)
+- [Speak with Animals](#Speak_with_Animals_speak_with_animals) (ritual)
+- [Thunderwave](#Thunderwave_thunderwave)
+- [Unseen Servant](#Unseen_Servant_unseen_servant) (ritual)
 
 #### 2nd Level
 
@@ -58,10 +58,10 @@
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Magic Mouth](#Magic_Mouth_magic_mouth) (ritual)
 - [Mirror Image](#Mirror_Image_mirror_image)
-- See Invisibility
-- Shatter
-- Silence (ritual)
-- Suggestion (concentration)
+- [See Invisibility](#See_Invisibility_see_invisibility)
+- [Shatter](#Shatter_shatter)
+- [Silence](#Silence_silence) (ritual)
+- [Suggestion](#Suggestion_suggestion) (concentration)
 - [Zone of Truth](#Zone_of_Truth_zone_of_truth)
 
 #### 3rd Level
@@ -77,12 +77,12 @@
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - [Nondetection](#Nondetection_nondetection)
 - [Plant Growth](#Plant_Growth_plant_growth)
-- Sending
-- Slow (concentration)
-- Speak with Dead
-- Speak with Plants
-- Stinking Cloud (concentration)
-- Tongues
+- [Sending](#Sending_sending)
+- [Slow](#Slow_slow) (concentration)
+- [Speak with Dead](#Speak_with_Dead_speak_with_dead)
+- [Speak with Plants](#Speak_with_Plants_speak_with_plants)
+- [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
+- [Tongues](#Tongues_tongues)
 
 #### 4th Level
 
@@ -113,9 +113,9 @@
 - [Planar Binding](#Planar_Binding_planar_binding)
 - [Raise Dead](#Raise_Dead_raise_dead)
 - [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
-- Scrying (concentration)
-- Seeming
-- Teleportation Circle
+- [Scrying](#Scrying_scrying) (concentration)
+- [Seeming](#Seeming_seeming)
+- [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
 
 #### 6th Level
 
@@ -125,7 +125,7 @@
 - [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
-- True Seeing
+- [True Seeing](#True_Seeing_true_seeing)
 
 #### 7th Level
 
@@ -138,14 +138,14 @@
 - [Project Image](#Project_Image_project_image) (concentration)
 - [Regenerate](#Regenerate_regenerate)
 - [Resurrection](#Resurrection_resurrection)
-- Symbol
-- Teleport
+- [Symbol](#Symbol_symbol)
+- [Teleport](#Teleport_teleport)
 
 #### 8th Level
 
 <!-- spell-checker:words Feeblemind -->
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
-- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" -->
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Glibness](#Glibness_glibness)
 - [Mind Blank](#Mind_Blank_mind_blank)
@@ -156,4 +156,4 @@
 - [Foresight](#Foresight_foresight)
 - [Power Word Kill](#Power_Word_Kill_power_word_kill)
 - [Prismatic Wall](#Prismatic_Wall_prismatic_wall)
-- True Polymorph (concentration)
+- [True Polymorph](#True_Polymorph_true_polymorph) (concentration)

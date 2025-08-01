@@ -9,7 +9,7 @@
 - [Poison Spray](#Poison_Spray_poison_spray)
 - [Produce Flame](#Produce_Flame_produce_flame)
 - [Resistance](#Resistance_resistance) (concentration)
-- Shillelagh
+- [Shillelagh](#Shillelagh_shillelagh)
 
 #### 1st Level
 
@@ -29,8 +29,8 @@
 - [Longstrider](#Longstrider_longstrider)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink) (ritual)
-- Speak with Animals (ritual)
-- Thunderwave
+- [Speak with Animals](#Speak_with_Animals_speak_with_animals) (ritual)
+- [Thunderwave](#Thunderwave_thunderwave)
 
 #### 2nd Level
 
@@ -53,7 +53,7 @@
 - [Moonbeam](#Moonbeam_moonbeam) (concentration)
 - [Pass without Trace](#Pass_without_Trace_pass_without_trace) (concentration)
 - [Protection from Poison](#Protection_from_Poison_protection_from_poison)
-- Spike Growth (concentration)
+- [Spike Growth](#Spike_Growth_spike_growth) (concentration)
 
 #### 3rd Level
 
@@ -65,11 +65,11 @@
 - [Plant Growth](#Plant_Growth_plant_growth)
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Revivify](#Revivify_revivify)
-- Sleet Storm (concentration)
-- Speak with Plants
-- Water Breathing (ritual)
-- Water Walk (ritual)
-- Wind Wall (concentration)
+- [Sleet Storm](#Sleet_Storm_sleet_storm) (concentration)
+- [Speak with Plants](#Speak_with_Plants_speak_with_plants)
+- [Water Breathing](#Water_Breathing_water_breathing) (ritual)
+- [Water Walk](#Water_Walk_water_walk) (ritual)
+- [Wind Wall](#Wind_Wall_wind_wall) (concentration)
 
 #### 4th Level
 
@@ -88,9 +88,9 @@
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - [Polymorph](#Polymorph_polymorph) (concentration)
-- Stone Shape
-- Stoneskin (concentration)
-- Wall of Fire (concentration)
+- [Stone Shape](#Stone_Shape_stone_shape)
+- [Stoneskin](#Stoneskin_stoneskin) (concentration)
+- [Wall of Fire](#Wall_of_Fire_wall_of_fire) (concentration)
 
 #### 5th Level
 
@@ -106,9 +106,9 @@
 - [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds)
 - [Planar Binding](#Planar_Binding_planar_binding)
 - [Reincarnate](#Reincarnate_reincarnate)
-- Scrying (concentration)
-- Tree Stride (concentration)
-- Wall of Stone (concentration)
+- [Scrying](#Scrying_scrying) (concentration)
+- [Tree Stride](#Tree_Stride_tree_stride) (concentration)
+- [Wall of Stone](#Wall_of_Stone_wall_of_stone) (concentration)
 
 #### 6th Level
 
@@ -116,12 +116,12 @@
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - [Heal](#Heal_heal)
-- [[Heroes' Feast](#Heroes_Feast_heroes_feast)](#Heroes_Feast_heroes_feast)
+- [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - [Move Earth](#Move_Earth_move_earth) (concentration)
-- Sunbeam (concentration)
-- Transport via Plants
-- Wall of Thorns (concentration)
-- Wind Walk
+- [Sunbeam](#Sunbeam_sunbeam) (concentration)
+- [Transport via Plants](#Transport_via_Plants_transport_via_plants)
+- [Wall of Thorns](#Wall_of_Thorns_wall_of_thorns) (concentration)
+- [Wind Walk](#Wind_Walk_wind_walk)
 
 #### 7th Level
 
@@ -130,22 +130,22 @@
 - [Plane Shift](#Plane_Shift_plane_shift)
 - [Regenerate](#Regenerate_regenerate)
 - [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
-- Symbol
+- [Symbol](#Symbol_symbol)
 
 #### 8th Level
 
 <!-- spell-checker:words Feeblemind -->
 - [Animal Shapes](#Animal_Shapes_animal_shapes) (concentration)
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
-- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" -->
 - [Control Weather](#Control_Weather_control_weather) (concentration)
 - [Earthquake](#Earthquake_earthquake) (concentration)
 - [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
-- Sunburst
+- [Sunburst](#Sunburst_sunburst)
 
 #### 9th Level
 
 - [Foresight](#Foresight_foresight)
-- Shapechange (concentration)
-- Storm of Vengeance (concentration)
-- True Resurrection
+- [Shapechange](#Shapechange_shapechange) (concentration)
+- [Storm of Vengeance](#Storm_of_Vengeance_storm_of_vengeance) (concentration)
+- [True Resurrection](#True_Resurrection_true_resurrection)

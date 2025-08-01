@@ -82,7 +82,7 @@ Radiant damage, dealt by a Cleric’s [Flame Strike](#Flame_Strike_flame_strike)
 Swords, axes, and monsters’ claws deal slashing damage.
 
 **Thunder.**
-A concussive burst of sound, such as the effect of the Thunderwave spell, deals thunder damage.
+A concussive burst of sound, such as the effect of the [Thunderwave](#Thunderwave_thunderwave) spell, deals thunder damage.
 
 #### Damage Resistance and Vulnerability
 

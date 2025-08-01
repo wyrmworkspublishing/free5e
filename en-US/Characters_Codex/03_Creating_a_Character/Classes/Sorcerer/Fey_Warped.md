@@ -67,7 +67,7 @@ The duplicate’s AC equals `10 + your Dexterity modifier`, and if targeted with
 If an attack hits a duplicate or it fails a saving throw that would cause it to take damage the duplicate is destroyed.
 It ignores all other damage and effects, but an effect that would otherwise cause it to take damage reveals it to be a duplicate.
 The duplicate mimics your action and is indistinguishable from you until you attack, cast a spell, or take damage.
-The duplicate looks real even to creatures with parasense or truesight.
+The duplicate looks real even to creatures with [parasense](#Exploration_Environment_parasense) or [truesight](#Exploration_Environment_truesight).
 When you create the duplicate, you can expend 2 sorcery points to create an additional duplicate, creating up to 3 duplicates.
 
 At the end of each of your turns while a duplicate exists, you can switch places with any active duplicate within 120 feet, leaving no trace of which one is real until you attack, cast a spell, or take damage.
