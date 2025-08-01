@@ -46,6 +46,7 @@ extradimensional
 Exemplarism
 Eyebite
 Feywild
+floorplan
 Forcecage
 Geas
 gnoll
@@ -68,6 +69,7 @@ Hyperlegible
 inclusivity
 Ignan
 Insaneangel
+interplanar
 Invisiblity
 Iz’zart
 Iz’zart's
