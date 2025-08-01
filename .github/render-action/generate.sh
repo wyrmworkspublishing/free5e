@@ -46,7 +46,7 @@ function convert_markdown_to_asciidoc {
       -a stem \
       -a table-stripes=even \
       -a toc \
-      -a toclevels=4 \
+      -a toclevels=2 \
       --auto-ids \
       --auto-id-prefix="${md_filename%.md}_" \
       --auto-id-separator="_" \
@@ -103,6 +103,8 @@ function convert_asciidoc_to_pdf {
   mkdir -p "${PDF_BASE_FILE_DIR}"
 
   asciidoctor-pdf \
+      -a imagesdir=".." \
+      -a outlinelevels=4 \
       -a pdf-fontsdir="GEM_FONTS_DIR;$FONTS_BASE_DIR" \
       -a pdf-themesdir="$MD_BASE_DIR/themes" \
       -a pdf-theme=pdf \
@@ -241,12 +243,20 @@ for language in "${languages[@]}"; do
 
   # In the newly generated AsciiDoc files, replace links with includes
   for adoc in $(find . -name '*.adoc'); do
-    sed -i'.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
+    sed -i'.1.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
   done
+
+  # Mark the first chapter as the preface
+  pushd adoc
+  for dir in $(find . -maxdepth 2 -name '01_*'); do
+    INTRODUCTION="$dir/$(ls $dir | head -n 1)"
+    sed -i'.2.bak' '1s/^/[preface]\n/' "$INTRODUCTION"
+  done
+  popd
 
   # Now make sure that the tables look decent
   for adoc in $(find . -name '*.adoc'); do
-    sed -i'.1.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
+    sed -i'.3.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
     mv $adoc "$adoc.2.bak"
     awk '
       /^$/ { blank++ }
