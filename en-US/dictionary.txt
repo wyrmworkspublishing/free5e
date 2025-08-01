@@ -121,6 +121,7 @@ Shortbow
 shortsword
 shortswords
 situationally
+slingstone
 spellbook
 spellbooks
 Spellbreaker
