@@ -116,7 +116,7 @@
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
 - [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
 - [Heal](#Heal_heal)
-- [[Heroes' Feast](#Heroes_Feast_heroes_feast)](#Heroes_Feast_heroes_feast)
+- [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - [Move Earth](#Move_Earth_move_earth) (concentration)
 - [Sunbeam](#Sunbeam_sunbeam) (concentration)
 - [Transport via Plants](#Transport_via_Plants_transport_via_plants)
@@ -137,7 +137,7 @@
 <!-- spell-checker:words Feeblemind -->
 - [Animal Shapes](#Animal_Shapes_animal_shapes) (concentration)
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
-- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" -->
 - [Control Weather](#Control_Weather_control_weather) (concentration)
 - [Earthquake](#Earthquake_earthquake) (concentration)
 - [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)

@@ -145,7 +145,7 @@
 
 <!-- spell-checker:words Feeblemind -->
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
-- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" -->
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Glibness](#Glibness_glibness)
 - [Mind Blank](#Mind_Blank_mind_blank)
