@@ -31,6 +31,7 @@ crafters
 Critchley
 Darkvision
 Demiplane
+desaturated
 Dragonborn
 Dragonbound
 Dragonhide
@@ -46,8 +47,11 @@ extradimensional
 Exemplarism
 Eyebite
 Feywild
+floorplan
 Forcecage
 Geas
+ghast
+ghasts
 gnoll
 gnolls
 goblinoid
@@ -68,6 +72,7 @@ Hyperlegible
 inclusivity
 Ignan
 Insaneangel
+interplanar
 Invisiblity
 Iz’zart
 Iz’zart's
@@ -81,6 +86,7 @@ multiclass
 Melestrua
 Metamagic
 midjump
+mithral
 Morscheck
 Multiattack
 Multiclassing
@@ -141,6 +147,7 @@ Treeborne
 tremorsense
 truesight
 TTRPG
+twentyfold
 ultroloth
 ultroloths
 Umara
@@ -153,6 +160,7 @@ Wodewose
 Wodewoses
 Wose
 WotC
+wychwood
 Wyrd
 Wyrm
 Wyrmworks
