@@ -49,6 +49,8 @@ Feywild
 floorplan
 Forcecage
 Geas
+ghast
+ghasts
 gnoll
 gnolls
 goblinoid
@@ -83,6 +85,7 @@ multiclass
 Melestrua
 Metamagic
 midjump
+mithral
 Morscheck
 Multiattack
 Multiclassing
