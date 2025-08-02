@@ -9,7 +9,7 @@ _1st-level enchantment_
 **Components:** V, S, M (tiny tarts and a feather that is waved in the air) \
 **Duration:** Concentration, up to 1 minute
 
-A creature of your choice that you can pinpoint within range perceives everything as hilariously funny and falls into fits of laughter if it fails a wisdom saving throw.
+A creature of your choice that you can pinpoint within range perceives everything as hilariously funny and falls into fits of laughter if it fails a Wisdom saving throw.
 The target falls prone, becomes incapacitated, and cannot stand.
 
 Until the spell ends, at the end of each of the target’s turns and when it suffers damage, the target may attempt another saving throw (with advantage if triggered by damage).

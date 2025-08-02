@@ -10,6 +10,7 @@ _4th-level transmutation_
 
 The body of one creature with at least 1 hit point that is not a shapechanger is transformed into a beast with a challenge rating equal to or less than its own.
 If the target doesn’t have a challenge rating, use its level.
+An unwilling creature must make a Wisdom saving throw to avoid the effect.
 
 Until the spell ends or it is dropped to 0 hit points, the target’s game statistics (including its hit points and mental ability scores) are replaced by the statistics of the chosen beast.
 The target is limited to actions that it is physically capable of doing, and it can’t speak or cast spells.

@@ -9,7 +9,8 @@ _7th-level evocation_
 **Duration:** Instantaneous
 
 You unleash 8 rays of light, each with a different purpose and effect.
-For each target in the area, roll a d8 to determine the ray that affects it.
+Each creature in a 60-foot cone must make a Dexterity saving throw, taking half damage on a successful save.
+Roll a d8 for each target to determine the ray that affects it.
 
 1. **Red:**
   The target takes `10d6` fire damage.
