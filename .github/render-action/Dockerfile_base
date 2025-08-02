@@ -7,7 +7,7 @@ RUN tar -xvzf sass.tar.gz
 FROM ubuntu:latest
 RUN apt-get update
 RUN apt-get install -y asciidoctor bash nodejs npm pandoc tree
-RUN gem install asciidoctor-pdf asciidoctor-epub3 asciidoctor-reducer asciimath kramdown-asciidoc
+RUN gem install asciidoctor-pdf asciidoctor-epub3 asciidoctor-reducer asciimath epubcheck-ruby kramdown-asciidoc
 RUN npm i --global downdoc
 COPY --from=sass-provider /tmp/dart-sass/ /usr/local/sbin/
 

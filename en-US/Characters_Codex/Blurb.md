@@ -30,4 +30,4 @@ Craft heroes who reflect complex identities, layered motivations, and abilities 
 > Monstrous Manuscript unleashes a host of ready-to-use adversaries.
 > Find them all at [Free5e.com](https://free5e.com) or scan the code below.
 > \
-> ![Free5e.com](../../assets/free5e.com-qr-code/qr-code.svg)
+> ![Free5e.com](../../assets/images/free5e.com-qr-code/qr-code.svg)

@@ -30,7 +30,7 @@ page:
 title-page:
   logo:
     align: left
-    image: image:../../../assets/Free5e-Logo-Gold-Ring.png[pdfwidth=20%]
+    image: image:../../../assets/images/Free5e-Logo-Gold-Ring.png[pdfwidth=20%]
     top: 0%
   title:
     font-color: #b77a2b

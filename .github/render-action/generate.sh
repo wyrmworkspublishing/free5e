@@ -100,10 +100,11 @@ function convert_asciidoc_to_pdf {
   adoc_filepath="$(pwd)/${ADOC_BASE_FILE_DIR}/${ADOC_BASE_FILE_NAME}"
   pdf_filepath="$(pwd)/${PDF_BASE_FILE_DIR}/${PDF_BASE_FILE_NAME}"
 
+  echo "Converting ${adoc_filepath} to ${pdf_filepath}..."
+
   mkdir -p "${PDF_BASE_FILE_DIR}"
 
   asciidoctor-pdf \
-      -a imagesdir=".." \
       -a outlinelevels=4 \
       -a pdf-fontsdir="GEM_FONTS_DIR;$FONTS_BASE_DIR" \
       -a pdf-themesdir="$MD_BASE_DIR/themes" \
@@ -122,9 +123,13 @@ function convert_asciidoc_to_epub {
   adoc_filepath="$(pwd)/${ADOC_BASE_FILE_DIR}/${ADOC_BASE_FILE_NAME}"
   epub_filepath="$(pwd)/${EPUB_BASE_FILE_DIR}/${EPUB_BASE_FILE_NAME}"
 
+  echo "Converting ${adoc_filepath} to ${epub_filepath}..."
+
   mkdir -p "${EPUB_BASE_FILE_DIR}"
 
   asciidoctor-epub3 \
+      -a ebook-validate \
+      -a outlinelevels=4 \
       "${adoc_filepath}" \
       -o "${epub_filepath}"
 }
@@ -139,12 +144,16 @@ function convert_asciidoc_to_docbook {
   adoc_filepath="$(pwd)/${ADOC_BASE_FILE_DIR}/${ADOC_BASE_FILE_NAME}"
   docbook_filepath="$(pwd)/${DOCBOOK_BASE_FILE_DIR}/${DOCBOOK_BASE_FILE_NAME}"
 
+  echo "Converting ${adoc_filepath} to ${docbook_filepath}..."
+
   mkdir -p "${DOCBOOK_BASE_FILE_DIR}"
 
   asciidoctor \
       -b docbook \
       "${adoc_filepath}" \
       -o "${docbook_filepath}"
+
+  sed -i'.assets.bak' -e 's/..\/..\/assets/..\/assets/g' $docbook_filepath
 }
 
 function convert_docbook_to_docx {
@@ -155,6 +164,8 @@ function convert_docbook_to_docx {
 
   docbook_filepath="$(pwd)/${DOCBOOK_BASE_FILE_NAME}"
   docx_filepath="$(pwd)/${DOCX_BASE_FILE_DIR}/${DOCX_BASE_FILE_NAME}"
+
+  echo "Converting ${docbook_filepath} to ${docx_filepath}..."
 
   mkdir -p "${DOCX_BASE_FILE_DIR}"
 
@@ -174,6 +185,8 @@ function convert_docbook_to_odt {
   docbook_filepath="$(pwd)/${DOCBOOK_BASE_FILE_NAME}"
   odt_filepath="$(pwd)/${ODT_BASE_FILE_DIR}/${ODT_BASE_FILE_NAME}"
 
+  echo "Converting ${docbook_filepath} to ${odt_filepath}..."
+
   mkdir -p "${ODT_BASE_FILE_DIR}"
 
   pandoc \
@@ -191,6 +204,8 @@ function convert_docbook_to_latex {
 
   docbook_filepath="$(pwd)/${DOCBOOK_BASE_FILE_NAME}"
   latex_filepath="$(pwd)/${LATEX_BASE_FILE_DIR}/${LATEX_BASE_FILE_NAME}"
+
+  echo "Converting ${docbook_filepath} to ${latex_filepath}..."
 
   mkdir -p "${LATEX_BASE_FILE_DIR}"
 
@@ -214,7 +229,13 @@ for language in "${languages[@]}"; do
   
   DATE_FORMAT=$(echo "DATE_FORMAT_${language}" | tr - _)
 
-  FONTS_BASE_DIR="$(pwd)/assets/fonts"
+  ASSETS_BASE_DIR="$(pwd)/assets"
+
+  IMAGES_BASE_DIR="${GENERATED_FILES_TARGET_DIR}/${language}/assets/images"
+  mkdir -p "${GENERATED_FILES_TARGET_DIR}/${language}/assets"
+  cp -r "$ASSETS_BASE_DIR/images" "${IMAGES_BASE_DIR}"
+
+  FONTS_BASE_DIR="$ASSETS_BASE_DIR/fonts"
 
   # Generate the player book files
   BASEFILE_PLAYER_BOOK=$(echo "BASEFILE_PLAYER_BOOK_${language}" | tr - _)

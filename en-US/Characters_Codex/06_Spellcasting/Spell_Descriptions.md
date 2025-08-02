@@ -140,7 +140,7 @@
 
 [Coreador's Black Tentacles](./Spell_Descriptions/C/Coreadors_Black_Tentacles.md)
 
-[CounterSpell](./Spell_Descriptions/C/CounterSpell.md)
+[Counterspell](./Spell_Descriptions/C/Counterspell.md)
 
 [Create Food and Water](./Spell_Descriptions/C/Create_Food_and_Water.md)
 
@@ -412,7 +412,9 @@
 
 [Magic Missile](./Spell_Descriptions/M/Magic_Missile.md)
 
-[Magic Mouth](./Spell_Descriptions/M/Magic_Mough.md)
+[Magic Mouth](./Spell_Descriptions/M/Magic_Mouth.md)
+
+[Magic Weapon](./Spell_Descriptions/M/Magic_Weapon.md)
 
 [Major Image](./Spell_Descriptions/M/Major_Image.md)
 
@@ -431,6 +433,8 @@
 [Melestrua's Marvelous Marquee](./Spell_Descriptions/M/Melestruas_Marvelous_Marquee.md)
 
 [Mending](./Spell_Descriptions/M/Mending.md)
+
+[Message](./Spell_Descriptions/M/Message.md)
 
 [Meteor Swarm](./Spell_Descriptions/M/Meteor_Swarm.md)
 

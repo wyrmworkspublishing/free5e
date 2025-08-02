@@ -49,7 +49,7 @@ If your ally attacks the target before your next turn, the first attack roll is 
 #### Hide
 
 When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the [rules for hiding](#Using_Dexterity_hiding).
-If you succeed, you gain certain benefits, as described in the ["Targeting Without Exact Location" section](Combat_Making_an_Attack_targeting_without_exact_location) later in this chapter.
+If you succeed, you gain certain benefits, as described in the ["Targeting Without Exact Location" section](#Combat_Making_an_Attack_targeting_without_exact_location) later in this chapter.
 
 #### Ready
 

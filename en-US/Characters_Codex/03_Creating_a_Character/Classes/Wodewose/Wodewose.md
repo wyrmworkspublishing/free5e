@@ -61,7 +61,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 | Level | Proficiency Bonus | Cantrips Known | Features                                                                                   |
 |:------|:-----------------:|:--------------:|:-------------------------------------------------------------------------------------------|
-|  1st  |        +2         |        2       | [Wild Speech Language](#Wodewose_wild_speak_language), Spellcasting                        |
+|  1st  |        +2         |        2       | [Wild Speech Language](#Wodewose_wild_speech_language), Spellcasting                        |
 |  2nd  |        +2         |        2       | [Wild Shape](#Wodewose_wild_shape), [Wodewose Circle](#Wodewose_wodewose_circle)           |
 |  3rd  |        +2         |        2       | -                                                                                          |
 |  4th  |        +2         |        3       | [Wild Shape](#Wodewose_wild_shape) Improvement, [Ability Score Improvement](#Wodewose_asi) |

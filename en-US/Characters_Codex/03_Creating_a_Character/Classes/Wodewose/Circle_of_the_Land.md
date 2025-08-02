@@ -35,7 +35,7 @@ _Arctic (table)_
 | Wodewose Level | Circle Spells                                                                                                                                   |
 |:---------------|:------------------------------------------------------------------------------------------------------------------------------------------------|
 | 3rd            | [Hold Person](#Hold_Person_hold_person), [Spike Growth](#Spike_Growth_spike_growth)                                                             |
-| 5th            | [Sleet Storm](#Sleed_Storm_sleed_storm), [Slow](#Slow_slow)                                                                                     |
+| 5th            | [Sleet Storm](#Sleet_Storm_sleet_storm), [Slow](#Slow_slow)                                                                                     |
 | 7th            | [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement), [Ice Storm](#Ice_Storm_ice_storm)                                              |
 | 9th            | [Commune with Nature](#Commune_with_Nature_commune_with_nature), [Cone of Cold](#Cone_of_Cold_cone_of_cold)                                     |
 
@@ -92,9 +92,9 @@ _Mountain (table)_
 | Wodewose Level | Circle Spells                                                                                                                                |
 |:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
 | 3rd            | [Spider Climb](#Spider_Climb_spider_climb), [Spike Growth](#Spike_Growth_spike_growth)                                                       |
-| 5th            | [Lightning Bolt](#Lightning_Bolt_lightning_bolt), [Meld into Stone](#Meld_into_Stone_meld_insto_stone)                                       |
+| 5th            | [Lightning Bolt](#Lightning_Bolt_lightning_bolt), [Meld into Stone](#Meld_into_Stone_meld_into_stone)                                       |
 | 7th            | [Stone Shape](#Stone_Shape_stone_shape), [Stoneskin](#Stoneskin_stoneskin)                                                                   |
-| 9th            | [Passwall](#Passwall_passwall), [Wall of Stone](#Wall_of_Stone_wall_of_Stone)                                                                |
+| 9th            | [Passwall](#Passwall_passwall), [Wall of Stone](#Wall_of_Stone_wall_of_stone)                                                                |
 
 ___
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
@@ -102,7 +102,7 @@ _Swamp (table)_
 
 | Wodewose Level | Circle Spells                                                                                                                                |
 |:---------------|:---------------------------------------------------------------------------------------------------------------------------------------------|
-| 3rd | [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragobelegs_acid_bolt), [Darkness](#Darkness_darkness)                                                |
+| 3rd | [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt), [Darkness](#Darkness_darkness)                                                |
 | 5th | [Water Walk](#Water_Walk_water_walk), [Stinking Cloud](#Stinking_Cloud_stinking_cloud)                                                                  |
 | 7th | [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement), [Locate Creature](#Locate_Creature_locate_creature)                                    |
 | 9th | [Insect Plague](#Insect_Plague_insect_plague), [Scrying](#Scrying_scrying)                                                                              |
