@@ -8,7 +8,8 @@ _4th-level enchantment_
 **Components:** V, S \
 **Duration:** Concentration, up to 1 minute
 
-You assert control over one beast’s mind and it is charmed for the duration. If it is engaged in combat with you or creatures friendly to you, it has advantage on its saving throw.
+You assert control over one beast’s mind and it is charmed for the duration if it fails a Wisdom saving throw.
+If it is engaged in combat with you or creatures friendly to you, it has advantage on its saving throw.
 
 Until the charmed condition ends, you establish a telepathic link with it while you are on the same plane.
 You may issue commands through this link and the target does its best to obey.
