@@ -9,7 +9,8 @@ _6th-level transmutation_
 **Duration:** Instantaneous
 
 You shoot a glowing ray at a creature, object, or creation of magical force.
-It takes `10d6 + 40` force damage.
+A creature targeted by this spell must make a Dexterity saving throw.
+On a failed save, the target takes `10d6 + 40` force damage.
 A creature reduced to 0 hit points is obliterated, leaving behind nothing but dust, along with anything it was wearing or carrying (except magic items).
 Only [True Resurrection](#True_Resurrection_true_resurrection) or a [Wish](#Wish_wish) spell can restore it to life.
 
