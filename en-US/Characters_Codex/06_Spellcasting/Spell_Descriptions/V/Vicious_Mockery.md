@@ -9,6 +9,6 @@ _Enchantment cantrip_
 **Duration:** Instantaneous
 
 You verbally insult or mock one creature so viciously its mind is seared.
-As long as the target hears you (understanding your words is not required) it takes `1d6` psychic damage and has disadvantage on the first attack roll it makes before the end of its next turn.
+As long as the target hears you (understanding your words is not required) it takes `1d6` psychic damage and has disadvantage on the first attack roll it makes before the end of its next turn if it failes a Wisdom saving throw.
 
 The spell’s damage increases by 1d6 when you reach 5th level (`2d6`), 11th level (`3d6`), and 17th level (`4d6`).
