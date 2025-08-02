@@ -116,7 +116,7 @@ You can’t take a Fighting Style option more than once, even if you later get t
 ##### Spellcasting (2nd Level) {#Ranger_spellcasting}
 
 You have learned to use the magical essence of nature to cast spells, much as a Wodewose does.
-See [chapter <mark>XX</mark>](#Spellcasting_spellcasting) for the general rules of spellcasting and [chapter <mark>XX</mark>](#Ranger_Spells_ranger_spells) for the Ranger spell list.
+See [part V](#Spellcasting_spellcasting) for the general rules of spellcasting and section 17.3 for the [Ranger spell list](#Ranger_Spells_ranger_spells).
 
 **Spell Slots**
 \
@@ -130,13 +130,13 @@ For example, if you know the 1st-level spell [Animal Friendship](#Animal_Friends
 
 **Spells Known of 1st Level and Higher**
 \
-You know two 1st-level spells of your choice from the Ranger spell list.
+You know two 1st-level spells of your choice from the [Ranger spell list](#Ranger_Spells_ranger_spells).
 
 The Spells Known column of the [Ranger table](#Ranger_the_ranger_table) shows when you learn more Ranger spells of your choice.
 Each of these spells must be of a level for which you have spell slots.
 For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
 
-Additionally, when you gain a level in this class, you can choose one of the Ranger spells you know and replace it with another spell from the Ranger spell list, which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the Ranger spells you know and replace it with another spell from the [Ranger spell list](#Ranger_Spells_ranger_spells), which also must be of a level for which you have spell slots.
 
 **Spellcasting Ability**
 \

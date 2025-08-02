@@ -122,7 +122,7 @@ When damage reduced you to 0 hit points and there is damage remaining, you die i
 
 ##### Falling Unconscious
 
-If damage reduces you to 0 hit points and fails to kill you, you fall [unconscious](#Conditions_unconscious) (see [appendix <mark>XX</mark>, "Conditions"](#Conditions_conditions)).
+If damage reduces you to 0 hit points and fails to kill you, you fall [unconscious](#Conditions_unconscious) (see [appendix A, "Conditions"](#Conditions_conditions)).
 This unconsciousness ends if you regain any hit points.
 
 ##### Death Saving Throws

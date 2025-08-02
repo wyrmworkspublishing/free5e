@@ -74,7 +74,7 @@ As a conduit for divine power, you can cast Cleric spells.
 
 **Cantrips**
 \
-At 1st level, you know three cantrips of your choice from the Cleric spell list.
+At 1st level, you know three cantrips of your choice from the [Cleric spell list](#Cleric_Spells_cleric_spells), section 17.2.
 You learn additional Cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the [Cleric table](#Cleric_the_cleric_table).
 \
 **Preparing and Casting Spells**
@@ -86,7 +86,7 @@ The following table shows how many spell slots you have to cast your spells of 1
 To cast one of these spells, you must expend a slot of the spell’s level or higher.
 You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of Cleric spells that are available for you to cast, choosing from the Cleric spell list.
+You prepare the list of Cleric spells that are available for you to cast, choosing from the [Cleric spell list](#Cleric_Spells_cleric_spells).
 When you do so, choose a number of Cleric spells equal to `your Wisdom modifier + your Cleric level` (minimum of one spell).
 The spells must be of a level for which you have spell slots.
 
@@ -115,7 +115,7 @@ You can cast a Cleric spell as a ritual if that spell has the ritual tag and you
 \
 **Spellcasting Focus**
 \
-You can use a holy symbol (see [chapter <mark>XX</mark>, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Cleric spells.
+You can use a holy symbol (see [chapter 11, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Cleric spells.
 
 ##### Divine Domain (1st Level) {#Cleric_divine_domain}
 

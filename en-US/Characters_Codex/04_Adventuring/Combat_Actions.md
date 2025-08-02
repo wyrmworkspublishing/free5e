@@ -35,7 +35,7 @@ If you take the Disengage action, your movement doesn’t provoke opportunity at
 
 When you take the Dodge action, you focus entirely on avoiding attacks.
 Until the start of your next turn, any attack roll made against you has disadvantage if you can pinpoint the attacker, and you make Dexterity saving throws with advantage.
-You lose this benefit if you are [incapacitated](#Conditions_incapacitated) (as explained in [appendix <mark>XX</mark>, "Conditions"](#Conditions_conditions)) or if your speed drops to 0.
+You lose this benefit if you are [incapacitated](#Conditions_incapacitated) (as explained in [appendix A, "Conditions"](#Conditions_conditions)) or if your speed drops to 0.
 
 #### Help
 

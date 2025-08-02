@@ -75,7 +75,7 @@ This font of magic, whatever its origin, fuels your spells.
 
 **Cantrips**
 \
-At 1st level, you know four cantrips of your choice from the [Sorcerer spell list](#Sorcerer_Spells_sorcerer_spells).
+At 1st level, you know four cantrips of your choice from the [Sorcerer spell list](#Sorcerer_Spells_sorcerer_spells), section 17.4.
 You learn additional Sorcerer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the [Sorcerer table](#Sorcerer_the_sorcerer_table).
 \
 **Spell Slots**
