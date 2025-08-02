@@ -90,7 +90,7 @@
 - [Dispel Evil and Good](#Dispel_Evil_and_Good_dispel_evil_and_good) (concentration)
 - [Flame Strike](#Flame_Strike_flame_strike)
 - [Geas](#Geas_geas)
-- Greater Restauration
+- [Greater Restoration](#Greater_Restoration_greater_restoration)
 - [Hallow](#Hallow_hallow)
 - [Insect Plague](#Insect_Plague_insect_plague) (concentration)
 - [Legend Lore](#Legend_Lore_legend_lore)

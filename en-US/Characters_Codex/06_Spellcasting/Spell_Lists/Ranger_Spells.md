@@ -54,7 +54,7 @@
 - [Conjure Woodland Beings](#Conjure_Woodland_Beings_conjure_woodland_beings) (concentration)
 - [Dominate Beast](#Dominate_Beast_dominate_beast) (concentration)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
-- Greater Restauration
+- [Greater Restoration](#Greater_Restoration_greater_restoration)
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - [Stoneskin](#Stoneskin_stoneskin) (concentration)
 
