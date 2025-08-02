@@ -21,7 +21,7 @@ Once a layer is destroyed, it is gone for the duration of the spell.
 To pass or reach through the barrier a creature does so one layer at a time and must make a Dexterity saving throw for each layer or be subjected to that layer’s effects.
 On a successful save, any damage taken from a layer is reduced by half.
 
-A Rod of Cancellation can destroy a Prismatic Wall, but an [Antimagic Field](#Antimagic_Field_antimagich_field) has no effect.
+A Rod of Cancellation can destroy a Prismatic Wall, but an [Antimagic Field](#Antimagic_Field_antimagic_field) has no effect.
 
 **Red:**
 The creature takes `10d6` fire damage.

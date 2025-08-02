@@ -14,7 +14,7 @@ Souls within the jar are aware of their surroundings as though they occupied tha
 
 While your soul is within the jar, you can, as an action, project your soul to a target within range, either returning it to your body or attempting to possess a humanoid creature.
 You can take no other actions.
-You may not target creatures protected by the [Protection from Good and Evil](#Protection_from_Good_and_Evil_protection_from_good_and_evil) or [Magic Circle](#Magic_Circle_magic_circle) spells.
+You may not target creatures protected by the [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) or [Magic Circle](#Magic_Circle_magic_circle) spells.
 A creature you try to possess makes a Charisma saving throw or your soul moves from your vessel and into its body.
 The creature’s soul is now ensnared within the container.
 On a successful save, the creature resists and you may not attempt to possess it for 24 hours.

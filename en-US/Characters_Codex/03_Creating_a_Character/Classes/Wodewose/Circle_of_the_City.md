@@ -21,7 +21,7 @@ _Circle of City Spells_
 | 3rd            | [Detect Thoughts](#Detect_Thoughts_detect_thoughts), [Lesser Restoration](#Lesser_Restoration_lesser_restoration) |
 | 5th            | [Clairvoyance](#Clairvoyance_clairvoyance), [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)                |
 | 7th            | [Fabricate](#Fabricate_fabricate), [Stone Shape](#Stone_Shape_stone_shape)                                        |
-| 9th            | [Mislead](#Mislead_mislead), [Wall of Stone](#Wall_of_Stone)                                                      |
+| 9th            | [Mislead](#Mislead_mislead), [Wall of Stone](#Wall_of_Stone_wall_of_stone)                                                      |
 
 ###### Living Eyes of the City (2nd Level)
 

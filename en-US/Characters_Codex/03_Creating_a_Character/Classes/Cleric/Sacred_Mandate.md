@@ -19,9 +19,9 @@ These spells count as cleric spells for you and are always prepared.
 |:--------------|:--|:--|:--|:--|:--|
 | **Knowledge** | [Identify](#Identify_identify), [Command](#Command_command) | [Augury](#Augury_augury), [Detect Thoughts](#Detect_Thoughts_detect_thoughts) | [Clairvoyance](#Clairvoyance_clairvoyance), [Speak with Dead](#Speak_with_Dead_speak_with_dead) | [Arcane Eye](#Arcane_Eye_arcane_eye), [Divination](#Divination_divination) | [Legend Lore](#Legend_Lore_legend_lore), [Scrying](#Scrying_scrying) |
 | **Life**      | [Cure Wounds](#Cure_Wounds_cure_wounds), [Bless](#Bless_bless) | [Lesser Restoration](#Lesser_Restoration_lesser_restoration), [Spiritual Weapon](#Spiritual_Weapon_spiritual_weapon) | [Beacon of Hope](#Beacon_of_Hope_beacon_of_hope), [Revivify](#Revivify_revivify) | [Death Ward](#Death_Ward_death_ward), [Guardian of Faith](#Guardian_of_Faith_guardian_of_faith) | [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds), [Raise Dead](#Raise_Dead_raise_dead) |
-| **Light**     | [Color Spray](#Color_Spray_color_spray), [Guiding Bolt](#Guiding_Bolt_guiding_bolt) | [Continual Flame](#Continual_Flame_continual_flame), [Moonbeam](#Moonbeam_moonbeam) | [Daylight](#Daylight_daylight), [Spirit Guardians](#Spirit_Guardians_spirit_guardians) | [Arcane Eye](#Arcane_Eye_arcane_eye), [Divination](#Divination_divination) | [Dream](#Dream_dream), [Scrying](#Scrying_Scrying) |
+| **Light**     | [Color Spray](#Color_Spray_color_spray), [Guiding Bolt](#Guiding_Bolt_guiding_bolt) | [Continual Flame](#Continual_Flame_continual_flame), [Moonbeam](#Moonbeam_moonbeam) | [Daylight](#Daylight_daylight), [Spirit Guardians](#Spirit_Guardians_spirit_guardians) | [Arcane Eye](#Arcane_Eye_arcane_eye), [Divination](#Divination_divination) | [Dream](#Dream_dream), [Scrying](#Scrying_scrying) |
 | **Storm**     | [Thunderwave](#Thunderwave_thunderwave), [Fog Cloud](#Fog_Cloud_fog_cloud) | [Gust of Wind](#Gust_of_Wind_gust_of_wind), [Shatter](#Shatter_shatter) | [Call Lightning](#Call_Lightning_call_lightning), [Wind Wall](#Wind_Wall_wind_wall) | [Control Water](#Control_Water_control_water), [Ice Storm](#Ice_Storm_ice_storm) | [Control Weather](#Control_Weather_control_weather), [Flame Strike](#Flame_Strike_flame_strike) |
-| **Trickery**  | [Disguise Self](#Disguise_Self_disguise_self), [Charm Person](#Charm_Person_charm_person) | [Mirror Image](#Mirror_Image_mirror_image), [Pass without Trace](#Pass_without_Trace_pass_without_trace) | [Bestow Curse](Bestow_Curse_bestow_curse), [Major Image](#Major_Image_major_image) | [Greater Invisibility](#Greater_Invisibility_greater_invisibility), [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain) | [Mislead](#Mislead_mislead), [Seeming](#Seeming_seeming) |
+| **Trickery**  | [Disguise Self](#Disguise_Self_disguise_self), [Charm Person](#Charm_Person_charm_person) | [Mirror Image](#Mirror_Image_mirror_image), [Pass without Trace](#Pass_without_Trace_pass_without_trace) | [Bestow Curse](#Bestow_Curse_bestow_curse), [Major Image](#Major_Image_major_image) | [Greater Invisibility](#Greater_Invisibility_greater_invisibility), [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain) | [Mislead](#Mislead_mislead), [Seeming](#Seeming_seeming) |
 | **War**       | [Divine Favor](#Divine_Favor_divine_favor), [Shield of Faith](#Shield_of_Faith_shield_of_faith) | [Magic Weapon](#Magic_Weapon_magic_weapon), [Spiritual Weapon](#Spiritual_Weapon_spiritual_weapon) | [Revivify](#Revivify_revivify), [Slow](#Slow_slow) | [Stoneskin](#Stoneskin_stoneskin), [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement) | [Hold Monster](#Hold_Monster_hold_monster), [Flame Strike](#Flame_Strike_flame_strike) |
 
 **Damage Type Selection**
@@ -71,7 +71,7 @@ You may use this feature a number of times equal to your Wisdom modifier (minimu
 
 ###### Channel Divinity (2nd & 6th Level)
 
-You gain one of the following [Channel Divinity](Cleric_channel_divinity) options.
+You gain one of the following [Channel Divinity](#Cleric_channel_divinity) options.
 At 6th level, the effects improve or gain additional features.
 
 - **Channel Divinity: War Cry** (War, Storm)

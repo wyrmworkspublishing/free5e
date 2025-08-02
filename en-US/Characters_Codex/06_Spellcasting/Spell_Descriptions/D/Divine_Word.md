@@ -20,4 +20,4 @@ On a failed save, a creature suffers an effect based on its current hit points:
 
 Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a [Wish](#Wish_wish) spell.
 
-If you know a [sign language](#Langauges_signing), you can prepare this spell with a somatic component instead of verbal to affect creatures that can see you instead of hearing you.
+If you know a [sign language](#Languages_signing), you can prepare this spell with a somatic component instead of verbal to affect creatures that can see you instead of hearing you.
