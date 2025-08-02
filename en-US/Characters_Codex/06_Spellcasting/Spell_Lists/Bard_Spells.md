@@ -122,6 +122,7 @@
 - [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
 - [Eyebite](#Eyebite_eyebite) (concentration)
 - [Find the Path](#Find_the_Path_find_the_path) (concentration)
+- [Guards and Wards](#Guards_and_Wards_gaurds_and_wards)
 - [Heroes' Feast](#Heroes_Feast_heroes_feast)
 - [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
 - [Programmed Illusion](#Programmed_Illusion_programmed_illusion)

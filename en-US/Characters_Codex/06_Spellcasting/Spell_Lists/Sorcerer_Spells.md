@@ -61,7 +61,7 @@
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
 - [Scorching Ray](#Scorching_Ray_scorching_ray)
-- See Invisiblity
+- [See Invisibility](#See_Invisibility_see_invisibility)
 - [Shatter](#Shatter_shatter)
 - [Spider Climb](#Spider_Climb_spider_climb) (concentration)
 - [Suggestion](#Suggestion_suggestion) (concentration)

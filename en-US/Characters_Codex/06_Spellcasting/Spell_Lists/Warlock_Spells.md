@@ -89,7 +89,7 @@
 #### 8th Level
 
 <!-- spell-checker:words Feeblemind -->
-- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" -->
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
 - [Glibness](#Glibness_glibness)

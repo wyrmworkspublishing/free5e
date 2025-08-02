@@ -218,7 +218,7 @@
 - [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
 - [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
 - [Clone](#Clone)
-- [Confound](#Confound_confound) <!-- previously "Feeblemind" >
+- [Confound](#Confound_confound) <!-- previously "Feeblemind" -->
 - [Control Weather](#Control_Weather_control_weather) (concentration)
 - [Demiplane](#Demiplane_demiplane)
 - [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
