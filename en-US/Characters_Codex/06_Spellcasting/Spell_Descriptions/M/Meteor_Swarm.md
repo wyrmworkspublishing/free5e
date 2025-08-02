@@ -10,5 +10,5 @@ _9th-level conjuration_
 
 Scorching spheres of flame strike the ground at 4 different points within range.
 The effects of a sphere reach around corners.
-Creatures and objects in the area take `14d6` fire damage and `14d6` bludgeoning damage, and flammable unattended objects catch on fire.
+Creatures and objects in the area take `14d6` fire damage and `14d6` bludgeoning damage on a Dexterity failed save, or half as much damage on a successful one, and flammable unattended objects catch on fire.
 If a creature is in the area of more than one sphere, it is affected only once.

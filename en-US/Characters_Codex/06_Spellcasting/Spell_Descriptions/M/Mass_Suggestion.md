@@ -14,7 +14,8 @@ Up to twelve creatures that can perceive and understand you are magically influe
 The suggestion must be worded to sound reasonable.
 Asking the targets to perform an action that is obviously harmful to them ends the spell.
 
-A target carries out the activity suggested by you as well as it can for the duration of the spell or until the target has carried out the activity.
+Each target must make a Wisdom saving throw.
+On a failed save, it pursues the course of action you described to the best of its ability for the duration of the spell or until the target has carried out the activity.
 
 You may specify trigger conditions that cause a target to perform a specific activity while the spell lasts.
 
