@@ -21,7 +21,7 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [**Spellcasting**](./06_Spellcasting/Spellcasting.md)
 
-[**Appendix**](./Appendix/Appendix.md)
+[**Appendix**](./A_Appendix/Appendix.md)
 
 [**Credits**](./Credits/Credits.md)
 

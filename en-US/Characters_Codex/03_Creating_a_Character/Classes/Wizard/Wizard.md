@@ -74,11 +74,13 @@ As a student of arcane magic, you have a spellbook containing spells that show t
 
 **Cantrips**
 \
-At 1st level, you know three cantrips of your choice from the Wizard spell list. You learn additional Wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the [Wizard table](#Wizard_the_wizard_table).
+At 1st level, you know three cantrips of your choice from the [Wizard spell list](#Wizard_Spells_wizard_spells), section 17.7.
+You learn additional Wizard cantrips of your choice at higher levels, as shown in the Cantrips Known column of the [Wizard table](#Wizard_the_wizard_table).
 \
 **Spellbook**
 \
-At 1st level, you have a spellbook containing six 1st-level Wizard spells of your choice. Your spellbook is the repository of the Wizard spells you know, except your cantrips, which are fixed in your mind.
+At 1st level, you have a spellbook containing six 1st-level Wizard spells of your choice from the [Wizard spell list](#Wizard_Spells_wizard_spells).
+Your spellbook is the repository of the Wizard spells you know, except your cantrips, which are fixed in your mind.
 
 > **Your Spellbook**
 > \

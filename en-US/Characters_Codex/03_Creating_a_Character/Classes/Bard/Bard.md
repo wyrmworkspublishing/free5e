@@ -92,13 +92,13 @@ For example, if you know the 1st-level spell [Cure Wounds](#Cure_Wounds_cure_wou
 \
 **Spells Known of 1st Level and Higher**
 \
-You know four 1st-level spells of your choice from the [Bard spell list](#Bard_Spells_bard_spells).
+You know four 1st-level spells of your choice from the [Bard spell list](#Bard_Spells_bard_spells), section 17.1.
 
 The _Spells Known_ column of the [Bard table](#Bard_the_bard_table) shows when you learn more Bard spells of your choice.
 Each of these spells must be of a level for which you have spell slots, as shown on the table.
 For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
-Additionally, when you gain a level in this class, you can choose one of the Bard spells you know and replace it with another spell from the Bard spell list, which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the Bard spells you know and replace it with another spell from the [Bard spell list](#Bard_Spells_bard_spells), which also must be of a level for which you have spell slots.
 \
 **Spellcasting Ability**
 \
@@ -117,7 +117,7 @@ You can cast any Bard spell you know as a [ritual](#Spellcasting_rituals) if tha
 \
 **Spellcasting Focus**
 \
-You can use a musical instrument (see [chapter <mark>XX</mark>, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Bard spells.
+You can use a musical instrument (see [chapter 11, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Bard spells.
 
 ##### Bardic Inspiration (1st & 5th & 10th & 15th Level) {#Bard_bardic_inspiration}
 

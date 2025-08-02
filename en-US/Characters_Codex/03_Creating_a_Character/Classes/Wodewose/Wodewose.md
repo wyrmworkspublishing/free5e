@@ -95,7 +95,7 @@ Drawing on the divine essence of nature itself, you can cast spells to shape tha
 
 **Cantrips**
 \
-At 1st level, you know two cantrips of your choice from the Wodewose spell list.
+At 1st level, you know two cantrips of your choice from the [Wodewose spell list](#Wodewose_Spells_wodewose_spells), section 17.8.
 You learn additional Wodewose cantrips of your choice at higher levels, as shown in the Cantrips Known column of the [Wodewose table](#Wodewose_the_wodewose_table).
 
 **Preparing and Casting Spells**
@@ -107,7 +107,7 @@ The following table shows how many spell slots you have to cast your spells of 1
 To cast one of these Wodewose spells, you must expend a slot of the spell’s level or higher.
 You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of Wodewose spells that are available for you to cast, choosing from the Wodewose spell list.
+You prepare the list of Wodewose spells that are available for you to cast, choosing from the [Wodewose spell list](#Wodewose_Spells_wodewose_spells).
 When you do so, choose a number of Wodewose spells equal to `your Wisdom modifier + your Wodewose level` (minimum of one spell).
 The spells must be of a level for which you have spell slots.
 
@@ -135,7 +135,7 @@ You can cast a Wodewose spell as a ritual if that spell has the ritual tag and y
 \
 **Spellcasting Focus**
 \
-You can use a Wodewose focus (see [chapter <mark>XX</mark>, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Wodewose spells.
+You can use a Wodewose focus (see [chapter 11, "Equipment"](#Equipment_equipment)) as a spellcasting focus for your Wodewose spells.
 
 ##### Wild Shape (2nd Level) {#Wodewose_wild_shape}
 

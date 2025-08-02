@@ -243,20 +243,33 @@ for language in "${languages[@]}"; do
 
   # In the newly generated AsciiDoc files, replace links with includes
   for adoc in $(find . -name '*.adoc'); do
-    sed -i'.1.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
+    sed -i'.include.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
   done
 
-  # Mark the first chapter as the preface
   pushd adoc
-  for dir in $(find . -maxdepth 2 -name '01_*'); do
+  # Mark the first chapter as the preface
+  for dir in $(find . -maxdepth 2 -type d -name '01_*'); do
     INTRODUCTION="$dir/$(ls $dir | head -n 1)"
-    sed -i'.2.bak' '1s/^/[preface]\n/' "$INTRODUCTION"
+    sed -i'.preface.bak' '1s/^/[preface]\n/' "$INTRODUCTION"
+  done
+
+  # Mark the appendices as such
+  for appendix_parent in $(find . -maxdepth 2 -type d -name 'A_*'); do
+    echo "Appendix parent: $appendix_parent"
+    for appendix_dir in $(ls -d $appendix_parent/*); do
+      if [ -d "$appendix_dir" ]; then
+        echo "Appendix dir: $appendix_dir"
+        APPENDIX_FILE="$(ls $appendix_dir/*.adoc | head -n 1)"
+        echo "Appendix file: $APPENDIX_FILE"
+        sed -i'.appendix.bak' '1s/^/[appendix]\n/' "$APPENDIX_FILE"
+      fi
+    done
   done
   popd
 
   # Now make sure that the tables look decent
   for adoc in $(find . -name '*.adoc'); do
-    sed -i'.3.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
+    sed -i'.tables.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
     mv $adoc "$adoc.2.bak"
     awk '
       /^$/ { blank++ }

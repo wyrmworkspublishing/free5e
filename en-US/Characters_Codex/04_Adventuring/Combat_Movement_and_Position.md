@@ -42,7 +42,7 @@ The space of another creature, whether hostile or not, also counts as difficult 
 #### Being Prone
 
 Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down.
-In the game, they are prone, a condition described in [appendix <mark>XX</mark>, "Conditions"](#Conditions_conditions).
+In the game, they are prone, a condition described in [appendix A, "Conditions"](#Conditions_conditions).
 
 You can drop prone without using any of your speed.
 Standing up takes more effort; doing so costs an amount of movement equal to half your speed.

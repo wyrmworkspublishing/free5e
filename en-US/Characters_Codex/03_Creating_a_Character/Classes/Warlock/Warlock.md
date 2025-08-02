@@ -79,7 +79,7 @@ Your arcane research and the magic bestowed on you by your patron have given you
 \
 **Cantrips**
 \
-You know two cantrips of your choice from the [Warlock spell list](#Warlock_Spells_warlock_spells).
+You know two cantrips of your choice from the [Warlock spell list](#Warlock_Spells_warlock_spells), section 17.6.
 You learn additional Warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the [Warlock table](#Warlock_the_warlock_table).
 \
 **Spell Slots**
@@ -100,7 +100,7 @@ The Spells Known column of the [Warlock table](#Warlock_the_warlock_table) shows
 A spell you choose must be of a level no higher than what’s shown in the table’s _Slot Level_ column for your level.
 When you reach 6th level, for example, you learn a new Warlock spell, which can be 1st, 2nd, or 3rd level.
 
-Additionally, when you gain a level in this class, you can choose one of the Warlock spells you know and replace it with another spell from the Warlock spell list, which also must be of a level for which you have spell slots.
+Additionally, when you gain a level in this class, you can choose one of the Warlock spells you know and replace it with another spell from the [Warlock spell list](#Warlock_Spells_warlock_spells), which also must be of a level for which you have spell slots.
 \
 **Spellcasting Ability**
 \

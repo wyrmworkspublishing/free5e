@@ -132,7 +132,7 @@ The following table shows how many spell slots you have to cast your spells.
 To cast one of your Vanguard spells of 1st level or higher, you must expend a slot of the spell’s level or higher.
 You regain all expended spell slots when you finish a long rest.
 
-You prepare the list of Vanguard spells that are available for you to cast, choosing from the [Vanguard spell list](#Vanguard_Spells_vanguard_spells).
+You prepare the list of Vanguard spells that are available for you to cast, choosing from the [Vanguard spell list](#Vanguard_Spells_vanguard_spells), section 17.5.
 When you do so, choose a number of Vanguard spells equal to `your Charisma modifier + half your Vanguard level, rounded down` (minimum of one spell).
 The spells must be of a level for which you have spell slots.
 
