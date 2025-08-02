@@ -1,6 +1,13 @@
 #### Revivify
+<!-- TODO Check and tag this spell-->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level necromancy_
 
-> **Warning:**
-> This spell has not yet been transferred from the Google Doc.
+**Casting Time:** 1 action \
+**Range:** Touch \
+**Components:** V, S, M (diamonds worth 300 gp, which the spell consumes) \
+**Duration:** Instantaneous
+
+You touch a creature that has died within the last minute.
+That creature returns to life with 1 hit point.
+This spell can’t return to life a creature that has died of old age, nor can it restore any missing body parts.
