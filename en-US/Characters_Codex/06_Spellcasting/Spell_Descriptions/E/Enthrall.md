@@ -8,7 +8,7 @@ _2nd-level enchantment_
 **Components:** V, S \
 **Duration:** 1 minute
 
-You weave a compelling communication that captivates any number of creatures you choose within range.
+You weave a compelling communication that captivates any number of creatures you choose within range that fail a Wisdom saving throw.
 Any target that can’t be charmed automatically succeeds on its saving throw, and targets fighting you or creatures friendly to you have advantage on the saving throw.
 
 Until the spell ends or a target can no longer sense your communication, it has disadvantage on Perception checks made to perceive any creature other than you.
