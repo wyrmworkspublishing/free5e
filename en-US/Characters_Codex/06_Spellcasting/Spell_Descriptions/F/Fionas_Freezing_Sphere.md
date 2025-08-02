@@ -9,7 +9,7 @@ _6th-level evocation_
 **Components:** V, S, M (a small crystal sphere) \
 **Duration:** Instantaneous
 
-A freezing globe streaks to a point within range and explodes, dealing `10d6` cold damage to creatures in the area.
+A freezing globe streaks to a point within range and explodes, dealing `10d6` cold damage to creatures in the area that fail a Constitution saving throw, half damage on success.
 Liquid in the area is frozen to a depth of 6 inches for 1 minute.
 Any creature caught in the ice can use an action to make a Strength check against your spell save DC to escape.
 
