@@ -9,7 +9,7 @@ _5th-level enchantment_
 **Duration:** 30 days
 
 You give a command to one creature which can understand you.
-It becomes charmed by you.
+It becomes charmed by you if it fails a Wisdom saving throw.
 While charmed in this way, it takes `5d10` psychic damage the first time each day that it disobeys your command.
 Your command can be any course of action or inaction that wouldn’t result in the target’s death.
 The spell ends if the command is suicidal or you use an action to dismiss the spell.
