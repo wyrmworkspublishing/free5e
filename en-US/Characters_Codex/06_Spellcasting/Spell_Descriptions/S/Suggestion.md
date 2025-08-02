@@ -10,7 +10,7 @@ _2nd-level enchantment_
 
 Creatures that cannot be charmed are immune to this spell.
 Suggest an activity phrased in one to two sentences.
-One creature is magically influenced to follow that course of activity.
+One creature that fails a Wisdom saving throw is magically influenced to follow that course of activity.
 The suggestion must be worded to sound reasonable.
 Asking the target to perform an action that is obviously harmful to it ends the spell.
 

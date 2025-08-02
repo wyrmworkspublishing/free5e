@@ -12,7 +12,7 @@ You create an area of poisonous green fog, which can spread around corners but n
 The area is heavily obscured.
 A strong wind disperses the fog, ending the spell early.
 
-Until the spell ends, when a creature enters the area for the first time on a turn or starts its turn there, it takes `5d8` poison damage.
+Until the spell ends, when a creature enters the area for the first time on a turn or starts its turn there, it takes `5d8` poison damage on a failed Constitution saving throw or half damage on success.
 
 At the start of each of your turns, the fog moves 10 feet horizontally away from you if possible, sinking to the lowest level if it moves over an opening.
 
