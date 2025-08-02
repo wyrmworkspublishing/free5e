@@ -9,7 +9,7 @@ _3rd-level evocation_
 **Duration:** Instantaneous
 
 A bolt of lightning arcs out from you in a direction you choose.
-Each creature in the area takes `8d6` lightning damage.
+Each creature in the area takes `8d6` lightning damage on a failed Dexterity saving throw, half damage on success.
 The lightning ignites flammable objects in its path that aren’t worn or carried by another creature.
 
 If the spell is stopped by an object at least as large as its width, it ends there unless it deals enough damage to break through.
