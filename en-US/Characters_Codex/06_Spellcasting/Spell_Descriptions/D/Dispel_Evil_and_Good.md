@@ -14,7 +14,7 @@ You can end the spell early by using an action to do either of the following.
 
 - **Mental Resistance.**
   Choose up to 3 friendly creatures within 60 feet.
-  Each of those creatures that is charmed, frightened, or possessed by a celestial, elemental, fey, fiend, or undead may make an immediate saving throw with advantage against the condition or possession, ending it on a success.
+  Each of those creatures that is charmed, frightened, or possessed by a celestial, elemental, fey, fiend, or undead may make an immediate Charisma saving throw with advantage against the condition or possession, ending it on a success.
 - **Retribution**
   Make a melee spell attack against a celestial, elemental, fey, fiend, or undead within reach.
   On a hit, the creature takes `7d8` radiant or necrotic damage (your choice) and is stunned until the beginning of your next turn.
