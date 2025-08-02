@@ -9,7 +9,7 @@ _2nd-level evocation_
 **Duration:** Instantaneous
 
 An ear-splitting ringing sound emanates from the area.
-Creatures in the area take `3d8` thunder damage.
+Creatures in the area take `3d8` thunder damage on a failed Constitution saving throw or half damage on success.
 A creature made of stone, metal, or other inorganic material has disadvantage on its saving throw.
 
 Any nonmagical items within the area that are not worn or carried also take damage.
