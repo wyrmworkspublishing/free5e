@@ -9,6 +9,7 @@ _4th-level necromancy_
 **Duration:** Instantaneous
 
 Necrotic energies deal `8d8` necrotic damage to the target.
+The target must make a Constitution saving throw. The target takes 8d8 necrotic damage on a failed save, or half as much damage on a successful one.
 Undead and constructs are immune to this spell.
 
 A plant creature or magical plant has disadvantage on its saving throw and takes the maximum damage possible from this spell.
