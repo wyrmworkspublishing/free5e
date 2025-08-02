@@ -1,6 +1,11 @@
 #### Protection from Energy
+<!-- TODO Check and tag this spell -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level abjuration_
 
-> **Warning:**
-> This spell has not yet been transferred from the Google Doc.
+**Casting Time:** 1 action \
+**Range:** Touch \
+**Components:** V, S \
+**Duration:** Concentration, up to 1 hour
+
+For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.

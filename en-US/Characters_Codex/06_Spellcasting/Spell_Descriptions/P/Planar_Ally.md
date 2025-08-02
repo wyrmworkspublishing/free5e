@@ -1,6 +1,29 @@
 #### Planar Ally
+<!-- TODO Check and tag this spell -->
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level conjuration_
 
-> **Warning:**
-> This spell has not yet been transferred from the Google Doc.
+**Casting Time:** 10 minutes \
+**Range:** 60 feet \
+**Components:** V, S \
+**Duration:** Instantaneous
+
+You seek aid from an otherworldly entity known to you: a god, primordial, demon prince, or cosmic power.
+It sends a celestial, elemental, or fiend loyal to it to aid you, appearing in an unoccupied space within range.
+You can specify a creature’s name when casting this spell, but the Conductor may choose a different one.
+
+The creature is under no obligation to act in a particular way.
+You can ask it to perform a service in exchange for payment.
+The task can range from simple to complex, and communication is required for bargaining.
+Payment can take various forms, such as gold, magic items, living sacrifices, or treasure.
+
+A task measured in minutes requires 100 gp per minute, in hours 1,000 gp per hour, and in days (up to 10 days) 10,000 gp per day.
+The Conductor can adjust these payments based on circumstances.
+If the task aligns with the creature’s ethos, payment may be halved or waived.
+Nonhazardous tasks typically require half the suggested payment, while dangerous tasks may require a greater gift.
+Creatures rarely accept suicidal tasks.
+
+After completing the task or the agreed-upon duration, the creature returns to its home plane, reporting back if appropriate.
+If payment cannot be agreed upon, the creature returns immediately.
+
+A creature enlisted to join your group counts as a member of it, receiving a full share of experience points awarded.
