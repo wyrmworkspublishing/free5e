@@ -28,6 +28,9 @@ Craft heroes who reflect complex identities, layered motivations, and abilities 
 > The Conductor's Companion gives you everything you need to build and run stories for others.
 > Need foes to challenge your heroes?
 > Monstrous Manuscript unleashes a host of ready-to-use adversaries.
-> Find them all at [Free5e.com](https://free5e.com) or scan the code below.
+> Find them all at [Free5e.com](https://free5e.com)
+<!--
+>  or scan the code below.
 > \
 > ![Free5e.com](../../assets/images/free5e.com-qr-code/qr-code.svg)
+-->

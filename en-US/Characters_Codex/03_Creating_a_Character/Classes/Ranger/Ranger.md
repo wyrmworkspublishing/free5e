@@ -105,11 +105,19 @@ You adopt a particular style of fighting as your specialty.
 Choose one of the following options.
 You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
+###### Archery
+
 [**Archery**](../_Fighting_Styles/Archery.md)
+
+###### Defense
 
 [**Defense**](../_Fighting_Styles/Defense.md)
 
+###### Dueling
+
 [**Dueling**](../_Fighting_Styles/Dueling.md)
+
+###### Two-Weapon Fighting
 
 [**Two-Weapon Fighting**](../_Fighting_Styles/Two-Weapon_Fighting.md)
 

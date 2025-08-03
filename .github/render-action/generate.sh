@@ -276,12 +276,9 @@ for language in "${languages[@]}"; do
 
   # Mark the appendices as such
   for appendix_parent in $(find . -maxdepth 2 -type d -name 'A_*'); do
-    echo "Appendix parent: $appendix_parent"
     for appendix_dir in $(ls -d $appendix_parent/*); do
       if [ -d "$appendix_dir" ]; then
-        echo "Appendix dir: $appendix_dir"
         APPENDIX_FILE="$(ls $appendix_dir/*.adoc | head -n 1)"
-        echo "Appendix file: $APPENDIX_FILE"
         sed -i'.appendix.bak' '1s/^/[appendix]\n/' "$APPENDIX_FILE"
       fi
     done
@@ -291,13 +288,13 @@ for language in "${languages[@]}"; do
   # Now make sure that the tables look decent
   for adoc in $(find . -name '*.adoc'); do
     sed -i'.tables.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
-    mv $adoc "$adoc.2.bak"
+    mv $adoc "$adoc.tables.bak"
     awk '
       /^$/ { blank++ }
       blank && /^\|===$/ { blank=0; print "[%autowidth,width=100%]" }
       /^./ { blank=0 }
       { print }
-    ' "$adoc.2.bak" > $adoc
+    ' "$adoc.tables.bak" > $adoc
   done
   popd
 
