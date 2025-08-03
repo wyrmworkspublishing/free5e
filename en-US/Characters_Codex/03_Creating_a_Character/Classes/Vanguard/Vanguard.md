@@ -111,11 +111,19 @@ You adopt a style of fighting as your specialty.
 Choose one of the following options.
 You can’t take a Fighting Style option more than once, even if you later get to choose again.
 
+###### Defense
+
 [**Defense**](../_Fighting_Styles/Defense.md)
+
+###### Dueling
 
 [**Dueling**](../_Fighting_Styles/Dueling.md)
 
+###### Great Weapon Fighting
+
 [**Great Weapon Fighting**](../_Fighting_Styles/Great_Weapon_Fighting.md)
+
+###### Protection
 
 [**Protection**](../_Fighting_Styles/Protection.md)
 
