@@ -37,7 +37,7 @@ ___
 
 Starting at 6th level, once during a rage, as an attack as part of the Attack action, you can unleash your rage into pure energy, exhaling a blast of elemental power.
 Creatures within a 15-foot cone must make a Dexterity saving throw.
-The DC of this saving throw is `8 + your proficiency modifier + your strength modifier`.
+The DC of this saving throw is `8 + your proficiency modifier + your Strength modifier`.
 A creature takes 6d6 damage of the Elemental Type of your Dragon Color on a failed save.
 
 The damage and range of this breath weapon increases at 10th level (to 8d6 in a 30-foot cone), at 14th level (10d6 in a 45-foot cone), and at 18th level (12d6 in a 60-foot cone)
