@@ -94,7 +94,7 @@ Your access to this energy is represented by a number of focus points.
 Your Adept level determines the number of points you have, as shown in the Focus Points column of the [Adept table](#Adept_the_adept_table).
 
 You can spend these points to fuel various focus features.
-You start knowing three such features: _Flurry of Blows_, Patient Defense_, and _Step of the Wind_.
+You start knowing three such features: _Flurry of Blows_, _Patient Defense_, and _Step of the Wind_.
 
 - **Flurry of Blows (1 focus point).**
   Immediately after you take the Attack action on your turn, make two unarmed strikes as a bonus action.
