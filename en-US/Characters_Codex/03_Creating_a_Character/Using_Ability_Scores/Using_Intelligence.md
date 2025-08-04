@@ -32,7 +32,7 @@ The Conductor might call for an Intelligence check when you try to accomplish ta
 - Analyze the properties of an unfamiliar material or liquid
 - Forge a document
 - Solve a complex puzzle under pressure
-- Recall a obscure detail from a past encounter
+- Recall an obscure detail from a past encounter
 
 ##### Spellcasting Ability
 
