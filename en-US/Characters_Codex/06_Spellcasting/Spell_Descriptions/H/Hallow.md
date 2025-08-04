@@ -42,4 +42,4 @@ On a successful save, a creature is immune to the effect until it leaves the are
 - **Tongues.**
   Creatures within the area can freely communicate with one another whether they share a language or not.
 
-If two Hallowed areas overlap, only the effects of the first Hallow applies.
+If two Hallowed areas overlap, only the effects of the first Hallow apply.
