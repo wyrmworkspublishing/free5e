@@ -96,7 +96,7 @@ In a fight, you can make an opportunity attack when a hostile creature you can p
 Use your reaction to make a melee attack against it before it leaves your reach.
 
 To avoid opportunity attacks, take the [Disengage action](#Combat_Actions_disengage), teleport, or let someone or something move you without using your movement, action, or reaction.
-For example, an explosion hurling you out of a foe’s reach or gravity causing you to fall past an enemy don’t provoke an opportunity attack.
+For example, an explosion hurling you out of a foe’s reach or gravity causing you to fall past an enemy doesn’t provoke an opportunity attack.
 
 ##### Two-Weapon Fighting
 
