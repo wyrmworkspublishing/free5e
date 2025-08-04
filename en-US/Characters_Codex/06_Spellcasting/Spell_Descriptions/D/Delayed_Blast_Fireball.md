@@ -9,7 +9,7 @@ _7th-level evocation_
 **Duration:** Concentration, up to 1 minute
 
 A glowing bead of light flies from you and hovers at the center of the area until you end the spell—either because your concentration is broken or because you choose to end it—and then detonates.
-Each creature in a 20-foot radius sphere must make a Dexterity saving throw, takeing `12d6` fire damage on a failed save, or half as much damage on a successful one.
+Each creature in a 20-foot radius sphere must make a Dexterity saving throw, taking `12d6` fire damage on a failed save, or half as much damage on a successful one.
 The fire spreads around corners, and it damages and ignites any flammable unattended objects in the area.
 
 If at the end of your turn the bead has not yet detonated, the damage increases by `1d6`.
