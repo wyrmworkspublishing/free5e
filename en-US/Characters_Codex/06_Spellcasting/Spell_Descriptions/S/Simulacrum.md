@@ -5,7 +5,7 @@ _7th-level illusion_
 
 **Casting Time:** 12 hours \
 **Range:** Touch \
-**Components:** V, S, M (snow or ice in quantities sufficient to made a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature’s body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell) \
+**Components:** V, S, M (snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature’s body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell) \
 **Duration:** Until dispelled
 
 You sculpt an illusory duplicate of one beast or humanoid that is within range for the entire casting time from ice and snow.
