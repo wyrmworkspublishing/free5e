@@ -55,7 +55,7 @@ Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
 > **Interacting with Objects Around You**
 >
-> Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
+> Here are a few examples of what you can do in tandem with your movement and action:
 >
 > - draw or sheathe a sword
 > - open or close a door

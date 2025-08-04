@@ -137,7 +137,7 @@ A spellcaster must have a free hand to access material components or hold a spel
 ### Duration
 
 A spell’s duration is its persistence time, expressed in rounds, minutes, hours, or even years.
-Some spells specify their effects last until dispelled or destroyed.
+Some spells specify that their effects last until dispelled or destroyed.
 
 #### Instantaneous
 

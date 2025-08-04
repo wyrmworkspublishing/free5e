@@ -34,7 +34,7 @@ A creature effectively suffers from the [blinded condition](#Conditions_blinded)
 
 A creature can pinpoint a target’s location only if the target provides a relevant sensory cue—visibility for sight, vibrations for tremorsense, odor for scent, and so on.
 
-Precise senses (sight, [parasense](#Exploration_Environment_parasense), tremorsense\*, [truesight](#Exploration_Environment_truesight)) allow a creature to pinpoint a target’s exact location within the sense’s range.
+Precise senses (sight, [parasense](#Exploration_Environment_parasense), tremorsense\*, or [truesight](#Exploration_Environment_truesight)) allow a creature to pinpoint a target’s exact location within the sense’s range.
 
 Imprecise senses (hearing, scent) allow pinpointing only within 15 feet; beyond 15 feet, the creature can attempt a Wisdom (Perception) check (`DC = 10 + 1 per 5 feet to the target`) to pinpoint within 30 feet.
 
@@ -83,7 +83,7 @@ Parasense reveals position and general features but not fine detail.
 
 #### Truesight
 
-A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceives the original form of a shapechanger or a creature that is transformed by magic.
+A creature with truesight can, out to a specific range, see in normal and magical darkness, see invisible creatures and objects, automatically detect visual illusions and succeed on saving throws against them, and perceive the original form of a shapechanger or a creature that is transformed by magic.
 Furthermore, the creature can see into the Ethereal Plane.
 
 #### Food and Water

@@ -23,7 +23,7 @@ The table states how far the party can move in a period of time and whether the 
 A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully.
 
 **Forced March.**
-The Travel Pace table assumes that characters travel for 8 hours in day.
+The Travel Pace table assumes that characters travel for 8 hours per day.
 They can push on beyond that limit, at the risk of exhaustion.
 For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour.
 The DC is `10 + 1 for each hour past 8 hours`.

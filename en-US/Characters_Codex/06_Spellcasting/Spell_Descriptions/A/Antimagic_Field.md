@@ -15,7 +15,7 @@ At the Conductor’s discretion, sufficiently powerful artifacts and deities may
 When a magical effect protrudes into the sphere, that part of the effect’s area is suppressed.
 \
 **Creatures and Objects.**
-While within the sphere, any creatures or objects created or conjured by magic temporarily ceases to exist while the space they occupy is within the sphere.
+While within the sphere, any creatures or objects created or conjured by magic temporarily cease to exist while the space they occupy is within the sphere.
 \
 **Dispel Magic.**
 The sphere is immune to [Dispel Magic](#Dispel_Magic_dispel_magic) and similar magical effects, including other Antimagic Field spells.
