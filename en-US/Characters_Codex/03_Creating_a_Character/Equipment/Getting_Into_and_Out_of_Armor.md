@@ -7,7 +7,7 @@ This is the time it takes to put on armor.
 You benefit from the armor’s AC only if you take the full time to don the suit of armor.
 \
 **Doff.**
-his is the time it takes to take off armor.
+This is the time it takes to take off armor.
 If you have help, reduce this time by half.
 
 ___
