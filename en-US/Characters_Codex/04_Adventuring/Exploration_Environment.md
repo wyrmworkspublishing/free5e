@@ -34,7 +34,7 @@ A creature effectively suffers from the [blinded condition](#Conditions_blinded)
 
 A creature can pinpoint a target’s location only if the target provides a relevant sensory cue—visibility for sight, vibrations for tremorsense, odor for scent, and so on.
 
-Precise senses (sight, [parasense](#Exploration_Environment_parasense), [tremorsense](#Exploration_Environment_tremorsense), [truesight](#Exploration_Environment_truesight)) allows a creature to pinpoint a target’s exact location within the sense’s range.
+Precise senses (sight, [parasense](#Exploration_Environment_parasense), tremorsense\*, [truesight](#Exploration_Environment_truesight)) allows a creature to pinpoint a target’s exact location within the sense’s range.
 
 Imprecise senses (hearing, scent) allow pinpointing only within 15 feet; beyond 15 feet, the creature can attempt a Wisdom (Perception) check (`DC = 10 + 1 per 5 feet to the target`) to pinpoint within 30 feet.
 
