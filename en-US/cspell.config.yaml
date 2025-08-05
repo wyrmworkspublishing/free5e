@@ -2,7 +2,7 @@
 
 # The version of the configuration file format.
 version: "0.2"
-# The locale to use when spell checking. (e.g., en, en-GB, de-DE
+# The locale to use when spell checking. (e.g., en, en-GB, de-DE)
 language: en-US
 dictionaryDefinitions:
   - name: free5e
