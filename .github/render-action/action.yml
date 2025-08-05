@@ -1,5 +1,0 @@
-name: Render Markdown
-description: Take markdown files and convert them into a number of other formats
-runs:
-  using: 'docker'
-  image: 'Dockerfile'
