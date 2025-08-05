@@ -1,0 +1,27 @@
+name: Convert the manuscripts
+description: Take manuscript files and convert them into a number of formats
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+inputs:
+  language:
+    description: The language of the manuscript as a combination of a 2 letter ISO 639 language code (lower case, e.g. "en" or "fr"), a dash, and a 2 letter ISO 3166-1 country code for the region (e.g. "US" or "GB").
+    required: true
+  date_format:
+    description: The localized date format used for the conversion version.
+    required: true
+  book_directory:
+    description: The full path (including the language) to the directory which holds the book.
+    required: true
+  book_main_file:
+    description: The name of the main markdown file in the book_directory, excluding the file suffix.
+    required: true
+  generated_files_target_directory:
+    description: The directory, where the generated files are stored. "generated" by default.
+    required: false
+  artifacts_target_directory:
+    description: The directory to which artifacts will be downloaded. "artifacts" by default.
+    required: false
+  conversion:
+    description: The conversion script to run
+    required: true

@@ -1,0 +1,27 @@
+FROM ubuntu:latest AS sass-provider
+WORKDIR /tmp/
+# This version can be updated from time to time. Check https://github.com/sass/dart-sass/releases for the newest release.
+ADD https://github.com/sass/dart-sass/releases/download/1.89.2/dart-sass-1.89.2-linux-x64.tar.gz sass.tar.gz
+RUN tar -xvzf sass.tar.gz
+
+FROM ubuntu:latest AS epubcheck-provider
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends unzip && \
+    rm -rf /var/lib/apt/lists/*
+WORKDIR /tmp/
+# This version can be updated from time to time. Check https://github.com/w3c/epubcheck/releases for the newest release.
+ADD https://github.com/w3c/epubcheck/releases/download/v5.2.1/epubcheck-5.2.1.zip epubcheck.zip
+RUN unzip epubcheck.zip
+RUN mv epubcheck-* epubcheck
+
+FROM ubuntu:latest
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends asciidoctor epubcheck git nodejs npm openjdk-21-jre pandoc tree && \
+    rm -rf /var/lib/apt/lists/*
+RUN gem install asciidoctor-pdf asciidoctor-epub3 asciidoctor-reducer asciimath kramdown-asciidoc
+RUN npm i --global downdoc
+COPY --from=sass-provider /tmp/dart-sass/ /usr/local/sbin/
+
+WORKDIR /free5e
+
+COPY --from=epubcheck-provider /tmp/epubcheck epubcheck
