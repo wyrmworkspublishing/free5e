@@ -24,8 +24,8 @@ You are free to use this content in any manner permitted by that license as long
 >
 > - The **A5E System Reference Document (A5ESRD)** by EN Publishing, available at [A5ESRD.com](https://A5ESRD.com) and licensed under CC-BY-4.0.
 > - The **System Reference Document 5.1 (SRD 5.1)** by Wizards of the Coast LLC, available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document) and licensed under CC-BY-4.0.
-> - The **Lazy GM’s Resource Document** by Michael E. Shea of [SlyFlourish.com](SlyFlourish.com), licensed under CC-BY-4.0.
-> - The **Lazy GM's 5e Monster Builder Resource Document** written by Teos Abadía of [Alphastream.org](https://Alphastream.org), Scott Fitzgerald Gray of [Insaneangel.com](https://Insaneangel.com), and Michael E. Shea of [SlyFlourish.com](SlyFlourish.com), licensed under CC-BY-4.0.
+> - The **Lazy GM’s Resource Document** by Michael E. Shea of [SlyFlourish.com](https://SlyFlourish.com), licensed under CC-BY-4.0.
+> - The **Lazy GM's 5e Monster Builder Resource Document** written by Teos Abadía of [Alphastream.org](https://Alphastream.org), Scott Fitzgerald Gray of [Insaneangel.com](https://Insaneangel.com), and Michael E. Shea of [SlyFlourish.com](https://SlyFlourish.com), licensed under CC-BY-4.0.
 
 All artwork contained in this book is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) or [CC-0](https://creativecommons.org/publicdomain/zero/1.0/deed).
 To use that artwork outside of this project, see the accompanying document with specific licensing and credit information.

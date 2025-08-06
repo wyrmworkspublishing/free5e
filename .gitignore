@@ -237,4 +237,6 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/vim,emacs,linux,macos,windows,obsidian,textmate,notepadpp,sublimetext,visualstudiocode,libreoffice,microsoftoffice
 
+artifacts/
 generated/
+.local*

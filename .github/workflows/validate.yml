@@ -1,5 +1,5 @@
 name: Validate Markdown files
-run-name: ${{ github.actor }} triggered a validation on branch ${{ github.ref }}...
+run-name: Validation triggered on branch ${{ github.ref }}by ${{ github.actor }}...
 on: push
 jobs:
   lint-shared-files:

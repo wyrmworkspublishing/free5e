@@ -1,0 +1,323 @@
+name: Convert the manuscripts into various formats
+run-name: File conversion triggered on on branch ${{ github.ref }} by ${{ github.actor }}...
+on:
+  workflow_call:
+    inputs:
+      language:
+        description: The language of the manuscript as a combination of a 2 letter ISO 639 language code (lower case, e.g. "en" or "fr"), a dash, and a 2 letter ISO 3166-1 country code for the region (e.g. "US" or "GB").
+        type: string
+        required: true
+      date_format:
+        description: The localized date format used for the conversion version.
+        type: string
+        required: true
+      book_directory:
+        description: The full path (including the language) to the directory which holds the book.
+        type: string
+        required: true
+      book_main_file:
+        description: The name of the main markdown file in the book_directory, excluding the file suffix.
+        type: string
+        required: true
+      generated_files_target_directory:
+        description: The directory, where the generated files are stored. "generated" by default.
+        type: string
+        required: false
+        default: "generated"
+      artifacts_target_directory:
+        description: The directory to which artifacts will be downloaded. "artifacts" by default.
+        type: string
+        required: false
+        default: "artifacts"
+    outputs:
+      workflow_started_timestamp:
+        description: The timestamp at which the workflow was started
+        value: ${{ jobs.convert-markdown-to-asciidoc.outputs.timestamp }}
+
+jobs:
+  convert-markdown-to-asciidoc:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} Markdown -> AsciiDoc
+    runs-on: ubuntu-latest
+    outputs:
+      timestamp: ${{ steps.build-started-at.outputs.timestamp }}
+    steps:
+      - name: Store build started at timestamp
+        id: build-started-at
+        run: echo "timestamp=$(date +'%Y-%m-%dT%H-%M-%S')" >> $GITHUB_OUTPUT
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Convert the Markdown files to AsciiDoc
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: ${{ inputs.generated_files_target_directory }}
+          conversion: 'markdown-to-asciidoc'
+      - run: echo "📄 Markdown documents have been converted to AsciiDoc"
+      - name: Upload built Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ steps.build-started-at.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
+  convert-asciidoc-to-docbook:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} AsciiDoc -> DocBook
+    runs-on: ubuntu-latest
+    needs: convert-markdown-to-asciidoc
+    outputs:
+      timestamp: ${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: 'artifacts'
+      - run: ls && ls artifacts
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Convert the AsciiDoc files to a single DocBook file
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: 'generated'
+          artifacts_target_directory: 'artifacts'
+          conversion: 'asciidoc-to-docbook'
+      - run: echo "📄 AsciiDoc documents have been converted to DocBook"
+      - name: Upload built Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-docbook-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated/
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
+  convert-asciidoc-to-epub:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} AsciiDoc -> EPUB3
+    runs-on: ubuntu-latest
+    needs: convert-markdown-to-asciidoc
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: 'artifacts'
+      - run: ls && ls artifacts
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Convert the AsciiDoc files to a single EPUB file
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: 'generated'
+          artifacts_target_directory: 'artifacts'
+          conversion: 'asciidoc-to-epub'
+      - run: echo "📄 AsciiDoc documents have been converted to EPUB"
+      - name: Upload built Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-epub-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated/
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
+  convert-asciidoc-to-html:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} AsciiDoc -> HTML
+    runs-on: ubuntu-latest
+    needs: convert-markdown-to-asciidoc
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: 'artifacts'
+      - run: ls && ls artifacts
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Convert the AsciiDoc files to a single HTML file
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: 'generated'
+          artifacts_target_directory: 'artifacts'
+          conversion: 'asciidoc-to-html'
+      - run: echo "📄 AsciiDoc documents have been converted to HTML"
+      - name: Upload built Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-html-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated/
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
+  convert-asciidoc-to-markdown:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} AsciiDoc -> Markdown
+    runs-on: ubuntu-latest
+    needs: convert-markdown-to-asciidoc
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: 'artifacts'
+      - run: ls && ls artifacts
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Convert the AsciiDoc files to a single Markdown file
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: 'generated'
+          artifacts_target_directory: 'artifacts'
+          conversion: 'asciidoc-to-markdown'
+      - run: echo "📄 AsciiDoc documents have been converted to a single Markdown file"
+      - name: Upload built Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-md-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated/
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
+  convert-asciidoc-to-pdf:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} AsciiDoc -> PDF
+    runs-on: ubuntu-latest
+    needs: convert-markdown-to-asciidoc
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: 'artifacts'
+      - run: ls && ls artifacts
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Convert the AsciiDoc files to a single PDF file
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: 'generated'
+          artifacts_target_directory: 'artifacts'
+          conversion: 'asciidoc-to-pdf'
+      - run: echo "📄 AsciiDoc documents have been converted to PDF"
+      - name: Upload built Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-pdf-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated/
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
+  convert-docbook-to-docx:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} DocBook -> DOCX
+    runs-on: ubuntu-latest
+    needs: convert-asciidoc-to-docbook
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-docbook-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
+          path: 'artifacts'
+      - run: ls && ls artifacts
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Convert the DocBook file to a DOCX file
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: 'generated'
+          artifacts_target_directory: 'artifacts'
+          conversion: 'docbook-to-docx'
+      - run: echo "📄 DocBook document has been converted to DOCX"
+      - name: Upload built Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-docx-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated/
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
+  convert-docbook-to-latex:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} DocBook -> LaTeX
+    runs-on: ubuntu-latest
+    needs: convert-asciidoc-to-docbook
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-docbook-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
+          path: 'artifacts'
+      - run: ls && ls artifacts
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Convert the DocBook file to a LaTeX file
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: 'generated'
+          artifacts_target_directory: 'artifacts'
+          conversion: 'docbook-to-latex'
+      - run: echo "📄 DocBook document has been converted to LaTeX"
+      - name: Upload built Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-latex-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated/
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
+  convert-docbook-to-odt:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} DocBook -> ODT
+    runs-on: ubuntu-latest
+    needs: convert-asciidoc-to-docbook
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-docbook-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
+          path: 'artifacts'
+      - run: ls && ls artifacts
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Convert the DocBook file to an ODT file
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: 'generated'
+          artifacts_target_directory: 'artifacts'
+          conversion: 'docbook-to-odt'
+      - run: echo "📄 DocBook document has been converted to ODT"
+      - name: Upload built Artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-odt-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated/
+      - run: echo "🐉 This job's status is ${{ job.status }}."

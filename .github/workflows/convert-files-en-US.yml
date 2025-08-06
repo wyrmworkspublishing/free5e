@@ -1,0 +1,46 @@
+name: Convert the US English manuscripts into various formats
+run-name: US English file conversion triggered on on branch ${{ github.ref }} by ${{ github.actor }}...
+on:
+  push:
+    branches:
+      - main
+      - 'translation/**'
+      - 'translations/**'
+      - 'convert/**'
+
+jobs:
+  convert-characters-codes-en-us:
+    name: Convert the en-US Character's Codex
+    uses: ./.github/workflows/convert-files.yml
+    with:
+      language: en-US
+      date_format: '%m/%d/%Y'
+      book_directory: 'en-US/Characters_Codex'
+      book_main_file: 'Characters_Codex'
+
+  convert-conductors-companion-en-us:
+    name: Convert the en-US Conductor's Companion
+    uses: ./.github/workflows/convert-files.yml
+    with:
+      language: en-US
+      date_format: '%m/%d/%Y'
+      book_directory: 'en-US/Conductors_Companion'
+      book_main_file: 'Conductors_Companion'
+
+  convert-monstrous-manuscript-en-us:
+    name: Convert the en-US Monstrous Manuscript
+    uses: ./.github/workflows/convert-files.yml
+    with:
+      language: en-US
+      date_format: '%m/%d/%Y'
+      book_directory: 'en-US/Monstrous_Manuscript'
+      book_main_file: 'Monstrous_Manuscript'
+
+  convert-migration-guide-en-us:
+    name: Convert the en-US Migration Guide
+    uses: ./.github/workflows/convert-files.yml
+    with:
+      language: en-US
+      date_format: '%m/%d/%Y'
+      book_directory: 'en-US/Migration_Guide'
+      book_main_file: '5e_Migration_Guide'
