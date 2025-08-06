@@ -1,6 +1,6 @@
 ### Adept
 
-By honing their awareness beyond ordinary limits, adepts unlock hidden potential within themselves, achieving feats that others consider impossible.
+Adepts are masters of martial arts who use superior focus to unlock hidden potential within themselves, achieving feats that others consider impossible.
 
 #### Class Features
 
