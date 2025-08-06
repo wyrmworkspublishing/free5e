@@ -28,3 +28,12 @@ jobs:
           files: '**/*.md'
           root: 'en-US'
           suggestions: true
+  spellcheck-de-DE:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: streetsidesoftware/cspell-action@v7
+        with:
+          files: '**/*.md'
+          root: 'de-DE'
+          suggestions: true
