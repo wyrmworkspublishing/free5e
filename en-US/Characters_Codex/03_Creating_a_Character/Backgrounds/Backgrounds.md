@@ -74,6 +74,7 @@ Consider how their background ties to their class skills and unique traits.
 This sample background offers concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
 
 [**Acolyte**](./Backgrounds/Acolyte.md)
+### Other sample backgrounds
 
 You can choose one of these backgrounds for your character, or use them as inspiration to design your own using the instructions and Acolyte example.
 
