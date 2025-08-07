@@ -1,5 +1,5 @@
 # Free5e translation guide
-<!-- spell-checker:words wyrmworkspublishing languagecode -->
+<!-- spell-checker:words wyrmworkspublishing dndbeyond languagecode -->
 
 Part of Free5e being released under the CC-BY 4.0 license is, that anyone can translate it into any language.
 This document is intended to make doing so easier.
@@ -7,6 +7,25 @@ This document is intended to make doing so easier.
 There are two basic paths, how you could create a new translation:
 1. You can create a [fork](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of this repository and then work on that independently from the main repository at [github.com/wyrmworkspublishing/free5e](https://github.com/wyrmworkspublishing/free5e).
 2. You can request to be a contributor to this repository, and as such work directly on the code here. To do so, please contact @wyrmworkspublishing.
+
+## Resources for translating Free5e
+
+### The System Reference Document 5.1
+
+Free5e draws heavily on the so called _System Reference Document v5.1_, also known as the _SRD 5.1_.
+The English version of the SRD is available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en) ("CC-BY-4.0") license on [dndbeyond.com](https://www.dndbeyond.com/srd?srsltid=AfmBOorfZoIfRrNYFLuSgfHXP0myxaO4nOBJ82fwJNgXqkRqnLAhOi8b#SystemReferenceDocumentv51) (no account required).
+
+There are also official translations of the SRD 5.1 available in the following languages and under the same license:
+
+- [French](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_FR.pdf)
+- [German](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf)
+- [Italian](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_IT.pdf)
+- [Spanish](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_ES.pdf)
+
+These can be used as references while translating Free5e.
+
+If used, the translated SRD has be referenced in the _Legal_ section of the translation.
+The [Legal.md in the US English Character's Codex](./en-US/Characters_Codex/Legal.md) is a good example of how to do this in the English version.
 
 ## Setting up a new translation directory
 
