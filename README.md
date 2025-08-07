@@ -75,7 +75,11 @@ docker run -v $PWD:/workdir ghcr.io/streetsidesoftware/cspell:latest "**/*.md"
 ```
 -->
 
-## Adding translations
+## How to contribute
+
+Check the (incomplete) [contribution guide](./CONTRIBUTION_GUIDE.md) for information on how to contribute to Free5e.
+
+### Adding translations
 
 Check the the [translation guide](TRANSLATION_GUIDE.md) for information on adding translations of Free5e.
 
