@@ -32,6 +32,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Install German cspell dictionary
+        run: npm install --no-save @cspell/dict-de-de
       - uses: streetsidesoftware/cspell-action@v7
         with:
           files: 'de-DE/**/*.md'
