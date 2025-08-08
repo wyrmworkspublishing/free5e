@@ -64,6 +64,7 @@ Greataxe
 Greatclub
 Greatsword
 grimoire
+Guttersnipe
 Halfling
 Halflings
 handaxe
