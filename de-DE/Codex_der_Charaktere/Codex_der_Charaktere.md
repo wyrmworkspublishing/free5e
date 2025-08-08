@@ -23,6 +23,7 @@ Folgen Sie und unterstützen Sie das Kickstarter-Projekt, um dies Wirklichkeit w
 
 [**Anhang**](./A_Appendix/Appendix.md)
 
+<!-- spell-checker:words credits -->
 [**Credits**](./Credits/Credits.md)
 
 [**Rechtliches**](./Legal.md)

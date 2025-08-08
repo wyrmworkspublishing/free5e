@@ -1,5 +1,5 @@
 name: Validate Markdown files
-run-name: Validation triggered on branch ${{ github.ref }}by ${{ github.actor }}...
+run-name: Validation triggered on branch ${{ github.ref }} by ${{ github.actor }}...
 on: push
 jobs:
   lint-shared-files:
@@ -10,7 +10,9 @@ jobs:
         with:
           config: '.markdownlint-cli2.yaml'
           globs: |
+            CONTRIBUTION_GUIDE.md
             README.md
+            TRANSLATION_GUIDE.md
   lint-en-us:
     runs-on: ubuntu-latest
     steps:
@@ -19,15 +21,26 @@ jobs:
         with:
           config: '.markdownlint-cli2.yaml'
           globs: 'en-US/**/*.md'
+  spellcheck-shared-files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: streetsidesoftware/cspell-action@v7
+        with:
+          files: '*.md'
+          root: '.'
+          suggestions: true
+          strict: true
   spellcheck-en-us:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: streetsidesoftware/cspell-action@v7
         with:
-          files: 'en-US/**/*.md'
-          root: 'en-US'
+          files: '**/*.md'
+          root: './en-US'
           suggestions: true
+          strict: true
   spellcheck-de-DE:
     runs-on: ubuntu-latest
     steps:
@@ -37,7 +50,6 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v7
         with:
           files: '**/*.md'
-          config: 'de-DE/cspell.config.yaml'
-          root: 'de-DE'
+          root: './de-DE'
           suggestions: true
           strict: true

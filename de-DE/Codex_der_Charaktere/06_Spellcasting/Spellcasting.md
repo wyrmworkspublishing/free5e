@@ -1,5 +1,4 @@
 # Zauberei
 
-*Dieser Abschnitt wird noch übersetzt.*
-
-This section is still being translated. 
+> **Warning:**
+> Dieser Abschnitt wird noch übersetzt.
