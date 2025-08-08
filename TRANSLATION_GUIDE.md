@@ -231,8 +231,8 @@ For example, to generate the German version of the Character's Companion, this c
     with:
       language: de-DE
       date_format: '%d.%m.%Y'
-      book_directory: 'de-DE/Codex_fuer_Charaktere'
-      book_main_file: 'Codex_fuer_Charaktere'
+      book_directory: 'de-DE/Codex_der_Charaktere'
+      book_main_file: 'Codex_der_Charaktere'
 ```
 
 There can be multiple such jobs (as can be seen in the file [`.github/workflows/convert-files-en-US.yml`](./.github/workflows/convert-files-en-US.yml)), one for each document to be converted.
