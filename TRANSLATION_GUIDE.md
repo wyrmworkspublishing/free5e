@@ -263,3 +263,149 @@ As documented in the [Git documentation for `--date=format:...`](https://git-scm
 
 So for example, the format `'%d.%m.%Y'` will result in a date such as `28.03.2025` for March 28th, 2025, while the format `'%Y-%m-%d'` will result in `2025-03-28` for the same date.
 Terms such as days of the week or months will be rendered in the language in question (e.g. _"January"_ for the language `en-US` and _"Enero"_ for `es-MX`).
+
+### Preparing the PDF conversion
+
+<!-- spell-checker:words Asciidoctor revdate zuletzt aktualisiert Hyperlegible Noto codespan -->
+
+To be able to create the PDF conversions, we require a PDF theme.
+Under the hood, the conversion process uses [Asciidoctor PDF](https://docs.asciidoctor.org/pdf-converter/), so [its theming instructions](https://docs.asciidoctor.org/pdf-converter/latest/theme/) are relevant here.
+
+Specifically, it is best to create a subdirectory called `themes` in the new directory for every book or document, and then copying the file [en-US/Characters_Codex/themes/pdf-theme.yml](./en-US/Characters_Codex/themes/pdf-theme.yml) into that directory.
+
+The newly created YAML file must then be modified to fit the needs for the specific language.
+Here are some aspects, that probably have to be modified:
+
+- The `page` size.
+  The `pdf-theme.yml` contains the following lines:
+  ```yml
+  page:
+    size: Letter
+  ```
+  This means, that the pages of the PDF will have [letter format](https://en.wikipedia.org/wiki/Letter_(paper_size)), which is common in the US but uncommon in most of the rest of the world.
+  The full documentation for the `page` key can be found [here](https://docs.asciidoctor.org/pdf-converter/latest/theme/page/#page) if needed, in most cases however you will just want to select one of the [named sizes from this list](https://github.com/prawnpdf/pdf-core/blob/0.6.0/lib/pdf/core/page_geometry.rb#L16-L68).
+  For many languages you will probably want to use the following:
+  ```yml
+  page:
+    size: A4
+  ```
+- The terms in the `footer`.
+  The `pdf-theme.yml` contains the following lines:
+  ```yml
+  footer:
+    // ...
+    recto:
+      left:
+        content: 'last updated {revdate}'
+      center:
+        content: '{chapter-title}'
+      right:
+        content: '{page-number}'
+    verso:
+      left:
+        content: '{page-number}'
+      center:
+        content: '{chapter-title}'
+      right:
+        content: 'last updated {revdate}'
+    // ...
+  ```
+  Specifically the `content` properties are relevant here; the text other than `{revdate}` (which is replaced with the last updated timestamp, as configured in [Determining the date format](#determining-the-date-format)) should be translated.
+  So for example, in the German translation it could be:
+  ```yml
+  footer:
+    // ...
+    recto:
+      left:
+        content: 'zuletzt aktualisiert am {revdate}'
+      center:
+        content: '{chapter-title}'
+      right:
+        content: '{page-number}'
+    verso:
+      left:
+        content: '{page-number}'
+      center:
+        content: '{chapter-title}'
+      right:
+        content: 'zuletzt aktualisiert am {revdate}'
+    // ...
+  ```
+- Optional: The `font`.
+  Free5e uses the [Atkinson Hyperlegible Next™](https://www.brailleinstitute.org/freefont/) font for most text and the [Atkinson Hyperlegible Mono™](https://www.brailleinstitute.org/freefont/) font for monospace test.
+  For characters supported by neither of the two, it falls back to the [Roboto](https://github.com/googlefonts/roboto-3-classic) font.
+  The _Next_ font used in most text supports [over 150 languages](https://braileinstitute.app.box.com/s/7iwrt350qau7dzsl19n3d9n73czz2zww).
+  If however you happen to be translating to a language which uses characters not supported by the font, you can add another one.
+
+  To do so, download the font in TTF or OTF format, and then add it in a new subdirectory under [assets/fonts](./assets/fonts/).
+  > **Important!**
+  > \
+  > Make sure that any font that you add has a license that allows using it.
+  > The fonts used so far are under the [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/), which (among other things) permits commercial use.
+
+  Then you can modify the new PDF theme by [extending the font catalog](https://docs.asciidoctor.org/pdf-converter/latest/theme/font/#extend-catalog).
+  It currently looks like this:
+  ```yml
+  font:
+    catalog:
+      merge: true
+      AtkinsonHyperlegibleNext:
+        normal: atkinson_hyperlegible/AtkinsonHyperlegibleNext-Regular.ttf
+        italic: atkinson_hyperlegible/AtkinsonHyperlegibleNext-RegularItalic.ttf
+        bold: atkinson_hyperlegible/AtkinsonHyperlegibleNext-Bold.ttf
+        bold_italic: atkinson_hyperlegible/AtkinsonHyperlegibleNext-BoldItalic.ttf
+      AtkinsonHyperlegibleMono:
+        normal: atkinson_hyperlegible/AtkinsonHyperlegibleMono-Regular.ttf
+        italic: atkinson_hyperlegible/AtkinsonHyperlegibleMono-RegularItalic.ttf
+        bold: atkinson_hyperlegible/AtkinsonHyperlegibleMono-Bold.ttf
+        bold_italic: atkinson_hyperlegible/AtkinsonHyperlegibleMono-BoldItalic.ttf
+      Roboto:
+        normal: roboto/roboto-v48-latin_latin-ext_math_symbols-regular.ttf
+        italic: roboto/roboto-v48-latin_latin-ext_math_symbols-italic.ttf
+        bold: roboto/roboto-v48-latin_latin-ext_math_symbols-700.ttf
+        bold_italic: roboto/roboto-v48-latin_latin-ext_math_symbols-700italic.ttf
+    fallbacks:
+      - Roboto
+      - Noto Sans
+      - Noto Emoji
+  ```
+  You can add a new entry on the level of `AtkinsonHyperlegibleNext`, e.g.:
+  ```yml
+  font:
+    catalog:
+      merge: true
+      AtkinsonHyperlegibleNext:
+        // ...
+      AtkinsonHyperlegibleMono:
+        // ...
+      MyNewFont:
+        normal: MyNewFontDir/my_new_font-regular.ttf
+        italic: MyNewFontDir/my_new_font-italic.ttf
+        bold: MyNewFontDir/my_new_font-bold.ttf
+        bold_italic: MyNewFontDir/my_new_font-bold-italic.ttf
+      MyNewMonoFont:
+        normal: MyNewMonoFontDir/my_new_mono_font-regular.ttf
+        italic: MyNewMonoFontDir/my_new_mono_font-italic.ttf
+        bold: MyNewMonoFontDir/my_new_mono_font-bold.ttf
+        bold_italic: MyNewFontDir/my_new_mono_font-bold-italic.ttf
+      Roboto:
+        // ...
+    fallbacks:
+      - Roboto
+      - Noto Sans
+      - Noto Emoji
+  ```
+  This makes sure, that the font is known to the PDF converter.
+  Now you can modify the `base` setting to use the font:
+  ```yml
+  base:
+  font-size: 12
+  font-family: MyNewFont
+  ```
+  If you want to also change the monospace font, this can be done further down in the `code` and `codespan` sections:
+  ```yml
+  code:
+    font-family: MyNewMonoFont
+  codespan:
+    font-family: MyNewMonoFont
+  ```
