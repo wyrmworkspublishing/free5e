@@ -37,5 +37,6 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v7
         with:
           files: 'de-DE/**/*.md'
+          config: 'de-DE/cspell.config.yaml'
           root: 'de-DE'
           suggestions: true
