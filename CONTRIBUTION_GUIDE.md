@@ -23,6 +23,7 @@ There are a number of ways that you can contribute to Free5e:
 
 The documents in this repository are written using Markdown, since it is both simple to write and easy to understand.
 Specifically, we use [GitHub Flavored Markdown](https://github.github.com/gfm/) with three important additions:
+
 - Any link to a local file (e.g. all links in [en-US/Characters_Codex/Characters_Codex.md](./en-US/Characters_Codex/Characters_Codex.md)) will be translated to file `includes` in the file conversion process.
   This means that while converting the Markdown to other formats, the content of any file linked like that will effectively be copied into the place, where the link is.
 - We use the [ID syntax from Markdown Extra](https://michelf.ca/projects/php-markdown/extra/#spe-attr) to set IDs and thereby anchors when within the same file.
@@ -32,9 +33,11 @@ Specifically, we use [GitHub Flavored Markdown](https://github.github.com/gfm/) 
   Each feature has its own anchor, that is linked in the table.
 
   We can also link to headers within other files like this, as is shown in [the "Empty Body" feature of the Adept](./en-US/Characters_Codex/03_Creating_a_Character/Classes/Adept/Adept.md#empty-body-18th-level-adept_empty_body) for example:
+
   ```md
   Additionally, you can spend 8 focus points to cast the [Astral Projection](#Astral_Projection_astral_projection) spell, without needing material components.
   ```
+
   This is a link to a different file (specifically to the spell [Astral Projection](./en-US/Characters_Codex/06_Spellcasting/Spell_Descriptions/A/Astral_Projection.md)).
 
   Note that you _don't_ have to set the anchor manually for everything; only if you want to link to something from within the same file.
