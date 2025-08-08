@@ -36,7 +36,8 @@ jobs:
         run: npm install --no-save @cspell/dict-de-de
       - uses: streetsidesoftware/cspell-action@v7
         with:
-          files: 'de-DE/**/*.md'
+          files: '**/*.md'
           config: 'de-DE/cspell.config.yaml'
           root: 'de-DE'
           suggestions: true
+          strict: true
