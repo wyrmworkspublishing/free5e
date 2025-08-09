@@ -25,6 +25,19 @@ jobs:
       - uses: actions/checkout@v4
       - uses: streetsidesoftware/cspell-action@v7
         with:
-          files: '**/*.md'
+          files: 'en-US/**/*.md'
           root: 'en-US'
           suggestions: true
+  spellcheck-de-DE:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install German cspell dictionary
+        run: npm install --no-save @cspell/dict-de-de
+      - uses: streetsidesoftware/cspell-action@v7
+        with:
+          files: '**/*.md'
+          config: 'de-DE/cspell.config.yaml'
+          root: 'de-DE'
+          suggestions: true
+          strict: true
