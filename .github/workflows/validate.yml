@@ -33,3 +33,16 @@ jobs:
           root: './en-US'
           suggestions: true
           strict: true
+  spellcheck-de-de:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install German cspell dictionary
+        run: npm install --no-save @cspell/dict-de-de
+      - uses: streetsidesoftware/cspell-action@v7
+        with:
+          files: '**/*.md'
+          root: './de-DE'
+          config: 'de-DE/cspell.config.yaml'
+          suggestions: true
+          strict: true
