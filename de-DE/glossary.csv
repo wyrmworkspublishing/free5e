@@ -162,68 +162,63 @@ experience points,,Erfahrungspunkte
 expertise,,Expertise
 exploration,,Erkundung
 extradimensional,adjective,außerdimensional
-fail,a check,
-familiar,,
-feats,,
-fey,,
-fey warped,,
-fiend,,
-fighter,,
-fighting style,,
-finesse,,
-finish,a rest,
-fire,,
-fly,,
-focus,,
-font of magic,,
-force,,
-frightened,,
-gain,temp hp,
-gargantuan,,
-giant,,
-giantkind,,
-glyph,,
-gnome,,
-gnomish,language,
-goblinkin,,
-goblinoid,,
-grappled,,
-grapplinggrapple,,
-halfling,,
-hazard,,
-healing,,
-heavily obscured,,
-hell-spawned,adjective,
-hellspawn,noun,
-help,,
-hide,,
-high jump,,
-history,,
-hit,with an attack,
-hit dice,,
-hit points,,
-hover,,
-huge,,
-human,,
-humanoid,,
-hunter,,
-illusion,,
-illusions,,
-immunity,,
-improvised weapons,,
-incapacitated,,
-increase,an ability score,
-influence,,
-initiative,,
-insectile,not insectoid,
-insight,,
-inspiration,,
-instantaneous,,
-intelligence,,
-interacting with objects around you,,
-interplanar,adjective,
-intimidation,,
-invisible,,
+fail,a check,einen Wurf verfehlen
+familiar,,Vertrauter
+feats,,Talente
+fey,,Feenwesen
+fey warped,,Feenverwandelt
+fiend,,Unhold
+fighter,,Kämpfer
+fighting style,,Kampfstil
+finesse,,Finesse
+finish,a rest,beenden
+fire,,Feuer
+fly,,Fliegen
+focus,,Fokus
+font of magic,,Quelle der Magie
+force,damage,Kraftschaden
+frightened,,verängstigt
+gain,temp hp,erhalten
+gargantuan,,gigantisch
+giant,,Riese
+glyph,,Glyphe
+gnome,,Gnom
+gnomish,language,Gnomisch
+goblinoid,,Goblinoid
+grapple,,packen
+grappled,,gepackt
+grappling,,Ringen
+halfling,,Halbling
+hazard,,Gefahr
+healing,,Heilung
+heavily obscured,,vollständig verdeckt
+help,,helfen
+hide,,verstecken
+high jump,,Hochsprung
+history,,Geschichte
+hit,with an attack,treffen
+hit dice,,Trefferwürfel
+hit points,,Trefferpunkte
+hover,,schweben
+huge,,riesig
+human,,Mensch
+humanoid,,Humanoid
+hunter,,Jäger
+illusion,,Illusion
+illusions,,Illusionen
+immunity,,Immunität
+improvised weapons,,Improvisierte Waffen
+incapacitated,,kampfunfähig
+increase,an ability score,erhöhen
+influence,,beeinflussen
+initiative,,Initiative
+insight,,Motiv erkennen
+inspiration,,Inspiration
+instantaneous,,augenblicklich
+intelligence,,Intelligenz
+interacting with objects around you,,Gegenstände verwenden
+intimidation,,Einschüchtern
+invisible,,unsichtbar
 jump,,
 keyword,,
 large,,
