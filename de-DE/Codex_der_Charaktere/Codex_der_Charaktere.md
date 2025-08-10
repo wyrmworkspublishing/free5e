@@ -3,7 +3,7 @@
 
 <mark>Hervorgehobene Abschnitte</mark> sind für erhebliche Überabeitungen vorgesehen.
 \
-Melde dich unter unter [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard) zum Newsletter an, um E-Mail-Updates zu erhalten. 
+Melde dich unter unter [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard) zum Newsletter an, um E-Mail-Updates zu erhalten.
 
 [**Einleitung**](./01_Einleitung/Einleitung.md)
 
@@ -25,4 +25,4 @@ Melde dich unter unter [https://wyrmworkspublishing.com/hoard](https://wyrmworks
 
 <<<
 
-[**Kurzbeschreibung**](./Blurb.md) 
+[**Kurzbeschreibung**](./Blurb.md)
