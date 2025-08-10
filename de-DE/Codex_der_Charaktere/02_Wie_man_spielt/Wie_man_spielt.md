@@ -1,6 +1,6 @@
 # Wie man spielt
 
-> **Warning:**
+> **Warnung:**
 > Dieser Abschnitt wird noch übersetzt.
 >
 > This section is still being translated.

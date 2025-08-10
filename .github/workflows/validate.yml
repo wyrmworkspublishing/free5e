@@ -29,8 +29,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: streetsidesoftware/cspell-action@v7
         with:
-          files: '**/*.md'
-          root: './en-US'
+          files: 'en-US/**/*.md'
+          root: '.'
           suggestions: true
           strict: true
   spellcheck-de-de:
