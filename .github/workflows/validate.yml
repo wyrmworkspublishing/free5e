@@ -1,8 +1,8 @@
 name: Validate Markdown files
-run-name: Validation triggered on branch ${{ github.ref }}by ${{ github.actor }}...
+run-name: Validation triggered on branch ${{ github.ref }} by ${{ github.actor }}...
 on: push
 jobs:
-  lint-shared-files:
+  lint-markdown:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -10,34 +10,26 @@ jobs:
         with:
           config: '.markdownlint-cli2.yaml'
           globs: |
-            README.md
-  lint-en-us:
+            **/*.md
+            !LICENSE.md
+            !assets/fonts
+  spellcheck-shared-files:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: DavidAnson/markdownlint-cli2-action@v20
+      - uses: streetsidesoftware/cspell-action@v7
         with:
-          config: '.markdownlint-cli2.yaml'
-          globs: 'en-US/**/*.md'
+          files: '*.md'
+          root: '.'
+          suggestions: true
+          strict: true
   spellcheck-en-us:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: streetsidesoftware/cspell-action@v7
         with:
-          files: 'en-US/**/*.md'
-          root: 'en-US'
-          suggestions: true
-  spellcheck-de-DE:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Install German cspell dictionary
-        run: npm install --no-save @cspell/dict-de-de
-      - uses: streetsidesoftware/cspell-action@v7
-        with:
           files: '**/*.md'
-          config: 'de-DE/cspell.config.yaml'
-          root: 'de-DE'
+          root: './en-US'
           suggestions: true
           strict: true
