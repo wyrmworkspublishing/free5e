@@ -3,3 +3,5 @@
 # Terms should be listed alphabetically for better readability
 
 spell-checker
+Wyrmworks Publishing
+Inklusivität

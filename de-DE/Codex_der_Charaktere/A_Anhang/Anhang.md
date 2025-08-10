@@ -1,4 +1,4 @@
 # Anhang
 
-*Dieser Abschnitt wird noch übersetzt.*
-
+> **Warnung:**
+> Dieser Abschnitt wird noch übersetzt.
