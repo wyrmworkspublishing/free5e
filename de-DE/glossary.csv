@@ -146,24 +146,22 @@ dwarves,not dwarfs,Zwerge
 dwarvish,language,Zwergisch
 eldritch,,schauerlich
 eldritch invocations,,schauerliche Anrufungen
-elemental,,
-elf,,
-elven,adjective,
-elvish,language,
-emanation,,
-enchantment,,
-encounter,,
-end,of a turn/of each turn,
-enemy,,
-equipment,,
-ethereal,,
-evocation,,
-exhaustion,,
-experience points,,
-expertise,,
-exploration,,
-extradimensional,adjective,
-extraplanar,adjective,
+elemental,,Elementar
+elf,,Elf
+elven,adjective,elfisch
+elvish,language,Elfisch
+enchantment,,Verzauberung
+encounter,,Begegnung
+end,of a turn/of each turn,Ende
+enemy,,Feind
+equipment,,Ausrüstung
+ethereal,,ätherisch
+evocation,,Hervorrufung
+exhaustion,,Erschöpfung
+experience points,,Erfahrungspunkte
+expertise,,Expertise
+exploration,,Erkundung
+extradimensional,adjective,außerdimensional
 fail,a check,
 familiar,,
 feats,,
