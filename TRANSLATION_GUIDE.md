@@ -5,6 +5,7 @@ Part of Free5e being released under the CC-BY 4.0 license is, that anyone can tr
 This document is intended to make doing so easier.
 
 There are two basic paths, how you could create a new translation:
+
 1. You can create a [fork](https://docs.github.com/de/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of this repository and then work on that independently from the main repository at [github.com/wyrmworkspublishing/free5e](https://github.com/wyrmworkspublishing/free5e).
 2. You can request to be a contributor to this repository, and as such work directly on the code here. To do so, please contact @wyrmworkspublishing.
 
@@ -92,13 +93,17 @@ While not strictly necessary, for better readability the terms in this file shou
 
 To set up spell checking for a specific language, copy the file [en-US/cspell.config.yaml](./en-US/cspell.config.yaml) into the new language directory and create an empty `dictionary.txt` file next to it.
 In the new `cspell.config.yaml` file, change the selected language; so for example, for German from Germany the line starting with `language:` would be changed to
+
 ```yml
 language: de-DE
 ```
+
 while for Mexican Spanish it would be:
+
 ```yml
 language: ex-MX
 ```
+
 In general these codes follow the same logic as the [translation directories](#setting-up-a-new-translation-directory), though it is possible that not all languages are available for spell checking.
 
 [This list](https://github.com/streetsidesoftware/cspell-dicts?tab=readme-ov-file#natural-language-dictionaries) shows the languages that the spell checker can check.
@@ -107,12 +112,15 @@ The line should contain a package such as `@cspell/dict-de-de`.
 
 Copy that and edit the `cspell.config.yaml` again.
 After the `version:` line, insert the following:
+
 ```yml
 import:
   - '<the text you just copied>/cspell-ext.json'
 ```
+
 and replace `<the text you just copied>` with the part you just copied.
 So for example, for German the `cspell.config.yaml` would look like this:
+
 ```yaml
 # yaml-language-server: $schema=https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
 
@@ -133,6 +141,7 @@ dictionaries:
 If cspell _doesn't_ directly support the language you're translating to, you may be able to use a similar language.
 For example, cspell doesn't have a specific package for Mexican Spanish, but it does have one for Spanish from Spain.
 So the `cspell.config.js` may look like this:
+
 ```yaml
 # yaml-language-server: $schema=https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
 
@@ -156,6 +165,7 @@ To run the spell checker for each change made in the GitHub repository,  the fil
 This file defines the spell checking jobs that are run when new changes are pushed to Github.
 Under `jobs`, add a new job named `spellcheck-<languagecode>`, where `<languagecode>` is replaced with the language code.
 For example, if we were adding a new job for Mexican Spanish, it would look like this:
+
 ```yml
 jobs:
   // This remains unchanged
@@ -166,8 +176,9 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v7
         with:
           files: '**/*.md'
-          root: 'en-US'
+          root: './en-US'
           suggestions: true
+          strict: true
   // This is new
   spellcheck-es-mx:
     runs-on: ubuntu-latest
@@ -176,9 +187,12 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v7
         with:
           files: '**/*.md'
-          root: 'es-MX'
+          root: './es-MX'
           suggestions: true
+          strict: true
+
 ```
+
 Once this is done, commit the changes to GitHub and check the output of the new action.
 
 ### Spell checking before pushing to GitHub
@@ -197,10 +211,13 @@ There are two main ways to add words to those accepted by the spell checker:
   While not strictly necessary, for better readability the terms in this file should be listed alphabetically.
 - If a word is likely to be used only in a single file (e.g. specific terms used only in one spell), you can add it to the dictionary for that Markdown file only.
   To do so, add an HTML comment to the file at some point before the word occurs, that has the following format:
+
   ```html
   <!-- spell-checker:words archdevil -->
   ```
+
   To add multiple words in this way, you can either have multiple comments or you can separate the words in one comment by spaces, e.g.:
+
   ```html
   <!-- spell-checker:words archdevil handaxe -->
   ```
@@ -210,6 +227,7 @@ There are two main ways to add words to those accepted by the spell checker:
 This repository is set up to automatically generate multiple file formats for each book or document.
 To add this setup for a new language, create a new text file called `convert-files-<language code>.yml` (with the same language code as the [translation directory](#setting-up-a-new-translation-directory)) in the directory [`.github/workflows/`](./.github/workflows/).
 This file should contain the following, replacing `<language description>` with a human readable description of tha language (e.g. "US English" or "Mexican Spanish"):
+
 ```yaml
 name: Convert the <language description> manuscripts into various formats
 run-name: <language description> file conversion triggered on on branch ${{ github.ref }} by ${{ github.actor }}...
@@ -223,7 +241,9 @@ on:
 
 jobs:
 ```
+
 followed by a job entry like the following for each book or document to be generated:
+
 ```yaml
   convert-characters-codes-<language code>:
     name: Convert the <language code> <document name>
@@ -234,7 +254,9 @@ followed by a job entry like the following for each book or document to be gener
       book_directory: '<path to book directory>'
       book_main_file: '<name of main book file with no file suffix>'
 ```
+
 Replace the following:
+
 - `<language code>` with the language code (as above), e.g. `de-DE` or `es-MX`
 - `<document name>` with a human readable description of the document to be converted, e.g. `Character's Codex` or `5e to Free5e Migration Guide`
 - `<date format>` with a date format as described below; this is used for the "last changes" date in the generated documents
@@ -243,6 +265,7 @@ Replace the following:
 
 <!-- spell-checker:words fuer Charaktere -->
 For example, to generate the German version of the Character's Companion, this could look as follows:
+
 ```yaml
   convert-characters-codes-de-DE:
     name: Convert the de-DE Codex für Charaktere

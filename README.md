@@ -1,5 +1,5 @@
 # Free5e Repository
-<!-- spell-checker:words BASEFILE blalasaadri Guía Jugador languagecode Libro Monstruos -->
+<!-- spell-checker:words BASEFILE blalasaadri Guía Hyperlegible Jugador languagecode Libro Monstruos openfontlicense -->
 <!-- markdownlint-disable blanks-around-fences -->
 
 This repository contains:
