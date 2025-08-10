@@ -53,98 +53,97 @@ boon,,Segen
 bounty hunter,,Kopfgeldjäger
 brawler,,Schläger
 bright light,,helles Licht
-campaign,,
-cantrip,,
-carrying capacity,,
-cast,a spell,
-casting time,,
-category,,
-celestial,,
-challenge rating,,
-champion,,
-channel divinity,,
-character sheet,,
-charisma,,
-charmed,,
-circle of the city,,
-circle of the land,,
-class features,,
-classes,,
-cleric,,
-cleric domains,,
-cleric spells,,
-climb,,
-cold,,
-college of fools,,
-college of lore,,
-combat,,
-components,,
-concentration,,
-condition,,
-conditions,,
-conductor,,
-cone,,
-conjuration,,
-constitution,,
-construct,,
-consumed,,
-crawl,,
-creating a character,,
-creature,,
-creature type,,
-credits,,
-critical hit,,
-critical miss,,
-cube,,
-culture,,
-cultures,,
-curses,,
-cylinder,,
-damage,,
-damage and healing,,
-damage roll,,
-damage threshold,,
-damage type,,
-darkness,,
-darkvision,,
-dash,,
-dead,,
-deafened,,
-deal,damage,
-death saving throw,,
-deception,,
-determine ability scores,,
-dexterity,,
-dice,plural,
-die,singular,
-difficult terrain,,
-difficulty class,,
-dim light,,
-disadvantage,,
-discipline of the open hand,,
-discipline of the outcast,,
-disengage,,
-dispelled,,
-divination,,
-divine domain,,
-dodge,,
-doff,,
-don,,
-draconic,,
-draconic bloodline,,
-dragon,,
-dragonborn,,
-dragonfire,fire produced by a dragon’s breath weapon,
-dragonkind,,
-draw,,
-dreadnought,,
-dreadnought paths,,
-drop,to x hit points,
-duration,,
-dwarf,,
-dwarven,adjective,
-dwarves,not dwarfs,
-dwarvish,language,
+campaign,,Kampagne
+cantrip,,Zaubertrick
+carrying capacity,,Tragfähigkeit
+cast,a spell,wirken
+casting time,,Zeitaufwand
+celestial,,Celestischer
+challenge rating,,Herausforderungsgrad
+champion,,Champion
+channel divinity,,Göttliche Kanalisierung
+character sheet,,Characterbogen
+charisma,,Charisma
+charmed,,bezaubert
+circle of the city,,Kreis der Stadt
+circle of the land,,Kreis des Landes
+class features,,Klassenmerkmale
+classes,,Klassen
+cleric,,Kleriker
+cleric domains,,Kleriker-Domänen
+cleric spells,,Klerikerzauber
+climb,,klettern
+cold, damage type,Kälteschaden
+college of fools,,Schule der Narren
+college of lore,,Schule der Kunde
+combat,,Kampf
+components,,Komponenten
+concentration,,Konzentration
+condition,,Zustand
+conditions,,Zustände
+conductor,,Spielleiter
+cone,,Kegel
+conjuration,,Beschwörung
+constitution,,Konstitution
+construct,,Konstrukt
+consumed,,Verbraucht
+crawl,,Kriechen
+creating a character,,Charaktererschaffung
+creature,,Kreatur
+creature type,,Kreaturentyp
+credits,,Danksagung
+critical hit,,Kritischer Treffer
+critical miss,,Kritischer Fehlschlag
+cube,,Würfel
+culture,,Kultur
+cultures,,Kulturen
+curses,,Flüche
+cylinder,,Zylinder
+damage,,Schaden
+damage and healing,,Schaden und Heilung
+damage roll,,Schadenswurf
+damage threshold,,Schadensschwelle
+damage type,,Schadensart
+darkness,,Dunkelheit
+darkvision,,Dunkelsicht
+dash,,Rennen
+dead,,Tot
+deafened,,Taub
+deal,damage,Schaden verursachen
+death saving throw,,Todesrettungswurf
+deception,,Täuschung
+determine ability scores,,Attributswerte bestimmen
+dexterity,,Geschicklichkeit
+dice,plural,Würfel
+die,singular,Würfel
+difficult terrain,,Schwieriges Gelände
+difficulty class,,Schwierigkeitsgrad
+dim light,,Schwaches Licht
+disadvantage,,Nachteil
+discipline of the open hand,,Weg der offenen Hand
+discipline of the outcast,,Weg des Ausgestoßenen
+disengage,,Rückzug
+dispelled,,Aufgehoben
+divination,,Erkenntnismagie
+divine domain,,Göttliche Domäne
+dodge,,Ausweichen
+doff,,Ablegen
+don,,Anlegen
+draconic,,drakonisch
+draconic bloodline,,Drakonische Abstammung
+dragon,,Drache
+dragonborn,,Drachenblütiger
+dragonfire,fire produced by a dragon’s breath weapon,Drachenfeuer
+dragonkind,,Drachenartige
+draw,,Ziehen
+dreadnought,,Dreadnought
+dreadnought paths,,Pfade des Dreadnought
+drop,to x hit points,Fallen auf
+duration,,Dauer
+dwarf,,Zwerg
+dwarven,adjective,zwergisch
+dwarves,not dwarfs,Zwerge
+dwarvish,language,Zwergisch
 eldritch,,
 eldritch invocations,,
 elemental,,
