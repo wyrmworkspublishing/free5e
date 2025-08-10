@@ -1,7 +1,7 @@
 # Free5e Codex für Charaktere
 (<mark>Vorschau - Inhalt in Bearbeitung</mark>)
 
-<mark>Hervorgehobene Abschnitte</mark> sind für erhebliche Überabeitungen vorgesehen.
+<mark>Hervorgehobene Abschnitte</mark> sind für erhebliche Überarbeitungen vorgesehen.
 \
 Melde dich unter unter [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard) zum Newsletter an, um E-Mail-Updates zu erhalten.
 
@@ -25,4 +25,4 @@ Melde dich unter unter [https://wyrmworkspublishing.com/hoard](https://wyrmworks
 
 <<<
 
-[**Kurzbeschreibung**](./Blurb.md)
+[**Kurzbeschreibung**](./Buchruecken.md)
