@@ -269,7 +269,7 @@ Terms such as days of the week or months will be rendered in the language in que
 <!-- spell-checker:words Asciidoctor revdate zuletzt aktualisiert Hyperlegible Noto codespan -->
 
 To be able to create the PDF conversions, we require a PDF theme.
-Under the hood, the conversion process uses [Asciidoctor PDF](https://docs.asciidoctor.org/pdf-converter/), so [its theming instructions](https://docs.asciidoctor.org/pdf-converter/latest/theme/) are relevant here.
+Under the hood, the conversion process uses [Asciidoctor PDF](https://docs.asciidoctor.org/pdf-converter/latest/), so [its theming instructions](https://docs.asciidoctor.org/pdf-converter/latest/theme/) are relevant here.
 
 Specifically, it is best to create a subdirectory called `themes` in the new directory for every book or document, and then copying the file [en-US/Characters_Codex/themes/pdf-theme.yml](./en-US/Characters_Codex/themes/pdf-theme.yml) into that directory.
 
