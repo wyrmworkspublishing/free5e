@@ -217,226 +217,224 @@ inspiration,,Inspiration
 instantaneous,,augenblicklich
 intelligence,,Intelligenz
 interacting with objects around you,,Gegenstände verwenden
-intimidation,,Einschüchtern
+intimidation,,einschüchtern
 invisible,,unsichtbar
-jump,,
-keyword,,
-large,,
-level advancement,,
-life domain,,
-lightly obscured,,
-lightning,,
-line,,
-lock pick,noun,
-long jump,,
-long rest,,
-magic,,
-magic item,,
-magic-user,,
-make,a check,
-making an attack,,
-martial,,
-martial archetypes,,
-martial disciplines,,
-martyr domain,,
-material,,
-maximum hit points,,
-medicine,,
-medium,,
-melee,,
-metamagic,,
-miss,with an attack,
-mixed ancestry,,
-monster,,
-monstrosity,,
-mounted combat,,
-movement,,
-movement and position,,
-multiclassing,,
-nature,,
-necromancy,,
-necrotic,,
-non-player character,,
-nonmagical,,
-oath of devotion,,
-oath of silence,,
-oaths of duty,,
-object,,
-observe,,
-occupied space,,
-ooze,,
-opportunity attack,,
-orc,,
-otherworldly patrons,,
-pact boon,,
-pact magic,,
-paralyzed,,
-passive perception,,
-path of the berserker,,
-path of the dragon,,
-patron,,
-per day,,
-perception,,
-performance,,
-persuasion,,
-petrified,,
-pickaxe,,
-piercing,,
-pinpoint,,
-plane,,
+jump,,springen
+large,,groß
+level advancement,,Stufenaufstieg
+life domain,,Domäne des Lebens
+lightly obscured,,leicht verdeckt
+lightning,damage,Blitzschaden
+line,,Linie
+lock pick,noun,Dietrich
+long jump,,Weitsprung
+long rest,,Lange Rast
+magic,,Magie
+magic item,,Magischer Gegenstand
+magic-user,,Magiekundiger
+make,a check,einen Wurf ablegen
+making an attack,,einen Angriff ausführen
+martial,,kriegerisch
+martial archetypes,,Kampfarchetypen
+martial disciplines,,Kampftradition
+martyr domain,,Märtyrer-Domäne
+material,,Material
+maximum hit points,,maximale Trefferpunkte
+medicine,,Heilkunde
+medium,,mittelgroß
+melee,,Nahkampf
+metamagic,,Metamagie
+miss,with an attack,verfehlen
+mixed ancestry,,gemischte Abstammung
+monster,,Monster
+monstrosity,,Monstrosität
+mounted combat,,berittener Kampf
+movement,,Bewegung
+movement and position,,Bewegung und Position
+multiclassing,,Klassenkombinationen
+nature,,Naturkunde
+necromancy,,Nekromantie
+necrotic,damage,nekrotisch
+non-player character,,Nichtspielercharakter
+nonmagical,,nichtmagisch
+oath of devotion,,Schwur der Hingabe
+oath of silence,,Schwur des Schweigens
+oath of duty,,Heiliger Schwur
+object,,Gegenstand
+observe,,beobachten
+occupied space,,besetzter Bereich
+ooze,,Schlick
+opportunity attack,,Gelegenheitsangriff
+orc,,Ork
+otherworldly patrons,,Außerweltliche Schutzherren
+pact boon,,Segen des Paktes
+pact magic,,Paktmagie
+paralyzed,,gelähmt
+passive perception,,passive Wahrnehmung
+path of the berserker,,Pfad des Berserkers
+path of the dragon,,Pfad des Drachen
+patron,,Schutzherr
+per day,,pro Tag
+perception,,Wahrnehmung
+performance,,Darbietung
+persuasion,,Überzeugen
+petrified,,versteinert
+pickaxe,,Spitzhacke
+piercing,damage,Stichschaden
+pinpoint,,genau lokalisieren
+plane,,Ebene
 planes of existence,chapter title,Die Ebenen der Existenz
-plant,,
-player,,
-player character,,
-poison,,
-poisoned,,
-possession,,
-proficiency,,
-proficiency bonus,,
-prone,,
-properties,,
-psychic,,
-radiant,,
-rage,,
-range,,
-ranged,,
-ranger,,
-ranger archetypes,,
-ranger spells,,
-reach,,
-reaction,use your reaction to,
-ready,,
-ready,an action,
-reduce,a target to x hp,
-regain,hp,
-religion,,
-resistance,,
-resting,,
-restore,hp,
-restrained,,
-ritual,,
-rogue,,
-roguish archetypes,,
-roleplay/roleplaying,,
-round,,
-round down,,
-rule,,
-rulebook,,
-save,,
-save dc,,
-saving throw,,
-school of magic,,
-score,a critical hit,
-scry/scries/scried/scrying/scryer,one who scries,
-search,,
-sellsword,,
-sense,,
-shapechange/shapechanger,,
-shapeshifter,,
-shapeshifting,,
-short rest,,
-simple,,
-simultaneous effects,,
-size,,
-skills,,
-slashing,,
-sleight of hand,,
-small,,
-somatic,,
-sorcerer,,
-sorcerer spells,,
-sorcerous origins,,
-space,,
-speed,,
-spell,,
-spell attack modifier,,
-spell descriptions,,
-spell duel,,
-spell lists,,
-spell scroll,,
-spell trap,,
-spell ward,,
-spell-shield,,
-spellbook,,
-spellcaster,,
-spellcaster/spellcasting,,
-spellcasting,,
-spellcraft,noun,
-spellfire,,
-sphere,,
-stable,,
-stablemaster,,
-staffs,not staves,
-stat block,,
-stealth,,
-strength,,
-study,,
-stunned,,
-subclass,,
-succeed,a check,
-summon,,
-surprise,,
-survival,,
-swim,,
-swordmaster,,
-swordsmith,,
-take,an action,
-take,an attack,
-take,damage,
-target,,
-tavernkeeper,,
-telepathy,,
-teleportation,,
-temporary hit points,,
-tenant,,
-tenet,,
-the environment,,
-the fiend,,
-the overseer,,
-theurge,,
-thief,,
-thrown,,
-thunder,,
-tiefling,,
-timeline,,
-tiny,,
-titanic,,
-tools,,
-transmutation,,
-tremorsense,,
-truesight,,
-turn,,
-unarmed strike,,
-unconscious,,
-undead,,
-unoccupied space,,
-use,a feature to,
-use,a feature,
-use,a spell slot,
-use,an action to,
-use,an action,
-using ability scores,,
-using each ability,,
-utilize,,
-vanguard,,
-vanguard spells,,
-vehiclemount,,
-verbal,,
-versatile,,
-vulnerability,,
-war band,not warband,
-war magic,,
-warlock,,
-warlock spells,,
-weapon properties,,
-weapons,,
-weaponsmith,,
-wielding,,
-wisdom,,
-wizard,,
-wizard spells,,
-wodewose,,
-wodewose circles,,
-wodewose spells,,
-working together,,
-worshiped/worshiper/worshiping,,
+plant,,Pflanze
+player,,Spieler
+player character,,Spielercharakter
+poison,,Gift
+poisoned,,vergiftet
+possession,,Besitz
+proficiency,with,geübt
+proficiency bonus,,Übungsbonus
+prone,,liegend
+properties,,Eigenschaften
+psychic,,Ppychischer Schaden
+radiant,,Strahlenschaden
+rage,,Wut
+range,,Reichweite
+ranged,,Fernkampf
+ranger,,Waldläufer
+ranger archetypes,,Waldläufer-Archetypen
+ranger spells,,Waldläuferzauber
+reach,,Reichweite
+reaction,use your reaction to,Reaktion verwenden, um
+ready,an action,eine Aktion bereithalten
+reduce,a target to x hp,ein Ziel auf x TP reduzieren
+regain,hp,TP wiedererlangen
+religion,,Religion
+resistance,,Resistenz
+resting,,Rasten
+restore,hp,TP wiederherstellen
+restrained,,gefesselt
+ritual,,Ritual
+rogue,,Schurke
+roguish archetypes,,Schurken-Archetypen
+roleplay/roleplaying,,Rollenspiel
+round,,Runde
+round down,,abrunden
+rule,,Regel
+rulebook,,Regelbuch
+save,,Rettungswurf
+save dc,,SG des Rettungswurfs
+saving throw,,Rettungswurf
+school of magic,,Magieschule
+score,a critical hit,einen kritischen Treffer landen
+scry/scries/scried/scrying/scryer,one who scries,Hellsehen
+search,,Suchen
+sellsword,,Söldner
+sense,,Sinn
+shapechange/shapechanger,,Gestaltwandeln/Gestaltwandler
+shapeshifter,,Gestaltwandler
+shapeshifting,,Gestaltwandlung
+short rest,,kurze Rast
+simple,,einfach
+simultaneous effects,,Gleichzeitige Effekte
+size,,Größe
+skills,,Fertigkeiten
+slashing,damage,Hiebschaden
+sleight of hand,,Fingerfertigkeit
+small,,klein
+somatic,,somatisch
+sorcerer,,Zauberer
+sorcerer spells,,Zaubererzauber
+sorcerous origins,,Zauberer-Ursprünge
+space,,Raum
+speed,,Geschwindigkeit
+spell,,Zauber
+spell attack modifier,,Zauberangriffsmodifikator
+spell descriptions,,Zauberbeschreibungen
+spell duel,,Zauberduell
+spell lists,,Zauberlisten
+spell scroll,,Zauberschriftrolle
+spell trap,,Zauberfalle
+spell ward,,Zauberschutz
+spell-shield,,Zauberschild
+spellbook,,Zauberbuch
+spellcaster,,Zauberwirker
+spellcaster/spellcasting,,Zauberwirker/Zauberwirken
+spellcasting,,Zauberwirken
+spellcraft,noun,Zauberkunst
+spellfire,,Zauberfeuer
+sphere,,Sphäre
+stable,,Stall
+stablemaster,,Stallmeister
+staffs,not staves,Stäbe
+stat block,,Statblock
+stealth,,Heimlichkeit
+strength,,Stärke
+study,,Studium
+stunned,,betäubt
+subclass,,Unterklasse
+succeed,a check,einen Wurf bestehen
+summon,,beschwören
+surprise,,Überraschung
+survival,,Überleben
+swim,,schwimmen
+swordmaster,,Schwertmeister
+swordsmith,,Schwertschmied
+take,an action,eine Aktion ausführen
+take,an attack,einen Angriff ausführen
+take,damage,Schaden erleiden
+target,,Ziel
+tavernkeeper,,Wirt
+telepathy,,Telepathie
+teleportation,,Teleportation
+temporary hit points,,temporäre Trefferpunkte
+tenant,,Pächter
+tenet,,Leitsatz
+the environment,,die Umgebung
+the fiend,,der Unhold
+the overseer,,der Aufseher
+theurge,,Theurg
+thief,,Dieb
+thrown,,geworfen
+thunder,damage,Donnerschaden
+tiefling,,Tiefling
+timeline,,Zeitleiste
+tiny,,winzig
+titanic,,titanisch
+tools,,Werkzeuge
+transmutation,,Verwandlung
+tremorsense,,Erschütterungssinn
+truesight,,Wahre Sicht
+turn,,Zug
+unarmed strike,,waffenloser Schlag
+unconscious,,bewusstlos
+undead,,Untoter
+unoccupied space,,unbesetzter Raum
+use,a feature to,eine Eigenschaft verwenden, um
+use,a feature,eine Eigenschaft verwenden
+use,a spell slot,einen Zauberplatz verwenden
+use,an action to,eine Aktion verwenden, um
+use,an action,eine Aktion verwenden
+using ability scores,,Verwendung der Attributswerte
+using each ability,,Verwendung der einzelnen Attribute
+utilize,,nutzen
+vanguard,,Vorkämpfer
+vanguard spells,,Vorkämpferzauber
+vehiclemount,,Fahrzeug/Reittier
+verbal,,verbal
+versatile,,vielseitig
+vulnerability,,Verwundbarkeit
+war band,not warband,Kriegsbande
+war magic,,Kriegsmagie
+warlock,,Hexe/Hexer
+warlock spells,,Hexezauber
+weapon properties,,Waffeneigenschaften
+weapons,,Waffen
+weaponsmith,,Waffenschmied
+wielding,,führen
+wisdom,,Weisheit
+wizard,,Magier
+wizard spells,,Magierzauber
+wodewose,,Schrat
+wodewose circles,,Schrate-Zirkel
+wodewose spells,,Schratzauber
+working together,,Zusammenarbeit
+worshiped/worshiper/worshiping,,anbeten/Anbeter/Anbetung
