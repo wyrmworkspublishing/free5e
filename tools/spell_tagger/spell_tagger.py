@@ -54,7 +54,7 @@ with open(spellpath, 'r') as spellfile:
       tags['[_metadata_:casting_time_unit]'] = matchCastingTime.group(2)
       if (matchCastingTime.group(3) != None and matchCastingTime.group(3) != ""):
         tags['[_metadata_:casting_time_reaction_trigger]'] = matchCastingTime.group(3)
-      break;
+      break
   # Verify, that we found a casting time
   if (tags.get('[_metadata_:casting_time_amount]', 'none') == 'none'):
     raise Exception('No casting time found!')
@@ -62,11 +62,20 @@ with open(spellpath, 'r') as spellfile:
   # Find the range of the spell
   for line in lines:
     matchRange = re.search('^\*\*Range:\*\* (\d+) (\w+) \\\\$', line)
+    matchTouchRange = re.search('^\*\*Range:\*\* Touch \\\\$', line)
+    matchSelfRange = re.search('^\*\*Range:\*\* Self \\\\$', line)
     if (matchRange):
       rangeAmount = matchRange.group(1)
       rangeUnit = matchRange.group(2)
       tags['[_metadata_:range]'] = '{} {}'.format(matchRange.group(1), matchRange.group(2))
-      break;
+      break
+    elif (matchTouchRange):
+      tags['[_metadata_:range]'] = 'Touch'
+      break
+    elif (matchSelfRange):
+      tags['[_metadata_:range]'] = 'Self'
+      break
+    tags['[_metadata_:target]'] = "???"
   # Verify, that we found a casting time
   if (tags.get('[_metadata_:range]', 'none') == 'none'):
     raise Exception('No range found!')
@@ -89,7 +98,8 @@ with open(spellpath, 'r') as spellfile:
         tags['[_metadata_:components_material]'] = 'true'
       if (tags.get('[_metadata_:components_material]', 'false') == 'true'):
         tags['[_metadata_:components_material_description]'] = matchComponents.group(4)
-      break;
+        tags['[_metadata_:components_material_cost]'] = '???'
+      break
   # Verify, that we found components
   if (tags.get('[_metadata_:components_verbal]', 'none') == 'none' and tags.get('[_metadata_:components_somatic]', 'none') == 'none' and tags.get('[_metadata_:components_material]', 'none') == 'none'):
     raise Exception('No spell components found!')
@@ -99,18 +109,22 @@ with open(spellpath, 'r') as spellfile:
     matchDurationInstant = re.search('^\*\*Duration:\*\* Instantaneous$', line)
     matchDuration = re.search('^\*\*Duration:\*\* (\d+) (\w+)$', line)
     matchDurationConcentration = re.search('^\*\*Duration:\*\* Concentration, up to (\d+) (\w+)$', line)
+    matchDurationOther = re.search('^\*\*Duration:\*\* ([\w\s]+)\n$', line)
     if (matchDurationInstant):
       tags['[_metadata_:duration]'] = 'Instantaneous'
       tags['[_metadata_:concentration]'] = 'false'
-      break;
+      break
     elif (matchDuration):
       tags['[_metadata_:duration]'] = '{} {}'.format(matchDuration.group(1), matchDuration.group(2))
       tags['[_metadata_:concentration]'] = 'false'
-      break;
+      break
     elif (matchDurationConcentration):
       tags['[_metadata_:duration]'] = '{} {}'.format(matchDurationConcentration.group(1), matchDurationConcentration.group(2))
       tags['[_metadata_:concentration]'] = 'true'
-      break;
+      break
+    elif (matchDurationOther):
+      tags['[_metadata_:duration]'] = matchDurationOther.group(1)
+      tags['[_metadata_:concentration]'] = 'false'
   # Verify, that we found a duration
   if (tags.get('[_metadata_:duration]', 'none') == 'none'):
     raise Exception('No duration found!')
@@ -126,13 +140,12 @@ with open(spellpath, 'r') as spellfile:
 
 print ('Here are the detected tags for the spell {}:'.format(tags['[_metadata_:spell_name]']))
 
+print ('<!-- markdownlint-disable link-image-reference-definitions -->')
 for key, value in tags.items():
   print ('{}:- \"{}\"'.format(key, value))
-print('[_metadata_:target]:- "???"')
-print('[_metadata_:components_material_cost]:- "???"')
 print('[_metadata_:saving_throw]:- "???"')
 print('[_metadata_:saving_throw_success]:- "???"')
 print('[_metadata_:damage_formula]:- "???"')
 print('[_metadata_:damage_type]:- "???"')
-print('[_metadata_:compared_to_wotc_srd]:- "???"')
+print('[_metadata_:compared_to_wotc_srd_5.1]:- "???"')
 print('[_metadata_:compared_to_a5e_srd]:- "???"')

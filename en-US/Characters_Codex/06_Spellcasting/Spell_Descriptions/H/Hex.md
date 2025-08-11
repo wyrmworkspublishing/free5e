@@ -13,7 +13,7 @@
 [_metadata_:components_material_description]:- "a small straw doll"
 [_metadata_:concentration]:- "true"
 [_metadata_:duration]:- "Concentration, up to 1 hour"
-[_metadata_:compared_to_wotc_srd]:- "added"
+[_metadata_:compared_to_wotc_srd_5.1]:- "added"
 [_metadata_:compared_to_a5e_srd]:- "added"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level enchantment_

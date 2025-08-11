@@ -12,7 +12,7 @@
 [_metadata_:components_material_description]:- "burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water"
 [_metadata_:concentration]:- "true"
 [_metadata_:duration]:- "Up to 1 hour"
-[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _5th-level conjuration_

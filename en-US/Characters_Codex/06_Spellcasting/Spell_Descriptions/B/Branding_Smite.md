@@ -14,7 +14,7 @@
 [_metadata_:duration]:- "Up to 1 minute"
 [_metadata_:damage_formula]:- "2d6"
 [_metadata_:damage_type]:- "radiant"
-[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_same"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 [_metadata_:compared_to_a5e_srd]:- "added"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level evocation_

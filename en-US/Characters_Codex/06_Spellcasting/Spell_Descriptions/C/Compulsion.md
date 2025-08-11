@@ -14,7 +14,7 @@
 [_metadata_:duration]:- "Up to 1 minute"
 [_metadata_:saving_throw]:- "Wisdom"
 [_metadata_:saving_throw_success]:- "avoids_effect"
-[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
 [_metadata_:compared_to_a5e_srd]:- "added"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level enchantment_

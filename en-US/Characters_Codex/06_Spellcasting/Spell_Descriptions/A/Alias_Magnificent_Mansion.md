@@ -1,6 +1,23 @@
 #### Alia's Magnificent Mansion
 <!-- previously "Magnificent Mansion" -->
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Alia's Magnificent Mansion"
+[_metadata_:spell_original_name]:- "Magnificent Mansion"
+[_metadata_:spell_level]:- "7"
+[_metadata_:spell_school]:- "conjuration"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "minute"
+[_metadata_:range]:- "300 feet"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp"
+[_metadata_:components_material_cost]:- "15 gp"
+[_metadata_:duration]:- "24 hours"
+[_metadata_:concentration]:- "false"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_same"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _7th-level conjuration_
 
