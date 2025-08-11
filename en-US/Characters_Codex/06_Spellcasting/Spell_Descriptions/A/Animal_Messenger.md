@@ -13,7 +13,8 @@
 [_metadata_:components_material_description]:- "tightly rolled strip of paper"
 [_metadata_:concentration]:- "false"
 [_metadata_:duration]:- "24 hours"
-[_metadata_:spell_origin]:- "a5e_srd"
+[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level enchantment (ritual)_
 

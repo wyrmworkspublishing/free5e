@@ -12,14 +12,15 @@
 [_metadata_:components_material_description]:- "a mushroom-shaped piece of wood inside a universal joint"
 [_metadata_:concentration]:- "true"
 [_metadata_:duration]:- "1 hour"
-[_metadata_:spell_origin]:- "a5e_srd"
+[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_same"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level divination_
 
 **Casting Time:** 1 action \
 **Range:** 60 feet \
 **Components:** V, S, M (a mushroom-shaped piece of wood inside a universal joint) \
-**Duration:** Concentration (1 hour)
+**Duration:** Concentration, up to 1 hour
 
 You create an invisible, floating magical eye through which you can see.
 The eye has normal vision, darkvision to a range of 30 feet, and it can look in every direction.
