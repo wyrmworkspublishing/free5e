@@ -48,10 +48,12 @@ with open(spellpath, 'r') as spellfile:
 
   # Find the casting time
   for line in lines:
-    matchCastingTime = re.search('^\*\*Casting Time:\*\* (\d+) (\w+) \\\\$', line)
+    matchCastingTime = re.search('^\*\*Casting Time:\*\* (\d+) (\w+),?\s?(.*) \\\\$', line)
     if (matchCastingTime):
       tags['[_metadata_:casting_time_amount]'] = matchCastingTime.group(1)
       tags['[_metadata_:casting_time_unit]'] = matchCastingTime.group(2)
+      if (matchCastingTime.group(3) != None and matchCastingTime.group(3) != ""):
+        tags['[_metadata_:casting_time_reaction_trigger]'] = matchCastingTime.group(3)
       break;
   # Verify, that we found a casting time
   if (tags.get('[_metadata_:casting_time_amount]', 'none') == 'none'):
@@ -120,9 +122,17 @@ with open(spellpath, 'r') as spellfile:
 # - effect on successful saving throw
 # - damage formula
 # - damage type
-# - spell origin
+# - spell comparison to the WotC and A5e SRDs
 
 print ('Here are the detected tags for the spell {}:'.format(tags['[_metadata_:spell_name]']))
 
 for key, value in tags.items():
   print ('{}:- \"{}\"'.format(key, value))
+print('[_metadata_:target]:- "???"')
+print('[_metadata_:components_material_cost]:- "???"')
+print('[_metadata_:saving_throw]:- "???"')
+print('[_metadata_:saving_throw_success]:- "???"')
+print('[_metadata_:damage_formula]:- "???"')
+print('[_metadata_:damage_type]:- "???"')
+print('[_metadata_:compared_to_wotc_srd]:- "???"')
+print('[_metadata_:compared_to_a5e_srd]:- "???"')

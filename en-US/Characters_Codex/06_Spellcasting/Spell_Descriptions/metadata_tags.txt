@@ -19,4 +19,6 @@ The following tags are supported by the spell_extractor python script:
 [_metadata_:damage_formula]:- "2d10"
 [_metadata_:damage_type]:- "fire"
 [_metadata_:spell_origin]:- "free5e" // known values: a5e_srd, free5e, wotc_srd_5.1
+[_metadata_:compared_to_wotc_srd]:- "mechanics_unchanged_wording_changed" // known values: mechanics_unchanged_wording_unchanged, mechanics_unchanged_wording_changed, mechanics_changed_wording_changed, added
+[_metadata_:compared_to_a5e_srd]:- "mechanics_unchanged_wording_unchanged" // known values: mechanics_unchanged_wording_unchanged, mechanics_unchanged_wording_changed, mechanics_changed_wording_changed, added
 [_metadata_:spell_original_name]:- "Druidcraft"
