@@ -301,19 +301,24 @@ Here are some aspects, that probably have to be modified:
 
 - The `page` size.
   The `pdf-theme.yml` contains the following lines:
+
   ```yml
   page:
     size: Letter
   ```
+
   This means, that the pages of the PDF will have [letter format](https://en.wikipedia.org/wiki/Letter_(paper_size)), which is common in the US but uncommon in most of the rest of the world.
-  The full documentation for the `page` key can be found [here](https://docs.asciidoctor.org/pdf-converter/latest/theme/page/#page) if needed, in most cases however you will just want to select one of the [named sizes from this list](https://github.com/prawnpdf/pdf-core/blob/0.6.0/lib/pdf/core/page_geometry.rb#L16-L68).
+  The full documentation for the `page` key can be found [in the AsciiDoctor PDF theme documentation](https://docs.asciidoctor.org/pdf-converter/latest/theme/page/#page) if needed, in most cases however you will just want to select one of the [named sizes from this list](https://github.com/prawnpdf/pdf-core/blob/0.6.0/lib/pdf/core/page_geometry.rb#L16-L68).
   For many languages you will probably want to use the following:
+
   ```yml
   page:
     size: A4
   ```
+
 - The terms in the `footer`.
   The `pdf-theme.yml` contains the following lines:
+
   ```yml
   footer:
     // ...
@@ -333,8 +338,10 @@ Here are some aspects, that probably have to be modified:
         content: 'last updated {revdate}'
     // ...
   ```
+
   Specifically the `content` properties are relevant here; the text other than `{revdate}` (which is replaced with the last updated timestamp, as configured in [Determining the date format](#determining-the-date-format)) should be translated.
   So for example, in the German translation it could be:
+
   ```yml
   footer:
     // ...
@@ -354,6 +361,7 @@ Here are some aspects, that probably have to be modified:
         content: 'zuletzt aktualisiert am {revdate}'
     // ...
   ```
+
 - Optional: The `font`.
   Free5e uses the [Atkinson Hyperlegible Next™](https://www.brailleinstitute.org/freefont/) font for most text and the [Atkinson Hyperlegible Mono™](https://www.brailleinstitute.org/freefont/) font for monospace test.
   For characters supported by neither of the two, it falls back to the [Roboto](https://github.com/googlefonts/roboto-3-classic) font.
@@ -368,6 +376,7 @@ Here are some aspects, that probably have to be modified:
 
   Then you can modify the new PDF theme by [extending the font catalog](https://docs.asciidoctor.org/pdf-converter/latest/theme/font/#extend-catalog).
   It currently looks like this:
+
   ```yml
   font:
     catalog:
@@ -392,7 +401,9 @@ Here are some aspects, that probably have to be modified:
       - Noto Sans
       - Noto Emoji
   ```
+
   You can add a new entry on the level of `AtkinsonHyperlegibleNext`, e.g.:
+
   ```yml
   font:
     catalog:
@@ -418,14 +429,18 @@ Here are some aspects, that probably have to be modified:
       - Noto Sans
       - Noto Emoji
   ```
+
   This makes sure, that the font is known to the PDF converter.
   Now you can modify the `base` setting to use the font:
+
   ```yml
   base:
   font-size: 12
   font-family: MyNewFont
   ```
+
   If you want to also change the monospace font, this can be done further down in the `code` and `codespan` sections:
+
   ```yml
   code:
     font-family: MyNewMonoFont

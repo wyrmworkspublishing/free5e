@@ -14,6 +14,8 @@ for root, dirs, files in os.walk(spellpath):
 
   for file in files:
     print("Processing file {}...".format(file))
+    if (not file.endswith('.md')):
+      continue
     filepath = os.path.join(root, file)
     with open(filepath, 'r') as spellfile:
       spelldict = {}
@@ -46,6 +48,7 @@ with (open(outfile, 'w', newline='')) as csvfile:
     'spell level',
     'casting time amount',
     'casting time unit',
+    'reaction trigger',
     'ritual spell',
     'range',
     'target',
@@ -60,7 +63,8 @@ with (open(outfile, 'w', newline='')) as csvfile:
     'effect on successful saving throw',
     'damage formula',
     'damage type',
-    'spell origin',
+    'compared to the wotc srd',
+    'compared to the a5e srd',
     'original spell name'
   ])
 
@@ -71,6 +75,7 @@ with (open(outfile, 'w', newline='')) as csvfile:
       spell.get('spell_level'),
       spell.get('casting_time_amount'),
       spell.get('casting_time_unit'),
+      spell.get('casting_time_reaction_trigger'),
       spell.get('ritual', 'false'),
       spell.get('range'),
       spell.get('target', ''),
@@ -85,6 +90,7 @@ with (open(outfile, 'w', newline='')) as csvfile:
       spell.get('saving_throw_success', ''),
       spell.get('damage_formula', ''),
       spell.get('damage_type', ''),
-      spell.get('spell_origin'),
+      spell.get('compared_to_wotc_srd', "unknown"),
+      spell.get('compared_to_a5e_srd', "unknown"),
       spell.get('spell_original_name', '')
     ])

@@ -14,7 +14,8 @@
 [_metadata_:components_material_description]:- "a small crystal bead"
 [_metadata_:concentration]:- "false"
 [_metadata_:duration]:- "8 hours"
-[_metadata_:spell_origin]:- "wotc_srd_5.1"
+[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_same"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 [_metadata_:spell_original_name]:- "Tiny Hut"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level evocation (ritual)_
@@ -24,7 +25,7 @@ _3rd-level evocation (ritual)_
 **Components:** V, S, M (a small crystal bead) \
 **Duration:** 8 hours
 
-A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration.
+A 10-foot radius immobile dome of force springs into existence around and above you and remains stationary for the duration.
 The spell ends if you leave its area.
 
 Nine creatures of Medium size or smaller can fit inside the dome with you.

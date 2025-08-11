@@ -16,7 +16,8 @@
 [_metadata_:duration]:- "Up to 1 minute"
 [_metadata_:damage_formula]:- "3d10"
 [_metadata_:damage_type]:- "force"
-[_metadata_:spell_origin]:- "a5e_srd"
+[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "added"
 [_metadata_:spell_original_name]:- "Arcane Sword"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _7th-level evocation_
@@ -28,6 +29,6 @@ _7th-level evocation_
 
 You summon an insubstantial yet deadly sword to do your bidding.
 
-Make a melee spell attack against a target within 5 feet of the sword, dealing 3d10 force damage on a hit.
+Make a melee spell attack against a target within 5 feet of the sword, dealing `3d10` force damage on a hit.
 
 You can use a bonus action on subsequent turns to move the sword up to 20 feet to a space you can pinpoint and make an identical melee spell attack against a target.

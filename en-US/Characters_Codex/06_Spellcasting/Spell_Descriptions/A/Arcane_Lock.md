@@ -14,7 +14,8 @@
 [_metadata_:components_material_cost]:- "25 gp"
 [_metadata_:concentration]:- "false"
 [_metadata_:duration]:- "Until dispelled"
-[_metadata_:spell_origin]:- "wotc_srd_5.1"
+[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level abjuration_
 

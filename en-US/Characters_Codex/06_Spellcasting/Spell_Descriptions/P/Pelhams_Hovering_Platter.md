@@ -13,7 +13,8 @@
 [_metadata_:components_material_description]:- "a drop of mercury"
 [_metadata_:concentration]:- "false"
 [_metadata_:duration]:- "1 hour"
-[_metadata_:spell_origin]:- "wotc_srd_5.1"
+[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 [_metadata_:spell_original_name]:- "Floating Disk"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level conjuration (ritual)_
