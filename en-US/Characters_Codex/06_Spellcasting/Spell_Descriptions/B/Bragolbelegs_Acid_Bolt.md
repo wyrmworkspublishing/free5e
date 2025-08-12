@@ -28,7 +28,7 @@ _2nd-level evocation_
 **Components:** V, S, M (flint arrowhead) \
 **Duration:** Instantaneous
 
-A translucent green bolt streaks toward a target within range and bursts in a spray of acid.
+A translucent green bolt streaks toward a target and bursts in a spray of acid.
 On a hit, a creature or object takes `4d4` acid damage immediately and `2d4` acid damage at the end of its next turn.
 On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.
 

@@ -6,7 +6,7 @@
 [_metadata_:ritual]:- "false"
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "action"
-[_metadata_:target]:- "One creature you can pinpoint within range"
+[_metadata_:target]:- "One creature you can pinpoint"
 [_metadata_:range]:- "60 feet"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"

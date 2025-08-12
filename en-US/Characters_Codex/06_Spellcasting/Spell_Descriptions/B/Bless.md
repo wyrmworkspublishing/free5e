@@ -24,7 +24,7 @@ _1st-level enchantment_
 **Components:** V, S, M (a sprinkling of holy water) \
 **Duration:** Concentration, up to 1 minute
 
-You bless up to three creatures of your choice within range.
+You bless up to three creatures of your choice.
 Until the spell ends, a `d4` is added to attack rolls and saving throws made by a target.
 
 **At Higher Levels.**

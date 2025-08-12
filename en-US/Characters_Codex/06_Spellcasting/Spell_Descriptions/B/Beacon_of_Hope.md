@@ -6,7 +6,7 @@
 [_metadata_:ritual]:- "false"
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "action"
-[_metadata_:target]:- "Any number of creatures within range"
+[_metadata_:target]:- "Any number of creatures"
 [_metadata_:range]:- "30 feet"
 [_metadata_:components_verbal]:- "false"
 [_metadata_:components_somatic]:- "false"
