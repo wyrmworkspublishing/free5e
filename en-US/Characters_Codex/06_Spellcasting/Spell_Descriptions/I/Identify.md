@@ -8,7 +8,7 @@ _1st-level divination (ritual)_
 **Components:** V, S, M (a pearl worth at least 100 gp and an owl feather) \
 **Duration:** Instantaneous
 
-You learn the target item’s magical properties along with how to use them.
+You learn an object’s magical properties along with how to use them.
 This spell also reveals whether or not a targeted item requires attunement and how many charges it has.
 You also learn what spells, if any, were used to create the item and what, if any, spells are currently affecting the item.
 
