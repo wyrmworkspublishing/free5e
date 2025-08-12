@@ -1,0 +1,10 @@
+# German fantasy terms and proper nouns for Free5e
+# Add German fantasy terms here as they are encountered during translation
+# Terms should be listed alphabetically for better readability
+
+Gendern
+Inklusivität
+Publishing
+spell-checker
+Tabletop
+Wyrmworks

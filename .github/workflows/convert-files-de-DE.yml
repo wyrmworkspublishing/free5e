@@ -1,0 +1,19 @@
+name: Convert the German manuscripts into various formats
+run-name: German file conversion triggered on on branch ${{ github.ref }} by ${{ github.actor }}...
+on:
+  push:
+    branches:
+      - main
+      - 'translation/**'
+      - 'translations/**'
+      - 'convert/**'
+
+jobs:
+  convert-characters-codes-de-DE:
+    name: Convert the de-DE Codex für Charaktere
+    uses: ./.github/workflows/convert-files.yml
+    with:
+      language: de-DE
+      date_format: '%d.%m.%Y'
+      book_directory: 'de-DE/Codex_der_Charaktere'
+      book_main_file: 'Codex_der_Charaktere' 

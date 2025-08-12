@@ -31,5 +31,20 @@ jobs:
         with:
           files: '**/*.md'
           root: './en-US'
+          config: 'en-US/cspell.config.yaml'
+          suggestions: true
+          strict: true
+  spellcheck-de-de:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install German cspell dictionary
+        run: npm install --no-save @cspell/dict-de-de
+      - run: echo "ls $(pwd):" && ls && echo "ls $(pwd)/de-DE:" && ls de-DE
+      - uses: streetsidesoftware/cspell-action@v7
+        with:
+          files: '**/*.md'
+          root: './de-DE'
+          config: 'de-DE/cspell.config.yaml'
           suggestions: true
           strict: true

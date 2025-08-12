@@ -1,0 +1,18 @@
+{
+  "version": "0.2",
+  "language": "de-DE",
+  "import": [
+    "@cspell/dict-de-de/cspell-ext.json"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "free5e",
+      "path": "./dictionary.txt",
+      "addWords": true
+    }
+  ],
+  "dictionaries": [
+    "free5e"
+  ]
+}
+
