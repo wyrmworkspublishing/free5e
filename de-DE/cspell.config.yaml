@@ -11,4 +11,4 @@ dictionaryDefinitions:
     path: ./dictionary.txt
     addWords: true
 dictionaries:
-  - free5e 
+  - free5e
