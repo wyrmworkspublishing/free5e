@@ -375,18 +375,16 @@ succeed,a check,einen Wurf bestehen
 summon,,beschwören
 surprise,,Überraschung
 survival,,Überleben
-swim,,schwimmen
+swim,,Schwimmen
 swordmaster,,Schwertmeister
 swordsmith,,Schwertschmied
 take,an action,eine Aktion ausführen
 take,an attack,einen Angriff ausführen
 take,damage,Schaden erleiden
 target,,Ziel
-tavernkeeper,,Wirt
 telepathy,,Telepathie
 teleportation,,Teleportation
 temporary hit points,,temporäre Trefferpunkte
-tenant,,Pächter
 tenet,,Leitsatz
 the environment,,die Umgebung
 the fiend,,der Unhold
@@ -398,7 +396,6 @@ thunder,damage,Donnerschaden
 tiefling,,Tiefling
 timeline,,Zeitleiste
 tiny,,winzig
-titanic,,titanisch
 tools,,Werkzeuge
 transmutation,,Verwandlung
 tremorsense,,Erschütterungssinn
@@ -416,13 +413,11 @@ use,an action,eine Aktion verwenden
 using ability scores,,Verwendung der Attributswerte
 using each ability,,Verwendung der einzelnen Attribute
 utilize,,nutzen
-vanguard,,Vorkämpfer
-vanguard spells,,Vorkämpferzauber
-vehiclemount,,Fahrzeug/Reittier
+vanguard,,Ordenskrieger
+vanguard spells,,Ordenskriegerzauber
 verbal,,verbal
 versatile,,vielseitig
 vulnerability,,Verwundbarkeit
-war band,not warband,Kriegsbande
 war magic,,Kriegsmagie
 warlock,,Hexe/Hexer
 warlock spells,,Hexezauber
@@ -433,8 +428,8 @@ wielding,,führen
 wisdom,,Weisheit
 wizard,,Magier
 wizard spells,,Magierzauber
-wodewose,,Schrat
-wodewose circles,,Schrate-Zirkel
+wodewose,,Naturgeweihter
+wodewose circles,,Zirkel der Naturgeweihten
 wodewose spells,,Schratzauber
 working together,,Zusammenarbeit
 worshiped/worshiper/worshiping,,anbeten/Anbeter/Anbetung
