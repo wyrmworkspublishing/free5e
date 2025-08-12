@@ -8,5 +8,5 @@ _2nd-level evocation_
 **Components:** V, S, M (ruby dust worth 50 gp, which the spell consumes) \
 **Duration:** Until dispelled
 
-A magical torch-like flame blazes from the target.
+A magical torch-like flame blazes from one object.
 The flame creates no heat, doesn’t consume oxygen, and can’t be extinguished, but it can be covered.
