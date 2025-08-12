@@ -8,7 +8,7 @@ _Evocation cantrip_
 **Components:** V, S \
 **Duration:** Instantaneous
 
-You cast a streak of flame at the target.
+You cast a streak of flame at a creature or object.
 Make a ranged spell attack. On a hit, you deal 1d10 fire damage.
 An unattended flammable object is ignited.
 
