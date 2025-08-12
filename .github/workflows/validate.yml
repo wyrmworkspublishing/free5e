@@ -31,6 +31,7 @@ jobs:
         with:
           files: '**/*.md'
           root: './en-US'
+          config: 'en-US/cspell.config.yaml'
           suggestions: true
           strict: true
   spellcheck-de-de:
