@@ -14,7 +14,8 @@
 [_metadata_:components_material_cost]:- "5,050 gp"
 [_metadata_:concentration]:- "false"
 [_metadata_:duration]:- "Instantaneous"
-[_metadata_:spell_origin]:- "wotc_srd_5.1"
+[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_same"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 [_metadata_:spell_original_name]:- "Secret Chest"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level conjuration_
@@ -24,7 +25,7 @@ _4th-level conjuration_
 **Components:** V, S, M (an exquisite chest, 3 feet by 2 feet by 2 feet, constructed from rare materials worth at least 5,000 gp, and a Tiny replica made from the same materials worth at least 50 gp) \
 **Duration:** Instantaneous
 
-You hide a chest, and all its contents, on the Ethereal Plane.
+You hide a chest, and all its contents, on the [Ethereal Plane](#Planes_of_Existence_planes_of_existence).
 You must touch the chest and the miniature replica that serves as a material component for the spell.
 The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
 
