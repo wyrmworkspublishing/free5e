@@ -9,7 +9,7 @@ _Necromancy cantrip_
 **Duration:** 1 round
 
 You reach out with a spectral hand that carries the chill of death.
-Make a ranged spell attack.
+Make a ranged spell attack against one creature.
 On a hit, the target takes `1d8` necrotic damage, and it cannot regain hit points until the start of your next turn.
 The hand remains visibly clutching onto the target for the duration.
 If the target you hit is undead, it makes attack rolls against you with disadvantage until the end of your next turn.
