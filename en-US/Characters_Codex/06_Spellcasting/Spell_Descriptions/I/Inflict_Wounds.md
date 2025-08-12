@@ -8,7 +8,7 @@ _1st-level necromancy_
 **Components:** V, S \
 **Duration:** Instantaneous
 
-You make a melee spell attack that deals `3d10` necrotic damage on a hit.
+You make a melee spell attack against a creature that deals `3d10` necrotic damage on a hit.
 
 **At Higher Levels.**
 The damage increases by `1d10` for each slot level above 1st.
