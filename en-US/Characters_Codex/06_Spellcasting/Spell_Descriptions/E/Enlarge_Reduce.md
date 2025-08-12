@@ -8,7 +8,7 @@ _2nd-level transmutation_
 **Components:** V, S, M (a pinch of powdered iron) \
 **Duration:** Concentration, up to 1 minute
 
-You cause one creature or object to grow or shrink until the spell ends.
+You cause one creature or object  that is not being worn or carried to grow or shrink until the spell ends.
 An unwilling target may attempt a Constitution saving throw to resist the spell.
 
 If the target is a creature, all items worn or carried by it also change size with it, but an item dropped by the target immediately returns to normal size.
