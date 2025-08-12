@@ -2,7 +2,6 @@
 
 # The version of the configuration file format.
 version: "0.2"
-useDefaultConfiguration: false
 import:
   - '@cspell/dict-de-de/cspell-ext.json'
 # The locale to use when spell checking. (e.g., en, en-GB, de-DE)
