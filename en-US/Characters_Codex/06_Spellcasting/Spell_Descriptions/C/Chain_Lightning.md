@@ -8,7 +8,7 @@ _6th-level evocation_
 **Components:** V, S, M (a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins) \
 **Duration:** Instantaneous
 
-You fire a bolt of electricity that deals `10d8` lightning damage to the target on a failed Dexterity saving throw, half damage on success.
+You fire a bolt of electricity that deals `10d8` lightning damage to one creature or object on a failed Dexterity saving throw, half damage on success.
 Electricity arcs to up to 3 additional creatures or objects you choose that are within 30 feet of the target.
 
 **At Higher Levels.**
