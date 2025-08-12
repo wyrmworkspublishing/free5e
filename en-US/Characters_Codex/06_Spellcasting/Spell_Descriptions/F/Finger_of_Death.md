@@ -8,7 +8,7 @@ _7th-level necromancy_
 **Components:** V, S \
 **Duration:** Instantaneous
 
-The target must make a Constitution saving throw.
+A creature within range must make a Constitution saving throw.
 It takes `7d8 + 30` necrotic damage on a failed save, or half as much damage on a successful one.
 A humanoid killed by this spell turns into a zombie at the start of your next turn.
 It is permanently under your control and follows your spoken commands.
