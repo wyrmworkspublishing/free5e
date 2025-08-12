@@ -1,0 +1,29 @@
+# This is the configuration file for the spell tagger
+
+[en-US.spell-name]
+previouslyRegex = "^<!-- previously \\\"(.*)\\\" -->$"
+
+[en-US.spell-type]
+cantripRegex = "^_(\\w+) cantrip_$"
+leveledSpellRegex = "^_(\\d).?.?-level (\\w+)_$"
+ritualRegex = "^_(\\d).?.?-level (\\w+) \\(ritual\\)_$"
+
+[en-US.casting]
+castingTimeRegex = "^\\*\\*Casting Time:\\*\\* (\\d+) (\\w+),?\\s?(.*) \\\\$"
+
+[en-US.range]
+rangeDistanceRegex = "^\\*\\*Range:\\*\\* (\\d+) (\\w+) \\\\$"
+rangeSelfRegex = "^\\*\\*Range:\\*\\* Self \\\\$"
+self = "Self"
+rangeTouchRegex = "^\\*\\*Range:\\*\\* Touch \\\\$"
+touch = "Touch"
+
+[en-US.components]
+componentsRegex = "^\\*\\*Components:\\*\\* ([VSM])[,\\s]{0,2}([VSM])?[,\\s]{0,2}([VSM])?[,\\s]{0,2}\\s?\\((.*)?\\) \\\\$"
+
+[en-US.duration]
+durationInstantRegex = "^\\*\\*Duration:\\*\\* Instantaneous$"
+instantaneous = "Instantaneous"
+durationNoConcentrationRegex = "^\\*\\*Duration:\\*\\* (\\d+) (\\w+)$"
+durationConcentrationRegex = "^\\*\\*Duration:\\*\\* ([\\w\\s]+)\\n$"
+durationOtherRegex = "^\\*\\*Duration:\\*\\* ([\\w\\s]+)\\n$"

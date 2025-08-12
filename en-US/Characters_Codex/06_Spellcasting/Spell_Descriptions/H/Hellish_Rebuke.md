@@ -15,7 +15,7 @@
 [_metadata_:saving_throw_success]:- "halves_damage"
 [_metadata_:damage_type]:- "fireball"
 [_metadata_:damage_formula]:- "2d10"
-[_metadata_:compared_to_wotc_srd]:- "mechanics_same_wording_same"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 [_metadata_:compared_to_a5e_srd]:- "added"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level evocation_

@@ -35,6 +35,8 @@ for root, dirs, files in os.walk(spellpath):
         spells.append(spelldict)
     print('\n')
 
+sortedSpells = sorted(spells, key=lambda d: d['spell_name'])
+
 with (open(outfile, 'w', newline='')) as csvfile:
   csvwriter = csv.writer(
     csvfile,
@@ -68,7 +70,7 @@ with (open(outfile, 'w', newline='')) as csvfile:
     'original spell name'
   ])
 
-  for spell in spells:
+  for spell in sortedSpells:
     csvwriter.writerow([
       spell.get('spell_name'),
       spell.get('spell_school'),
@@ -90,7 +92,7 @@ with (open(outfile, 'w', newline='')) as csvfile:
       spell.get('saving_throw_success', ''),
       spell.get('damage_formula', ''),
       spell.get('damage_type', ''),
-      spell.get('compared_to_wotc_srd', "unknown"),
+      spell.get('compared_to_wotc_srd_5.1', "unknown"),
       spell.get('compared_to_a5e_srd', "unknown"),
       spell.get('spell_original_name', '')
     ])

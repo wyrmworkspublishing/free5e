@@ -3,29 +3,47 @@
 # It can also not determine, where this spell comes from or whether it was renamed.
 import re
 import sys
+import tomllib
 
-spellpath = sys.argv[1]
+language = sys.argv[1]
+spellPath = sys.argv[2]
 
+# Verify the language argument
+languageMatch = re.match('^[a-z]{2}-[A-Z]{2}$', language)
+if (not languageMatch):
+  raise Exception('Invalid language "{}"'.format(language))
+
+with open("spell_tagger.toml", "rb") as f:
+    configData = tomllib.load(f)
+configForLang = configData.get(language)
+
+if (not configForLang):
+  raise Exception('No valid configuration for language {} found'.format(language))
+
+# Prepare the tags dict
 tags = {}
 
-with open(spellpath, 'r') as spellfile:
-  lines = spellfile.readlines()
+# Open the file. If it doesn't exist, we'll get a FileNotFoundError.
+with open(spellPath, 'r') as spellFile:
+  lines = spellFile.readlines()
 
-  spellname = lines[0].replace('#### ', '').replace('‘', "'").replace('‘', "'").strip()
-  tags['[_metadata_:spell_name]'] = spellname
+  spellName = lines[0].replace('#### ', '').replace('‘', "'").replace('‘', "'").strip()
+  tags['[_metadata_:spell_name]'] = spellName
   
+  spellNameConfig = configForLang['spell-name']
   # Find the original spell name, if it has one
   for line in lines:
-    matchOriginalSpellName = re.search('^<!-- previously "(.*)\" -->$', line)
+    matchOriginalSpellName = re.search(spellNameConfig['previouslyRegex'], line)
     if (matchOriginalSpellName):
       tags['[_metadata_:spell_original_name]'] = matchOriginalSpellName.group(1)
       break
 
   # Find the spell level, school, and possibly whether this is a ritual
+  spellTypeConfig = configForLang['spell-type']
   for line in lines:
-    matchCantrip = re.search('^_(\w+) cantrip_$', line)
-    matchLeveledSpell = re.search('^_(\d).?.?-level (\w+)_$', line)
-    matchRitual = re.search('^_(\d).?.?-level (\w+) \(ritual\)_$', line)
+    matchCantrip = re.search(spellTypeConfig['cantripRegex'], line)
+    matchLeveledSpell = re.search(spellTypeConfig['leveledSpellRegex'], line)
+    matchRitual = re.search(spellTypeConfig['ritualRegex'], line)
 
     if (matchCantrip):
       tags['[_metadata_:spell_level]'] = '0'
@@ -47,33 +65,45 @@ with open(spellpath, 'r') as spellfile:
     raise Exception('No spell school or level found!')
 
   # Find the casting time
+  castingConfig = configForLang['casting']
   for line in lines:
-    matchCastingTime = re.search('^\*\*Casting Time:\*\* (\d+) (\w+),?\s?(.*) \\\\$', line)
+    matchCastingTime = re.search(castingConfig['castingTimeRegex'], line)
     if (matchCastingTime):
       tags['[_metadata_:casting_time_amount]'] = matchCastingTime.group(1)
       tags['[_metadata_:casting_time_unit]'] = matchCastingTime.group(2)
       if (matchCastingTime.group(3) != None and matchCastingTime.group(3) != ""):
         tags['[_metadata_:casting_time_reaction_trigger]'] = matchCastingTime.group(3)
-      break;
+      break
   # Verify, that we found a casting time
   if (tags.get('[_metadata_:casting_time_amount]', 'none') == 'none'):
     raise Exception('No casting time found!')
 
   # Find the range of the spell
+  rangeConfig = configForLang['range']
   for line in lines:
-    matchRange = re.search('^\*\*Range:\*\* (\d+) (\w+) \\\\$', line)
+    matchRange = re.search(rangeConfig['rangeDistanceRegex'], line)
+    matchTouchRange = re.search(rangeConfig['rangeTouchRegex'], line)
+    matchSelfRange = re.search(rangeConfig['rangeSelfRegex'], line)
     if (matchRange):
       rangeAmount = matchRange.group(1)
       rangeUnit = matchRange.group(2)
       tags['[_metadata_:range]'] = '{} {}'.format(matchRange.group(1), matchRange.group(2))
-      break;
+      break
+    elif (matchTouchRange):
+      tags['[_metadata_:range]'] = rangeConfig['touch']
+      break
+    elif (matchSelfRange):
+      tags['[_metadata_:range]'] = rangeConfig['self']
+      break
+    tags['[_metadata_:target]'] = "???"
   # Verify, that we found a casting time
   if (tags.get('[_metadata_:range]', 'none') == 'none'):
     raise Exception('No range found!')
 
   # Find the spell components
+  componentsConfig = configForLang['components']
   for line in lines:
-    matchComponents = re.search('^\*\*Components:\*\* ([VSM])[,\s]{0,2}([VSM])?[,\s]{0,2}([VSM])?[,\s]{0,2}\s?\((.*)?\) \\\\$', line)
+    matchComponents = re.search(componentsConfig['componentsRegex'], line)
     # Initially set all of these to false; we'll then set those to true, that we actually have.
     tags['[_metadata_:components_verbal]'] = 'false'
     tags['[_metadata_:components_somatic]'] = 'false'
@@ -89,28 +119,34 @@ with open(spellpath, 'r') as spellfile:
         tags['[_metadata_:components_material]'] = 'true'
       if (tags.get('[_metadata_:components_material]', 'false') == 'true'):
         tags['[_metadata_:components_material_description]'] = matchComponents.group(4)
-      break;
+        tags['[_metadata_:components_material_cost]'] = '???'
+      break
   # Verify, that we found components
   if (tags.get('[_metadata_:components_verbal]', 'none') == 'none' and tags.get('[_metadata_:components_somatic]', 'none') == 'none' and tags.get('[_metadata_:components_material]', 'none') == 'none'):
     raise Exception('No spell components found!')
 
   # Find, the spell duration and whether it requires concentration
+  durationConfig = configForLang['duration']
   for line in lines:
-    matchDurationInstant = re.search('^\*\*Duration:\*\* Instantaneous$', line)
-    matchDuration = re.search('^\*\*Duration:\*\* (\d+) (\w+)$', line)
-    matchDurationConcentration = re.search('^\*\*Duration:\*\* Concentration, up to (\d+) (\w+)$', line)
+    matchDurationInstant = re.search(durationConfig['durationInstantRegex'], line)
+    matchDuration = re.search(durationConfig['durationNoConcentrationRegex'], line)
+    matchDurationConcentration = re.search(durationConfig['durationConcentrationRegex'], line)
+    matchDurationOther = re.search(durationConfig['durationOtherRegex'], line)
     if (matchDurationInstant):
-      tags['[_metadata_:duration]'] = 'Instantaneous'
+      tags['[_metadata_:duration]'] = durationConfig['instantaneous']
       tags['[_metadata_:concentration]'] = 'false'
-      break;
+      break
     elif (matchDuration):
       tags['[_metadata_:duration]'] = '{} {}'.format(matchDuration.group(1), matchDuration.group(2))
       tags['[_metadata_:concentration]'] = 'false'
-      break;
+      break
     elif (matchDurationConcentration):
       tags['[_metadata_:duration]'] = '{} {}'.format(matchDurationConcentration.group(1), matchDurationConcentration.group(2))
       tags['[_metadata_:concentration]'] = 'true'
-      break;
+      break
+    elif (matchDurationOther):
+      tags['[_metadata_:duration]'] = matchDurationOther.group(1)
+      tags['[_metadata_:concentration]'] = 'false'
   # Verify, that we found a duration
   if (tags.get('[_metadata_:duration]', 'none') == 'none'):
     raise Exception('No duration found!')
@@ -126,13 +162,12 @@ with open(spellpath, 'r') as spellfile:
 
 print ('Here are the detected tags for the spell {}:'.format(tags['[_metadata_:spell_name]']))
 
+print ('<!-- markdownlint-disable link-image-reference-definitions -->')
 for key, value in tags.items():
   print ('{}:- \"{}\"'.format(key, value))
-print('[_metadata_:target]:- "???"')
-print('[_metadata_:components_material_cost]:- "???"')
 print('[_metadata_:saving_throw]:- "???"')
 print('[_metadata_:saving_throw_success]:- "???"')
 print('[_metadata_:damage_formula]:- "???"')
 print('[_metadata_:damage_type]:- "???"')
-print('[_metadata_:compared_to_wotc_srd]:- "???"')
+print('[_metadata_:compared_to_wotc_srd_5.1]:- "???"')
 print('[_metadata_:compared_to_a5e_srd]:- "???"')

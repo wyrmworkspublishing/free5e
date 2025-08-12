@@ -1,5 +1,22 @@
 #### Astral Projection
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Astral Projection"
+[_metadata_:spell_level]:- "9"
+[_metadata_:spell_school]:- "necromancy"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "hour"
+[_metadata_:target]:- "you and up to eight willing creatures"
+[_metadata_:range]:- "10 feet"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes"
+[_metadata_:components_material_cost]:- "1,000 gp per creature affected"
+[_metadata_:duration]:- "Special"
+[_metadata_:concentration]:- "false"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _9th-level necromancy_
 
@@ -8,7 +25,7 @@ _9th-level necromancy_
 **Components:** V, S, M (for each creature you affect with this spell, you must provide one jacinth worth at least 1,000 gp and one ornately carved bar of silver worth at least 100 gp, all of which the spell consumes) \
 **Duration:** Special
 
-Until the spell ends, the targets leave their material bodies (unconscious, not aging or requiring food or air) and project nearly identical forms into the [Astral Plane](#Planes_of_Existence_planes_of_existence).
+Until the spell ends, you and up to eight willing creatures leave their material bodies (unconscious, not aging or requiring food or air) and project nearly identical forms into the [Astral Plane](#Planes_of_Existence_planes_of_existence).
 These astral forms use the targets’ game statistics and possessions.
 
 While in astral form the targets each trail a tether, a silvery-white cord that fades into immateriality a foot behind them.

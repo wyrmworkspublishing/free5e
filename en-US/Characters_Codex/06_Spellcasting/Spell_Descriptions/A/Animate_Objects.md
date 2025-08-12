@@ -1,12 +1,27 @@
 #### Animate Objects
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Animate Objects"
+[_metadata_:spell_level]:- "5"
+[_metadata_:spell_school]:- "transmutation"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "120 feet"
+[_metadata_:components_verbal]:- "false"
+[_metadata_:components_somatic]:- "false"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "1 minute"
+[_metadata_:concentration]:- "true"
+[_metadata_:target]:- "up to 6 unattended nonmagical Small or Tiny objects (or fewer Medium, Large, or Huge objects)"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _5th-level transmutation_
 
 **Casting Time:** 1 action \
-**Range:** Long (120 feet) \
+**Range:** 120 feet \
 **Components:** V, S \
-**Duration:** Concentration (1 minute)
+**Duration:** Concentration, up to 1 minute
 
 Choose up to 6 unattended nonmagical Small or Tiny objects.
 You may also choose larger objects; treat Medium objects as 2 objects, Large objects as 3 objects, and Huge objects as 6 objects.
