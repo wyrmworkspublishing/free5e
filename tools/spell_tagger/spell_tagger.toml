@@ -13,7 +13,7 @@ castingTimeRegex = "^\\*\\*Casting Time:\\*\\* (\\d+) (\\w+),?\\s?(.*) \\\\$"
 
 [en-US.range]
 rangeDistanceRegex = "^\\*\\*Range:\\*\\* (\\d+) (\\w+) \\\\$"
-rangeSelfRegex = "^\\*\\*Range:\\*\\* Self \\\\$"
+rangeSelfRegex = "^\\*\\*Range:\\*\\* Self \\(?([\\d\\w\\s\\-]+)?\\)?\\s?\\\\$"
 self = "Self"
 rangeTouchRegex = "^\\*\\*Range:\\*\\* Touch \\\\$"
 touch = "Touch"
@@ -25,5 +25,5 @@ componentsRegex = "^\\*\\*Components:\\*\\* ([VSM])[,\\s]{0,2}([VSM])?[,\\s]{0,2
 durationInstantRegex = "^\\*\\*Duration:\\*\\* Instantaneous$"
 instantaneous = "Instantaneous"
 durationNoConcentrationRegex = "^\\*\\*Duration:\\*\\* (\\d+) (\\w+)$"
-durationConcentrationRegex = "^\\*\\*Duration:\\*\\* ([\\w\\s]+)\\n$"
+durationConcentrationRegex = "^\\*\\*Duration:\\*\\* Concentration, up to (\\d+) (\\w+)\\n$"
 durationOtherRegex = "^\\*\\*Duration:\\*\\* ([\\w\\s]+)\\n$"

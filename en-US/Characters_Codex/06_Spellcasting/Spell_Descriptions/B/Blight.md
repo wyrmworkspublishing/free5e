@@ -1,5 +1,24 @@
 #### Blight
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Blight"
+[_metadata_:spell_level]:- "4"
+[_metadata_:spell_school]:- "necromancy"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:target]:- "One creature or plant"
+[_metadata_:range]:- "30 feet"
+[_metadata_:components_verbal]:- "false"
+[_metadata_:components_somatic]:- "false"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:concentration]:- "false"
+[_metadata_:saving_throw]:- "Constitution"
+[_metadata_:saving_throw_success]:- "halves_damage"
+[_metadata_:damage_formula]:- "8d8"
+[_metadata_:damage_type]:- "necrotic"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different?"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level necromancy_
 
@@ -8,7 +27,7 @@ _4th-level necromancy_
 **Components:** V, S \
 **Duration:** Instantaneous
 
-The target must make a Constitution saving throw.
+One creature or plant of your choice must make a Constitution saving throw.
 It takes `8d8` necrotic damage on a failed save, or half as much damage on a successful one.
 Undead and constructs are immune to this spell.
 

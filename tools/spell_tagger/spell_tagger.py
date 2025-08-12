@@ -88,14 +88,19 @@ with open(spellPath, 'r') as spellFile:
       rangeAmount = matchRange.group(1)
       rangeUnit = matchRange.group(2)
       tags['[_metadata_:range]'] = '{} {}'.format(matchRange.group(1), matchRange.group(2))
+      tags['[_metadata_:target]'] = "???"
       break
     elif (matchTouchRange):
       tags['[_metadata_:range]'] = rangeConfig['touch']
+      tags['[_metadata_:target]'] = "???"
       break
     elif (matchSelfRange):
       tags['[_metadata_:range]'] = rangeConfig['self']
+      if (matchSelfRange.group(1) != None):
+        tags['[_metadata_:target]'] = matchSelfRange.group(1)
+      else:
+        tags['[_metadata_:target]'] = "???"
       break
-    tags['[_metadata_:target]'] = "???"
   # Verify, that we found a casting time
   if (tags.get('[_metadata_:range]', 'none') == 'none'):
     raise Exception('No range found!')

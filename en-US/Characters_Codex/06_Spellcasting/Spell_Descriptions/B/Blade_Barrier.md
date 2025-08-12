@@ -1,10 +1,28 @@
 #### Blade Barrier
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Blade Barrier"
+[_metadata_:spell_level]:- "6"
+[_metadata_:spell_school]:- "evocation"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "90 feet"
+[_metadata_:components_verbal]:- "false"
+[_metadata_:components_somatic]:- "false"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "10 minutes"
+[_metadata_:concentration]:- "true"
+[_metadata_:saving_throw]:- "Dexterity"
+[_metadata_:saving_throw_success]:- "halves_damage"
+[_metadata_:damage_formula]:- "6d10"
+[_metadata_:damage_type]:- "slashing"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_same"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level evocation_
 
 **Casting Time:** 1 action \
-**Range:** 90 feet \
+**Range:** 120 feet \
 **Components:** V, S \
 **Duration:** Concentration, up to 10 minutes
 
