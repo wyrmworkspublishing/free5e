@@ -30,7 +30,7 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v7
         with:
           files: '**/*.md'
-          root: '.'
+          root: './en-US'
           suggestions: true
           strict: true
   spellcheck-de-de:
