@@ -1,6 +1,8 @@
 #### Cerilsen's Secret Chest
 <!-- previously "Secret Chest" -->
 <!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Cerilsen's Secret Chest"
+[_metadata_:spell_original_name]:- "Secret Chest"
 [_metadata_:spell_school]:- "conjuration"
 [_metadata_:spell_level]:- "4"
 [_metadata_:casting_time_amount]:- "1"
@@ -16,7 +18,6 @@
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
-[_metadata_:spell_original_name]:- "Secret Chest"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level conjuration_
 

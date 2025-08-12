@@ -26,7 +26,7 @@ for root, dirs, files in os.walk(spellpath):
       spelldict['spell_name'] = spellname
 
       for line in lines:
-        match = re.search('^\[_metadata_:([\w_]+)\]:-\s*"([^"]*)"', line)
+        match = re.search('^\[_metadata_:([\w_\.]+)\]:-\s*"([^"]*)"', line)
         if match:
           print('  {:35s} -> {}'.format(match.group(1), match.group(2)))
           spelldict[match.group(1)] = match.group(2)
@@ -65,6 +65,7 @@ with (open(outfile, 'w', newline='')) as csvfile:
     'effect on successful saving throw',
     'damage formula',
     'damage type',
+    'healing formula',
     'compared to the wotc srd',
     'compared to the a5e srd',
     'original spell name'
@@ -92,6 +93,7 @@ with (open(outfile, 'w', newline='')) as csvfile:
       spell.get('saving_throw_success', ''),
       spell.get('damage_formula', ''),
       spell.get('damage_type', ''),
+      spell.get('healing_formula', ''),
       spell.get('compared_to_wotc_srd_5.1', "unknown"),
       spell.get('compared_to_a5e_srd', "unknown"),
       spell.get('spell_original_name', '')

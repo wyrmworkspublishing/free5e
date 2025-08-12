@@ -1,5 +1,19 @@
 #### Conjure Fey
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Conjure Fey"
+[_metadata_:spell_level]:- "6"
+[_metadata_:spell_school]:- "conjuration"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "minute"
+[_metadata_:range]:- "90 feet"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "1 hour"
+[_metadata_:concentration]:- "true"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level conjuration_
 
@@ -9,12 +23,12 @@ _6th-level conjuration_
 **Duration:** Concentration, up to 1 hour
 
 You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower.
-It appears in an unoccupied space that you can pinpoint within range.
+It appears in an unoccupied space that you can pinpoint.
 The fey creature disappears when it drops to 0 hit points or when the spell ends.
 
 The fey creature is friendly to you and your companions for the duration.
 Roll initiative for the creature, which has its own turns.
-It obeys any verbal commands that you issue to it (no action required by you), as long as they don’t violate its alignment.
+It obeys any verbal commands that you issue to it (no action required by you), as long as they don’t violate its [alignment](#Alignment_alignment).
 If you don’t issue any commands to the fey creature, it defends itself from hostile creatures but otherwise takes no actions.
 
 If your concentration is broken, the fey creature doesn’t disappear.

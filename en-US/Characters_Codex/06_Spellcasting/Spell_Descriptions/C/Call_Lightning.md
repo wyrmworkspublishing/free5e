@@ -1,5 +1,24 @@
 #### Call Lightning
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Call Lightning"
+[_metadata_:spell_level]:- "3"
+[_metadata_:spell_school]:- "conjuration"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "120 feet"
+[_metadata_:target]:- "a space 100 feed above you"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "10 minutes"
+[_metadata_:concentration]:- "true"
+[_metadata_:saving_throw]:- "Dexterity"
+[_metadata_:saving_throw_success]:- "halves_damage"
+[_metadata_:damage_formula]:- "3d10"
+[_metadata_:damage_type]:- "lightning"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_same"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level conjuration_
 
