@@ -8,7 +8,7 @@ _3rd-level divination_
 **Components:** V, S, M (a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing) \
 **Duration:** Concentration, up to 10 minutes
 
-An invisible sensor is created within the spell’s range.
+An invisible sensor is created within the spell’s range in a location familiar to you (a place observed before) or an obvious and unfamiliar location (behind a door, around a corner, and so on).
 The sensor cannot be moved, targeted, or attacked.
 
 Choose seeing or hearing when you cast the spell.
