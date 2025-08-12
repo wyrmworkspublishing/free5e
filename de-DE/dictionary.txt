@@ -2,8 +2,9 @@
 # Add German fantasy terms here as they are encountered during translation
 # Terms should be listed alphabetically for better readability
 
-spell-checker
-Wyrmworks
-Publishing
+Gendern
 Inklusivität
+Publishing
+spell-checker
 Tabletop
+Wyrmworks
