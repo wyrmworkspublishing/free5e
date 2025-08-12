@@ -9,7 +9,7 @@ _1st-level evocation_
 **Duration:** 1 round
 
 A bolt of light erupts from your hand.
-Make a ranged spell attack against the target.
+Make a ranged spell attack against a creature.
 On a hit, you deal `4d6` radiant damage and the next attack roll made against the target before the end of your next turn has advantage.
 
 **At Higher Levels.**
