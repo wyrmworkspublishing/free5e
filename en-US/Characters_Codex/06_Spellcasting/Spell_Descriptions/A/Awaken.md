@@ -27,7 +27,7 @@ _5th-level transmutation_
 
 You impart sentience in a Huge or smaller beast or plant, granting it an Intelligence of 10 and proficiency in a language you know.
 A plant targeted by this spell gains the ability to move, as well as senses identical to those of a human.
-The Conductor assigns appropriate statistics to the awakened plant.
+The Conductor chooses statistics appropriate for the awakened plant, such as the statistics for the _Awakened Shrub_ or the _Awakened Tree_.
 
 The target is [charmed](#Conditions_charmed) by you for 30 days.
 The charmed condition ends early if you or your companions harm the target.
