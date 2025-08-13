@@ -1,5 +1,19 @@
 #### Commune with Nature
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Commune with Nature"
+[_metadata_:spell_level]:- "5"
+[_metadata_:spell_school]:- "divination"
+[_metadata_:ritual]:- "true"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "minute"
+[_metadata_:range]:- "Self"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:concentration]:- "false"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_same"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _5th-level divination (ritual)_
 
