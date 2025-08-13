@@ -26,7 +26,7 @@ _7th-level conjuration_
 **Components:** V, S, M (a miniature portal carved from ivory, a small piece of polished marble, and a tiny silver spoon, each item worth at least 5 gp) \
 **Duration:** 24 hours
 
-You conjure an extradimensional residence within range.
+You conjure an extradimensional residence.
 It has one glittering entrance that is in a space of your choosing, and is 5 feet wide and 10 feet tall.
 You and any designated creatures may enter your mansion while the portal is open.
 You may open and close the portal while you are within 30 feet of it.

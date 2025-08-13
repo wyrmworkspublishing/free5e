@@ -1,5 +1,6 @@
 #### Branding Smite
 <!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Branding Smite"
 [_metadata_:spell_school]:- "evocation"
 [_metadata_:spell_level]:- "2"
 [_metadata_:casting_time_amount]:- "1"
