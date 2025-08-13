@@ -16,7 +16,7 @@
 [_metadata_:duration]:- "10 minutes"
 [_metadata_:concentration]:- "true"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "???"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level divination_
 

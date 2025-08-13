@@ -7,7 +7,7 @@
 [_metadata_:casting_time_amount]:- "10"
 [_metadata_:casting_time_unit]:- "minutes"
 [_metadata_:range]:- "Self"
-[_metadata_:target]:- "???"
+[_metadata_:target]:- "Self"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"

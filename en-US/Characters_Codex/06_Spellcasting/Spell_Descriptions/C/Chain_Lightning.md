@@ -12,7 +12,6 @@
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
 [_metadata_:components_material_description]:- "a bit of fur; a piece of amber, glass, or a crystal rod; and three silver pins"
-[_metadata_:components_material_cost]:- "???"
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
 [_metadata_:saving_throw]:- "Dexterity"

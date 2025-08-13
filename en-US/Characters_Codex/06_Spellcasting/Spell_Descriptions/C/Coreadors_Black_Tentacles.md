@@ -9,7 +9,7 @@
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "action"
 [_metadata_:range]:- "90 feet"
-[_metadata_:target]:- "???"
+[_metadata_:target]:- "a 20-foot square"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"

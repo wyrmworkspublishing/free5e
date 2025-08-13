@@ -7,7 +7,7 @@
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "action"
 [_metadata_:range]:- "150 feet"
-[_metadata_:target]:- "???"
+[_metadata_:target]:- "a point you choose"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"

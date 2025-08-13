@@ -12,7 +12,6 @@
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
 [_metadata_:components_material_description]:- "a pinch of soot and salt"
-[_metadata_:components_material_cost]:- "???"
 [_metadata_:duration]:- "1 hour"
 [_metadata_:concentration]:- "false"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"

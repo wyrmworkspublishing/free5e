@@ -7,7 +7,7 @@
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "action"
 [_metadata_:range]:- "120 feet"
-[_metadata_:target]:- "???"
+[_metadata_:target]:- "20-foot radius sphere"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "false"
