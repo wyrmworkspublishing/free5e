@@ -9,7 +9,7 @@ _2nd-level illusion_
 **Components:** V, S, M (a small square of silk) \
 **Duration:** 24 hours
 
-You craft an illusion to deceive others about the target’s true magical properties.
+You craft an illusion to deceive others about a willing creature's or an unattended object’s true magical properties.
 
 Choose one or both of the following effects.
 When cast upon the same target with the same effect for 30 successive days, it lasts until it is dispelled.
