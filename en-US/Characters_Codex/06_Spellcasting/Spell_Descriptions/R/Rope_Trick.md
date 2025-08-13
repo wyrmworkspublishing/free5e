@@ -8,8 +8,8 @@ _2nd-level transmutation_
 ***Components:** V, S, M (powdered corn extract and a twisted loop of parchment) \
 **Duration:** 1 hour
 
-One end of the target rope rises into the air until it hangs perpendicular to the ground.
-At the upper end, a nearly imperceptible entrance opens to an extradimensional space that can fit up to 8 Medium or smaller creatures.
+One end of a rope that is up to 60 feet long rises into the air until it hangs perpendicular to the ground.
+At the upper end, a nearly imperceptible entrance opens to an extradimensional space that can fit up to eight Medium or smaller creatures.
 The entrance can be reached by climbing the rope. Once inside, the rope can be pulled into the extradimensional space.
 
 No spells or attacks can cross into or out of the extradimensional space.
