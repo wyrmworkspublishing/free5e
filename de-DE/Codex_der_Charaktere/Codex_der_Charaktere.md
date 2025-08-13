@@ -1,4 +1,4 @@
-# Codex für Charaktere: Das Free5e Handbuch für Spielende
+# Codex der Charaktere: Das Free5e Handbuch für Spielende
 (<mark>Vorschau - Inhalt in Bearbeitung</mark>)
 
 <mark>Hervorgehobene Abschnitte</mark> sind für erhebliche Überarbeitungen vorgesehen.
