@@ -26,7 +26,7 @@ for root, dirs, files in os.walk(spellpath):
       spelldict['spell_name'] = spellname
 
       for line in lines:
-        match = re.search('^\[_metadata_:([\w_\.]+)\]:-\s*"([^"]*)"', line)
+        match = re.search('^\\[_metadata_:([\\w_\\.]+)\\]:-\\s*"([^"]*)"', line)
         if match:
           print('  {:35s} -> {}'.format(match.group(1), match.group(2)))
           spelldict[match.group(1)] = match.group(2)
