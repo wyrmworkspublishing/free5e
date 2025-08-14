@@ -1,5 +1,6 @@
 #### Compulsion
 <!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Compulsion"
 [_metadata_:spell_school]:- "enchantment"
 [_metadata_:spell_level]:- "4"
 [_metadata_:casting_time_amount]:- "1"
@@ -24,7 +25,7 @@ _4th-level enchantment_
 **Components:** V, S \
 **Duration:** Concentration, up to 1 minute
 
-Creatures of your choice that you can pinpoint within range and that can sense you must make a Wisdom saving throw.
+Creatures of your choice that you can pinpoint and that can sense you must make a Wisdom saving throw.
 A target automatically succeeds on this saving throw if it can't be charmed.
 On a failed save, a target is affected by this spell.
 Until the spell ends, you can use a bonus action on each of your turns to designate a direction that is horizontal to you.

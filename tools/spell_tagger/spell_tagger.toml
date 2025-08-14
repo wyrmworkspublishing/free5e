@@ -19,7 +19,7 @@ rangeTouchRegex = "^\\*\\*Range:\\*\\* Touch \\\\$"
 touch = "Touch"
 
 [en-US.components]
-componentsRegex = "^\\*\\*Components:\\*\\* ([VSM])[,\\s]{0,2}([VSM])?[,\\s]{0,2}([VSM])?[,\\s]{0,2}\\s?\\((.*)?\\) \\\\$"
+componentsRegex = "^\\*\\*Components:\\*\\* ([VSM]),?\\s?([VSM])?,?\\s?([VSM])?\\s?\\(?([\\w\\d\\s,]*)?\\)? \\\\$"
 
 [en-US.duration]
 durationInstantRegex = "^\\*\\*Duration:\\*\\* Instantaneous$"

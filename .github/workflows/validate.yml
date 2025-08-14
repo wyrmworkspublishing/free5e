@@ -30,7 +30,7 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v7
         with:
           files: './en-US/**/*.md'
-          config: 'en-US/cspell.config.yaml'
+          config: './en-US/cspell.config.yaml'
           suggestions: true
           strict: true
   spellcheck-de-de:
@@ -43,6 +43,6 @@ jobs:
       - uses: streetsidesoftware/cspell-action@v7
         with:
           files: './de-DE/**/*.md'
-          config: 'de-DE/cspell.config.yaml'
+          config: './de-DE/cspell.config.yaml'
           suggestions: true
           strict: true

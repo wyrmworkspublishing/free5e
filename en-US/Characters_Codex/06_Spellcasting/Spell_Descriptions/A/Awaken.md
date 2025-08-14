@@ -6,7 +6,7 @@
 [_metadata_:ritual]:- "false"
 [_metadata_:casting_time_amount]:- "8"
 [_metadata_:casting_time_unit]:- "hours"
-[_metadata_:target]:- "???"
+[_metadata_:target]:- "A Huge or smaller beast or plant"
 [_metadata_:range]:- "Touch"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
