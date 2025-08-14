@@ -1,5 +1,22 @@
 #### Dominate Beast
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Dominate Beast"
+[_metadata_:spell_level]:- "4"
+[_metadata_:spell_school]:- "enchantment"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "60 feet"
+[_metadata_:target]:- "One beast"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "1 minute"
+[_metadata_:concentration]:- "true"
+[_metadata_:saving_throw]:- "Wisdom"
+[_metadata_:saving_throw_success]:- "avoids_effect, ends_effect"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level enchantment_
 
@@ -13,7 +30,7 @@ If it is engaged in combat with you or creatures friendly to you, it has advanta
 
 Until the charmed condition ends, you establish a telepathic link with it while you are on the same plane.
 You may issue commands through this link and the target does its best to obey.
-No action is required to issue commands, which can be a simple and general course of action such as "Attack that target", "Go over there", or "Bring me that object".
+No action is required to issue commands, which can be a simple and general course of action such as _"Attack that target"_, _"Go over there"_, or _"Bring me that object"_.
 Without commands the target only defends itself.
 The target continues to follow a command until its task is complete.
 
@@ -26,6 +43,6 @@ Each time the target takes damage, it makes a new saving throw against the spell
 **At Higher Levels.**
 The spell’s duration is extended:
 
-- 5th-level → Concentration (10 minutes)
-- 6th-level → Concentration (1 hour)
-- 7th-level → Concentration (8 hours)
+- 5th-level → Concentration, up to 10 minutes
+- 6th-level → Concentration, up to 1 hour
+- 7th-level → Concentration, up to 8 hours
