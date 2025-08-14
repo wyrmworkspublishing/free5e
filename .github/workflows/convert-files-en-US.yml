@@ -17,6 +17,7 @@ jobs:
       date_format: '%m/%d/%Y'
       book_directory: 'en-US/Characters_Codex'
       book_main_file: 'Characters_Codex'
+      spell_descriptions_path: en-US/Characters_Codex/06_Spellcasting/Spell_Descriptions/
 
   convert-conductors-companion-en-us:
     name: Convert the en-US Conductor's Companion
