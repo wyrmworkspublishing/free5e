@@ -111,7 +111,7 @@ Höhere Würfe sind besser!
 > \
 > **Spielleitung:**  
 > Der Pfeil trifft, aber die dicke Haut der Kreatur absorbiert einen Teil des Treffers.  
-> Sie greft mit ihren Tentakeln nach dir!  
+> Sie greift mit ihren Tentakeln nach dir!  
 > \
 > **Spielleitung (als Kreatur):**  
 > (würfelt Angriff auf Osmus mit den Tentakeln)  
