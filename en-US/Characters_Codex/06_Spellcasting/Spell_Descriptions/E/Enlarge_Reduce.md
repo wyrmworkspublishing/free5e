@@ -39,7 +39,7 @@ If the target is a creature, all items worn or carried by it also change size wi
 - **Reduce.**
   The target’s size decreases one size category.
   Its size is halved in all dimensions and its weight decreases to one-eighth of its normal value.
-  The target has disadvantage on Strength checks and Strength saving throws and its weapons shrink, dealing `1d4` less damage (its attacks deal a minimum of 1 damage).
+  The target has disadvantage on Strength checks and Strength saving throws, and its weapons shrink, dealing `1d4` less damage (its attacks deal a minimum of 1 damage).
 
 **At Higher Levels.**
 When using a spell slot of 4th-level, you can cause the target and its gear to increase by two size categories—from Medium to Huge, for example.
