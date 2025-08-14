@@ -16,7 +16,7 @@ Schwingst du dein Schwert, wirkst du einen Zauber oder sprichst du mit jemandem?
 Um herauszufinden, ob du Erfolg hast, würfelst du einen zwanzigseitigen Würfel (W20) und addierst deinen Attributsmodifikator und eventuell einen Fertigkeitsbonus.  
 Höhere Würfe sind besser!
 
-> **Grau (Spielleitung):**  
+> **Grey (Spielleitung):**  
 > Die Dorfälteste hat euch gebeten, eine seltsame Ruine im nahen Wald zu untersuchen.  
 > Nach stundenlangem Marsch erreicht ihr eine bröckelnde Steinkonstruktion, überwuchert von Moos.  
 > Drinnen ist die Luft feucht, und aus den steinernen Tiefen hallen leise Kratzgeräusche.  
