@@ -1,5 +1,22 @@
 #### Eyebite
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Eyebite"
+[_metadata_:spell_level]:- "6"
+[_metadata_:spell_school]:- "necromancy"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "Self"
+[_metadata_:target]:- "One creature"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "1 minute"
+[_metadata_:concentration]:- "true"
+[_metadata_:saving_throw]:- "Wisdom"
+[_metadata_:saving_throw_success]:- "avoids_effect"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level necromancy_
 
@@ -15,7 +32,7 @@ You can’t target a creature after it has succeeded on a saving throw against t
   The target falls unconscious, waking if it takes damage or if a creature uses an action to rouse it.
 - **Panicked.**
   The target is frightened of you.
-  On each of its turns, it uses its action to take the Dash action and move away from you if it can.
+  On each of its turns, it uses its action to take the [Dash](#Combat_Actions_dash) action and move away from you if it can.
   If the target is at least 60 feet away from you and can’t see you, this effect ends.
 - **Sickened.**
   The target has disadvantage on attack rolls and ability checks.
