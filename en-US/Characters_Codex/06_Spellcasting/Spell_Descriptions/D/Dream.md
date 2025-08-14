@@ -40,6 +40,6 @@ You can choose to let the _messenger_ terrorize the _dreamer_.
 The _messenger_ can deliver a message of 10 words or fewer and the _dreamer_ must make a Wisdom saving throw.
 If you have a portion of the _dreamer’s_ body (some hair or a drop of blood) it has disadvantage on its saving throw.
 On a failed save, echoes of the messenger’s fearful aspect create a nightmare that lasts the duration of the _dreamer’s_ sleep and prevents it from benefiting from the rest.
-In addition, upon waking the _dreamer_ suffers a level of exhaustion, up to a maximum of 3.
+In addition, upon waking, the _dreamer_ suffers a level of exhaustion, up to a maximum of 3.
 
-Creatures that don’t sleep or don’t dream (such as elves) cannot be targeted by this spell.
+The dreamer cannot be a creature that doesn’t sleep or dream (such as elves).
