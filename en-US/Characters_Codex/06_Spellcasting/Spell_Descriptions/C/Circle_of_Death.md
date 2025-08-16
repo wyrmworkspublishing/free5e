@@ -1,4 +1,4 @@
-#### Circle_of_Death
+#### Circle of Death
 <!-- markdownlint-disable link-image-reference-definitions -->
 [_metadata_:spell_name]:- "Circle_of_Death"
 [_metadata_:spell_level]:- "6"
