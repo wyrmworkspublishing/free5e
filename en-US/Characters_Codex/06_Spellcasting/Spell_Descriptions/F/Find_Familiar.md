@@ -1,11 +1,28 @@
 #### Find Familiar
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Find Familiar"
+[_metadata_:spell_level]:- "1"
+[_metadata_:spell_school]:- "evocation"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "hour"
+[_metadata_:range]:- "10 feet"
+[_metadata_:target]:- "An unoccupied space"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "10 gold worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier"
+[_metadata_:components_material_cost]:- "10 gp"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:concentration]:- "false"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level evocation_
 
 **Casting Time:** 1 hour \
 **Range:** 10 feet \
-**Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier) \
+**Components:** V, S, M (10 gold worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier) \
 **Duration:** Instantaneous
 
 Your familiar, a spirit that takes the form of any challenge rating 0 beast of Small or Tiny size, appears in an unoccupied space within range.

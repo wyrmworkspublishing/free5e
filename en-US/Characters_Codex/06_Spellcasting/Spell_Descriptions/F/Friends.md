@@ -1,7 +1,22 @@
 #### Friends
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Friends"
+[_metadata_:spell_level]:- "0"
+[_metadata_:spell_school]:- "enchantment"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "bonus action"
+[_metadata_:range]:- "30 feet"
+[_metadata_:target]:- "One nonhostile creature"
+[_metadata_:components_verbal]:- "false"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "1 round"
+[_metadata_:concentration]:- "false"
+[_metadata_:compared_to_wotc_srd_5.1]:- "added"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_Enchantment Cantrip_
+_Enchantment cantrip_
 
 **Casting Time:** 1 bonus action \
 **Range:** 30 feet \

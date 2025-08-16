@@ -1,11 +1,30 @@
 #### Forbiddance
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Forbiddance"
+[_metadata_:spell_level]:- "6"
+[_metadata_:spell_school]:- "abjuration"
+[_metadata_:ritual]:- "true"
+[_metadata_:casting_time_amount]:- "10"
+[_metadata_:casting_time_unit]:- "minutes"
+[_metadata_:range]:- "Touch"
+[_metadata_:target]:- "Area of up to 40,000 square feet, up to 30 feet tall"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gold"
+[_metadata_:components_material_cost]:- "1,000 gp"
+[_metadata_:duration]:- "1 day"
+[_metadata_:concentration]:- "false"
+[_metadata_:damage_formula]:- "5d10"
+[_metadata_:damage_type]:- "radiant or necrotic"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level abjuration (ritual)_
 
 **Casting Time:** 10 minutes \
 **Range:** Touch \
-**Components:** V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp) \
+**Components:** V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gold) \
 **Duration:** 1 day
 
 You protect an area up to 40,000 square feet and up to 30 feet tall against magical travel.

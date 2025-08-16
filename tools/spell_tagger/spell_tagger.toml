@@ -21,7 +21,7 @@ rangeSpecialRegex = "^\\*\\*Range:\\*\\* Special \\\\$"
 special = "Special"
 
 [en-US.components]
-componentsRegex = "^\\*\\*Components:\\*\\* ([VSM]),?\\s?([VSM])?,?\\s?([VSM])?\\s?\\(?([\\w\\d\\s,]*)?\\)? \\\\$"
+componentsRegex = "^\\*\\*Components:\\*\\* ([VSM]),?\\s?([VSM])?,?\\s?([VSM])?\\s?\\(?([\\w\\d\\s,\\-]*)?\\)? \\\\$"
 
 [en-US.duration]
 durationInstantRegex = "^\\*\\*Duration:\\*\\* Instantaneous$"

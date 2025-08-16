@@ -1,5 +1,23 @@
 #### Flame Blade
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Flame Blade"
+[_metadata_:spell_level]:- "2"
+[_metadata_:spell_school]:- "evocation"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "bonus action"
+[_metadata_:range]:- "Self"
+[_metadata_:target]:- "Self"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "leaf of sumac"
+[_metadata_:duration]:- "10 minutes"
+[_metadata_:concentration]:- "true"
+[_metadata_:damage_formula]:- "3d6"
+[_metadata_:damage_type]:- "fire"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level evocation_
 
