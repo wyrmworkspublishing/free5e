@@ -14,8 +14,8 @@
 [_metadata_:components_material_description]:- "a hummingbird feather"
 [_metadata_:duration]:- "8 hours"
 [_metadata_:concentration]:- "false"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _9th-level divination_
 
@@ -27,3 +27,5 @@ _9th-level divination_
 You impart the ability to see flashes of the immediate future.
 A willing creature can’t be surprised and has advantage on ability checks, attack rolls, and saving throws.
 Other creatures make attack rolls against the target with disadvantage.
+
+This spell immediately ends if you cast it again before its duration ends.
