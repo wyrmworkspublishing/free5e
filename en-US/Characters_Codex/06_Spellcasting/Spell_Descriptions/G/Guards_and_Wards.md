@@ -1,14 +1,33 @@
 #### Guards and Wards
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Guards and Wards"
+[_metadata_:spell_level]:- "6"
+[_metadata_:spell_school]:- "abjuration"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "10"
+[_metadata_:casting_time_unit]:- "minutes"
+[_metadata_:range]:- "Touch"
+[_metadata_:target]:- "Up to 2,500 square feet of floor space in up to one hundred contiguous 5-foot squares"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gold"
+[_metadata_:components_material_cost]:- "10 gp"
+[_metadata_:duration]:- "24 hours"
+[_metadata_:concentration]:- "false"
+[_metadata_:saving_throw]:- "Special"
+[_metadata_:saving_throw_success]:- "special"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level abjuration_
 
 **Casting Time:** 10 minutes \
 **Range:** Touch \
-**Components:** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp) \
+**Components:** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gold) \
 **Duration:** 24 hours
 
-You create wards that protect up to 2,500 feet of floor space in up to one hundred contiguous 5-foot squares.
+You create wards that protect up to 2,500 square feet of floor space in up to one hundred contiguous 5-foot squares.
 Each warded area has a maximum height of 20 feet and can be shaped.
 Multiple stories of a building can be warded by dividing the area among them if you can walk from one to the next while the spell is being cast.
 
