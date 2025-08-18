@@ -6,6 +6,7 @@ import:
   - '@cspell/dict-de-de/cspell-ext.json'
 # The locale to use when spell checking. (e.g., en, en-GB, de-DE)
 language: de-DE
+allowCompoundWords: true
 dictionaryDefinitions:
   - name: free5e
     path: ./dictionary.txt
