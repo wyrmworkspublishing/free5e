@@ -41,5 +41,5 @@
 **Komponenten:** ??? \
 **Wirkungsdauer:** ???
 
-> **Warnung:**
-> **Dieser Zauber wird noch übersetzt.**
+> **Warning**
+> Dieser Zauber wird noch übersetzt.

@@ -1,4 +1,4 @@
 # Auf Abenteuer ausziehen
 
-> **Warnung:**
+> **Warning**
 > Dieser Abschnitt wird noch übersetzt.
