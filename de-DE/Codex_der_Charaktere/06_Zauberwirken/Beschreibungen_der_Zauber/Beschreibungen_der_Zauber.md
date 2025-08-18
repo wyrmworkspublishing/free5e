@@ -12,7 +12,7 @@
 
 [**Antimagisches Feld**](./A/Antimagisches_Feld.md)
 
-[**Antipathie/Sympathie**](./A/Antipathie/Sympathie.md)
+[**Antipathie/Sympathie**](./A/Antipathie_Sympathie.md)
 
 [**Arkane Spiegelung**](./A/Arkane_Spiegelung.md)
 
@@ -48,7 +48,7 @@
 
 [**Bindung der Ebenen**](./B/Bindung_der_Ebenen.md)
 
-[**Blindheit/Taubheit**](./B/Blindheit/Taubheit.md)
+[**Blindheit/Taubheit**](./B/Blindheit_Taubheit.md)
 
 [**Blitz**](./B/Blitz.md)
 
@@ -594,7 +594,7 @@
 
 [**Verderben**](./V/Verderben.md)
 
-[**Vergrössern/Verkleinern**](./V/Vergroessern/Verkleinern.md)
+[**Vergrössern/Verkleinern**](./V/Vergroessern_Verkleinern.md)
 
 [**Verlangsamen**](./V/Verlangsamen.md)
 
