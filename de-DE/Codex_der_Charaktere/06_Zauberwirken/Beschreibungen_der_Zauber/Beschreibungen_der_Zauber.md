@@ -658,9 +658,9 @@
 
 [**Windwandeln**](./W/Windwandeln.md)
 
-[**Wort der Macht: Betäubung**](./W/Wort_der_Macht:_Betaeubung.md)
+[**Wort der Macht: Betäubung**](./W/Wort_der_Macht_Betaeubung.md)
 
-[**Wort der Macht: Tod**](./W/Wort_der_Macht:_Tod.md)
+[**Wort der Macht: Tod**](./W/Wort_der_Macht_Tod.md)
 
 [**Wunden heilen**](./W/Wunden_heilen.md)
 
