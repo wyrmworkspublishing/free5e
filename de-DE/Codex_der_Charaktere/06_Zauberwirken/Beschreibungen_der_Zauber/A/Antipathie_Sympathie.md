@@ -1,6 +1,7 @@
 #### Antipathie/Sympathie
 <!-- markdownlint-disable link-image-reference-definitions -->
 <!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
+<!-- spell-checker:words antipathy sympathy -->
 [_metadata_:spell_name]:- "Antipathie/Sympathie"
 [_metadata_:spell_name_english]:- "Antipathy/Sympathy"
 [_metadata_:spell_school]:- "???"

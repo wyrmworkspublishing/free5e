@@ -1,6 +1,7 @@
 #### Vergrössern/Verkleinern
 <!-- markdownlint-disable link-image-reference-definitions -->
 <!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
+<!-- spell-checker:words enlarge -->
 [_metadata_:spell_name]:- "Vergrössern/Verkleinern"
 [_metadata_:spell_name_english]:- "Enlarge/Reduce"
 [_metadata_:spell_school]:- "???"
