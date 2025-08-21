@@ -40,8 +40,8 @@ By virtue of your ancestry, your character can speak, read, and write certain la
 
 [**Human**](./Ancestries/Human.md)
 
-[**Mixed Ancestry**](./Ancestries/Mixed_Ancestry.md)
-
 [**Orc**](./Ancestries/Orc.md)
 
 [**Tiefling**](./Ancestries/Tiefling.md)
+
+[**Mixed Ancestry**](./Ancestries/Mixed_Ancestry.md)
