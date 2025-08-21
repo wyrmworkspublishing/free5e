@@ -16,35 +16,35 @@ Schwingst du dein Schwert, wirkst du einen Zauber oder sprichst du mit jemandem?
 Um herauszufinden, ob du Erfolg hast, würfelst du einen zwanzigseitigen Würfel (W20) und addierst deinen Attributsmodifikator und eventuell einen Fertigkeitsbonus.  
 Höhere Würfe sind besser!
 
-> **Grey (Spielleitung):**  
+> **Gero (Spielleitung):**  
 > Die Dorfälteste hat euch gebeten, eine seltsame Ruine im nahen Wald zu untersuchen.  
 > Nach stundenlangem Marsch erreicht ihr eine bröckelnde Steinkonstruktion, überwuchert von Moos.  
 > Drinnen ist die Luft feucht, und aus den steinernen Tiefen hallen leise Kratzgeräusche.  
 > Was tut ihr?  
 > \
-> **Susan (spielt Sylvana, eine Halblings-Bardin):**  
+> **Susanne (spielt Sylvana, eine Halblings-Bardin):**  
 > Ich gehe leise hinein und sehe mir die Wände genauer an.  
 > Erkenne ich irgendwelche Symbole oder Schriftzeichen?  
 > \
 > **Spielleitung:**  
 > Mach eine Nachforschungen-Probe mit Intelligenz.  
 > \
-> **Susan:**  
+> **Susanne:**  
 > (würfelt W20)  
 > Das ist eine 12, plus 1 für Intelligenz und 2 durch meine Fertigkeit in Nachforschungen, also insgesamt 15.  
 > \
 > **Spielleitung:**  
 > Du erkennst einige verblasste Symbole eines uralten Ordens, der dem Schutz des Waldes geweiht war.  
-> Das war wohl ein Tempel der Naturgeweihten.  
+> Das war wohl ein Tempel der Druiden.  
 > \
-> **Owen (spielt Osmus, einen menschlichen Waldläufer):**  
+> **Oliver (spielt Osmus, einen menschlichen Waldläufer):**  
 > Ich horche genau hin, um herauszufinden, woher das Kratzen kommt.  
 > Wahrnehmung-Probe?  
 > \
 > **Spielleitung:**  
 > Nur zu.  
 > \
-> **Owen:**  
+> **Oliver:**  
 > (würfelt W20)  
 > Eine 10, plus 4 für Weisheit ergibt 14.  
 > \
