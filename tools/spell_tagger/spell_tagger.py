@@ -84,6 +84,7 @@ with open(spellPath, 'r') as spellFile:
     matchRange = re.search(rangeConfig['rangeDistanceRegex'], line)
     matchTouchRange = re.search(rangeConfig['rangeTouchRegex'], line)
     matchSelfRange = re.search(rangeConfig['rangeSelfRegex'], line)
+    matchSpecialRange = re.search(rangeConfig['rangeSpecialRegex'], line)
     if (matchRange):
       rangeAmount = matchRange.group(1)
       rangeUnit = matchRange.group(2)
@@ -100,6 +101,10 @@ with open(spellPath, 'r') as spellFile:
         tags['[_metadata_:target]'] = matchSelfRange.group(1)
       else:
         tags['[_metadata_:target]'] = "???"
+      break
+    elif (matchSpecialRange):
+      tags['[_metadata_:range]'] = rangeConfig['special']
+      tags['[_metadata_:target]'] = "???"
       break
   # Verify, that we found a casting time
   if (tags.get('[_metadata_:range]', 'none') == 'none'):
