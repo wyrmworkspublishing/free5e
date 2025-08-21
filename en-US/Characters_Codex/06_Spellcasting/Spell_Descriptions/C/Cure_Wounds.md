@@ -7,7 +7,7 @@
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "action"
 [_metadata_:range]:- "Touch"
-[_metadata_:target]:- "One creature, not a construct or undead"
+[_metadata_:target]:- "one creature, not a construct or undead"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "false"
