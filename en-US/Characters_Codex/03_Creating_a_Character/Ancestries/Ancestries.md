@@ -28,17 +28,17 @@ Your speed determines how far you can move when traveling (["Adventuring"](#Adve
 \
 By virtue of your ancestry, your character can speak, read, and write certain languages.
 
+[**Dragonborn**](./Ancestries/Dragonborn.md)
+
 [**Dwarf**](./Ancestries/Dwarf.md)
 
 [**Elf**](./Ancestries/Elf.md)
 
+[**Gnome**](./Ancestries/Gnome.md)
+
 [**Halfling**](./Ancestries/Halfling.md)
 
 [**Human**](./Ancestries/Human.md)
-
-[**Dragonborn**](./Ancestries/Dragonborn.md)
-
-[**Gnome**](./Ancestries/Gnome.md)
 
 [**Mixed Ancestry**](./Ancestries/Mixed_Ancestry.md)
 
