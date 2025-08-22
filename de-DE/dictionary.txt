@@ -10,6 +10,7 @@
 antimagisch
 arkan*
 Arkanist*
+Bardin
 Bragolbeleg*
 celestisch*
 Cerilsen*
@@ -21,6 +22,9 @@ Feenwesen
 Fiona*
 Geas
 Gendern
+Geschicklichkeitsbonus
+Geschicklichkeitsmodifikator
+Halblings
 Illusionsschrift
 Inklusivität
 Jess
@@ -32,6 +36,7 @@ Melestrua*
 Meteoritenschwarm
 Morscheck*
 Natalex
+Osmus
 Paoliello*
 Pelham*
 Publishing
@@ -46,6 +51,7 @@ Shillelagh
 Simulakrum
 Spätzündender
 spell-checker
+Sylvana
 Tabletop
 Teleportation
 Thaumaturgie
