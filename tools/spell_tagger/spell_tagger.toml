@@ -17,8 +17,7 @@ rangeSelfRegex = "^\\*\\*Range:\\*\\* Self \\(?([\\d\\w\\s\\-]+)?\\)?\\s?\\\\$"
 self = "Self"
 rangeTouchRegex = "^\\*\\*Range:\\*\\* Touch \\\\$"
 touch = "Touch"
-rangeSpecialRegex = "^\\*\\*Range:\\*\\* Special \\\\$"
-special = "Special"
+rangeSpecialRegex = "^\\*\\*Range:\\*\\* (\\w+) \\\\$"
 
 [en-US.components]
 componentsRegex = "^\\*\\*Components:\\*\\* ([VSM]),?\\s?([VSM])?,?\\s?([VSM])?\\s?\\(?([\\w\\d\\s,’\\-]*)?\\)? \\\\$"

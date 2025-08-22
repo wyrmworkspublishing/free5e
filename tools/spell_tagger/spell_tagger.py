@@ -103,7 +103,7 @@ with open(spellPath, 'r') as spellFile:
         tags['[_metadata_:target]'] = "???"
       break
     elif (matchSpecialRange):
-      tags['[_metadata_:range]'] = rangeConfig['special']
+      tags['[_metadata_:range]'] = matchSpecialRange.group(1)
       tags['[_metadata_:target]'] = "???"
       break
   # Verify, that we found a casting time

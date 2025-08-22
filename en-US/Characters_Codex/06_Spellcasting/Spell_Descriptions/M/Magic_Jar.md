@@ -1,5 +1,24 @@
 #### Magic Jar
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Magic Jar"
+[_metadata_:spell_level]:- "6"
+[_metadata_:spell_school]:- "necromancy"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "minute"
+[_metadata_:range]:- "Self"
+[_metadata_:target]:- "Special"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a gem, crystal, reliquary, or some other ornamental container worth at least 500 gp"
+[_metadata_:components_material_cost]:- "500 gp"
+[_metadata_:duration]:- "Until dispelled"
+[_metadata_:concentration]:- "false"
+[_metadata_:saving_throw]:- "Charisma"
+[_metadata_:saving_throw_success]:- "special"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level necromancy_
 
@@ -12,7 +31,7 @@ Your body becomes unconscious and incapable of being roused, while your soul ent
 
 Souls within the jar are aware of their surroundings as though they occupied that space.
 
-While your soul is within the jar, you can, as an action, project your soul to a target within range, either returning it to your body or attempting to possess a humanoid creature.
+While your soul is within the jar, you can, as an action, project your soul to a target within 120 feet, either returning it to your body or attempting to possess a humanoid creature.
 You can take no other actions.
 You may not target creatures protected by the [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) or [Magic Circle](#Magic_Circle_magic_circle) spells.
 A creature you try to possess makes a Charisma saving throw or your soul moves from your vessel and into its body.
