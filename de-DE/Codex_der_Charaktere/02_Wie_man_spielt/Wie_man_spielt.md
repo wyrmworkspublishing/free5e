@@ -8,7 +8,7 @@ Eine Person ist die Spielleitung. Sie denkt sich die Geschichte aus, kontrollier
 \
 **Erschaffe deine Spielfigur.**  
 Wähle eine Klasse, eine Abstammung, eine Kultur und einen Hintergrund für deine Figur.  
-Das ist dein*e Held*in in der Spielwelt!  
+Das ist dein:e Held:in in der Spielwelt!  
 \
 **Eine Begegnung spielen:**  
 In deinem Zug beschreibst du, was dein Charakter tut.  
@@ -30,12 +30,12 @@ Höhere Würfe sind besser!
 > Mach eine Nachforschungen-Probe mit Intelligenz.  
 > \
 > **Susanne:**  
-> (würfelt W20)  
-> Das ist eine 12, plus 1 für Intelligenz und 2 durch meine Fertigkeit in Nachforschungen, also insgesamt 15.  
+> (würfelt einen W20)  
+> Das ist eine 12, plus 1 für Intelligenz und 2 durch meinen Übungsbonus in Nachforschungen, also insgesamt 15.  
 > \
 > **Spielleitung:**  
 > Du erkennst einige verblasste Symbole eines uralten Ordens, der dem Schutz des Waldes geweiht war.  
-> Das war wohl ein Tempel der Druiden.  
+> Das war wohl ein Druidentempel.
 > \
 > **Oliver (spielt Osmus, einen menschlichen Waldläufer):**  
 > Ich horche genau hin, um herauszufinden, woher das Kratzen kommt.  
@@ -58,7 +58,7 @@ Höhere Würfe sind besser!
 > Die Tür geht knarrend auf und gibt den Blick auf ein schwaches Leuchten frei, das von etwas Großem im Schatten reflektiert wird.  
 > Lange, schleimige Tentakel wiegen sich, während es sich bewegt, und sein Schnabel klickt.  
 > Es zischt, als es euch wahrnimmt.  
-> Von der Decke herab starrt es auf euch.  
+> Von der Decke starrt es auf euch herab.  
 > \
 > **Osmus:**  
 > Was ist das für ein Ding?  
@@ -66,7 +66,7 @@ Höhere Würfe sind besser!
 > \
 > **Spielleitung:**  
 > Freundlich ist es bestimmt nicht.  
-> Initiative werfen!  
+> Initiative würfeln!  
 > (würfelt W20)  
 > Mit seinem Geschicklichkeitsbonus bekommt es eine 9.  
 > \
@@ -89,7 +89,7 @@ Höhere Würfe sind besser!
 > \
 > **Sylvana:**  
 > (würfelt 1W4)  
-> Es erleidet 3 Psychischen Schaden und hat Nachteil bei seinem nächsten Angriff!  
+> Es erleidet 3 Punkte psychischen Schaden und hat Nachteil bei seinem nächsten Angriff!  
 > \
 > **Spielleitung:**  
 > Die Kreatur wirkt kurz benommen, ihre vielen Augen verengen sich, während sie zischt.  
@@ -103,7 +103,7 @@ Höhere Würfe sind besser!
 > \
 > **Spielleitung:**  
 > Ja, das trifft.  
-> Würfel den Schaden.  
+> Würfel für den Schaden.  
 > \
 > **Osmus:**  
 > (würfelt 1W8)  
@@ -129,7 +129,7 @@ Höhere Würfe sind besser!
 > 14, plus 3 für Stärke, also 17.  
 > \
 > **Spielleitung:**  
-> Du hältst stand, aber die Tentakel der Kreatur versuchen immer noch, dich zu packen.  
+> Du hältst stand, aber die Tentakel der Kreatur versuchen weiterhin, dich zu packen.  
 > Sie wird es erneut versuchen.  
 > Was ist dein nächster Zug?  
 > \
