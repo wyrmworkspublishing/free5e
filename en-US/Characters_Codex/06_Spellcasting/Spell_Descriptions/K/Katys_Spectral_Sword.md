@@ -1,11 +1,13 @@
 #### Katy's Spectral Sword
 <!-- previously "Arcane Sword" -->
 <!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_school]:- "evocation"
+[_metadata_:spell_name]:- "Katy's Spectral Sword"
+[_metadata_:spell_original_name]:- "Arcane Sword"
 [_metadata_:spell_level]:- "7"
+[_metadata_:spell_school]:- "evocation"
+[_metadata_:ritual]:- "false"
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "action"
-[_metadata_:ritual]:- "false"
 [_metadata_:range]:- "60 feet"
 [_metadata_:target]:- "1 target"
 [_metadata_:components_verbal]:- "true"
