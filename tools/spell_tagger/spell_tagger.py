@@ -132,7 +132,7 @@ with open(spellPath, 'r') as spellFile:
         tags['[_metadata_:components_material_cost]'] = '???'
       break
   # Verify, that we found components
-  if (tags.get('[_metadata_:components_verbal]', 'none') == 'none' and tags.get('[_metadata_:components_somatic]', 'none') == 'none' and tags.get('[_metadata_:components_material]', 'none') == 'none'):
+  if (tags.get('[_metadata_:components_verbal]') == 'false' and tags.get('[_metadata_:components_somatic]') == 'false' and tags.get('[_metadata_:components_material]') == 'false'):
     raise Exception('No spell components found!')
 
   # Find, the spell duration and whether it requires concentration
