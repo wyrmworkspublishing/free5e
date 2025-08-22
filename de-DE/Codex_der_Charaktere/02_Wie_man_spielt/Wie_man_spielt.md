@@ -31,7 +31,7 @@ Höhere Würfe sind besser!
 > \
 > **Susanne:**  
 > (würfelt einen W20)  
-> Das ist eine 12, plus 1 für Intelligenz und 2 durch meinen Übungsbonus in Nachforschungen, also insgesamt 15.  
+> Das ist eine 12, plus 1 für Intelligenz und 2 durch meine Übung in Nachforschungen, also insgesamt 15.  
 > \
 > **Spielleitung:**  
 > Du erkennst einige verblasste Symbole eines uralten Ordens, der dem Schutz des Waldes geweiht war.  
@@ -79,7 +79,7 @@ Höhere Würfe sind besser!
 > 15!  
 > Ich bin zuerst dran!  
 > Ich versuche, es mit einem schnellen Zauber zu verwirren.  
-> Ich wirke Gehässsiger Spott und rufe: „Du siehst aus wie etwas, das der Wald wieder ausgespuckt hat!“  
+> Ich wirke Gehässiger Spott und rufe: „Du siehst aus wie etwas, das der Wald wieder ausgespuckt hat!“  
 > Es muss einen Rettungswurf auf Weisheit machen.  
 > \
 > **Spielleitung:**  
