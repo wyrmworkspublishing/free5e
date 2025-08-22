@@ -1,11 +1,28 @@
 #### Legend Lore
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Legend Lore"
+[_metadata_:spell_level]:- "5"
+[_metadata_:spell_school]:- "divination"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "10"
+[_metadata_:casting_time_unit]:- "minutes"
+[_metadata_:range]:- "Self"
+[_metadata_:target]:- "an object, creature, or location you name or describe"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "incense worth at least 250 gold, which the spell consumes, and four ivory strips worth at least 50 gold each"
+[_metadata_:components_material_cost]:- "450 gp"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:concentration]:- "false"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _5th-level divination_
 
 **Casting Time:** 10 minutes \
 **Range:** Self \
-**Components:** V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each) \
+**Components:** V, S, M (incense worth at least 250 gold, which the spell consumes, and four ivory strips worth at least 50 gold each) \
 **Duration:** Instantaneous
 
 You learn significant information about an object, creature, or location you name or describe.
