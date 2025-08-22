@@ -1,4 +1,4 @@
 # Ebenen der Existenz
 
-> **Warnung:**
+> **Warning**
 > Dieser Abschnitt wird noch übersetzt.

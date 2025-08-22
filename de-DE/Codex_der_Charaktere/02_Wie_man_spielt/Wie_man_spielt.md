@@ -1,4 +1,4 @@
 # Wie man spielt
 
-> **Warnung:**
+> **Warning**
 > Dieser Abschnitt wird noch übersetzt.
