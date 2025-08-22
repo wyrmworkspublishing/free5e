@@ -12,7 +12,7 @@
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "false"
 [_metadata_:concentration]:- "true"
-[_metadata_:duration]:- "Up to 1 minute"
+[_metadata_:duration]:- "1 minute"
 [_metadata_:saving_throw]:- "Wisdom"
 [_metadata_:saving_throw_success]:- "avoids_effect"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"

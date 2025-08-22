@@ -1,11 +1,32 @@
 #### Glyph of Warding
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Glyph of Warding"
+[_metadata_:spell_level]:- "3"
+[_metadata_:spell_school]:- "abjuration"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "hour"
+[_metadata_:range]:- "Touch"
+[_metadata_:target]:- "???"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "incense and powdered diamond worth at least 200 gold, which the spell consumes"
+[_metadata_:components_material_cost]:- "200 gp"
+[_metadata_:duration]:- "Until dispelled or triggered"
+[_metadata_:concentration]:- "false"
+[_metadata_:saving_throw]:- "Dexterity, Special"
+[_metadata_:saving_throw_success]:- "halves_damage, special"
+[_metadata_:damage_formula]:- "5d8 or special"
+[_metadata_:damage_type]:- "acid, cold, fire, lightning, or thunder, or special"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level abjuration_
 
 **Casting Time:** 1 hour \
 **Range:** Touch \
-**Components:** V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes) \
+**Components:** V, S, M (incense and powdered diamond worth at least 200 gold, which the spell consumes) \
 **Duration:** Until dispelled or triggered
 
 You trace a glyph on one object or a surface no larger than 10 feet in diameter.

@@ -14,7 +14,7 @@
 [_metadata_:components_material_description]:- "a miniature platinum sword with a grip and pommel of copper and zinc, worth 250 gp"
 [_metadata_:components_material_cost]:- "250 gp"
 [_metadata_:concentration]:- "true"
-[_metadata_:duration]:- "Up to 1 minute"
+[_metadata_:duration]:- "1 minute"
 [_metadata_:damage_formula]:- "3d10"
 [_metadata_:damage_type]:- "force"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"

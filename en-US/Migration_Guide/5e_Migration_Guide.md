@@ -1,7 +1,6 @@
 # D&D 5e 2014 to Free5e Migration Guide
 
 > **Warning**
-> \
 > This document is very much work in progress.
 
 ## Class Name Changes

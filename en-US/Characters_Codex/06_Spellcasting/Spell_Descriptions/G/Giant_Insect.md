@@ -1,5 +1,20 @@
 #### Giant Insect
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Giant Insect"
+[_metadata_:spell_level]:- "4"
+[_metadata_:spell_school]:- "transmutation"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "30 feet"
+[_metadata_:target]:- "Up to 3 spiders, 2 ants, 2 crickets or mantises, a centipede, or a scorpion"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "10 minutes"
+[_metadata_:concentration]:- "true"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_same"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level transmutation_
 
