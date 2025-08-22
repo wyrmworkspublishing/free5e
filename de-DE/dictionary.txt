@@ -10,6 +10,7 @@
 antimagisch
 arkan*
 Arkanist*
+Attributsmodifikator
 Bardin
 Bragolbeleg*
 celestisch*
@@ -19,6 +20,7 @@ Coreador*
 Dimensionstür
 Feenfeuer
 Feenwesen
+Fertigkeitsbonus
 Fiona*
 Geas
 Gendern
@@ -55,6 +57,7 @@ Sylvana
 Tabletop
 Teleportation
 Thaumaturgie
+TTRPG
 Unverwundbarkeit
 Vampirgriff
 WotC
