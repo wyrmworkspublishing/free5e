@@ -48,7 +48,7 @@ A structure automatically collapses if a fissure opens beneath it (see below).
 A structure in contact with the ground in the spell’s area takes `50` bludgeoning damage when you cast the spell and again at the start of each of your turns while the spell is active.
 A structure reduced to 0 hit points this way collapses.
 
-Creatures within half the distance of a collapsing structure’s height must succeed on a Dexterity saving throw or take `5d6` bludgeoning damage, be knocked prone, and be buried in the rubble, requiring a DC 20 Acrobatics or Athletics check as an action to escape.
+Creatures within half the distance of a collapsing structure’s height must succeed on a Dexterity saving throw or take `5d6` bludgeoning damage, be knocked prone, and be buried in the rubble, requiring a DC 20 Dexterity (Acrobatics) or Strength (Athletics) check as an action to escape.
 A creature inside (instead of near) a collapsing structure has disadvantage on its saving throw.
 The Conductor can adjust the DC higher or lower depending on the composition of the rubble.
 On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried.

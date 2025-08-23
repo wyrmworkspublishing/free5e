@@ -15,4 +15,4 @@ An unwilling target can make a Charisma saving throw to avoid being affected by 
 You can alter the appearance of the target as you see fit, including but not limited to: its ancestry, 1 foot of height, weight, clothing, tattoos, piercings, facial features, hair style and length, skin and eye coloration, sex and any other distinguishing features.
 You cannot disguise the target as a creature of a different size category, and its limb structure remains the same.
 
-The disguise does not hold up to touch. To see through your disguise without such an interaction, a creature must use its action to make an Investigation check against your spell save DC.
+The disguise does not hold up to touch. To see through your disguise without such an interaction, a creature must use its action to make an Intelligence (Investigation) check against your spell save DC.

@@ -27,7 +27,7 @@ Until the spell ends or you use an action to dismiss it, you and your gear are c
 You cannot disguise yourself as a creature of a different size category, and your limb structure remains the same.
 
 Illusory changes in shape can be discovered by touch.
-To see through your disguise without touching it, a creature must use its action to make an Investigation check against your spell save DC.
+To see through your disguise without touching it, a creature must use its action to make an Intelligence (Investigation) check against your spell save DC.
 
 **At Higher Levels.**
 When using a 3rd-level spell slot or higher, this spell functions identically to the [Seeming](#Seeming_seeming) spell, except the spell’s duration is 10 minutes.
