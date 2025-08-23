@@ -17,6 +17,6 @@ The duplicate is friendly to you and your allies.
 It follows your orders, and moves and acts on your turn in combat.
 It is a static creature and it does not learn, age, or grow, so it never increases in levels and cannot regain any spent spell slots.
 
-When the simulacrum is damaged you can repair it in an alchemy lab using components worth 100 gold per hit point it regains.
+When the simulacrum is damaged you can repair it in an alchemy lab using components worth 100 gp per hit point it regains.
 When reduced to 0 hit points the simulacrum crumbles into snow and melts away immediately.
 The simulacrum is also destroyed if you cast this spell again.

@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "incense and powdered diamond worth at least 200 gold, which the spell consumes"
+[_metadata_:components_material_description]:- "incense and powdered diamond worth at least 200 gp, which the spell consumes"
 [_metadata_:components_material_cost]:- "200 gp"
 [_metadata_:duration]:- "Until dispelled or triggered"
 [_metadata_:concentration]:- "false"
@@ -26,7 +26,7 @@ _3rd-level abjuration_
 
 **Casting Time:** 1 hour \
 **Range:** Touch \
-**Components:** V, S, M (incense and powdered diamond worth at least 200 gold, which the spell consumes) \
+**Components:** V, S, M (incense and powdered diamond worth at least 200 gp, which the spell consumes) \
 **Duration:** Until dispelled or triggered
 
 You trace a glyph on one object or a surface no larger than 10 feet in diameter.
@@ -53,5 +53,5 @@ When you cast the spell, choose _Explosive Runes_ or _Spell Glyph_.
   Spells requiring concentration last for their full duration.
 
 **At Higher Levels.**
-The cost of the material component increases by 200 gold for each slot level above 3rd.
+The cost of the material component increases by 200 gp for each slot level above 3rd.
 For _Explosive Runes_, the damage increases by `1d8` for each slot level above 3rd, and for _Spell Glyph_ you can store a spell of up to the same level as the spell slot used to cast glyph of warding.

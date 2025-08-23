@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "ruby dust worth 1,500 gold"
+[_metadata_:components_material_description]:- "ruby dust worth 1,500 gp"
 [_metadata_:components_material_cost]:- "1,500 pg"
 [_metadata_:duration]:- "1 hour"
 [_metadata_:concentration]:- "false"
@@ -24,7 +24,7 @@ _7th-level evocation_
 
 **Casting Time:** 1 action \
 **Range:** 100 feet \
-**Components:** V, S, M (ruby dust worth 1,500 gold) \
+**Components:** V, S, M (ruby dust worth 1,500 gp) \
 **Duration:** 1 hour
 
 An opaque cube of banded force surrounds the area, preventing any matter or spells from passing through it, though creatures can breathe inside it.

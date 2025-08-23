@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "10 gold worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier"
+[_metadata_:components_material_description]:- "10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier"
 [_metadata_:components_material_cost]:- "10 gp"
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
@@ -22,7 +22,7 @@ _1st-level evocation_
 
 **Casting Time:** 1 hour \
 **Range:** 10 feet \
-**Components:** V, S, M (10 gold worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier) \
+**Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier) \
 **Duration:** Instantaneous
 
 Your familiar, a spirit that takes the form of any challenge rating 0 beast of Small or Tiny size, appears in an unoccupied space within range.

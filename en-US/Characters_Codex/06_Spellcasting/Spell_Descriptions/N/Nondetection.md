@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a pinch of diamond dust worth 25 gold sprinkled over the target, which the spell consumes"
+[_metadata_:components_material_description]:- "a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes"
 [_metadata_:components_material_cost]:- "25 gp"
 [_metadata_:duration]:- "8 hours"
 [_metadata_:concentration]:- "false"
@@ -22,7 +22,7 @@ _3rd-level abjuration_
 
 **Casting Time:** 1 action \
 **Range:** Touch \
-**Components:** V, S, M (a pinch of diamond dust worth 25 gold sprinkled over the target, which the spell consumes) \
+**Components:** V, S, M (a pinch of diamond dust worth 25 gp sprinkled over the target, which the spell consumes) \
 **Duration:** 8 hours
 
 A willing creature, or a place or object is hidden from divination magic and cannot be perceived by magical scrying sensors.

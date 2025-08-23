@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gold"
+[_metadata_:components_material_description]:- "a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp"
 [_metadata_:components_material_cost]:- "1,000 gp"
 [_metadata_:duration]:- "1 day"
 [_metadata_:concentration]:- "false"
@@ -24,7 +24,7 @@ _6th-level abjuration (ritual)_
 
 **Casting Time:** 10 minutes \
 **Range:** Touch \
-**Components:** V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gold) \
+**Components:** V, S, M (a sprinkling of holy water, rare incense, and powdered ruby worth at least 1,000 gp) \
 **Duration:** 1 day
 
 You protect an area up to 40,000 square feet and up to 30 feet tall against magical travel.

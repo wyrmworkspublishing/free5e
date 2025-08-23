@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a gem-encrusted bowl worth at least 1,000 gold, which the spell consumes"
+[_metadata_:components_material_description]:- "a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes"
 [_metadata_:components_material_cost]:- "1,000 gp"
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
@@ -23,7 +23,7 @@ _6th-level conjuration_
 
 **Casting Time:** 10 minutes \
 **Range:** 30 feet \
-**Components:** V, S, M (a gem-encrusted bowl worth at least 1,000 gold, which the spell consumes) \
+**Components:** V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes) \
 **Duration:** Instantaneous
 
 You bring forth a great feast, including magnificent food and drink.

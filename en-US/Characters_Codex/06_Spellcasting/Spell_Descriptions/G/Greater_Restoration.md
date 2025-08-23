@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "diamond dust worth at least 100 gold, which the spell consumes"
+[_metadata_:components_material_description]:- "diamond dust worth at least 100 gp, which the spell consumes"
 [_metadata_:components_material_cost]:- "100 gp"
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
@@ -22,7 +22,7 @@ _5th-level abjuration_
 
 **Casting Time:** 1 action \
 **Range:** Touch \
-**Components:** V, S, M (diamond dust worth at least 100 gold, which the spell consumes) \
+**Components:** V, S, M (diamond dust worth at least 100 gp, which the spell consumes) \
 **Duration:** Instantaneous
 
 Healing energy rejuvenates a creature you touch and undoes a negative effect.
