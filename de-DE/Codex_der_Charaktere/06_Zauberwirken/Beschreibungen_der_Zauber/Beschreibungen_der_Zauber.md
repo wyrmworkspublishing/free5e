@@ -86,6 +86,8 @@
 
 [**Dornenwuchs**](./D/Dornenwuchs.md)
 
+[**Druidenkunst**](./N/Druidenkunst.md)
+
 [**DTs Magische Aura**](./D/DTs_Magische_Aura.md)
 
 [**Dunkelheit**](./D/Dunkelheit.md)
@@ -375,8 +377,6 @@
 [**Nahrung und Wasser reinigen**](./N/Nahrung_und_Wasser_reinigen.md)
 
 [**Natalex' Sofortige Beschwörung**](./N/Natalex_Sofortige_Beschwoerung.md)
-
-[**Naturhandwerk**](./N/Naturhandwerk.md)
 
 [**Nebelschritt**](./N/Nebelschritt.md)
 
