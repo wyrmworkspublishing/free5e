@@ -10,7 +10,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "incense and a sacrificial offering appropriate to your religion, together worth at least 25 gold, which the spell consumes"
+[_metadata_:components_material_description]:- "incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes"
 [_metadata_:components_material_cost]:- "25 gp"
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
@@ -21,7 +21,7 @@ _4th-level divination_
 
 **Casting Time:** 1 action \
 **Range:** Self \
-**Components:** V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gold, which the spell consumes) \
+**Components:** V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes) \
 **Duration:** Instantaneous
 
 You ask your higher powers a single question about something that will (or could) happen in the next 7 days.

@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gold per Hit Die of the target"
+[_metadata_:components_material_description]:- "a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target"
 [_metadata_:components_material_cost]:- "500 gp × number of hit dice"
 [_metadata_:duration]:- "Until dispelled"
 [_metadata_:concentration]:- "false"
@@ -24,7 +24,7 @@ _9th-level abjuration_
 
 **Casting Time:** 1 minute \
 **Range:** 30 feet \
-**Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gold per Hit Die of the target) \
+**Components:** V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target) \
 **Duration:** Until dispelled
 
 You utter one creature’s name and attempt to bind them for eternity.

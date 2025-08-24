@@ -30,8 +30,8 @@ The illusory terrain can have completely different elevation and other character
 This spell does not affect structures, equipment, or creatures.
 
 Any creature that enters the area might discover the illusion if they are unable to touch illusory terrain.
-Otherwise, a creature can make an Investigation check against your spell save DC to disbelieve it.
-On a successful Investigation check or if they discover the illusion, the creature sees the illusion superimposed over the actual terrain.
+Otherwise, a creature can make an Intelligence (Investigation) check against your spell save DC to disbelieve it.
+If they succeed on this check or if they discover the illusion, the creature sees the illusion superimposed over the actual terrain.
 
 **At Higher Levels.**
 The spell targets an additional 50-foot cube for each slot level above 4th.

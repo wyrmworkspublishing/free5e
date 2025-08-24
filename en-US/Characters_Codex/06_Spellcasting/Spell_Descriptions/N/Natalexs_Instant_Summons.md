@@ -13,7 +13,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a sapphire worth 1,000 gold"
+[_metadata_:components_material_description]:- "a sapphire worth 1,000 gp"
 [_metadata_:components_material_cost]:- "1,000 gp"
 [_metadata_:duration]:- "Until dispelled"
 [_metadata_:concentration]:- "false"
@@ -24,7 +24,7 @@ _6th-level conjuration (ritual)_
 
 **Casting Time:** 1 minute \
 **Range:** Touch \
-**Components:** V, S, M (a sapphire worth 1,000 gold) \
+**Components:** V, S, M (a sapphire worth 1,000 gp) \
 **Duration:** Until dispelled
 
 Until the spell ends, a mystical bond connects one object weighing no more than 10 pounds and the precious stone used to cast this spell.

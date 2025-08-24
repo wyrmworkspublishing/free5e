@@ -15,5 +15,5 @@ As an action, you can move the image to any point within range.
 The image’s movement can be natural and lifelike.
 
 A creature that touches the image recognizes it as an illusion.
-A creature can also spend an action to make an Investigation check against your spell save DC to determine if the image is an illusion.
+A creature can also spend an action to make an Intelligence (Investigation) check against your spell save DC to determine if the image is an illusion.
 On a success, it is able to see through the image.

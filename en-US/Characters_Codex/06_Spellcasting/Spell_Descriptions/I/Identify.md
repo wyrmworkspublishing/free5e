@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a pearl worth at least 100 gold and an owl feather"
+[_metadata_:components_material_description]:- "a pearl worth at least 100 gp and an owl feather"
 [_metadata_:components_material_cost]:- "100 gp"
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
@@ -22,7 +22,7 @@ _1st-level divination (ritual)_
 
 **Casting Time:** 1 minute \
 **Range:** Touch \
-**Components:** V, S, M (a pearl worth at least 100 gold and an owl feather) \
+**Components:** V, S, M (a pearl worth at least 100 gp and an owl feather) \
 **Duration:** Instantaneous
 
 You learn an object’s magical properties along with how to use them.

@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "herbs, oils, and incense worth at least 1,000 gold, which the spell consumes"
+[_metadata_:components_material_description]:- "herbs, oils, and incense worth at least 1,000 gp, which the spell consumes"
 [_metadata_:components_material_cost]:- "1,000 gp"
 [_metadata_:duration]:- "Until dispelled"
 [_metadata_:concentration]:- "false"
@@ -24,7 +24,7 @@ _5th-level evocation_
 
 **Casting Time:** 24 hours \
 **Range:** Touch \
-**Components:** V, S, M (herbs, oils, and incense worth at least 1,000 gold, which the spell consumes) \
+**Components:** V, S, M (herbs, oils, and incense worth at least 1,000 gp, which the spell consumes) \
 **Duration:** Until dispelled
 
 You imbue an area with a radius of up to 60 feet with divine power, bolstering some creatures and hindering others.

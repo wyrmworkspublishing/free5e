@@ -45,7 +45,7 @@ When you choose a different effect, the current one ends.
   Once the water moves beyond the spell’s area, it resumes its regular flow based on the terrain.
 - **Whirlpool.**
   If the affected body of water is at least 50 feet square and 25 feet deep, a whirlpool forms within the area in a 50-foot wide cone that is 25 feet long.
-  Creatures and objects that are in the area and within 25 feet of the whirlpool must succeed on an Athletics check against your spell save DC or be pulled 10 feet toward it.
+  Creatures and objects that are in the area and within 25 feet of the whirlpool must succeed on a Strength (Athletics) check against your spell save DC or be pulled 10 feet toward it.
   Once within the whirlpool, checks made to swim out of it have disadvantage.
   When a creature first enters the whirlpool on a turn or starts its turn there, it must succeed on a Strength saving throw or take `2d8` bludgeoning damage and be pulled into the center of the whirlpool.
   On a successful save, the creature takes half damage and isn’t pulled.

@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "false"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a lead-based ink worth at least 10 gold, which the spell consumes"
+[_metadata_:components_material_description]:- "a lead-based ink worth at least 10 gp, which the spell consumes"
 [_metadata_:components_material_cost]:- "10 gp"
 [_metadata_:duration]:- "10 days"
 [_metadata_:concentration]:- "false"
@@ -22,7 +22,7 @@ _1st-level illusion (ritual)_
 
 **Casting Time:** 1 minute \
 **Range:** Touch \
-**Components:** S, M (a lead-based ink worth at least 10 gold, which the spell consumes) \
+**Components:** S, M (a lead-based ink worth at least 10 gp, which the spell consumes) \
 **Duration:** 10 days
 
 You inscribe a message onto a piece of paper or other material suitable to write on and wrap it in illusion until the spell ends.

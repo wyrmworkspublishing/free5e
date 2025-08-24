@@ -10,7 +10,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a diamond worth at least 5,000 gold"
+[_metadata_:components_material_description]:- "a diamond worth at least 5,000 gp"
 [_metadata_:components_material_cost]:- "5,000 gp"
 [_metadata_:duration]:- "1 minute"
 [_metadata_:concentration]:- "true"
@@ -21,7 +21,7 @@ _9th-level conjuration_
 
 **Casting Time:** 1 action \
 **Range:** 60 feet \
-**Components:** V, S, M (a diamond worth at least 5,000 gold) \
+**Components:** V, S, M (a diamond worth at least 5,000 gp) \
 **Duration:** Concentration, up to 1 minute
 
 You create a magic portal, a door between a space you can pinpoint and a specific place on another [plane of existence](#Planes_of_Existence_planes_of_existence).

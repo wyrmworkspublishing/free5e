@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "gold dust worth at least 25 gp, which the spell consumes"
+[_metadata_:components_material_description]:- "gp dust worth at least 25 gp, which the spell consumes"
 [_metadata_:components_material_cost]:- "25 gp"
 [_metadata_:concentration]:- "false"
 [_metadata_:duration]:- "Until dispelled"

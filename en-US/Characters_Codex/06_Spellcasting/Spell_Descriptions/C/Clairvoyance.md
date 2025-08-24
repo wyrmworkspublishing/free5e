@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "focus worth at least 100 gold such as a crystal ball or a golden horn"
+[_metadata_:components_material_description]:- "focus worth at least 100 gp such as a crystal ball or a golden horn"
 [_metadata_:components_material_cost]:- "100 gp"
 [_metadata_:duration]:- "10 minutes"
 [_metadata_:concentration]:- "true"
@@ -22,7 +22,7 @@ _3rd-level divination_
 
 **Casting Time:** 10 minutes \
 **Range:** 1 mile \
-**Components:** V, S, M (focus worth at least 100 gold such as a crystal ball or a golden horn) \
+**Components:** V, S, M (focus worth at least 100 gp such as a crystal ball or a golden horn) \
 **Duration:** Concentration, up to 10 minutes
 
 An invisible sensor is created within the spell’s range in a location familiar to you (a place observed before) or an obvious and unfamiliar location (behind a door, around a corner, and so on).

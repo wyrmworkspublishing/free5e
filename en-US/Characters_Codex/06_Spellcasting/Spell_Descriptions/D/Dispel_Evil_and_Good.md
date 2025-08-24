@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "holy water or powdered silver and iron worth 25 gold"
+[_metadata_:components_material_description]:- "holy water or powdered silver and iron worth 25 gp"
 [_metadata_:components_material_cost]:- "25 gp"
 [_metadata_:duration]:- "1 minute"
 [_metadata_:concentration]:- "true"
@@ -26,7 +26,7 @@ _5th-level abjuration_
 
 **Casting Time:** 1 action \
 **Range:** Self \
-**Components:** V, S, M (holy water or powdered silver and iron worth 25 gold) \
+**Components:** V, S, M (holy water or powdered silver and iron worth 25 gp) \
 **Duration:** Concentration, up to 1 minute
 
 Until the spell ends, celestials, elementals, fey, fiends, and undead have disadvantage on attack rolls against you.

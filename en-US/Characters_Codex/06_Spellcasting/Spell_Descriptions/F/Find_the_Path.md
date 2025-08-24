@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a set of divinatory tools-such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gold and an object from the location you wish to find"
+[_metadata_:components_material_description]:- "a set of divinatory tools-such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find"
 [_metadata_:components_material_cost]:- "100 gp"
 [_metadata_:duration]:- "1 day"
 [_metadata_:concentration]:- "true"
@@ -22,7 +22,7 @@ _6th-level divination_
 
 **Casting Time:** 1 minute \
 **Range:** Self \
-**Components:** V, S, M (a set of divinatory tools-such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gold and an object from the location you wish to find) \
+**Components:** V, S, M (a set of divinatory tools-such as bones, ivory sticks, cards, teeth, or carved runes-worth 100 gp and an object from the location you wish to find) \
 **Duration:** Concentration, up to 1 day
 
 Name a specific, immovable location that you have visited before.

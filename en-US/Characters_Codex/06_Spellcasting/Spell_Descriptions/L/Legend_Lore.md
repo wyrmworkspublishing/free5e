@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "incense worth at least 250 gold, which the spell consumes, and four ivory strips worth at least 50 gold each"
+[_metadata_:components_material_description]:- "incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each"
 [_metadata_:components_material_cost]:- "450 gp"
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
@@ -22,7 +22,7 @@ _5th-level divination_
 
 **Casting Time:** 10 minutes \
 **Range:** Self \
-**Components:** V, S, M (incense worth at least 250 gold, which the spell consumes, and four ivory strips worth at least 50 gold each) \
+**Components:** V, S, M (incense worth at least 250 gp, which the spell consumes, and four ivory strips worth at least 50 gp each) \
 **Duration:** Instantaneous
 
 You learn significant information about an object, creature, or location you name or describe.
@@ -33,4 +33,4 @@ The spell will not return any information for items not of legendary renown.
 The knowledge you gain is always true, but may be obscured by metaphor, poetic language, or verse.
 
 **At Higher Levels.**
-Your intuition surrounding the target is enhanced and you gain advantage on one Investigation check regarding it for each slot level above 6th.
+Your intuition surrounding the target is enhanced and you gain advantage on one Intelligence (Investigation) check regarding it for each slot level above 6th.

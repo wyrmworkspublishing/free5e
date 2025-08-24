@@ -14,7 +14,7 @@ The safest use of this spell is the duplication of any other spell of 8th-level 
 
 You may instead choose one of the following:
 
-- One nonmagical object of your choice that is worth up to 25,000 gold and no more than 300 feet in any dimension appears in an unoccupied space you can pinpoint on the ground.
+- One nonmagical object of your choice that is worth up to 25,000 gp and no more than 300 feet in any dimension appears in an unoccupied space you can pinpoint on the ground.
 - Up to 20 creatures that you can pinpoint to regain all their hit points, and each is further healed as per the greater restoration spell.
 - Up to 10 creatures that you can pinpoint gain resistance to a damage type you choose.
 - Up to 10 creatures you can pinpoint gain immunity to a single spell or other magical effect for 8 hours.

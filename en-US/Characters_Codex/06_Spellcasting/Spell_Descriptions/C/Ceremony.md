@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "25 gold worth of incense, consumed by the spell"
+[_metadata_:components_material_description]:- "25 gp worth of incense, consumed by the spell"
 [_metadata_:components_material_cost]:- "25 gp"
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
@@ -22,7 +22,7 @@ _1st-level evocation (ritual)_
 
 **Casting Time:** 1 hour \
 **Range:** 30 feet \
-**Components:** V, S, M (25 gold worth of incense, consumed by the spell) \
+**Components:** V, S, M (25 gp worth of incense, consumed by the spell) \
 **Duration:** Instantaneous
 
 You perform a religious ceremony during the casting time of this spell.

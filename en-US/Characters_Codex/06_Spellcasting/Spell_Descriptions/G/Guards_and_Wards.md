@@ -11,7 +11,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gold"
+[_metadata_:components_material_description]:- "burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp"
 [_metadata_:components_material_cost]:- "10 gp"
 [_metadata_:duration]:- "24 hours"
 [_metadata_:concentration]:- "false"
@@ -24,7 +24,7 @@ _6th-level abjuration_
 
 **Casting Time:** 10 minutes \
 **Range:** Touch \
-**Components:** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gold) \
+**Components:** V, S, M (burning incense, a small measure of brimstone and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod worth at least 10 gp) \
 **Duration:** 24 hours
 
 You create wards that protect up to 2,500 square feet of floor space in up to one hundred contiguous 5-foot squares.
