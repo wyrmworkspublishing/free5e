@@ -43,6 +43,6 @@ Characters raised in a culture share common traits.
 
 [**Villager**](./Cultures/Villager.md)
 
-[**Warhording**](./Cultures/Warhording.md)
+[**Warhordling**](./Cultures/Warhordling.md)
 
 [**Wood Elf**](./Cultures/Wood_Elf.md)
