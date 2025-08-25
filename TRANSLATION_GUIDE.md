@@ -98,12 +98,6 @@ In the new `cspell.config.yaml` file, change the selected language; so for examp
 language: de-DE
 ```
 
-while for Mexican Spanish it would be:
-
-```yml
-language: ex-MX
-```
-
 In general these codes follow the same logic as the [translation directories](#setting-up-a-new-translation-directory), though it is possible that not all languages are available for spell checking.
 
 [This list](https://github.com/streetsidesoftware/cspell-dicts?tab=readme-ov-file#natural-language-dictionaries) shows the languages that the spell checker can check.
@@ -150,7 +144,7 @@ version: "0.2"
 import:
   - '@cspell/dict-es-es/cspell-ext.json'
 # The locale to use when spell checking. (e.g., en, en-GB, de-DE)
-language: de-ES
+language: es-ES
 dictionaryDefinitions:
   - name: free5e
     path: ./dictionary.txt

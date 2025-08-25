@@ -1,0 +1,19 @@
+name: Convert the Mexican Spanish manuscripts into various formats
+run-name: Mexican Spanish file conversion triggered on on branch ${{ github.ref }} by ${{ github.actor }}...
+on:
+  push:
+    branches:
+      - main
+      - 'translation/**'
+      - 'translations/**'
+      - 'convert/**'
+
+jobs:
+  convert-characters-codes-es-MX:
+    name: Convert the es-MX Pergamino de Personajes
+    uses: ./.github/workflows/convert-files.yml
+    with:
+      language: es-MX
+      date_format: '%d.%m.%Y'
+      book_directory: 'es-MX/Pergamino_de_Personajes'
+      book_main_file: 'Pergamino_de_Personajes'

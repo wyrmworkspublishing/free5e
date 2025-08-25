@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json
+
+# The version of the configuration file format.
+version: "0.2"
+import:
+  - '@cspell/dict-es-es/cspell-ext.json'
+# The locale to use when spell checking. (e.g., en, en-GB, de-DE)
+language: es-ES
+allowCompoundWords: true
+dictionaryDefinitions:
+  - name: free5e
+    path: ./dictionary.txt
+    addWords: true
+dictionaries:
+  - free5e
