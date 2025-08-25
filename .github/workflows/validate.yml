@@ -23,7 +23,7 @@ jobs:
           root: '.'
           suggestions: true
           strict: true
-  spellcheck-en-us:
+  spellcheck-en-US:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -33,7 +33,22 @@ jobs:
           config: './en-US/cspell.config.yaml'
           suggestions: true
           strict: true
-  spellcheck-de-de:
+  spellcheck-es-MX:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Spanish cspell dictionary
+        # CSpell doesn't have a Mexican Spanish dictionary according to https://github.com/streetsidesoftware/cspell-dicts,
+        # so we're using the Spanish (Spain) dictionary as the best approximation.
+        run: npm install --no-save @cspell/dict-es-es
+      - run: echo "ls $(pwd):" && ls && echo "ls $(pwd)/es-MX:" && ls es-MX
+      - uses: streetsidesoftware/cspell-action@v7
+        with:
+          files: './es-MX/**/*.md'
+          config: './es-MX/cspell.config.yaml'
+          suggestions: true
+          strict: true
+  spellcheck-de-DE:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
