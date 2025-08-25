@@ -1,4 +1,4 @@
-### Warhording
+### Warhordling
 
 This culture thrives on strength, adaptability, and camaraderie.
 Its people excel in battle and forge bonds through shared challenges.
