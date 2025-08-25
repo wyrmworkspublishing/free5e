@@ -1,6 +1,7 @@
-# Spanish fantasy terms and proper nouns for Free5e
-# Add Spanish fantasy terms here as they are encountered during translation
-# Terms should be listed alphabetically for better readability
+# Spanish fantasy terms and proper nouns for Free5e.
+# Add Spanish fantasy terms here as they are encountered during translation.
+# Terms should be listed alphabetically for better readability.
+# https://cspell.org/docs/dictionaries/custom-dictionaries contains information on advanced usage.
 
 # Note: According to https://github.com/streetsidesoftware/cspell-dicts, there is currently no Mexican Spanish dictionary available.
 # We're using the Spanish (Spain) dictionary as the closest approximation; any terms specific to Mexican Spanish would have to be added here though.
