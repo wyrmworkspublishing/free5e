@@ -8,6 +8,8 @@ git config --global --add safe.directory $PWD
 function convert_markdown_to_asciidoc {
   echo "Converting Markdown files from $(pwd) to AsciiDoc..."
 
+  lang="$(cut -d '-' -f1 <<< "$INPUT_LANGUAGE")"
+
   for md in $(find . -name '*.md'); do
     md_filepath="$(dirname -- $md)"
     md_filename="${md##*/}"
@@ -22,7 +24,7 @@ function convert_markdown_to_asciidoc {
       -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
       -a doctype=book \
       -a icons=font \
-      -a lang="${INPUT_LANGUAGE}" \
+      -a lang="${lang}" \
       -a partnums \
       -a reproducible \
       -a revdate="$(LANG="${INPUT_LANGUAGE}" git log -1 --pretty="format:%cd" --date=format:"${INPUT_DATE_FORMAT}" .)" \
