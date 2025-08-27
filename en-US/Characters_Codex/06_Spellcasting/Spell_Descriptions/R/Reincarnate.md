@@ -1,5 +1,20 @@
 #### Reincarnate
-<!-- TODO Check and tag this spell-->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Reincarnate"
+[_metadata_:spell_level]:- "5"
+[_metadata_:spell_school]:- "transmutation"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "hour"
+[_metadata_:range]:- "Touch"
+[_metadata_:target]:- "one dead humanoid or piece of a dead humanoid, that died no more than 10 days ago"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "rare oils and unguents worth at least 1,000 gp, which the spell consumes"
+[_metadata_:components_material_cost]:- "1,000 gp"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:concentration]:- "false"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _5th-level transmutation_
 
