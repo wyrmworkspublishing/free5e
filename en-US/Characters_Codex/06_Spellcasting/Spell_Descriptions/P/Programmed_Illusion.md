@@ -1,5 +1,22 @@
 #### Programmed Illusion
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Programmed Illusion"
+[_metadata_:spell_level]:- "6"
+[_metadata_:spell_school]:- "illusion"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "120 feet"
+[_metadata_:target]:- "30-foot cube"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a bit of fleece and jade dust worth at least 25 gp"
+[_metadata_:components_material_cost]:- "25 gp"
+[_metadata_:duration]:- "Until dispelled"
+[_metadata_:concentration]:- "false"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level illusion_
 
@@ -8,7 +25,7 @@ _6th-level illusion_
 **Components:** V, S, M (a bit of fleece and jade dust worth at least 25 gp) \
 **Duration:** Until dispelled
 
-You craft an illusory object, creature, or other effect which executes a scripted performance when a specific condition is met within 30 feet of the area.
+You craft an illusory object, creature, or other effect which must fit within a 30-foot cube and which executes a scripted performance when a specific condition is met within 30 feet of the area.
 You must describe both the condition and the details of the performance upon casting.
 The trigger must be based on something that can be seen or heard.
 
