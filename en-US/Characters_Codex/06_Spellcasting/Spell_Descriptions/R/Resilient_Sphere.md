@@ -1,5 +1,20 @@
 #### Resilient Sphere
-<!-- TODO Check and tag this spell-->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Resilient Sphere"
+[_metadata_:spell_original_name]:- "Resilient Sphere"
+[_metadata_:spell_level]:- "4"
+[_metadata_:spell_school]:- "evocation"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "30 feet"
+[_metadata_:target]:- "one creature or object of Large size or smaller"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a hemispherical piece of clear crystal and a matching hemispherical piece of gum arabic"
+[_metadata_:duration]:- "1 minute"
+[_metadata_:concentration]:- "true"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level evocation_
 
