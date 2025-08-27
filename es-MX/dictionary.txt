@@ -6,6 +6,9 @@
 # Note: According to https://github.com/streetsidesoftware/cspell-dicts, there is currently no Mexican Spanish dictionary available.
 # We're using the Spanish (Spain) dictionary as the closest approximation; any terms specific to Mexican Spanish would have to be added here though.
 
+Naturalador
+Pactosuario
+Parasenso
 Publishing
 WotC
 Wyrmworks
