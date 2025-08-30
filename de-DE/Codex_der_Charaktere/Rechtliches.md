@@ -3,8 +3,7 @@
 Dieses Werk enthält Material aus dem A5E System Reference Document ("A5ESRD") von EN Publishing, das unter [A5ESRD.com](https://A5ESRD.com) verfügbar ist.
 Das A5ESRD ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International, die unter [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de) verfügbar ist.
 
-Dieses Werk enthält Material aus dem System Reference Document 5.1 ("SRD 5.1") von Wizards of the Coast LLC, verfügbar unter [https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf).
-Das SRD 5.1 ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International, die unter [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de) verfügbar ist.
+Dieses Werk enthält Material aus dem Systemreferenzdokument 5.1 ("SRD 5.1") von Wizards of the Coast LLC, das unter [https://dnd.wizards.com/de/resources/systems-reference-document](https://dnd.wizards.com/de/resources/systems-reference-document) verfügbar ist. Das SRD 5.1 ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International, die unter [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de) verfügbar ist.
 
 Dieses Werk enthält Material aus dem Lazy GM's Resource Document von Michael E. Shea von [SlyFlourish.com](https://SlyFlourish.com), das unter [SlyFlourish.com](https://SlyFlourish.com) verfügbar ist.
 Das Lazy GM's Resource Document ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International, die unter [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de) verfügbar ist.
@@ -26,7 +25,7 @@ Du darfst diesen Inhalt in jeder von dieser Lizenz erlaubten Weise verwenden, so
 > Diese Adaptierung enthält auch Material, das ursprünglich aus folgenden Quellen stammt:
 >
 > - Dem **A5E System Reference Document (A5ESRD)** von EN Publishing, verfügbar unter [A5ESRD.com](https://A5ESRD.com) und lizenziert unter CC-BY-4.0.
-> - Dem **System Reference Document 5.1 (SRD 5.1)** von Wizards of the Coast LLC, verfügbar unter [https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf) und lizenziert unter CC-BY-4.0.
+> - Dem **Systemreferenzdokument 5.1 (SRD 5.1)** von Wizards of the Coast LLC, das unter [https://dnd.wizards.com/de/resources/systems-reference-document](https://dnd.wizards.com/de/resources/systems-reference-document) verfügbar ist und lizenziert unter CC-BY-4.0.
 > - Dem **Lazy GM's Resource Document** von Michael E. Shea von [SlyFlourish.com](https://SlyFlourish.com), lizenziert unter CC-BY-4.0.
 > - Dem **Kibbles' Compendium of Legends and Legacies** von KibblesTasty Homebrew LLC, verfügbar unter [https://www.kthomebrew.com/krd](https://www.kthomebrew.com/krd) und lizenziert unter CC-BY-4.0.
 > - Dem **Black Flag Reference Document 1.0 ("BFRD 1.0")** von Kobold Press, verfügbar unter [https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf](https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf) und lizenziert unter CC-BY-4.0.

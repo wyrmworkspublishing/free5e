@@ -12,6 +12,7 @@ antimagisch
 arkan*
 Arkanist*
 Attributionserklärung
+Atkinson
 Authors
 BFRD
 Black
