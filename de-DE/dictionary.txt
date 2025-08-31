@@ -10,6 +10,8 @@
 antimagisch
 arkan*
 Arkanist*
+Attributsmodifikator
+Bardin
 Bragolbeleg*
 celestisch*
 Cerilsen*
@@ -19,9 +21,13 @@ Dimensionstür
 Druidenkunst
 Feenfeuer
 Feenwesen
+Fertigkeitsbonus
 Fiona*
 Geas
 Gendern
+Geschicklichkeitsbonus
+Geschicklichkeitsmodifikator
+Halblings
 Illusionsschrift
 Inklusivität
 Jess
@@ -33,6 +39,7 @@ Melestrua*
 Meteoritenschwarm
 Morscheck*
 Natalex
+Osmus
 Paoliello*
 Pelham*
 Publishing
@@ -47,9 +54,11 @@ Shillelagh
 Simulakrum
 Spätzündender
 spell-checker
+Sylvana
 Tabletop
 Teleportation
 Thaumaturgie
+TTRPG
 Unverwundbarkeit
 Vampirgriff
 WotC
