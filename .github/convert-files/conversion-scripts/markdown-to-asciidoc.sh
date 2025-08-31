@@ -41,6 +41,21 @@ function convert_markdown_to_asciidoc {
       $md
   done
 
+  # Handle language specific attributes if defined
+  attributesFile="../attributes.adoc"
+  if [[ -f "${attributesFile}" ]]; then
+    attributesTarget="${ADOC_TARGET_DIR}/attributes.adoc"
+    echo "Language specific attributes file found, copying it to ${attributesTarget}..."
+    cp "${attributesFile}" "${attributesTarget}"
+
+    ADOC_MAIN_FILE="${ADOC_TARGET_DIR}/${INPUT_BOOK_MAIN_FILE}.adoc"
+    sed -i'.attributes.bak' '/^:toc:$/i \
+include::attributes.adoc[]\
+' "${ADOC_MAIN_FILE}"
+  else
+    echo "No language specific attributes file found at ${attributesFile}."
+  fi
+
   pushd "${ADOC_TARGET_DIR}"
   echo "Moved to $(pwd) for further processing..."
 

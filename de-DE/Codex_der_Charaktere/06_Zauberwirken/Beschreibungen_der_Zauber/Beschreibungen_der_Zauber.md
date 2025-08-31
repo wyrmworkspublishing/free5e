@@ -86,7 +86,7 @@
 
 [**Dornenwuchs**](./D/Dornenwuchs.md)
 
-[**Druidenkunst**](./N/Druidenkunst.md)
+[**Druidenkunst**](./D/Druidenkunst.md)
 
 [**DTs Magische Aura**](./D/DTs_Magische_Aura.md)
 

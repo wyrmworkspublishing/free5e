@@ -10,8 +10,11 @@ function convert_asciidoc_to_docbook {
 
   echo "Converting ${ADOC_MAIN_FILE} to ${DOCBOOK_TARGET_FILE}..."
 
+  lang="$(cut -d '-' -f1 <<< "$INPUT_LANGUAGE")"
+
   asciidoctor \
       -b docbook \
+      -a lang=${lang} \
       "${ADOC_MAIN_FILE}" \
       -o "${DOCBOOK_TARGET_FILE}"
 }
