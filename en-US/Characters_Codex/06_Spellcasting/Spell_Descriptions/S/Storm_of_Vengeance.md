@@ -1,5 +1,24 @@
 #### Storm of Vengeance
-<!-- TODO Check and tag this spell-->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Storm of Vengeance"
+[_metadata_:spell_level]:- "9"
+[_metadata_:spell_school]:- "conjuration"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "Sight"
+[_metadata_:target]:- "360-foot radius sphere"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "1 minute"
+[_metadata_:concentration]:- "true"
+[_metadata_:saving_throw]:- "Special"
+[_metadata_:saving_throw_success]:- "special"
+[_metadata_:damage_formula]:- "special"
+[_metadata_:damage_type]:- "special"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _9th-level conjuration_
 
@@ -9,7 +28,7 @@ _9th-level conjuration_
 **Duration:** Concentration, up to 1 minute
 
 You conjure a storm cloud that covers a 360-foot radius area that is up to 5,000 feet in the air.
-As it forms, lightning and thunder mix with howling winds, and each creature beneath the cloud must succeed on a Constitution saving throw or take `2d6` thunder damage and become deafened for 5 minutes.
+As it forms, lightning and thunder mix with howling winds, and each creature beneath the cloud must succeed on a Constitution saving throw or take `2d6` thunder damage and become [deafened](#Conditions_deafened) for 5 minutes.
 
 Until the spell ends, at the start of your turn the cloud produces additional effects:
 

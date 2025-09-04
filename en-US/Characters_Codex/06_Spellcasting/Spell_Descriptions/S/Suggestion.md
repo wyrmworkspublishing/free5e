@@ -1,5 +1,23 @@
 #### Suggestion
-<!-- TODO Check and tag this spell-->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Suggestion"
+[_metadata_:spell_level]:- "2"
+[_metadata_:spell_school]:- "enchantment"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "30 feet"
+[_metadata_:target]:- "one creature"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "false"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a snake’s tongue and either a bit of honeycomb or a drop of sweet oil"
+[_metadata_:duration]:- "8 hours"
+[_metadata_:concentration]:- "true"
+[_metadata_:saving_throw]:- "Wisdom"
+[_metadata_:saving_throw_success]:- "avoids_effect"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level enchantment_
 
