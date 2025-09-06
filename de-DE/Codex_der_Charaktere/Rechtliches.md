@@ -40,4 +40,4 @@ Um eine Kopie dieser Lizenz einzusehen (nur in Englisch verfügbar), besuche [ht
 
 Die [Roboto](https://github.com/googlefonts/roboto-3-classic) Schrift, die in einigen Versionen dieses Buches verwendet wird, ist urheberrechtlich geschützt 2011 The Roboto Project Authors ([https://github.com/googlefonts/roboto-classic](https://github.com/googlefonts/roboto-classic)).
 Roboto ist lizenziert unter der [SIL Open Font License, Version 1.1](https://openfontlicense.org/open-font-license-official-text/).
-Um eine Kopie dieser Lizenz einzusehen, besuche [https://raw.githubusercontent.com/googlefonts/roboto-3-classic/refs/tags/v3.011/OFL.txt](https://raw.githubusercontent.com/googlefonts/roboto-3-classic/refs/tags/v3.011/OFL.txt).
+Um eine Kopie dieser Lizenz einzusehen (nur in Englisch verfügbar), besuche [https://raw.githubusercontent.com/googlefonts/roboto-3-classic/refs/tags/v3.011/OFL.txt](https://raw.githubusercontent.com/googlefonts/roboto-3-classic/refs/tags/v3.011/OFL.txt).
