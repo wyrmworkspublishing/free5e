@@ -1,26 +1,26 @@
 # Rechtliches
 
-Dieses Werk enthält Material aus dem A5E System Reference Document ("A5ESRD") von EN Publishing, das unter [A5ESRD.com](https://A5ESRD.com) verfügbar ist.
-Das A5ESRD ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International, die unter [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de) verfügbar ist.
+Dieses Werk enthält Material aus dem A5E System Reference Document ("A5ESRD") von EN Publishing, das unter [A5ESRD.com](https://A5ESRD.com) verfügbar ist.
+Das A5ESRD ist lizenziert gemäß der Creative Commons Namensnennung 4.0 International Lizenz, die unter [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de) verfügbar ist.
 
-Dieses Werk enthält Material aus dem Systemreferenzdokument 5.1 ("SRD 5.1") von Wizards of the Coast LLC, das unter [https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf) verfügbar ist. Das SRD 5.1 ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International, die unter [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de) verfügbar ist.
+Dieses Werk enthält Material aus dem Systemreferenzdokument 5.1 ("SRD 5.1") von Wizards of the Coast LLC, das unter [https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf) verfügbar ist. Das SRD 5.1 ist lizenziert gemäß der Creative Commons Namensnennung 4.0 International Lizenz, die unter [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de) verfügbar ist.
 
-Dieses Werk enthält Material aus dem Lazy GM's Resource Document von Michael E. Shea von [SlyFlourish.com](https://SlyFlourish.com), das unter [SlyFlourish.com](https://SlyFlourish.com) verfügbar ist.
-Das Lazy GM's Resource Document ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International, die unter [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de) verfügbar ist.
+Dieses Werk enthält Material aus dem Lazy GM's Resource Document von Michael E. Shea von [SlyFlourish.com](https://SlyFlourish.com), das unter [SlyFlourish.com](https://SlyFlourish.com) verfügbar ist.
+Das Lazy GM's Resource Document ist lizenziert gemäß der Creative Commons Namensnennung 4.0 International Lizenz, die unter [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de) verfügbar ist.
 
-Dieses Werk enthält Material aus dem Kibbles' Compendium of Legends and Legacies von KibblesTasty Homebrew LLC, das unter [https://www.kthomebrew.com/krd](https://www.kthomebrew.com/krd) verfügbar ist.
-Das Kibbles' Compendium of Legends and Legacies ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International, die unter [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de) verfügbar ist.
+Dieses Werk enthält Material aus dem Kibbles' Compendium of Legends and Legacies von KibblesTasty Homebrew LLC, das unter [https://www.kthomebrew.com/krd](https://www.kthomebrew.com/krd) verfügbar ist.
+Das Kibbles' Compendium of Legends and Legacies ist lizenziert gemäß der Creative Commons Namensnennung 4.0 International Lizenz, die unter [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de) verfügbar ist.
 
-Dieses Werk enthält Material aus dem Black Flag Reference Document 1.0 ("BFRD 1.0") von Kobold Press, das unter [https://koboldpress.com/Black-Flag-Roleplaying](https://koboldpress.com/Black-Flag-Roleplaying) verfügbar ist.
-Das BFRD 1.0 ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International, die unter [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de) verfügbar ist.
+Dieses Werk enthält Material aus dem Black Flag Reference Document 1.0 ("BFRD 1.0") von Kobold Press, das unter [https://koboldpress.com/Black-Flag-Roleplaying](https://koboldpress.com/Black-Flag-Roleplaying) verfügbar ist.
+Das BFRD 1.0 ist lizenziert gemäß der Creative Commons Namensnennung 4.0 International Lizenz, die unter [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de) verfügbar ist.
 
-Der Text des Free5e Character's Codex © 2025 von Wyrmworks Publishing, verfügbar unter [https://free5e.com](https://free5e.com), ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International.
-Um eine Kopie dieser Lizenz einzusehen, besuche [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de).
+Der Text des Free5e Character's Codex © 2025 von Wyrmworks Publishing, verfügbar unter [https://free5e.com](https://free5e.com), ist lizenziert gemäß der Creative Commons Namensnennung 4.0 International Lizenz.
+Um eine Kopie dieser Lizenz einzusehen, besuche [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de).
 
 Du darfst diesen Inhalt in jeder von dieser Lizenz erlaubten Weise verwenden, solange du die folgende Namensnennung in dein eigenes Werk aufnimmst:
 > Dieses Werk enthält Material, das aus dem **Free5e Character's Codex** adaptiert wurde, © 2025 von Wyrmworks Publishing, verfügbar unter [https://free5e.com](https://free5e.com).
-> Der **Free5e Character's Codex** ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International (CC-BY-4.0).
-> Um eine Kopie dieser Lizenz einzusehen, besuche [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de).
+> Der **Free5e Character's Codex** ist lizenziert gemäß der Creative Commons Namensnennung 4.0 International Lizenz (CC-BY-4.0).
+> Um eine Kopie dieser Lizenz einzusehen, besuche [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de).
 >
 > Diese Adaptierung enthält auch Material, das ursprünglich aus folgenden Quellen stammt:
 >
