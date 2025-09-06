@@ -23,9 +23,7 @@ Cerilsen*
 Chloe*
 Coast
 Compendium
-Commons
 Coreador*
-Creative
 Dimensionstür
 Druidenkunst
 ESRD
@@ -80,6 +78,5 @@ Thaumaturgie
 TTRPG
 Unverwundbarkeit
 Vampirgriff
-WotC
 Wyrmworks
 Zeitstop
