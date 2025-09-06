@@ -17,7 +17,7 @@ Das BFRD 1.0 ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.
 Der Text des Free5e Character's Codex © 2025 von Wyrmworks Publishing, verfügbar unter [https://free5e.com](https://free5e.com), ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International.
 Um eine Kopie dieser Lizenz einzusehen, besuche [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de).
 
-Du darfst diesen Inhalt in jeder von dieser Lizenz erlaubten Weise verwenden, solange du die folgende Attributionserklärung in dein eigenes Werk aufnimmst:
+Du darfst diesen Inhalt in jeder von dieser Lizenz erlaubten Weise verwenden, solange du die folgende Namensnennung in dein eigenes Werk aufnimmst:
 > Dieses Werk enthält Material, das aus dem **Free5e Character's Codex** adaptiert wurde, © 2025 von Wyrmworks Publishing, verfügbar unter [https://free5e.com](https://free5e.com).
 > Der **Free5e Character's Codex** ist lizenziert gemäß der Lizenz Creative Commons Namensnennung 4.0 International (CC-BY-4.0).
 > Um eine Kopie dieser Lizenz einzusehen, besuche [https://creativecommons.org/licenses/by/4.0/legalcode.de](https://creativecommons.org/licenses/by/4.0/legalcode.de).

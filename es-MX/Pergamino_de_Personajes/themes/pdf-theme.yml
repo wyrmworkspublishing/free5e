@@ -1,0 +1,73 @@
+extends:
+  - default-sans-with-font-fallbacks
+font:
+  catalog:
+    merge: true
+    AtkinsonHyperlegibleNext:
+      normal: atkinson_hyperlegible/AtkinsonHyperlegibleNext-Regular.ttf
+      italic: atkinson_hyperlegible/AtkinsonHyperlegibleNext-RegularItalic.ttf
+      bold: atkinson_hyperlegible/AtkinsonHyperlegibleNext-Bold.ttf
+      bold_italic: atkinson_hyperlegible/AtkinsonHyperlegibleNext-BoldItalic.ttf
+    AtkinsonHyperlegibleMono:
+      normal: atkinson_hyperlegible/AtkinsonHyperlegibleMono-Regular.ttf
+      italic: atkinson_hyperlegible/AtkinsonHyperlegibleMono-RegularItalic.ttf
+      bold: atkinson_hyperlegible/AtkinsonHyperlegibleMono-Bold.ttf
+      bold_italic: atkinson_hyperlegible/AtkinsonHyperlegibleMono-BoldItalic.ttf
+    Roboto:
+      normal: roboto/roboto-v48-latin_latin-ext_math_symbols-regular.ttf
+      italic: roboto/roboto-v48-latin_latin-ext_math_symbols-italic.ttf
+      bold: roboto/roboto-v48-latin_latin-ext_math_symbols-700.ttf
+      bold_italic: roboto/roboto-v48-latin_latin-ext_math_symbols-700italic.ttf
+  fallbacks:
+    - Roboto
+    - Noto Sans
+    - Noto Emoji
+base:
+  font-size: 12
+  font-family: AtkinsonHyperlegibleNext
+page:
+  size: Letter
+title-page:
+  logo:
+    align: left
+    image: image:../../../assets/images/Free5e-Logo-Gold-Ring.png[pdfwidth=20%]
+    top: 0%
+  title:
+    font-color: #b77a2b
+    font-family: Helvetica
+    font-size: 32
+    font-style: bold
+    top: 15%
+  authors:
+    content:
+      name_only: '{author}'
+    font-color: #29326a
+    font-family: Helvetica
+    font-size: 20
+footer:
+  border-style: dashed
+  height: 0.5in
+  sectlevels: 2
+  title-style: toc
+  recto:
+    left:
+      content: 'Última actualización: {revdate}'
+    center:
+      content: '{chapter-title}'
+    right:
+      content: '{page-number}'
+  verso:
+    left:
+      content: '{page-number}'
+    center:
+      content: '{chapter-title}'
+    right:
+      content: 'Última actualización: {revdate}'
+code:
+  font-family: AtkinsonHyperlegibleMono
+codespan:
+  font-family: AtkinsonHyperlegibleMono
+quote:
+  font-size: 0.9em
+running-content:
+  start-at: body

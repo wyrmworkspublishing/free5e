@@ -1,5 +1,19 @@
 #### Planar Ally
-<!-- TODO Check and tag this spell -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Planar Ally"
+[_metadata_:spell_level]:- "6"
+[_metadata_:spell_school]:- "conjuration"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "10"
+[_metadata_:casting_time_unit]:- "minutes"
+[_metadata_:range]:- "60 feet"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:concentration]:- "false"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level conjuration_
 

@@ -1,12 +1,15 @@
 #### Melestrua's Marvelous Marquee
 <!-- previously "Tiny Hut" -->
 <!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Melestrua's Marvelous Marquee"
+[_metadata_:spell_original_name]:- "Tiny Hut"
+[_metadata_:spell_level]:- "3"
 [_metadata_:spell_school]:- "evocation"
-[_metadata_:spell_level]:- "1"
+[_metadata_:ritual]:- "true"
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "minute"
-[_metadata_:ritual]:- "true"
-[_metadata_:range]:- "10-foot radius hemisphere"
+[_metadata_:range]:- "Self"
+[_metadata_:target]:- "10-foot radius hemisphere"
 [_metadata_:target]:- "Self"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
@@ -16,7 +19,6 @@
 [_metadata_:duration]:- "8 hours"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
-[_metadata_:spell_original_name]:- "Tiny Hut"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level evocation (ritual)_
 
