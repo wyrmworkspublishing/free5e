@@ -6,18 +6,23 @@ Dieses Dokument listet alle Personen und Organisationen auf, die zur deutschen �
 Bitte trage dich in die passende Kategorie ein und beschreibe kurz deinen Beitrag (z.B. Kapitel, Bereich, Rolle). Beiträge können Übersetzung, Korrektorat, Lektorat, Layout, technische Unterstützung, Organisation, etc. umfassen.
 
 ## Übersetzung
+
 - Name (Kapitel/Bereich, optional: Zeitraum)
 
 ## Korrektorat & Lektorat
+
 - Name (Kapitel/Bereich, optional: Zeitraum)
 
 ## Layout & technische Umsetzung
+
 - Name (Beschreibung)
 
 ## Organisation & Koordination
+
 - Name (Beschreibung)
 
 ## Weitere Beiträge
+
 - Name (Beschreibung)
 
 ---
