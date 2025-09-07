@@ -28,6 +28,7 @@ Bitte trage dich in die passende Kategorie ein und beschreibe kurz deinen Beitra
 ---
 
 **Beispiel:**
+
 - Martelo Schwarz (Übersetzung Kapitel 1, Koordination Gesamtwerk)
 - Max Mustermann (Übersetzung Kapitel 1)
 - Erika Beispiel (Korrektorat, Gesamtwerk)

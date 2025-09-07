@@ -23,6 +23,7 @@ Du darfst diesen Inhalt in jeder von dieser Lizenz erlaubten Weise verwenden, so
 > Eine Liste der Mitwirkenden findest du unter [Mitwirkende.md](./Mitwirkende.md).
 > Um eine Kopie dieser Lizenz einzusehen, besuche [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de).
 > Diese Adaption enthält auch Material, das ursprünglich aus folgenden Quellen stammt:
+>
 > - Dem **A5E System Reference Document (A5ESRD)** von EN Publishing, verfügbar unter [A5ESRD.com](https://A5ESRD.com) und lizenziert unter CC-BY-4.0.
 > - Dem **Systemreferenzdokument 5.1 (SRD 5.1)** von Wizards of the Coast LLC, das unter [https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf](https://media.wizards.com/2023/downloads/dnd/SRD_CC_v5.1_DE.pdf) verfügbar ist und lizenziert unter CC-BY-4.0.
 > - Dem **Lazy GM's Resource Document** von Michael E. Shea von [SlyFlourish.com](https://SlyFlourish.com), lizenziert unter CC-BY-4.0.
