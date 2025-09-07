@@ -56,7 +56,7 @@ Many spells were reworded for clarity and/or brevity, but remain the same mechan
 
 ### Changes related to pinpoint
 
-As explained in the section on [Pinpoint](#pinpoint), many spells in the SRD 5.1 use language such as "a creature you can see" or "a creature that can hear you".
+As explained in the section on [Pinpoint](#pinpoint-sense-and-observe), many spells in the SRD 5.1 use language such as "a creature you can see" or "a creature that can hear you".
 Since Free5e expands upon the senses that can be used in many places, spells that used such language also had to be updated.
 
 ### More expansive changes to spells
@@ -83,11 +83,114 @@ Specifically, the following spells were added:
 
 ## Senses
 
-### Pinpoint
+### Pinpoint, Sense, and Observe
+<!-- spell-checker:words blindsight worg -->
 
-Check the article [This D&D Rule Change Finally Makes Sense](https://wyrmworkspublishing.com/this-dd-rule-change-finally-makes-sense/) for details
+For too long, many abilities and spells in 5e have used phrasing like "a creature you can see" or "a creature that can see or hear you," which unintentionally excludes blind characters and limits monster design.
+With input from the Free5e community and our friends at [Knights of the Braille](https://knightsofthebraille.com/), we’ve replaced that narrow language with a flexible system based on three clear sensory terms: **Sense**, **Pinpoint**, and **Observe**.
+These simple changes expand how perception, targeting, and spellcasting work without disrupting the balance of the game.
+
+Here’s the full excerpt from the updated rules:
+
+> **Pinpoint** \
+> A creature can pinpoint a target’s location only if the target provides a relevant sensory cue—visibility for sight, vibrations for tremorsense, odor for scent, and so on.
+>
+> Precise senses (sight, blindsight, tremorsense, truesight) allow a creature to pinpoint a target’s exact location within the sense’s range.
+>
+> Imprecise senses (hearing, scent) allow pinpointing only within 15 feet; beyond 15 feet, the creature can attempt a Wisdom (Perception) check (DC = 10 + 1 per 5 feet to the target) to pinpoint within 30 feet.
+>
+> Environmental factors such as noise or wind can reduce a sense’s effectiveness and may obscure the area for that sense.
+>
+> If an effect depends on a creature pinpointing you using an imprecise sense, use its passive Wisdom (Perception) to determine whether it succeeds.
+>
+> **Sense** \
+> A creature that can sense another is at least aware of its presence without necessarily knowing its exact location, such as hearing or smelling something without pinpointing where it originates.
+>
+> **Observe** \
+> A creature that can observe another has sensed it and gathered sufficient details to replicate its appearance or form (as with wild shape or shapechange). Minor missing information—color, markings, posture—may cause imperfect replication.
+
+These mechanics clarify what it means to detect, locate, and replicate a creature using any sense, not just sight.
+It’s a minimal change with major implications.
+Most of the time, it simply replaces vague phrasing like "see" or "see or hear" with one of these defined terms.
+The result is more accurate, inclusive, and playable rules that don’t burden the Conductor or slow down gameplay.
+
+We also added options for adjusted spells and other abilities that use visuals instead of auditory requirements.
+
+#### What does this unlock?
+
+- **Blind characters** can now observe creatures they’ve experienced through touch, sound, or other cues, making Wild Shape and Shapechange accessible without visual input.
+- **Bards can now use visual arts** like dance to grant Bardic Inspiration.
+- **Counterspell no longer has an ableist limitation.**
+- **Deaf creatures** can be affected by spells like Animal Friendship or Vicious Mockery when another sense, like sight, is used.
+- **Sign-language spellcasting** is fully supported for nonverbal casters, as long as targets can pinpoint the somatic cues.
+  Monsters gain clarity.
+  Design a Worg with _Keen Hearing and Smell_ that can pinpoint prey in magical darkness.
+
+This is more than a rules tweak.
+It’s a design philosophy:
+**Disability isn’t a limitation. Design is.**
+
+![A blind tiefling with a staff and censer with eye-shaped glyph, night sky background](https://wyrmworkspublishing.com/wp-content/uploads/2023/03/F_Tiefling_Warlock-Camtrip-150x300.jpg)
+
+#### How to use _pinpoint_, _sense_, and _observe_ in your games
+
+All materials by the Free5e project already use the _pinpoint_ mechanic.
+
+To adapt materials from other sources to the pinpoint mechanic, it will often be sufficient to replace terms like "see", "see or hear" or similar with:
+- "sense" (if the awareness of something is sufficient),
+- "pinpoint" (if the precise identification of a creature or object is relevant), or
+- "observe" (when a creature requires the opportunity to gather more extensive information).
+
+##### Example 1: The spell _Compulsion_
+
+The spell description for _Compulsion_ from the SRD 5.1 starts as follows (highlighting added for clarity):
+> Creatures of your choice that **you can see within range** and **that can hear you** must make a Wisdom saving throw.
+
+Free5e changes this as follows:
+> Creatures of your choice that **you can pinpoint** and **that can sense you** must make a Wisdom saving throw.
+
+Here, the caster must be able to identify the precise positions of the creatures to be affected by the spell.
+The creatures to be affected however must only be able to be aware of part of the effect (in many cases the vocal component).
+
+##### Example 2. The class feature _Wild Shape_
+
+In the SRD 5.1, the Druid class contains the _Wild Shape_ class feature.
+The description of this feature starts as follows:
+> **Wild Shape** \
+> Starting at 2nd level, you can use your action to magically assume the shape of a beast **that you have seen before**.
+
+The Free5e Wodewose (which is the new name for Druids, as explained in [Class Name Changes](#class-name-changes)) has this same feature, though it starts as follows:
+> **Wild Shape (2nd Level)** \
+> You can use your action to magically assume the shape of a beast **that you have observed before**.
+
+Merely seeing the creature at a glance is not sufficient here.
+Instead, the character must have had time to study the creature in more detail.
+
+<!-- TODO Add an example for modifying a monster stat block to work with the new mechanics -->
+
+#### Why It Matters
+
+TTRPGs are about limitless imagination, so why let outdated rules limit who can fully participate?
+
+By giving players tools to describe and embody disabled characters authentically without being shut down by mechanics, we empower stories that reflect the diversity of our tables and our world.
+Because in the worlds we imagine, everyone should have a place at the table.
+
+_This is a modified version of the article [This D&D Rule Change Finally Makes Sense](https://wyrmworkspublishing.com/this-dd-rule-change-finally-makes-sense/), published by Wyrmworks Publishing on July 17th 2025 and used with permission._
 
 ### Parasense
-<!-- spell-checker:words blindsight -->
 
 Check the article [A New Look at Blindsight in DnD](https://wyrmworkspublishing.com/a-new-look-at-blindsight-in-dnd/) for details
+
+## Legal Information
+
+This work includes material adapted from the **Free5e Character's Codex**, © 2025 by Wyrmworks Publishing, and available at [https://free5e.com](https://free5e.com).
+The **Free5e Character's Codex** is licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0).
+To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
+
+This adaptation also includes material originally taken from:
+
+- The **A5E System Reference Document (A5ESRD)** by EN Publishing, available at [A5ESRD.com](https://A5ESRD.com) and licensed under CC-BY-4.0.
+- The **System Reference Document 5.1 (SRD 5.1)** by Wizards of the Coast LLC, available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document) and licensed under CC-BY-4.0.
+- The **Lazy GM’s Resource Document** by Michael E. Shea of [SlyFlourish.com](https://SlyFlourish.com), licensed under CC-BY-4.0.
+- The **Kibbles’ Compendium of Legends and Legacies** by KibblesTasty Homebrew LLC, available at [https://www.kthomebrew.com/krd](https://www.kthomebrew.com/krd) and licensed under CC-BY-4.0.
+- The **Black Flag Reference Document 1.0 (“BFRD 1.0”)** by Kobold Press, available at [https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf](https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf) and licensed under CC-BY-4.0.
