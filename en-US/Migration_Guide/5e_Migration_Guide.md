@@ -1,4 +1,4 @@
-# D&D 5e 2014 to Free5e Migration Guide
+# 5e 2014 to Free5e Migration Guide
 
 > **Warning**
 > This document is very much work in progress.
@@ -261,6 +261,65 @@ It makes encounters more tactical, adding new ways for players and Conductors to
 > We should also maybe create a new creature from scratch, explaining how it uses Parasense.
 
 _This is a modified version of the article [A New Look at Blindsight in DnD](https://wyrmworkspublishing.com/a-new-look-at-blindsight-in-dnd/), published by Wyrmworks Publishing on August 19th 2025 and used with permission._
+
+### Muteness & Deafness
+
+Historically speaking, 5e has mostly assumed that player characters can speak by producing sounds with their mouths and understand language by hearing those sounds with their ears.
+While this will likely continue to be true for many characters, Free5e strives to be inclusive and thus make it not only possible but seamless to play characters who communicate in other ways.
+
+Among other things, this lead us to add the following note to the _Deafened_ condition:
+
+> **Note:**
+> This condition is not the same as being deaf, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
+> Deaf creatures are more accustomed to using their other senses.
+
+This makes it very clear, that being temporarily deafened is very different from a character being permanently deaf.
+It also works in tandem with rules such as [pinpoint](#pinpoint-sense-and-observe) that allow for characters that use senses other than hearing to interact with the world.
+
+#### Introducing sign languages
+
+Free5e introduces the option of using sign languages.
+Depending on the character in question, these can be used either in addition to spoken languages or to replace them.
+
+The rule as it appears in the _Character's Codex_ reads as follows:
+
+> **Signing** \
+> Sign languages are independent languages with their own grammars and vocabularies.
+> If your character knows a sign language, they must learn it separately from a spoken or written language unless the campaign setting includes a signed form of that language.
+> You must have at least one hand free to communicate by sign, and the creature you are communicating with must be able to see you.
+> When attempting to make subtle signs to remain unnoticed, you must succeed on a Sleight of Hand check against the passive Perception of observers.
+
+#### How to use sign languages in your games
+
+Many options in the Free5e project either use the [pinpoint, sense, and observe mechanism](#pinpoint-sense-and-observe), thus not specifically stating which method is uses to communicate meaning.
+Some parts of the game however already offer specific mechanisms for using sign language.
+
+##### Example 1: The subclass feature _Cutting Words_
+
+Bards who join the _College of Lore_ gain the feature _Cutting Words_ at level 3.
+In the SRD 5.1, this feature includes the following:
+> The creature is immune **if it can’t hear you** or if it’s immune to being charmed.
+
+In Free5e, this was changed as follows:
+> The creature is immune **if it can’t hear (or see if you’re using a sign language)** you or if it’s immune to being charmed.
+
+##### Example 2: The spell _Enthrall_
+
+The SRD 5.1 version of the spell _Enthrall_ has the following spell description:
+> You weave a **distracting string of words**, causing creatures of your choice that you can see within range and **that can hear you** to make a Wisdom saving throw.
+> Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save.
+> On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or **until the target can no longer hear you.**
+> **The spell ends if you** are incapacitated or **can no longer speak**.
+
+The Free5e version of this spell makes the method of communication much more open:
+> You weave a **compelling communication** that captivates any number of creatures you choose within range that fail a Wisdom saving throw.
+> Any target that can’t be charmed automatically succeeds on its saving throw, and targets fighting you or creatures friendly to you have advantage on the saving throw.
+> 
+> Until the spell ends or a target can **no longer sense your communication**, it has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you.
+> **The spell ends if you are unable to speak.**
+> **If you know a sign language, you can prepare the spell to affect a creature that can see you instead, and it ends if you are unable to move.**
+
+<!-- TODO Add an example for modifying an NPC stat block to use sign language -->
 
 ## Legal Information
 
