@@ -178,8 +178,89 @@ Because in the worlds we imagine, everyone should have a place at the table.
 _This is a modified version of the article [This D&D Rule Change Finally Makes Sense](https://wyrmworkspublishing.com/this-dd-rule-change-finally-makes-sense/), published by Wyrmworks Publishing on July 17th 2025 and used with permission._
 
 ### Parasense
+<!-- spell-checker:words dracolich infravision -->
 
-Check the article [A New Look at Blindsight in DnD](https://wyrmworkspublishing.com/a-new-look-at-blindsight-in-dnd/) for details
+Blindsight has always been one of the most confusing and inconsistent mechanics in 5e.
+On paper, it seems simple: a creature can "perceive its surroundings without relying on sight, within a specific radius"
+But in practice?
+It’s a mess.
+
+- **It’s vague.**
+  Does blindsight let a creature "see" every detail (like color), or just know the positions of nearby creatures?
+- **It’s inconsistent.**
+  A bat’s echolocation and an ooze’s chemical awareness are lumped into the same mechanic, even though they work completely differently.
+- **It ignores weaknesses.**
+  Echolocation should fail in Silence.
+  Air pressure detection should fail in windy conditions.
+  Thermal detection (remember Infravision?) should be unidirectional.
+  But blindsight flattens all these nuances into one catch-all.
+- **It’s misleading.**
+  The name "blindsight" implies it exists only for blind creatures, when in fact many sighted monsters have it.
+  Worse, it can feel dismissive to players who are blind in real life.
+
+![A bat in mid-flight](https://wyrmworkspublishing.com/wp-content/uploads/2025/08/bat-47821_1920-300x150.png)
+
+Blindsight tries to solve the problem of non-visual perception in TTRPGs, but instead, it creates more questions than it answers.
+
+#### The intent behind Parasense
+
+Parasense was born out of a simple question:
+_What if we defined perception based on the actual sense being used?_
+By separating the concept of **spatial awareness** from sight, we could account for echolocation, heat detection, air pressure sensitivity, electrical fields, and even magical senses, all under one umbrella.
+
+![A skeletal Dracolich spreading it's wings](https://wyrmworkspublishing.com/wp-content/uploads/2025/03/dracolich-1957809-300x134.jpeg)
+
+This was born out of our community discussions on [Pinpoint](#pinpoint), our clarified rules for how creatures determine exact locations.
+In these discussions we realized that blindsight wasn’t just vague — it was limiting.
+
+#### What Is Parasense?
+
+**Parasense** is a new mechanic in Free5e that replaces blindsight for monsters.
+
+A creature with **parasense** can **pinpoint** and **observe** its surroundings within a defined area (such as a 60 ft. cone or 30 ft. sphere) without relying on sight.
+Instead, it uses a **supporting sense** — hearing, heat, air pressure, electrical fields, movement, etc.
+
+Here’s the key difference:
+**parasense is always tied to its supporting sense.**
+If that sense is disrupted, parasense is disrupted.
+
+- A bat’s parasense (echolocation) fails in a _Silence_ spell.
+- A shark’s parasense (electrical) is scrambled by electrical or magnetic interference.
+- A shrieker’s spore detection is blown away by a _Gust of Wind_.
+
+This small change solves the problems blindsight could never handle:
+**it adds clarity, it adds weakness, and it respects diversity.**
+
+#### The Parasense Rules
+
+Here’s how we wrote it:
+
+> **Parasense**
+>
+> A creature with parasense can pinpoint and observe its surroundings within a defined area (e.g., 60 ft. cone) without using sight.
+> This sense relies on a supporting sense such as echolocation or sensitivity to air pressure, heat, electrical fields, or magical cues and may be disrupted by effects that interfere with that sense (e.g., Silence for echolocation, strong wind for air pressure).
+> Parasense reveals position and general features but not fine detail.
+
+#### Examples in Play
+
+- A **worg** in total darkness can still stalk prey using its parasense (scent + hearing), but strong winds may throw it off.
+- A **water elemental** can detect movement of fluids, like blood in nearby creatures, but gargoyles are invisible to them.
+- An **ooze** with chemical parasense knows when prey is nearby, but alchemical neutralizers can hide a target.
+- A **shark** can track adventurers in murky water using electrical parasense, but a lightning ward or magnetic interference could block it.
+
+Parasense doesn’t just add detail.
+It makes encounters more tactical, adding new ways for players and Conductors to interact with creatures.
+
+![A dragon with it's wings held in an oval shape and it's tail curling beneath it](https://wyrmworkspublishing.com/wp-content/uploads/2023/03/dragon-clipart-md.png)
+
+#### How to use Parasense in your game
+
+> **Warning**
+> This section is yet to be written.
+> Specifically, we should provide examples of how to modify an existing creature to use Parasense rather than Blindsight.
+> We should also maybe create a new creature from scratch, explaining how it uses Parasense.
+
+_This is a modified version of the article [A New Look at Blindsight in DnD](https://wyrmworkspublishing.com/a-new-look-at-blindsight-in-dnd/), published by Wyrmworks Publishing on August 19th 2025 and used with permission._
 
 ## Legal Information
 
