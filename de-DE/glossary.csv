@@ -223,7 +223,7 @@ instantaneous,,augenblicklich
 intelligence,,Intelligenz
 interacting with objects around you,,mit Gegenständen interagieren
 intimidation,skill,Einschüchtern
-invisibility,,Unsicthbarkeit
+invisibility,,Unsichtbarkeit
 invisible,,unsichtbar
 jump,,springen
 large,,groß
@@ -333,7 +333,8 @@ school of magic,,Schule der Magie
 score,a critical hit,einen kritischen Treffer landen
 scry/scries/scried/scrying/scryer,one who scries,Hellsehen
 search,,suchen
-sense,Noun,Sinn
+sense,noun,Sinn
+sense,verb,wahrnehmen
 shapechange/shapechanger,,gestaltwandeln/Gestaltwandler
 shapeshifter,,Gestaltwandler
 short rest,,kurze Rast
@@ -408,7 +409,7 @@ unoccupied space,,unbesetzter Raum
 use,a feature to,eine Eigenschaft verwenden um
 use,a feature,eine Eigenschaft verwenden
 use,a spell slot,einen Zauberplatz verwenden
-use,an action to,eine Aktion verwenden um
+use,an action to,eine Aktion verwenden, um
 use,an action,eine Aktion verwenden
 using ability scores,,Attributswerte verwenden
 using each ability,,Einzelne Attribute verwenden
