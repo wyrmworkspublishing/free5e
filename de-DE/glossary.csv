@@ -1,28 +1,28 @@
 Term,Usage & Notes,de-DE
-aberration,,Aberration
+aberration,monster type,Aberration
 ability check,,Attributswurf
 ability checks,,Attributswürfe
 ability modifier,,Attributsmodifikator
 ability score,,Attributswert
 abjuration,,Bannmagie
-acid,,Säure
-acolyte,,Akolyth
-acrobatics,,Akrobatik
+acid damage,,Säureschaden
+acolyte,,Tempeldiener
+acrobatics,skill,Akrobatik
 action,,Aktion
 actions in combat,,Aktionen im Kampf
 adept,,Adept
 advantage,,Vorteil
 adventure,,Abenteuer
-adventuring,,auf Abenteuer ziehen
+adventuring,,auf Abenteuer ausziehen
 adventuring gear,,Abenteurerausrüstung
 alignment,,Gesinnung
-ally,,Verbündeter
+ally,,Verbündete:r
 ammunition,,Munition
 ancestral traits,,Abstammungsmerkmale
 ancestries,,Abstammungen
 ancestry,,Abstammung
-animal handling,,Mit Tieren umgehen
-arcana,,Arkane Kunde
+animal handling,skill,Mit Tieren umgehen
+arcana,skill,Arkane Kunde
 arcane traditions,,Arkane Traditionen
 arcanist,,Arkanist
 area of effect,,Wirkungsbereich
@@ -30,8 +30,10 @@ armor,,Rüstung
 armor class,,Rüstungsklasse
 assassin,,Assassine
 astral,,astral
-at higher levels,,Auf höheren Stufen
-at will,,Nach Belieben
+astral plane,,Astralebene
+at higher levels,Character level,Auf höheren Stufen
+at higher levels,Spell level upcast,Auf höheren Graden
+at will,,Beliebig oft
 athletics,,Athletik
 attack,noun,Angriff
 attack,verb,angreifen
@@ -40,12 +42,12 @@ attune,,einstimmen
 attunement,,Einstimmung
 background,,Hintergrund
 backgrounds,,Hintergründe
-bard,,Barde
-bard college,,Bardenschule
-bard spells,,Bardenzauber
+bard,,Bard:in
+bard college,,Bard:innenschule
+bard spells,,Zauber der Barden
 beast,,Tier
-blinded,SRD usess blind-this seems to be better,Geblendet
-bloodied,,schwer verwundet
+blinded,condition,Geblendet
+bloodied,,angeschlagen
 bludgeoning damage,,Wuchtschaden
 bonus,,Bonus
 bonus action,,Bonusaktion
@@ -55,39 +57,40 @@ brawler,,Schläger
 bright light,,helles Licht
 campaign,,Kampagne
 cantrip,,Zaubertrick
-carrying capacity,,Tragfähigkeit
+carrying capacity,,Traglast
 cast,a spell,wirken
 casting time,,Zeitaufwand
-celestial,,Celestischer
+celestial,Monster type,Celestische:r
+celestial,Adjektive,celestisch
 challenge rating,,Herausforderungsgrad
 champion,,Champion
-channel divinity,,Göttliche Macht
-character sheet,,Characterbogen
+channel divinity,,Göttliche Macht fokussieren
+character sheet,,Charakterbogen
 charisma,,Charisma
-charmed,,bezaubert
+charmed,condition,bezaubert
 circle of the city,,Zirkel der Stadt
 circle of the land,,Zirkel des Landes
 class features,,Klassenmerkmale
 classes,,Klassen
 cleric,,Kleriker
-cleric domains,,Kleriker-Domänen
-cleric spells,,Klerikerzauber
+cleric domain,,Göttliche Domäne
+cleric spells,,Zauber der Kleriker
 climb,,klettern
-cold, damage type,Kälteschaden
+cold,damage type,Kälteschaden
 college of fools,,Schule der Narren
-college of lore,,Schule der Kunde
+college of lore,,Schule des Wissens
 combat,,Kampf
 components,,Komponenten
 concentration,,Konzentration
 condition,,Zustand
 conditions,,Zustände
-conductor,,Spielleiter
+conductor,,Spielleitung
 cone,,Kegel
 conjuration,,Beschwörung
 constitution,,Konstitution
 construct,,Konstrukt
-consumed,,verbraucht
-crawl,,Kriechen
+consumed,,"verbraucht, verzehrt"
+crawl,,kriechen
 creating a character,,Charaktererschaffung
 creature,,Kreatur
 creature type,,Kreaturentyp
@@ -106,47 +109,47 @@ damage threshold,,Schadensschwellenwert
 damage type,,Schadensart
 darkness,,Dunkelheit
 darkvision,,Dunkelsicht
-dash,,rennen
-dead,,Tot
-deafened,,taub
-deal,damage,Schaden verursachen
+dash,,Spurt / spurten
+dead,,tot
+deafened,condition,taub
+deal damage,,Schaden verursachen
 death saving throw,,Todesrettungswurf
-deception,,Täuschung
+deception,skill,Täuschung
 determine ability scores,,Attributswerte bestimmen
 dexterity,,Geschicklichkeit
 dice,plural,Würfel
 die,singular,Würfel
-difficult terrain,,Schwieriges Gelände
+difficult terrain,,schwieriges Gelände
 difficulty class,,Schwierigkeitsgrad
-dim light,,schwaches Licht
+dim light,,dämmriges Licht
 disadvantage,,Nachteil
 discipline of the open hand,,Weg der offenen Hand
 discipline of the outcast,,Weg des Ausgestoßenen
-disengage,,Rückzug
-dispelled,,aufgehoben
+disengage,action,Rückzug
+dispelled,depends on context,"gebannt, aufgehoben"
 divination,,Erkenntnismagie
 divine domain,,Göttliche Domäne
-dodge,,ausweichen
+dodge,action,ausweichen
 doff,,ablegen
 don,,anlegen
 draconic,,drakonisch
-draconic bloodline,,drakonische Abstammung
+draconic ancestry,,drakonische Abstammung
+draconic bloodline,,drakonische Blutlinie
 dragon,,Drache
-dragonborn,,Drachenblütiger
+dragonborn,,Drachenblütige:r
 dragonfire,fire produced by a dragon’s breath weapon,Drachenfeuer
-dragonkind,,Drachenartige
-draw,,ziehen
-dreadnought,,Furchtloser
-dreadnought paths,,Pfade des Furchtlosen
+draw,A weapon,ziehen
+dreadnought,,Zornstreiter:in
+dreadnought paths,,Pfade der Zornstreiter:innen
 drop,to x hit points,fallen auf
-duration,,Dauer
+duration,spells,Wirkungsdauer
 dwarf,,Zwerg
 dwarven,adjective,zwergisch
 dwarves,not dwarfs,Zwerge
 dwarvish,language,Zwergisch
-eldritch,,schauerlich
+eldritch,depends on context,"schauerlich, mystisch, unheimlich"
 eldritch invocations,,schauerliche Anrufungen
-elemental,,Elementar
+elemental,monster type,Elementar
 elf,,Elf
 elven,adjective,elfisch
 elvish,language,Elfisch
@@ -156,92 +159,94 @@ end,of a turn/of each turn,Ende
 enemy,,Feind
 equipment,,Ausrüstung
 ethereal,,ätherisch
+ethereal plane,,Ätherebene
 evocation,,Hervorrufung
 exhaustion,,Erschöpfung
 experience points,,Erfahrungspunkte
 expertise,,Expertise
 exploration,,Erkundung
-extradimensional,adjective,außerdimensional
-fail,a check,einen Wurf verfehlen
+extradimensional,adjective,extradimensional
+failed,a check or saving throw,misslungener
 familiar,,Vertrauter
 feats,,Talente
-fey,,Feenwesen
-fey warped,,Feenverwandelt
-fiend,,Unhold
+fey,monster type,Feenwesen
+fey warped,,Feengezeichnet
+fiend,monster type,Unhold
 fighter,,Kämpfer
 fighting style,,Kampfstil
 finesse,,Finesse
 finish,a rest,beenden
-fire,,Feuer
+fire,damage type,Feuerschaden
 fly,,Fliegen
 focus,,Fokus
 font of magic,,Quelle der Magie
-force,damage,Kraftschaden
-frightened,,verängstigt
+force damage,,Kraftschaden
+frightened,condition,verängstigt
 gain,temp hp,erhalten
 gargantuan,,gigantisch
-giant,,Riese
+giant,monster type,Riese
 glyph,,Glyphe
 gnome,,Gnom
 gnomish,language,Gnomisch
-goblinoid,,Goblinoid
-grapple,,packen
+goblinoid,monster type,Goblinoid
+grab,verb,packen
+a grapple,,Haltegriff
 grappled,,gepackt
 grappling,,Ringen
 halfling,,Halbling
 hazard,,Gefahr
-healing,,Heilung
-heavily obscured,,vollständig verdeckt
+healing,noun,Heilung
+heavily obscured,,komplett verschleiert
 help,,helfen
-hide,,verstecken
+hide,action,verstecken
 high jump,,Hochsprung
-history,,Geschichte
+history,skill,Geschichte
 hit,with an attack,treffen
 hit dice,,Trefferwürfel
 hit points,,Trefferpunkte
 hover,,schweben
 huge,,riesig
 human,,Mensch
-humanoid,,Humanoid
+humanoid,monster type,Humanoide
 hunter,,Jäger
 illusion,,Illusion
 illusions,,Illusionen
 immunity,,Immunität
 improvised weapons,,Improvisierte Waffen
 incapacitated,,kampfunfähig
-increase,an ability score,erhöhen
-influence,,beeinflussen
+increase,an ability score,"erhöhen, steigern"
+influence,verb,beeinflussen
 initiative,,Initiative
-insight,,Motiv erkennen
+insight,skill,Motiv erkennen
 inspiration,,Inspiration
 instantaneous,,augenblicklich
 intelligence,,Intelligenz
-interacting with objects around you,,Gegenstände verwenden
-intimidation,,einschüchtern
+interacting with objects around you,,mit Gegenständen interagieren
+intimidation,skill,Einschüchtern
+invisibility,,Unsicthbarkeit
 invisible,,unsichtbar
 jump,,springen
 large,,groß
 level advancement,,Stufenaufstieg
-life domain,,Domäne des Lebens
 lightly obscured,,leicht verdeckt
-lightning,damage,Blitzschaden
+lightning damage,damage,Blitzschaden
 line,,Linie
 lock pick,noun,Dietrich
 long jump,,Weitsprung
-long rest,,Lange Rast
+long rest,,lange Rast
 magic,,Magie
 magic item,,Magischer Gegenstand
-magic-user,,Magiekundiger
+magic-user,,Magiekundige:r
 make,a check,einen Wurf ablegen
 making an attack,,einen Angriff ausführen
-martial,,kriegerisch
 martial archetypes,,Kampfarchetypen
-martial disciplines,,Kampftradition
-martyr domain,,Märtyrer-Domäne
+martial disciplines,,Kampftraditionen
+martial weapon,,Kriegswaffen
+martyr domain,,Domäne des Märtyrers
 material,,Material
 maximum hit points,,maximale Trefferpunkte
 medicine,,Heilkunde
-medium,,mittelgroß
+medium,size category,mittelgroß
 melee,,Nahkampf
 metamagic,,Metamagie
 miss,with an attack,verfehlen
@@ -252,13 +257,13 @@ mounted combat,,berittener Kampf
 movement,,Bewegung
 movement and position,,Bewegung und Position
 multiclassing,,Klassenkombinationen
-nature,,Naturkunde
+nature,skill,Naturkunde
 necromancy,,Nekromantie
-necrotic,damage,nekrotisch
+necrotic damage,damage,nekrotischer Schaden
 non-player character,,Nichtspielercharakter
 nonmagical,,nichtmagisch
 oath of devotion,,Schwur der Hingabe
-oath of silence,,Schwur des Schweigens
+oath of the exemplar,,Schwur des Exempels
 oath of duty,,Heiliger Schwur
 object,,Gegenstand
 observe,,beobachten
@@ -266,91 +271,90 @@ occupied space,,besetzter Bereich
 ooze,,Schlick
 opportunity attack,,Gelegenheitsangriff
 orc,,Ork
-otherworldly patrons,,Außerweltliche Schutzherren
+otherworldly patrons,,Außerweltliche Patrone
 pact boon,,Segen des Paktes
 pact magic,,Paktmagie
 paralyzed,,gelähmt
 passive perception,,passive Wahrnehmung
 path of the berserker,,Pfad des Berserkers
 path of the dragon,,Pfad des Drachen
-patron,,Schutzherr
+patron,,Patron
 per day,,pro Tag
-perception,,Wahrnehmung
-performance,,Darbietung
+perception,skill,Wahrnehmung
+performance,skill,Auftreten
 persuasion,,Überzeugen
 petrified,,versteinert
 pickaxe,,Spitzhacke
 piercing,damage,Stichschaden
-pinpoint,,genau lokalisieren
+pinpoint,,lokalisieren
 plane,,Ebene
 planes of existence,chapter title,Die Ebenen der Existenz
 plant,,Pflanze
-player,,Spieler
+player,,"Spieler, Spielerin, Spielende"
 player character,,Spielercharakter
-poison,,Gift
+poison damage,,Giftschaden
 poisoned,,vergiftet
-possession,,Besitz
 proficiency,with,geübt
+proficiency,noun,Übung
 proficiency bonus,,Übungsbonus
 prone,,liegend
 properties,,Eigenschaften
-psychic,,Ppychischer Schaden
-radiant,,Strahlenschaden
-rage,,Wut
+psychic damage,,Psychischer Schaden
+radiant damage,,gleißender Schaden
+rage,,Kampfrausch
 range,,Reichweite
-ranged,,Fernkampf
+ranged,"weapon, attack...","Fernkampf, Fernkampfwaffen, Fernkampf-Kriegswaffen, Fernkampfangriff, Fernkampf-Zauberangriff"
 ranger,,Waldläufer
-ranger archetypes,,Waldläufer-Archetypen
-ranger spells,,Waldläuferzauber
+ranger archetypes,,Waldläuferarchetypen
+ranger spells,,Zauber der Waldläufer:innen
 reach,,Reichweite
-reaction,use your reaction to,Reaktion verwenden, um
-ready,an action,eine Aktion bereithalten
+reaction,use your reaction to,Reaktion verwenden um
+ready,an action,eine Aktion vorbereiten
 reduce,a target to x hp,ein Ziel auf x TP reduzieren
 regain,hp,TP wiedererlangen
 religion,,Religion
 resistance,,Resistenz
-resting,,Rasten
+resting,,rasten
 restore,hp,TP wiederherstellen
-restrained,,gefesselt
+restrained,,festgesetzt
 ritual,,Ritual
 rogue,,Schurke
-roguish archetypes,,Schurken-Archetypen
-roleplay/roleplaying,,Rollenspiel
+roguish archetypes,,Schurkenarchetypen
+roleplay/roleplaying,,Rollenspiel/rollenspielen
 round,,Runde
 round down,,abrunden
 rule,,Regel
 rulebook,,Regelbuch
+sacred mandate,,sakrales Mandat
 save,,Rettungswurf
 save dc,,SG des Rettungswurfs
 saving throw,,Rettungswurf
-school of magic,,Magieschule
+school of magic,,Schule der Magie
 score,a critical hit,einen kritischen Treffer landen
 scry/scries/scried/scrying/scryer,one who scries,Hellsehen
-search,,Suchen
-sellsword,,Söldner
-sense,,Sinn
-shapechange/shapechanger,,Gestaltwandeln/Gestaltwandler
+search,,suchen
+sense,Noun,Sinn
+shapechange/shapechanger,,gestaltwandeln/Gestaltwandler
 shapeshifter,,Gestaltwandler
-shapeshifting,,Gestaltwandlung
 short rest,,kurze Rast
-simple,,einfach
-simultaneous effects,,Gleichzeitige Effekte
+simple weapon,,einfache Waffe
+simultaneous effects,,gleichzeitige Effekte
 size,,Größe
 skills,,Fertigkeiten
 slashing,damage,Hiebschaden
 sleight of hand,,Fingerfertigkeit
 small,,klein
-somatic,,somatisch
+somatic,,Geste
 sorcerer,,Zauberer
-sorcerer spells,,Zaubererzauber
-sorcerous origins,,Zauberer-Ursprünge
+sorcerer spells,,Zauber der Zauberer
+sorcerous origins,,Ursprung der Zauberei
 space,,Raum
 speed,,Geschwindigkeit
 spell,,Zauber
-spell attack modifier,,Zauberangriffsmodifikator
 spell descriptions,,Zauberbeschreibungen
 spell duel,,Zauberduell
 spell lists,,Zauberlisten
+spell save DC,,Zauberrettungswurf-SG
 spell scroll,,Zauberschriftrolle
 spell trap,,Zauberfalle
 spell ward,,Zauberschutz
@@ -358,24 +362,22 @@ spell-shield,,Zauberschild
 spellbook,,Zauberbuch
 spellcaster,,Zauberwirker
 spellcaster/spellcasting,,Zauberwirker/Zauberwirken
-spellcasting,,Zauberwirken
+spellcasting,,zauberwirken
 spellcraft,noun,Zauberkunst
 spellfire,,Zauberfeuer
 sphere,,Sphäre
-stable,,Stall
+stable,,stabil
 staffs,not staves,Stäbe
 stat block,,Statblock
-stealth,,Heimlichkeit
+stealth,skill,Heimlichkeit
 strength,,Stärke
-stunned,,betäubt
-subclass,,Unterklasse
+stunned,condition,betäubt
+subclass,,Subklasse
 succeed,a check,einen Wurf bestehen
 summon,,beschwören
 surprise,,Überraschung
-survival,,Überleben
+survival,skill,Überlebenskunst
 swim,,Schwimmen
-swordmaster,,Schwertmeister
-swordsmith,,Schwertschmied
 take,an action,eine Aktion ausführen
 take,an attack,einen Angriff ausführen
 take,damage,Schaden erleiden
@@ -383,51 +385,51 @@ target,,Ziel
 telepathy,,Telepathie
 teleportation,,Teleportation
 temporary hit points,,temporäre Trefferpunkte
-tenet,,Leitsatz
+tenet,,Lehre
 the environment,,die Umgebung
 the fiend,,der Unhold
 the overseer,,der Aufseher
 theurge,,Theurg
 thief,,Dieb
 thrown,,geworfen
-thunder,damage,Donnerschaden
+thunder damage,,Donnerschaden
 tiefling,,Tiefling
 timeline,,Zeitleiste
 tiny,,winzig
 tools,,Werkzeuge
 transmutation,,Verwandlung
 tremorsense,,Erschütterungssinn
-truesight,,Wahre Sicht
+truesight,,Wahrer Blick
 turn,,Zug
 unarmed strike,,waffenloser Schlag
 unconscious,,bewusstlos
-undead,,Untoter
+undead,monster type,Untote
 unoccupied space,,unbesetzter Raum
-use,a feature to,eine Eigenschaft verwenden, um
+use,a feature to,eine Eigenschaft verwenden um
 use,a feature,eine Eigenschaft verwenden
 use,a spell slot,einen Zauberplatz verwenden
-use,an action to,eine Aktion verwenden, um
+use,an action to,eine Aktion verwenden um
 use,an action,eine Aktion verwenden
-using ability scores,,Verwendung der Attributswerte
-using each ability,,Verwendung der einzelnen Attribute
+using ability scores,,Attributswerte verwenden
+using each ability,,Einzelne Attribute verwenden
 utilize,,nutzen
-vanguard,,Ordenskrieger
-vanguard spells,,Ordenskriegerzauber
+vanguard,,Eidwahrer
+vanguard spells,,Zauber der Eidwahrer:innen
 verbal,,verbal
 versatile,,vielseitig
 vulnerability,,Verwundbarkeit
 war magic,,Kriegsmagie
-warlock,,Hexe/Hexer
-warlock spells,,Hexezauber
+warlock,,Hexenmeister
+warlock spells,,Zauber der Hexenmeister:innen
 weapon properties,,Waffeneigenschaften
 weapons,,Waffen
 weaponsmith,,Waffenschmied
 wielding,,führen
 wisdom,,Weisheit
 wizard,,Magier
-wizard spells,,Magierzauber
-wodewose,,Naturgeweihter
-wodewose circles,,Zirkel der Naturgeweihten
-wodewose spells,,Naturgeweihtenzauber
-working together,,Zusammenarbeit
-worshiped/worshiper/worshiping,,anbeten/Anbeter/Anbetung
+wizard spells,,Zauber der Magier:innen
+wodewose,,Druide
+wodewose circles,,Zirkel der Druiden
+wodewose spells,,Zauber der Druiden
+working together,,zusammenarbeiten
+worshiper,,Anhänger
