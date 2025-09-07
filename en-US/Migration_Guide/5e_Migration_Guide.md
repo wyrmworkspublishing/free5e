@@ -79,7 +79,7 @@ Specifically, the following spells were added:
 - Charm Monster (taken from the A5ESRD and reworded)
 - Friends (taken from the A5ESRD and modified to better fit Free5e)
 - Hex (created specifically for Free5e)
-- Iz’zart's Swarm Limb (created for _Limitless Heroics_ by Wyrmworks Publishing and released into CC-BY 4.0 for Free5e)
+- Iz’zart's Swarm Limb (created for _[Limitless Heroics](https://wyrmworkspublishing.com/product/limitless-heroics/?utm_source=migration-doc&utm_medium=document&utm_campaign=Free5e)_ by Wyrmworks Publishing and released into CC-BY 4.0 for Free5e)
 
 ## Senses
 
@@ -107,7 +107,8 @@ Here’s the full excerpt from the updated rules:
 > A creature that can sense another is at least aware of its presence without necessarily knowing its exact location, such as hearing or smelling something without pinpointing where it originates.
 >
 > **Observe** \
-> A creature that can observe another has sensed it and gathered sufficient details to replicate its appearance or form (as with wild shape or shapechange). Minor missing information—color, markings, posture—may cause imperfect replication.
+> A creature that can observe another has sensed it and gathered sufficient details to replicate its appearance or form (as with wild shape or shapechange).
+> Minor missing information—color, markings, posture—may cause imperfect replication.
 
 These mechanics clarify what it means to detect, locate, and replicate a creature using any sense, not just sight.
 It’s a minimal change with major implications.
@@ -130,7 +131,9 @@ This is more than a rules tweak.
 It’s a design philosophy:
 **Disability isn’t a limitation. Design is.**
 
-![A blind tiefling with a staff and censer with eye-shaped glyph, night sky background](https://wyrmworkspublishing.com/wp-content/uploads/2023/03/F_Tiefling_Warlock-Camtrip-150x300.jpg)
+___
+![A masculine adept with closed eyes, pink hair and purple pants](https://art.ngfiles.com/images/823000/823950_xjkappax_blind-monk.jpg?f1550432476)
+_Blind Monk © 2017 by xjkappax is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)_
 
 #### How to use _pinpoint_, _sense_, and _observe_ in your games
 
@@ -176,7 +179,7 @@ TTRPGs are about limitless imagination, so why let outdated rules limit who can 
 By giving players tools to describe and embody disabled characters authentically without being shut down by mechanics, we empower stories that reflect the diversity of our tables and our world.
 Because in the worlds we imagine, everyone should have a place at the table.
 
-_This is a modified version of the article [This D&D Rule Change Finally Makes Sense](https://wyrmworkspublishing.com/this-dd-rule-change-finally-makes-sense/), published by Wyrmworks Publishing on July 17th 2025 and used with permission._
+_This is a modified version of the article [This D&D Rule Change Finally Makes Sense](https://wyrmworkspublishing.com/this-dd-rule-change-finally-makes-sense/?utm_source=migration-doc&utm_medium=document&utm_campaign=Free5e), published by Wyrmworks Publishing on July 17th 2025 and used with permission._
 
 ### Parasense
 <!-- spell-checker:words dracolich infravision -->
@@ -261,14 +264,14 @@ It makes encounters more tactical, adding new ways for players and Conductors to
 > Specifically, we should provide examples of how to modify an existing creature to use Parasense rather than Blindsight.
 > We should also maybe create a new creature from scratch, explaining how it uses Parasense.
 
-_This is a modified version of the article [A New Look at Blindsight in DnD](https://wyrmworkspublishing.com/a-new-look-at-blindsight-in-dnd/), published by Wyrmworks Publishing on August 19th 2025 and used with permission._
+_This is a modified version of the article [A New Look at Blindsight in DnD](https://wyrmworkspublishing.com/a-new-look-at-blindsight-in-dnd/?utm_source=migration-doc&utm_medium=document&utm_campaign=Free5e), published by Wyrmworks Publishing on August 19th 2025 and used with permission._
 
 ### Muteness & Deafness
 
 Historically speaking, 5e has mostly assumed that player characters can speak by producing sounds with their mouths and understand language by hearing those sounds with their ears.
 While this will likely continue to be true for many characters, Free5e strives to be inclusive and thus make it not only possible but seamless to play characters who communicate in other ways.
 
-Among other things, this lead us to add the following note to the _Deafened_ condition:
+Among other things, this led us to add the following note to the _Deafened_ condition:
 
 > **Note:**
 > This condition is not the same as being deaf, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
@@ -292,7 +295,7 @@ The rule as it appears in the _Character's Codex_ reads as follows:
 
 #### How to use sign languages in your games
 
-Many options in the Free5e project either use the [pinpoint, sense, and observe mechanism](#pinpoint-sense-and-observe), thus not specifically stating which method is uses to communicate meaning.
+Many options in the Free5e project either use the [pinpoint, sense, and observe mechanism](#pinpoint-sense-and-observe), thus not specifically stating which method it uses to communicate meaning.
 Some parts of the game however already offer specific mechanisms for using sign language.
 
 ##### Example 1: The subclass feature _Cutting Words_
