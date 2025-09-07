@@ -137,6 +137,7 @@ It’s a design philosophy:
 All materials by the Free5e project already use the _pinpoint_ mechanic.
 
 To adapt materials from other sources to the pinpoint mechanic, it will often be sufficient to replace terms like "see", "see or hear" or similar with:
+
 - "sense" (if the awareness of something is sufficient),
 - "pinpoint" (if the precise identification of a creature or object is relevant), or
 - "observe" (when a creature requires the opportunity to gather more extensive information).
@@ -314,7 +315,7 @@ The SRD 5.1 version of the spell _Enthrall_ has the following spell description:
 The Free5e version of this spell makes the method of communication much more open:
 > You weave a **compelling communication** that captivates any number of creatures you choose within range that fail a Wisdom saving throw.
 > Any target that can’t be charmed automatically succeeds on its saving throw, and targets fighting you or creatures friendly to you have advantage on the saving throw.
-> 
+>
 > Until the spell ends or a target can **no longer sense your communication**, it has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you.
 > **The spell ends if you are unable to speak.**
 > **If you know a sign language, you can prepare the spell to affect a creature that can see you instead, and it ends if you are unable to move.**
