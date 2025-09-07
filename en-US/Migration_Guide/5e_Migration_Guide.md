@@ -75,13 +75,11 @@ In most such cases, Free5e either adjusted the spell to enhance compatibility, o
 Free5e contains a number of spells that are not included in the SRD 5.1.
 Specifically, the following spells were added:
 
-- Ceremony
-- Charm Monster
-- Friends
-- Hex
-- Iz’zart's Swarm Limb
-
-While you may be familiar with other spells of those names, the ones included in Free5e are either taken (and possibly adapted) from the A5ESRD or they were written specifically for Free5e.
+- Ceremony (taken from the A5ESRD and reworded)
+- Charm Monster (taken from the A5ESRD and reworded)
+- Friends (taken from the A5ESRD and modified to better fit Free5e)
+- Hex (created specifically for Free5e)
+- Iz’zart's Swarm Limb (created for _Limitless Heroics_ by Wyrmworks Publishing and released into CC-BY 4.0 for Free5e)
 
 ## Senses
 
