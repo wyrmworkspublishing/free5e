@@ -1,44 +1,31 @@
 #### Alarm
 <!-- markdownlint-disable link-image-reference-definitions -->
-<!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
 [_metadata_:spell_name]:- "Alarm"
-[_metadata_:spell_name_english]:- "Alarm"
-[_metadata_:spell_school]:- "???"
-[_metadata_:spell_level]:- "???"
-[_metadata_:casting_time_amount]:- "???"
-<!-- "action", "bonus action", "reaction", "minute", "minutes", "hour", "hours" -->
-[_metadata_:casting_time_unit]:- "???"
-[_metadata_:casting_time_reaction_trigger]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:ritual]:- "false"
-[_metadata_:range]:- "???"
-[_metadata_:target]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_verbal]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_somatic]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_material]:- "???"
-[_metadata_:components_material_description]:- "???"
-[_metadata_:components_material_cost]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:concentration]:- "???"
-[_metadata_:duration]:- "???"
-[_metadata_:saving_throw]:- "???"
-<!-- "halves_damage", "avoids_effect", "ends_effect", "special"; falls mehrere wahr sind, kommagetrennt einfügen -->
-[_metadata_:saving_throw_success]:- "???"
-[_metadata_:damage_formula]:- "???d???"
-[_metadata_:damage_type]:- "???"
+[_metadata_:spell_school]:- "abjuration"
+[_metadata_:spell_level]:- "1"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "minute"
+[_metadata_:ritual]:- "true"
+[_metadata_:range]:- "30 feet"
+[_metadata_:target]:- "20-foot cube"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a tiny bell and a piece of fine silver wire"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "8 hours"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
-<!-- "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
-[_metadata_:compared_to_a5e_srd]:- "???"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-<mark>_X-zauber n. Grades (Ritual?)_ oder _Zaubertrick der X_</mark>
+_Bannzauber 1. Grades (Ritual)_
 
-**Zeitaufwand:** ??? \
-**Reichweite:** ??? \
-**Komponenten:** ??? \
-**Wirkungsdauer:** ???
+**Zeitaufwand:** 1 Minute \
+**Reichweite:** 9 m \
+**Komponenten:** V, G, M (eine kleine Glocke und ein Stück feiner Silberdraht) \
+**Wirkungsdauer:** 8 Stunden
 
-> **Warning**
-> Dieser Zauber wird noch übersetzt.
+Du erschaffst einen Alarm gegen unerwünschtes Eindringen. Wähle eine Tür, ein Fenster oder einen Bereich in Reichweite, der nicht größer als ein Würfel von sechs Metern Kantenlänge sein darf. Bis der Zauber endet, warnt dich ein Alarm, wenn eine mindestens winzige Kreatur den geschützten Bereich berührt oder in ihn eindringt. Wenn du den Zauber wirkst, kannst du Kreaturen bestimmen, die den Alarm nicht auslösen. Du legst zudem fest, ob der Alarm mental oder hörbar ist.
+
+Ein mentaler Alarm macht sich als Klingeln in deinem Kopf bemerkbar, wenn du dich im Abstand von bis zu 1,6 Kilometern vom geschützten Bereich befindest. Er weckt dich auch aus dem Schlaf.
+
+Ein hörbarer Alarm erzeugt im Abstand von bis zu 18 Metern zehn Sekunden lang das Geräusch einer Handglocke.
