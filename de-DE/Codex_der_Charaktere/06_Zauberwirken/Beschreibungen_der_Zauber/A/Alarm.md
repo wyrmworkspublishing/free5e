@@ -3,7 +3,7 @@
 <!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
 [_metadata_:spell_name]:- "Alarm"
 [_metadata_:spell_name_english]:- "Alarm"
-[_metadata_:spell_school]:- "abjuration"
+[_metadata_:spell_school]:- "Bannzauber"
 [_metadata_:spell_level]:- "1"
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "Minute"
