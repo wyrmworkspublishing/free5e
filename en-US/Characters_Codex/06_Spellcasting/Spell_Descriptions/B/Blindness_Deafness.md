@@ -25,7 +25,7 @@ _2nd-level necromancy_
 **Components:** V \
 **Duration:** 1 minute
 
-Until the spell ends, one creature you can pinpoint is blinded or deafened (your choice) unless it succeeds on a Constitution saving throw.
+Until the spell ends, one creature you can pinpoint is [blinded](#Conditions_blinded) or [deafened](#Conditions_deafened) (your choice) unless it succeeds on a Constitution saving throw.
 At the end of each of its turns the target can repeat its saving throw, ending the spell on a success.
 
 **At Higher Levels.**
