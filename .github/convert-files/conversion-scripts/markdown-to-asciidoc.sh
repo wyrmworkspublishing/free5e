@@ -8,6 +8,8 @@ git config --global --add safe.directory $PWD
 function convert_markdown_to_asciidoc {
   echo "Converting Markdown files from $(pwd) to AsciiDoc..."
 
+  lang="$(cut -d '-' -f1 <<< "$INPUT_LANGUAGE")"
+
   for md in $(find . -name '*.md'); do
     md_filepath="$(dirname -- $md)"
     md_filename="${md##*/}"
@@ -22,7 +24,7 @@ function convert_markdown_to_asciidoc {
       -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
       -a doctype=book \
       -a icons=font \
-      -a lang="${INPUT_LANGUAGE}" \
+      -a lang="${lang}" \
       -a partnums \
       -a reproducible \
       -a revdate="$(LANG="${INPUT_LANGUAGE}" git log -1 --pretty="format:%cd" --date=format:"${INPUT_DATE_FORMAT}" .)" \
@@ -38,6 +40,21 @@ function convert_markdown_to_asciidoc {
       -o "${adoc_filepath}/${adoc_filename}" \
       $md
   done
+
+  # Handle language specific attributes if defined
+  attributesFile="../attributes.adoc"
+  if [[ -f "${attributesFile}" ]]; then
+    attributesTarget="${ADOC_TARGET_DIR}/attributes.adoc"
+    echo "Language specific attributes file found, copying it to ${attributesTarget}..."
+    cp "${attributesFile}" "${attributesTarget}"
+
+    ADOC_MAIN_FILE="${ADOC_TARGET_DIR}/${INPUT_BOOK_MAIN_FILE}.adoc"
+    sed -i'.attributes.bak' '/^:toc:$/i \
+include::attributes.adoc[]\
+' "${ADOC_MAIN_FILE}"
+  else
+    echo "No language specific attributes file found at ${attributesFile}."
+  fi
 
   pushd "${ADOC_TARGET_DIR}"
   echo "Moved to $(pwd) for further processing..."

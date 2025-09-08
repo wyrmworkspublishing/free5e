@@ -1,0 +1,8 @@
+:appendix-caption: Anhang
+:appendix-refsig: {appendix-caption}
+:chapter-signifier: Kapitel
+:figure-caption: Bild
+:part-signifier: Teil
+:section-refsig: Abschnitt
+:table-caption: Tabelle
+:toc-title: Inhaltsverzeichnis
