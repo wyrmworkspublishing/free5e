@@ -1,5 +1,21 @@
 #### Unseen Servant
-<!-- TODO Check and tag this spell-->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Unseen Servant"
+[_metadata_:spell_level]:- "1"
+[_metadata_:spell_school]:- "conjuration"
+[_metadata_:ritual]:- "true"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "60 feet"
+[_metadata_:target]:- "an unoccupied space on the ground"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "a piece of string and a bit of wood"
+[_metadata_:duration]:- "1 hour"
+[_metadata_:concentration]:- "false"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level conjuration (ritual)_
 
@@ -8,7 +24,7 @@ _1st-level conjuration (ritual)_
 **Components:** V, S, M (a piece of string and a bit of wood) \
 **Duration:** 1 hour
 
-You create an invisible, mindless, shapeless force to perform simple tasks.
+You create an [invisible](#Conditions_invisible), mindless, shapeless force to perform simple tasks.
 The servant appears in an unoccupied space on the ground that you can pinpoint and endures until it takes damage, moves more than 60 feet away from you, or the spell ends.
 It has AC 10, a Strength of 2, and can’t attack.
 
