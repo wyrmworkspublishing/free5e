@@ -19,7 +19,7 @@
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-<mark>_Zaubertrick der Verwandlung_</mark>
+_Zaubertrick der Verwandlung_
 
 **Zeitaufwand:** 1 Aktion \
 **Reichweite:** 9 m \

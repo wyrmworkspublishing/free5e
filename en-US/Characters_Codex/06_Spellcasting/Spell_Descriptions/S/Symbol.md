@@ -1,5 +1,26 @@
 #### Symbol
-<!-- TODO Check and tag this spell-->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Symbol"
+[_metadata_:spell_level]:- "7"
+[_metadata_:spell_school]:- "abjuration"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "minute"
+[_metadata_:range]:- "Touch"
+[_metadata_:target]:- "one object or surface no larger than 10 feet in diameter"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes"
+[_metadata_:components_material_cost]:- "1,000 gp"
+[_metadata_:duration]:- "Until dispelled or triggered"
+[_metadata_:concentration]:- "false"
+[_metadata_:saving_throw]:- "Special"
+[_metadata_:saving_throw_success]:- "special"
+[_metadata_:damage_formula]:- "special"
+[_metadata_:damage_type]:- "special"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _7th-level abjuration_
 
@@ -17,7 +38,8 @@ The creature must have a clear path to the glyph to trigger it.
 You can specify certain creatures which don’t trigger the spell, such as those with a certain appearance or those who speak a certain phrase.
 Once the glyph is triggered, the spell ends.
 
-When triggered, the glyph sheds dim light in a 60-foot radius for 10 minutes, after which the spell ends. Each creature within the sphere’s area is targeted by the glyph, as are creatures that enter the sphere for the first time on a turn.
+When triggered, the glyph sheds dim light in a 60-foot radius for 10 minutes, after which the spell ends.
+Each creature within the sphere’s area is targeted by the glyph, as are creatures that enter the sphere for the first time on a turn.
 
 When you cast the spell, choose one of the following effects.
 
@@ -25,7 +47,7 @@ When you cast the spell, choose one of the following effects.
   Creatures in the area make a Constitution saving throw, taking `10d10` necrotic damage on a failed save, or half as much on a successful save.
 - **Discord:**
   Creatures in the area must succeed on a Constitution saving throw or bicker and squabble with other creatures for 1 minute.
-While bickering, a creature cannot meaningfully communicate and it has disadvantage on attack rolls and ability checks.
+  While bickering, a creature cannot meaningfully communicate and it has disadvantage on attack rolls and ability checks.
 - **Fear:**
   Creatures in the area must succeed on a Wisdom saving throw or be [frightened](#Conditions_frightened) for 1 minute.
   While frightened, a creature drops anything it is holding and must try to move at least 30 feet away from the glyph on each of its turns.
@@ -35,7 +57,8 @@ While bickering, a creature cannot meaningfully communicate and it has disadvant
 - **Overwhelm:**
   Each target must make an Intelligence save.
   On a failed save, the target is [incapacitated](#Conditions_incapacitated) for 1 minute.
-  While incapacitated, the target can’t take actions, can’t understand what other creatures say, can’t read, and speaks only in gibberish. The Conductor controls its movement, which is erratic.
+  While incapacitated, the target can’t take actions, can’t understand what other creatures say, can’t read, and speaks only in gibberish.
+  The Conductor controls its movement, which is erratic.
 - **Pain:**
   Creatures in the area must succeed on a Constitution saving throw or become [incapacitated](#Conditions_incapacitated) for 1 minute.
 - **Sleep:**
