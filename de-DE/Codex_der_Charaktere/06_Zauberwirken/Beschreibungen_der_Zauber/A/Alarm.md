@@ -9,7 +9,7 @@
 [_metadata_:casting_time_unit]:- "Minute"
 [_metadata_:ritual]:- "true"
 [_metadata_:range]:- "9 m"
-[_metadata_:target]:- "6-m Würfel"
+[_metadata_:target]:- "6-m-Würfel"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
