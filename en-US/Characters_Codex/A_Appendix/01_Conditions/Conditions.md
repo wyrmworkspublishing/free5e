@@ -76,10 +76,11 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 
 ### Invisible
 
-- An invisible creature is impossible to see without the aid of magic or a special sense.
-  For the purpose of hiding, the creature is [heavily obscured](#Exploration_Environment_senses_and_awareness).
-  The creature’s location can be detected by any noise it makes or any tracks it leaves.
-- Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
+- An invisible creature cannot be seen without the aid of magic or a precise sense other than sight.
+  Creatures that rely on sight as their only precise sense can therefore not pinpoint its position.
+- For the purpose of hiding, the creature is [heavily obscured](#Exploration_Environment_senses_and_awareness) to such creatures.
+  Its location can still be detected through noise, tracks, or other cues.
+- Attack rolls against a creature you cannot pinpoint have disadvantage, and a creature’s attack rolls against a target that cannot pinpoint it have advantage.
 
 ### Paralyzed
 

@@ -32,6 +32,7 @@ _Languages (table)_
 ___
 
 ### Signing
+
 Sign languages are independent languages with their own grammars and vocabularies.
 If your character knows a sign language, they must learn it separately from a spoken or written language unless the campaign setting includes a signed form of that language.
 You must have at least one hand free to communicate by sign, and the creature you are communicating with must be able to see you.
