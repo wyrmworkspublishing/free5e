@@ -36,11 +36,9 @@ mkdir -p "${HTML_TARGET_DIR}"
 
 # Create a symbolic link to the assets directory, so that we can include all assets in future generated files
 ASSETS_DIR="$(pwd)/assets"
-# TODO Remove assets that we aren't using
-cp -r "${ASSETS_DIR}" "${ADOC_SOURCE_DIR}" || echo "assets directory already exists"
+ln -s "${ASSETS_DIR}" "${HTML_TARGET_DIR}" || echo "assets link already exists"
 
 FONTS_BASE_DIR="${HTML_TARGET_DIR}/fonts"
-cp -r "${ASSETS_DIR}/fonts" "${HTML_TARGET_DIR}"
 
 CSS_DIR="${HTML_TARGET_DIR}/css"
 cp -r "$(pwd)/css" "${HTML_TARGET_DIR}"

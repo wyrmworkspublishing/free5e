@@ -99,6 +99,7 @@ include::attributes.adoc[]\
   # Fix assets links
   for adoc in $(find . -name '*.adoc'); do
     sed -i'.images.bak' -e 's/image:[\.\/]*assets/image:assets/g' $adoc
+    sed -i'.images.bak' -e 's/image::[\.\/]*assets/image::assets/g' $adoc
   done
 
   # If everything worked, remove the temporary backup files
