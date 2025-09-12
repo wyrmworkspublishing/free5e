@@ -18,6 +18,7 @@ function convert_asciidoc_to_html {
 
   asciidoctor \
       -b html \
+      -a favicon="assets/images/favicon.png" \
       -a fontsdir="${FONTS_BASE_DIR}" \
       -a stylesdir="${CSS_DIR}" \
       -a stylesheet=free5e.css \
