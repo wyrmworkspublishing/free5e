@@ -1,5 +1,22 @@
 #### Teleport
-<!-- TODO Check and tag this spell-->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:spell_name]:- "Teleport"
+[_metadata_:spell_level]:- "7"
+[_metadata_:spell_school]:- "conjuration"
+[_metadata_:ritual]:- "false"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "action"
+[_metadata_:range]:- "10 feet"
+[_metadata_:target]:- "you and up to 8 willing creatures within 10 feet of you, or a single unattended object that fits entirely inside a 10-foot cube"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "false"
+[_metadata_:components_material]:- "false"
+[_metadata_:duration]:- "Instantaneous"
+[_metadata_:concentration]:- "false"
+[_metadata_:damage_formula]:- "special"
+[_metadata_:damage_type]:- "force"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _7th-level conjuration_
 
@@ -13,12 +30,22 @@ When you cast this spell, choose a destination.
 You must know the location you’re teleporting to, and it must be on the same plane of existence.
 
 Teleportation is difficult magic and you may arrive off-target or somewhere else entirely depending on how familiar you are with the location you’re teleporting to.
-When you teleport, the Conductor rolls 1d100 and consults Table: Teleport Familiarity.
+When you teleport, the Conductor rolls 1d100 and consults the following table:
+
+| Familiarity       | On Target | Off Target | Similar Location | Mishap |
+|:------------------|:---------:|:----------:|:----------------:|:------:|
+| Permanent circle  |   1–100   |      —     |.        —        |    —   |
+| Associated object |   1–85    |    86–95   |       96–100     |    —   |
+| Very familiar     |   1–76    |    77–87   |       88–95      | 96–100 |
+| Observed casually |   1–47    |    48–57   |       58–67      | 68–100 |
+| Viewed once       |   1–27    |    28–47   |       48–57      | 58–100 |
+| Description       |   1–27    |    28–47   |       48–57      | 58–100 |
+| False destination |    —      |      —     |       01–50      | 51–100 |
 
 Familiarity is determined as follows:
 
 - **Permanent Circle:**
-  A permanent teleportation circle whose sigil sequence you know (see teleportation circle).
+  A permanent teleportation circle whose sigil sequence you know (see [Teleportation Circle](#Teleportation_Circle_teleportation_circle)).
 - **Associated Object:**
   You have an object taken from the target location within the last 6 months.
 - **Very Familiar:**
@@ -48,14 +75,5 @@ Your arrival is determined as follows:
   Typically you appear at the closest similar location, but not always.
 - **Mishap:**
   The spell’s magic goes awry, and each teleporting creature or object takes `3d10` force damage.
-  The Conductor rerolls on the table to determine where you arrive. When multiple mishaps occur targets take damage each time.
-
-| Familiarity.      | On Target | Off Target | Similar Location | Mishap |
-|:------------------|:---------:|:----------:|:----------------:|:------:|
-| Permanent circle  |   1–100   |      —     |.        —        |    —   |
-| Associated object |   1–85    |    86–95   |       96–100     |    —   |
-| Very familiar     |   1–76    |    77–87   |       88–95      | 96–100 |
-| Observed casually |   1–47    |    48–57   |       58–67      | 68–100 |
-| Viewed once       |   1–27    |    28–47   |       48–57      | 58–100 |
-| Description       |   1–27    |    28–47   |       48–57      | 58–100 |
-| False destination |    —      |      —     |       01–50      | 51–100 |
+  The Conductor rerolls on the table to determine where you arrive.
+  When multiple mishaps occur targets take damage each time.
