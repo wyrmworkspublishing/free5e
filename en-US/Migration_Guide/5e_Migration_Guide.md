@@ -84,7 +84,7 @@ Specifically, the following spells were added:
 ## Senses
 
 ### Pinpoint, Sense, and Observe
-<!-- spell-checker:words blindsight worg -->
+<!-- spell-checker:words blindsight worg xjkappax -->
 
 For too long, many abilities and spells in 5e have used phrasing like "a creature you can see" or "a creature that can see or hear you," which unintentionally excludes blind characters and limits monster design.
 With input from the Free5e community and our friends at [Knights of the Braille](https://knightsofthebraille.com/), we’ve replaced that narrow language with a flexible system based on three clear sensory terms: **Sense**, **Pinpoint**, and **Observe**.
@@ -255,7 +255,7 @@ Here’s how we wrote it:
 Parasense doesn’t just add detail.
 It makes encounters more tactical, adding new ways for players and Conductors to interact with creatures.
 
-![A dragon with it's wings held in an oval shape and it's tail curling beneath it](https://wyrmworkspublishing.com/wp-content/uploads/2023/03/dragon-clipart-md.png)
+![A dragon with its wings held in an oval shape and its tail curling beneath it](https://wyrmworkspublishing.com/wp-content/uploads/2023/03/dragon-clipart-md.png)
 
 #### How to use Parasense in your game
 
