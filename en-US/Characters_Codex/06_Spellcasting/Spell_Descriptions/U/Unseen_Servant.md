@@ -14,8 +14,8 @@
 [_metadata_:components_material_description]:- "a piece of string and a bit of wood"
 [_metadata_:duration]:- "1 hour"
 [_metadata_:concentration]:- "false"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level conjuration (ritual)_
 
@@ -26,7 +26,7 @@ _1st-level conjuration (ritual)_
 
 You create an [invisible](#Conditions_invisible), mindless, shapeless force to perform simple tasks.
 The servant appears in an unoccupied space on the ground that you can pinpoint and endures until it takes damage, moves more than 60 feet away from you, or the spell ends.
-It has AC 10, a Strength of 2, and can’t attack.
+It has AC 10, 1 hit point, a Strength of 2, and can’t attack.
 
 You can use a bonus action to mentally command it to move up to 15 feet and interact with an object.
 The servant can perform menial tasks such as cleaning and mending surfaces and objects, serving a meal, doing laundry, and the like.
