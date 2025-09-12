@@ -8,6 +8,10 @@ on:
       - 'translations/**'
       - 'convert/**'
 
+permissions:
+  pages: write
+  id-token: write
+
 jobs:
   convert-characters-codes-en-us:
     name: Convert the en-US Character's Codex
