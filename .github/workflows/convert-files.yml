@@ -190,6 +190,11 @@ jobs:
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-html-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
           path: ${{ github.workspace }}/generated/
+      - name: Upload artifacts for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-pages-html-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: ${{ github.workspace }}/generated/
       - run: echo "🐉 This job's status is ${{ job.status }}."
 
   convert-asciidoc-to-markdown:
@@ -351,3 +356,24 @@ jobs:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-odt-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
           path: ${{ github.workspace }}/generated/
       - run: echo "🐉 This job's status is ${{ job.status }}."
+
+  publish-html-to-github-pages:
+    name: Publish ${{ inputs.language }}/${{ inputs.book_main_file }} HTML to GitHub Pages
+    runs-on: ubuntu-latest
+    needs:
+      - create-timestamp
+      - convert-asciidoc-to-html
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          artifact_name: ${{ inputs.book_main_file }}-${{ inputs.language }}-pages-html-${{ needs.create-timestamp.outputs.timestamp }}
+      - run: echo "🐉 This job's status is ${{ job.status }} and the deployment URL is ${{ steps.deployment.outputs.page_url }}."
