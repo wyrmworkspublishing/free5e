@@ -132,7 +132,7 @@ It’s a design philosophy:
 **Disability isn’t a limitation. Design is.**
 
 ___
-![A masculine adept with closed eyes and pink hair and purple pants](https://art.ngfiles.com/images/823000/823950_xjkappax_blind-monk.jpg?f1550432476)
+![A masculine adept with closed eyes and pink hair and purple pants](https://art.ngfiles.com/images/823000/823950_xjkappax_blind-monk.jpg)
 _Blind Monk © 2017 by xjkappax is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)_
 
 #### How to use _pinpoint_, _sense_, and _observe_ in your games {#how-to-use-pinpoint-sense-and-observe-in-your-games}

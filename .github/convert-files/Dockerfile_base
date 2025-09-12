@@ -16,7 +16,7 @@ RUN mv epubcheck-* epubcheck
 
 FROM ubuntu:latest
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends asciidoctor epubcheck git nodejs npm openjdk-21-jre pandoc tree && \
+    apt-get install -y --no-install-recommends asciidoctor curl epubcheck git nodejs npm openjdk-21-jre pandoc tree && \
     rm -rf /var/lib/apt/lists/*
 RUN gem install asciidoctor-pdf asciidoctor-epub3 asciidoctor-reducer asciimath kramdown-asciidoc
 RUN npm i --global downdoc
