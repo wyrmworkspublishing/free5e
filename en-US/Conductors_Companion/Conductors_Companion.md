@@ -22,8 +22,8 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [7. Tools for Improvisation](./07_Tools_for_Improvisation/Tools_for_Improvisation.md)
 
+[8. Quick Tricks for Easier Games](./08_Quick_Tricks_for_Easier_Games/Quick_Tricks_for_Easier_Games.md)
 
-[10. Quick Tricks for Easier Games](./10_Quick_Tricks_for_Easier_Games/Quick_Tricks_for_Easier_Games.md)
 
 [11. Magic Items](./11_Magic_Items/Magic_Items.md)
 
