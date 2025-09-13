@@ -24,8 +24,8 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [8. Quick Tricks for Easier Games](./08_Quick_Tricks_for_Easier_Games/Quick_Tricks_for_Easier_Games.md)
 
+[9. Magic Items](./09_Magic_Items/Magic_Items.md)
 
-[11. Magic Items](./11_Magic_Items/Magic_Items.md)
 
 [Appendix 1: Random Generators](./A_Appendix/01_Random_Generators/Random_Generators.md)
 
