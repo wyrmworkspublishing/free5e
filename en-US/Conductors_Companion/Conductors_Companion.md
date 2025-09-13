@@ -26,13 +26,6 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [9. Magic Items](./09_Magic_Items/Magic_Items.md)
 
-[Appendix A: Random Generators](./A_Appendix/A1_Random_Generators/Random_Generators.md)
-
-[Appendix B: Sample Location](./A_Appendix/A2_Sample_Location/Sample_Location.md)
-
-
-[Appendix 3: Sample Adventure](./A_Appendix/03_Sample_Adventure/Sample_Adventure.md)
-
-[Appendix 4: Solo 5e](./A_Appendix/04_Solo_5e/Solo_5e.md)
+[Appendix](./A_Appendix/Appendix.md)
 
 [Legal](./Legal.md)
