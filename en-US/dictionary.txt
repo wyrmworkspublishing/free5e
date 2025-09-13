@@ -33,6 +33,7 @@ crafters
 Critchley
 Darkvision
 Demiplane
+Demiplanes
 desaturated
 Dragonborn
 Dragonbound
@@ -75,6 +76,7 @@ humanlike
 Hyperlegible
 inclusivity
 Ignan
+Improv
 Insaneangel
 interplanar
 Invisiblity
