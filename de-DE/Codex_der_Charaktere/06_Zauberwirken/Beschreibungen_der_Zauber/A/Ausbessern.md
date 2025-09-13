@@ -16,7 +16,7 @@
 [_metadata_:components_material]:- "true"
 [_metadata_:components_material_description]:- "zwei Magnetsteine"
 [_metadata_:concentration]:- "false"
-[_metadata_:duration]:- "Sofort"
+[_metadata_:duration]:- "Unmittelbar"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
