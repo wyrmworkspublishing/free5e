@@ -16,8 +16,8 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [4. Exploration](./04_Exploration/Exploration.md)
 
+[5. Social Encounters](./05_Social_Encounters/Social_Encounters.md)
 
-[7. Social Encounters](./07_Social_Encounters/Social_Encounters.md)
 
 [8. Combat Encounters](./08_Combat_Encounters/Combat_Encounters.md)
 
