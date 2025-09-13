@@ -7,11 +7,11 @@
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "action"
 [_metadata_:range]:- "Touch"
-[_metadata_:target]:- "One creature"
+[_metadata_:target]:- "one creature"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "fur ora feather from a beast"
+[_metadata_:components_material_description]:- "fur or a feather from a beast"
 [_metadata_:duration]:- "1 hour"
 [_metadata_:concentration]:- "true"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
@@ -21,7 +21,7 @@ _2nd-level transmutation_
 
 **Casting Time:** 1 action \
 **Range:** Touch \
-**Components:** V, S, M (fur ora feather from a beast) \
+**Components:** V, S, M (fur or a feather from a beast) \
 **Duration:** Concentration, up to 1 hour
 
 You touch a creature and bestow upon it a magical enhancement.
