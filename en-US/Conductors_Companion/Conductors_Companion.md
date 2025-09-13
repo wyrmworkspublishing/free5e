@@ -20,8 +20,8 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [6. Combat Encounters](./06_Combat_Encounters/Combat_Encounters.md)
 
+[7. Tools for Improvisation](./07_Tools_for_Improvisation/Tools_for_Improvisation.md)
 
-[9. Tools for 5e Improvisation](./09_Tools_for_5e_Improvisation/Tools_for_5e_Improvisation.md)
 
 [10. Quick Tricks for Easier Games](./10_Quick_Tricks_for_Easier_Games/Quick_Tricks_for_Easier_Games.md)
 
