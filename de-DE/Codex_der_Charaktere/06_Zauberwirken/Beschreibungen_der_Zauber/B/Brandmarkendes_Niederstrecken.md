@@ -18,7 +18,7 @@
 [_metadata_:duration]:- "Konzentration, bis zu 1 Minute"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_same"
-
+<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Hervorrufungszauber 2. Grades_
 
 **Zeitaufwand:** 1 Bonusaktion \

@@ -40,6 +40,7 @@ Gendern
 Geschicklichkeitsbonus
 Geschicklichkeitsmodifikator
 Halblings
+Hervorrufungszauber
 Hyperlegible
 Illusionsschrift
 Inklusivität
