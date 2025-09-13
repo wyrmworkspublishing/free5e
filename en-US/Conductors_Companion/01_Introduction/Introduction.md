@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 A tabletop roleplaying game (TTRPG) is a game where you and your friends tell a story together.
 One of you takes on the role of the Game Conductor (Conductor)—that’s you!
