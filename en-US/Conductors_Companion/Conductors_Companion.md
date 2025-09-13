@@ -28,8 +28,8 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [Appendix A: Random Generators](./A_Appendix/A1_Random_Generators/Random_Generators.md)
 
+[Appendix B: Sample Location](./A_Appendix/A2_Sample_Location/Sample_Location.md)
 
-[Appendix 2: Sample Location](./A_Appendix/02_Sample_Location/Sample_Location.md)
 
 [Appendix 3: Sample Adventure](./A_Appendix/03_Sample_Adventure/Sample_Adventure.md)
 
