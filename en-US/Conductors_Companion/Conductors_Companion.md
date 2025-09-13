@@ -14,9 +14,8 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [3. RPG Preparation Process](./03_RPG_Preparation_Process/RPG_Preparation_Process.md)
 
-[5. GM Prep in Eight Steps](./05_GM_Prep_in_Eight_Steps/GM_Prep_in_Eight_Steps.md)
+[4. Exploration](./04_Exploration/Exploration.md)
 
-[6. Exploration](./06_Exploration/Exploration.md)
 
 [7. Social Encounters](./07_Social_Encounters/Social_Encounters.md)
 

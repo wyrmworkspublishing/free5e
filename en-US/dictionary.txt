@@ -33,6 +33,7 @@ crafters
 Critchley
 Darkvision
 Demiplane
+Demiplanes
 desaturated
 Dragonborn
 Dragonbound
