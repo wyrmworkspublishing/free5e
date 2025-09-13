@@ -18,8 +18,8 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [5. Social Encounters](./05_Social_Encounters/Social_Encounters.md)
 
+[6. Combat Encounters](./06_Combat_Encounters/Combat_Encounters.md)
 
-[8. Combat Encounters](./08_Combat_Encounters/Combat_Encounters.md)
 
 [9. Tools for 5e Improvisation](./09_Tools_for_5e_Improvisation/Tools_for_5e_Improvisation.md)
 
