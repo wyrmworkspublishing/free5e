@@ -27,8 +27,7 @@ _Verwandlungszauber_
 **Komponenten:** V, S, M (zwei Magnetsteine) \
 **Wirkungsdauer:** Sofort
 
-Dieser Zauber repariert einen einzelnen Bruch oder Riss in einem Gegenstand, den du berührst, wie ein gebrochenes Kettenglied, zwei Hälften eines gebrochenen Schlüssels, einen zerrissenen Umhang oder einen undichten Weinschlauch.
+Dieser Zauber repariert eine Bruchstelle oder einen Riss in einem Gegenstand, den du berührst, beispielsweise ein zerbrochenes Kettenglied, einen in zwei Hälften zerbrochenen Schlüssel, einen zerrissenen Umhang oder einen leckenden Weinschlauch.
+Solange der Riss oder die Bruchstelle in keiner Abmessung größer als 30 Zentimeter ist, ist nicht mehr zu erkennen, dass der Gegenstand beschädigt war.
 
-Solange der Bruch oder Riss nicht größer als 30 Zentimeter in jeder Dimension ist, reparierst du ihn und hinterlässt keine Spur des vorherigen Schadens.
-
-Dieser Zauber kann ein magisches Item oder Konstrukt physisch reparieren, aber der Zauber kann die Magie in einem solchen Gegenstand nicht wiederherstellen.
+Dieser Zauber kann die physische Form eines magischen Gegenstands oder Konstrukts reparieren, jedoch nicht dessen Magie wiederherstellen.

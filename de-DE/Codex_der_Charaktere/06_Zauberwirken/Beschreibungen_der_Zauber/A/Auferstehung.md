@@ -17,7 +17,7 @@
 [_metadata_:components_material_description]:- "ein Diamant im Wert von mindestens 1.000 GM, den der Zauber verbraucht"
 [_metadata_:components_material_cost]:- "1.000 GM"
 [_metadata_:concentration]:- "false"
-[_metadata_:duration]:- "Sofort"
+[_metadata_:duration]:- "Unmittelbar"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
@@ -28,9 +28,13 @@ _Nekromantiezauber 7. Grades_
 **Komponenten:** V, S, M (ein Diamant im Wert von mindestens 1.000 GM, den der Zauber verbraucht) \
 **Wirkungsdauer:** Sofort
 
-Du berührst eine tote Kreatur. Ihr Tod darf maximal ein Jahrhundert zurückliegen und sie darf weder an Altersschwäche gestorben noch untot sein. Ist die Seele des Ziels frei und bereitwillig, wird es mit all seinen Treffer punkten wieder zum Leben erweckt.
+Du berührst eine tote Kreatur.
+Ihr Tod darf maximal ein Jahrhundert zurückliegen und sie darf weder an Altersschwäche gestorben noch untot sein.
+Ist die Seele des Ziels frei und bereitwillig, wird es mit all seinen Treffer punkten wieder zum Leben erweckt.
 
-Dieser Zauber neutralisiert sämtliche Gifte und heilt gewöhnliche Krankheiten, unter denen das Ziel zum Zeitpunkt seines Todes litt. Er hebt jedoch keine magischen Krankheiten, Flüche oder ähnlichen Effekte auf. Werden diese nicht vor dem Wirken des Zaubers gebannt, wirken sie wieder, wenn das Ziel zum Leben erweckt wird.
+Dieser Zauber neutralisiert sämtliche Gifte und heilt gewöhnliche Krankheiten, unter denen das Ziel zum Zeitpunkt seines Todes litt.
+Er hebt jedoch keine magischen Krankheiten, Flüche oder ähnlichen Effekte auf.
+Werden diese nicht vor dem Wirken des Zaubers gebannt, wirken sie wieder, wenn das Ziel zum Leben erweckt wird.
 
 Dieser Zauber schließt alle tödlichen Wunden und stellt sämtliche abgetrennten Gliedmaßen wieder her.
 
