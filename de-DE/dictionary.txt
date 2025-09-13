@@ -19,6 +19,7 @@ BFRD
 Black
 Bragolbeleg*
 celestisch*
+Charismawürfen
 Cerilsen*
 Chloe*
 Coast
@@ -39,6 +40,7 @@ Geas
 Gendern
 Geschicklichkeitsbonus
 Geschicklichkeitsmodifikator
+Geschicklichkeitswürfen
 Halblings
 Hervorrufungszauber
 Hyperlegible
@@ -47,6 +49,7 @@ Inklusivität
 Jess
 Katy*
 Kibbles
+Konstitutionswürfen
 Klingenbarriere
 Koord
 Legacies
@@ -58,6 +61,7 @@ Melestrua*
 Meteoritenschwarm
 Morscheck*
 Natalex
+Nekromantiezauber
 Osmus
 Paoliello*
 Pelham*
@@ -70,6 +74,7 @@ Sagenkunde
 Säureblitz
 Säurespritzer
 Schwarmprothese
+Stärkewürfen
 Shea
 Shillelagh
 Simulakrum
@@ -82,6 +87,7 @@ Teleportation
 Thaumaturgie
 TTRPG
 Unverwundbarkeit
+Weisheitswürfen
 Vampirgriff
 Wyrmworks
 Zeitstop
