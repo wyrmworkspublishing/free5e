@@ -26,8 +26,8 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [9. Magic Items](./09_Magic_Items/Magic_Items.md)
 
+[Appendix A: Random Generators](./A_Appendix/A1_Random_Generators/Random_Generators.md)
 
-[Appendix 1: Random Generators](./A_Appendix/01_Random_Generators/Random_Generators.md)
 
 [Appendix 2: Sample Location](./A_Appendix/02_Sample_Location/Sample_Location.md)
 
