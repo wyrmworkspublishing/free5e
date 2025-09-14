@@ -110,6 +110,7 @@ If your Intelligence is 16, you can prepare six Wizard spells from your spellboo
 
 Each spell you know and prepare is associated with one of your classes, and you use the spellcasting ability of that class when you cast the spell.
 Similarly, a spellcasting focus, such as a holy symbol, can be used only for the spells from the class associated with that focus.
+If a cantrip increases in power at higher levels, it’s based on your character level, not your class level.
 
 **Spell Slots.**
 You determine your available spell slots by adding together all your levels in the Bard, Cleric, Sorcerer, Wizard, Wodewose classes, and half your levels (rounded down) in the Ranger and Vanguard classes.
