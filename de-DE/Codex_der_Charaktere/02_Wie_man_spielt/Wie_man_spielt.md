@@ -27,7 +27,7 @@ Höhere Würfe sind besser!
 > Erkenne ich irgendwelche Symbole oder Schriftzeichen?  
 > \
 > **Spielleitung:**  
-> Mach eine Nachforschungen-Probe mit Intelligenz.  
+> Mach einen Nachforschungenwurf mit Intelligenz.  
 > \
 > **Susanne:**  
 > (würfelt einen W20)  
@@ -39,7 +39,7 @@ Höhere Würfe sind besser!
 > \
 > **Oliver (spielt Osmus, einen menschlichen Waldläufer):**  
 > Ich horche genau hin, um herauszufinden, woher das Kratzen kommt.  
-> Wahrnehmung-Probe?  
+> Wahrnehmungswurf?  
 > \
 > **Spielleitung:**  
 > Nur zu.  
