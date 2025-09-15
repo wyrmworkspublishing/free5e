@@ -19,7 +19,7 @@ Renamed items:
 
 [Magic Items A-Z](./Magic_Item_Descriptions/Magic_Items_A_through_Z.md)
 
-[Sentient Magic Items](./Sentient_Magic_Items.md)
+[Sentient Magic Items](./Sentient_Magic_Items/Sentient_Magic_Items.md)
 
 [Artifacts](./Artifacts.md)
 
