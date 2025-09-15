@@ -14,28 +14,18 @@ Follow and Back the Kickstarter to make this a reality at [https://www.kickstart
 
 [3. RPG Preparation Process](./03_RPG_Preparation_Process/RPG_Preparation_Process.md)
 
-[4. RPG Preparation Process](./04_Session_Zero_Checklist/Session_Zero_Checklist.md)
+[4. Exploration](./04_Exploration/Exploration.md)
 
-[5. GM Prep in Eight Steps](./05_GM_Prep_in_Eight_Steps/GM_Prep_in_Eight_Steps.md)
+[5. Social Encounters](./05_Social_Encounters/Social_Encounters.md)
 
-[6. Exploration](./06_Exploration/Exploration.md)
+[6. Combat Encounters](./06_Combat_Encounters/Combat_Encounters.md)
 
-[7. Social Encounters](./07_Social_Encounters/Social_Encounters.md)
+[7. Tools for Improvisation](./07_Tools_for_Improvisation/Tools_for_Improvisation.md)
 
-[8. Combat Encounters](./08_Combat_Encounters/Combat_Encounters.md)
+[8. Quick Tricks for Easier Games](./08_Quick_Tricks_for_Easier_Games/Quick_Tricks_for_Easier_Games.md)
 
-[9. Tools for 5e Improvisation](./09_Tools_for_5e_Improvisation/Tools_for_5e_Improvisation.md)
+[9. Magic Items](./09_Magic_Items/Magic_Items.md)
 
-[10. Quick Tricks for Easier Games](./10_Quick_Tricks_for_Easier_Games/Quick_Tricks_for_Easier_Games.md)
-
-[11. Magic Items](./11_Magic_Items/Magic_Items.md)
-
-[Appendix 1: Random Generators](./A_Appendix/01_Random_Generators/Random_Generators.md)
-
-[Appendix 2: Sample Location](./A_Appendix/02_Sample_Location/Sample_Location.md)
-
-[Appendix 3: Sample Adventure](./A_Appendix/03_Sample_Adventure/Sample_Adventure.md)
-
-[Appendix 4: Solo 5e](./A_Appendix/04_Solo_5e/Solo_5e.md)
+[Appendix](./A_Appendix/Appendix.md)
 
 [Legal](./Legal.md)
