@@ -4,43 +4,30 @@
 <!-- spell-checker:words mending -->
 [_metadata_:spell_name]:- "Ausbessern"
 [_metadata_:spell_name_english]:- "Mending"
-[_metadata_:spell_school]:- "???"
-[_metadata_:spell_level]:- "???"
-[_metadata_:casting_time_amount]:- "???"
-<!-- "action", "bonus action", "reaction", "minute", "minutes", "hour", "hours" -->
-[_metadata_:casting_time_unit]:- "???"
-[_metadata_:casting_time_reaction_trigger]:- "???"
-<!-- "true" oder "false" -->
+[_metadata_:spell_school]:- "Verwandlungszauber"
+[_metadata_:spell_level]:- "0"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "Minute"
 [_metadata_:ritual]:- "false"
-[_metadata_:range]:- "???"
-[_metadata_:target]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_verbal]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_somatic]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_material]:- "???"
-[_metadata_:components_material_description]:- "???"
-[_metadata_:components_material_cost]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:concentration]:- "???"
-[_metadata_:duration]:- "???"
-[_metadata_:saving_throw]:- "???"
-<!-- "halves_damage", "avoids_effect", "ends_effect", "special"; falls mehrere wahr sind, kommagetrennt einfügen -->
-[_metadata_:saving_throw_success]:- "???"
-[_metadata_:damage_formula]:- "???d???"
-[_metadata_:damage_type]:- "???"
-<!-- "mechanics_same_wording_same", "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
-[_metadata_:compared_to_wotc_srd_5.1]:- "???"
-<!-- "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
-[_metadata_:compared_to_a5e_srd]:- "???"
+[_metadata_:range]:- "Berührung"
+[_metadata_:target]:- "ein einzelner Bruch oder Riss, nicht größer als 30 Zentimeter in jeder Dimension"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "zwei Magnetsteine"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "Unmittelbar"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-<mark>_X-zauber n. Grades (Ritual?)_ oder _Zaubertrick der X_</mark>
+_Verwandlungszauber_
 
-**Zeitaufwand:** ??? \
-**Reichweite:** ??? \
-**Komponenten:** ??? \
-**Wirkungsdauer:** ???
+**Zeitaufwand:** 1 Minute \
+**Reichweite:** Berührung \
+**Komponenten:** V, S, M (zwei Magnetsteine) \
+**Wirkungsdauer:** Sofort
 
-> **Warning**
-> Dieser Zauber wird noch übersetzt.
+Dieser Zauber repariert eine Bruchstelle oder einen Riss in einem Gegenstand, den du berührst, beispielsweise ein zerbrochenes Kettenglied, einen in zwei Hälften zerbrochenen Schlüssel, einen zerrissenen Umhang oder einen leckenden Weinschlauch.
+Solange der Riss oder die Bruchstelle in keiner Abmessung größer als 30 Zentimeter ist, ist nicht mehr zu erkennen, dass der Gegenstand beschädigt war.
+
+Dieser Zauber kann die physische Form eines magischen Gegenstands oder Konstrukts reparieren, jedoch nicht dessen Magie wiederherstellen.

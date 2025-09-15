@@ -1,6 +1,6 @@
 ﻿Free5e Zauber-Name (Deutsch);WotC SRD Zauber-Name (Deutsch);Free5e Zauber-Name (Englisch);WotC SRD Zauber-Name (Englisch);Veränderungen ggü. WotC (Englisch)?;Status (Deutsch);Metadaten ergänzt?;Kommentar
 Ablenkung;Ablenkung;Mislead;Mislead;verändert;offen;nein;
-Alarm;Alarm;Alarm;Alarm;gleich geblieben;übersetzt;nein;
+Alarm;Alarm;Alarm;Alarm;gleich geblieben;übersetzt;ja;
 Alias Herrliches Herrenhaus;Herrliches Herrenhaus;Alia's Magnificent Mansion;Magnificent Mansion;verändert;offen;nein;
 Ansteckung;Ansteckung;Contagion;Contagion;umformuliert;offen;nein;
 Antimagisches Feld;Antimagisches Feld;Antimagic Field;Antimagic Field;umformuliert;offen;nein;
@@ -10,11 +10,11 @@ Arkanes Auge;Arkanes Auge;Arcane Eye;Arcane Eye;umformuliert;offen;nein;
 Arkanes Schloss;Arkanes Schloss;Arcane Lock;Arcane Lock;umformuliert;offen;nein;
 Astrale Projektion;Astrale Projektion;Astral Projection;Astral Projection;umformuliert;offen;nein;
 Ätherische Gestalten;Ätherische Gestalten;Etherealness;Etherealness;umformuliert;offen;nein;
-Attribut verbessern;Attribut verbessern;Enhance Ability;Enhance Ability;gleich geblieben;offen;nein;
-Auf Wasser gehen;Auf Wasser gehen;Water Walk;Water Walk;umformuliert;offen;nein;
-Auferstehung;Auferstehung;Resurrection;Resurrection;gleich geblieben;offen;nein;
+Attribut verbessern;Attribut verbessern;Enhance Ability;Enhance Ability;gleich geblieben;übersetzt;ja;
+Auf Wasser gehen;Auf Wasser gehen;Water Walk;Water Walk;;offen;nein;
+Auferstehung;Auferstehung;Resurrection;Resurrection;gleich geblieben;übersetzt;ja;
 Auflösung;Auflösung;Disintegrate;Disintegrate;umformuliert;offen;nein;
-Ausbessern;Ausbessern;Mending;Mending;gleich geblieben;offen;nein;
+Ausbessern;Ausbessern;Mending;Mending;gleich geblieben;übersetzt;ja;
 Äusserlichkeiten;Äusserlichkeiten;Seeming;Seeming;umformuliert;offen;nein;
 Ausspähung;Ausspähung;Scrying;Scrying;umformuliert;offen;nein;
 Befehl;Befehl;Command;Command;umformuliert;offen;nein;
@@ -27,7 +27,7 @@ Blitze herbeirufen;Blitze herbeirufen;Call Lightning;Call Lightning;umformuliert
 Böser Blick;Böser Blick;Eyebite;Eyebite;umformuliert;offen;nein;
 Botschaft;Botschaft;Message;Message;verändert;offen;nein;
 Bragolbelegs Säureblitz;Säurepfeil;Bragolbeleg's Acid Bolt;Acid Arrow;umformuliert;offen;nein;
-Brandmarkendes Niederstrecken;Brandmarkendes Niederstrecken;Branding Smite;Branding Smite;gleich geblieben;offen;nein;
+Brandmarkendes Niederstrecken;Brandmarkendes Niederstrecken;Branding Smite;Branding Smite;gleich geblieben;übersetzt;ja;
 Brennende Hände;Brennende Hände;Burning Hands;Burning Hands;umformuliert;offen;nein;
 Celestische Wesen beschwören;Celestische Wesen beschwören;Conjure Celestial;Conjure Celestial;umformuliert;offen;nein;
 Cerilsens Geheime Truhe;Geheime Truhe;Cerilsen's Secret Chest;Secret Chest;gleich geblieben;offen;nein;
