@@ -78,7 +78,7 @@ Höhere Würfe sind besser!
 > 15!  
 > Ich bin zuerst dran!  
 > Ich versuche, es mit einem schnellen Zauber zu verwirren.  
-> Ich wirke Gehässiger Spott und rufe: „Du siehst aus wie etwas, das der Wald wieder ausgespuckt hat!“  
+> Ich wirke _Gehässiger Spott_ und rufe: „Du siehst aus wie etwas, das der Wald wieder ausgespuckt hat!"  
 > Es muss einen Rettungswurf auf Weisheit machen.  
 > \
 > **Spielleitung:**  
@@ -133,7 +133,7 @@ Höhere Würfe sind besser!
 > Was ist dein nächster Zug?
 > \
 > **Sylvana:**  
-> Ich trete zurück und wirke Befehl auf die Kreatur und rufe „Flieh!“, um sie zur Flucht zu zwingen!  
+> Ich trete zurück und wirke _Befehl_ auf die Kreatur und rufe “Flieh!”, um sie zur Flucht zu zwingen!  
 > Sie muss einen Rettungswurf auf Weisheit, SG 13, machen.
 > \
 > **Spielleitung:**  
