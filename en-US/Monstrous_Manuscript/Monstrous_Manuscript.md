@@ -1,4 +1,4 @@
-# Free5e Monstrous Manuscript
+# Free5e Monstrous Manuscript: Hundreds of Monsters and Creatures for Free5e
 
 (<mark>Preview Work-in-Progress</mark>)
 
