@@ -133,7 +133,7 @@ Höhere Würfe sind besser!
 > Was ist dein nächster Zug?
 > \
 > **Sylvana:**  
-> Ich trete zurück und wirke _Befehl_ auf die Kreatur und rufe “Flieh!”, um sie zur Flucht zu zwingen!  
+> Ich trete zurück und wirke _Befehl_ auf die Kreatur und rufe „Flieh!", um sie zur Flucht zu zwingen!  
 > Sie muss einen Rettungswurf auf Weisheit, SG 13, machen.
 > \
 > **Spielleitung:**  
