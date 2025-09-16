@@ -272,6 +272,8 @@ _This is a modified version of the article [A New Look at Blindsight in DnD](htt
 Historically speaking, 5e has mostly assumed that player characters can speak by producing sounds with their mouths and understand language by hearing those sounds with their ears.
 While this will likely continue to be true for many characters, Free5e strives to be inclusive and thus make it not only possible but seamless to play characters who communicate in other ways.
 
+<!-- TODO This will have to be adapted once the Impaired condition is complete. -->
+
 Among other things, this led us to add the following note to the _Deafened_ condition:
 
 > **Note:**
@@ -303,28 +305,163 @@ Some parts of the game however already offer specific mechanisms for using sign 
 
 Bards who join the _College of Lore_ gain the feature _Cutting Words_ at level 3.
 In the SRD 5.1, this feature includes the following:
-> The creature is immune **if it can’t hear you** or if it’s immune to being charmed.
+> The creature is immune <mark>if it can’t hear you</mark> or if it’s immune to being charmed.
 
 In Free5e, this was changed as follows:
-> The creature is immune **if it can’t hear (or see if you’re using a sign language)** you or if it’s immune to being charmed.
+> The creature is immune <mark>if it can’t hear (or see if you’re using a sign language)</mark> you or if it’s immune to being charmed.
 
 ##### Example 2: The spell _Enthrall_ {#example-2-the-spell-enthrall}
 
 The SRD 5.1 version of the spell _Enthrall_ has the following spell description:
-> You weave a **distracting string of words**, causing creatures of your choice that you can see within range and **that can hear you** to make a Wisdom saving throw.
+> You weave a <mark>distracting string of words</mark>, causing creatures of your choice that you can see within range and <mark>that can hear you</mark> to make a Wisdom saving throw.
 > Any creature that can’t be charmed succeeds on this saving throw automatically, and if you or your companions are fighting a creature, it has advantage on the save.
-> On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or **until the target can no longer hear you.**
-> **The spell ends if you** are incapacitated or **can no longer speak**.
+> On a failed save, the target has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you until the spell ends or <mark>until the target can no longer hear you</mark>.
+> <mark>The spell ends if you</mark> are incapacitated or <mark>can no longer speak</mark>.
 
 The Free5e version of this spell makes the method of communication much more open:
-> You weave a **compelling communication** that captivates any number of creatures you choose within range that fail a Wisdom saving throw.
+> You weave a <mark>compelling communication</mark> that captivates any number of creatures you choose within range that fail a Wisdom saving throw.
 > Any target that can’t be charmed automatically succeeds on its saving throw, and targets fighting you or creatures friendly to you have advantage on the saving throw.
 >
-> Until the spell ends or a target can **no longer sense your communication**, it has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you.
-> **The spell ends if you are unable to speak.**
-> **If you know a sign language, you can prepare the spell to affect a creature that can see you instead, and it ends if you are unable to move.**
+> Until the spell ends or a target can <mark>no longer sense your communication</mark>, it has disadvantage on Wisdom (Perception) checks made to perceive any creature other than you.
+> <mark>The spell ends if you are unable to speak.</mark>
+> <mark>If you know a sign language, you can prepare the spell to affect a creature that can see you instead, and it ends if you are unable to move.</mark>
 
 <!-- TODO Add an example for modifying an NPC stat block to use sign language -->
+
+## Updated Conditions {#updated-conditions}
+
+To better accommodate the changes related to [pinpointing](#pinpoint-sense-and-observe-pinpoint-sense-and-observe), Free5e replaced the conditions _Blinded_ and _Deafened_ with a new condition: _Deprived_.
+
+> **Deprived**
+>
+> When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
+>
+> - You cannot use the affected sense and automatically fail any ability check that relies on it.
+> - If this condition blocks all of your precise senses, you have disadvantage on attack rolls, and attack rolls against you have advantage.
+
+In addition to this, a new condition was introduced to represent partial loss of a specific sense: _Impaired_.
+
+> **Impaired**
+>
+> When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
+>
+> - Ability checks that rely on the affected sense are made with disadvantage.
+> - If this condition impairs all of your precise senses, you make attack rolls with a –2 penalty.
+>   (Depending on the extent of the impairment, the Conductor might adjust the penalty from –1 to –5.)
+> - Passive scores that rely on the affected sense are reduced by 5.
+
+_Impaired_ does not strictly match any condition from other 5e rulesets, but it can be used in conjunction with materials for such rulesets nevertheless.
+
+### How to use the new conditions in your games {#how-to-use-the-new-conditions-in-your-games}
+
+When third party material uses the conditions _Blinded_ or _Deafened_ related to a creature that relies on sight / hearing as a primary sense, you can replace those with _Deprived (sight)_ / _Deprived (hearing)_.
+The same is true if you create your own spells and stat blocks.
+
+#### Example 1: Condition Immunities {#example-1-condition-immunities}
+
+The creature _Shrieker_ from the _Fungi_ section of the SRD 5.1 has the following entry:
+
+> **Condition Immunities** <mark>blinded</mark>, <mark>deafened</mark>, frightened
+
+This can be replaced the following, to make the creature compatible with Free5e:
+
+> **Condition Immunities** <mark>deprived (sight)</mark>, <mark>deprived (hearing)</mark>, frightened
+
+In some cases it might also be useful to change monsters to be immune to other forms of the _deprived_ or _impaired_ conditions.
+
+##### Example 2: Monster Abilities {#example-2-monster-abilities}
+
+The creature _Gibbering Mouther_ from the SRD 5.1 has the following ability:
+
+> **Blinding Spittle (Recharge 5–6).**
+> The mouther spits a chemical glob at a point it can see within 15 feet of it.
+> The glob explodes in a blinding flash of light on impact.
+> Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be <mark>blinded</mark> until the end of the mouther’s next turn.
+
+This ability clearly affects the sense of sight, so it can be changed as follows:
+
+> **Blinding Spittle (Recharge 5–6).**
+> The mouther spits a chemical glob at a point it can see within 15 feet of it.
+> The glob explodes in a blinding flash of light on impact.
+> Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be <mark>deprived (sight)</mark> until the end of the mouther’s next turn.
+
+You could even decide, that this ability affects additional senses to an equal or lesser extent, e.g.:
+
+> **Blinding Spittle (Recharge 5–6).**
+> The mouther spits a chemical glob at a point it can see within 15 feet of it.
+> The glob explodes in a blinding flash of light on impact.
+> Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be <mark>deprived (sight) and impaired (parasense, motion)</mark> until the end of the mouther’s next turn.
+
+Looking at a different creature, the _Shrieker_ already used in the [example about condition immunities](#example-1-condition-immunities) also has the following ability:
+
+> **Shriek.**
+> When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it.
+> The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker’s turns afterward.
+
+This ability does not currently impart any conditions.
+However we could easily introduce _impaired_ conditions here, given how loud the creature obviously is:
+
+> **Shriek.**
+> When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it.
+> The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker’s turns afterward.
+> <mark>During this time, any creature is _impaired (hearing)_ and _impaired (parasense, echolocation)_ while within 30 feet of the shrieker.</mark>
+
+This represents that while the shrieking is obviously a distracting nuisance, it is not so bad as to be deafening (which would impart _deprived_ conditions).
+
+#### Example 3: The stat block for _Bat_ {#example-3-the-stat-block-for-bat}
+
+The SRD 5.1 contains the following stat block for bats:
+
+> **Bat** \
+> _Tiny beast, unaligned_
+>
+> **Armor Class** 12 \
+> **Hit Points** 1 (1d4 - 1) \
+> **Speed** 5 ft., fly 30 ft.
+>
+> | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+> |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+> |  2 (-4) | 15 (+2) |  8 (-1) |  2 (-4) | 12 (+1) |  3 (-3) |
+>
+> **Senses** <mark>blindsight 60 ft.</mark>, passive Perception 11 \
+> **Languages** — \
+> **Challenge** 0 (10 XP)
+>
+> **_Echolocation._** The bat can't use its <mark>blindsight</mark> while <mark>deafened</mark>. \
+> **_Keen Hearing._** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+> **Actions** \
+> **_Bite._**
+> _Melee Weapon Attack:_ +0 to hit, reach 5 t., one creature.
+> _Hit:_ 1 piercing damage.
+
+The **_Echolocation_** feature makes it very clear, that this is a creature which relies on hearing to [pinpoint](#pinpoint-sense-and-observe-pinpoint-sense-and-observe).
+So using the new [parasense](#parasense-parasense) mechanic and the new _deprived_ condition, this could be changed as follows:
+
+> **Bat** \
+> _Tiny beast, unaligned_
+>
+> **Armor Class** 12 \
+> **Hit Points** 1 (1d4 - 1) \
+> **Speed** 5 ft., fly 30 ft.
+>
+> | **STR** | **DEX** | **CON** | **INT** | **WIS** | **CHA** |
+> |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+> |  2 (-4) | 15 (+2) |  8 (-1) |  2 (-4) | 12 (+1) |  3 (-3) |
+>
+> **Senses** <mark>parasense (echolocation, auditory) 60 ft.</mark>, passive Perception 11 \
+> **Languages** — \
+> **Challenge** 0 (10 XP)
+>
+> **_Echolocation._** The bat can't use its <mark>parasense (echolocation)</mark> while <mark>deprived (hearing) or deprived (parasense, echolocation)</mark>. \
+> **_Keen Hearing._** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
+>
+> **Actions** \
+> **_Bite._**
+> _Melee Weapon Attack:_ +0 to hit, reach 5 t., one creature.
+> _Hit:_ 1 piercing damage.
+
+If such a bat were under the _impaired (hearing)_ or _impaired (parasense, auditory echolocation)_ condition, it's passive Perception would be reduced by 5 and even with its **_Keen Hearing_** feature it would suffer a numeric penalty between -1 and -5 (-2 unless stated otherwise) on any perception check that relies on hearing.
 
 ## Legal Information {#legal-information}
 
