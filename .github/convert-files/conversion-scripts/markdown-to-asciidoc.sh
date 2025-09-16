@@ -29,7 +29,7 @@ function convert_markdown_to_asciidoc {
       -a reproducible \
       -a revdate="$(LANG="${INPUT_LANGUAGE}" git log -1 --pretty="format:%cd" --date=format:"${INPUT_DATE_FORMAT}" .)" \
       -a sectnums \
-      -a sectnumelevels=1 \
+      -a sectnumlevels=1 \
       -a stem \
       -a table-stripes=even \
       -a toc \
