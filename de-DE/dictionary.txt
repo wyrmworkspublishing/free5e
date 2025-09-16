@@ -83,5 +83,6 @@ Thaumaturgie
 TTRPG
 Unverwundbarkeit
 Vampirgriff
+wurf*
 Wyrmworks
 Zeitstop
