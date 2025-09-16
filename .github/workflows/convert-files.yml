@@ -363,6 +363,7 @@ jobs:
     needs:
       - create-timestamp
       - convert-asciidoc-to-html
+    if: github.ref == 'main' || startsWith(github.ref_name, 'gh-pages/')
     permissions:
       pages: write
       id-token: write
