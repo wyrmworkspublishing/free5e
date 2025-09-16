@@ -60,6 +60,7 @@ Martelo
 Melestrua*
 Meteoritenschwarm
 Morscheck*
+Nachforschungen*
 Natalex
 Nekromantiezauber
 Osmus
@@ -89,5 +90,6 @@ TTRPG
 Unverwundbarkeit
 Weisheitswürfen
 Vampirgriff
+wurf*
 Wyrmworks
 Zeitstop

@@ -1,17 +1,17 @@
-# Wie man spielt
+# Wie gespielt wird
 
 Ein Pen-&-Paper-Rollenspiel (TTRPG) zu spielen bedeutet, sich eine Figur in einer Fantasiewelt vorzustellen und mit Würfeln zu bestimmen, was geschieht.  
 So funktioniert es:
 
-**Wähle eine Spielleitung.**  
-Eine Person ist die Spielleitung. Sie denkt sich die Geschichte aus, kontrolliert die Welt und beschreibt Alles und Alle um dich herum.  
+**Wählt eine Spielleitung.**  
+Eine Person ist die Spielleitung. Sie denkt sich die Geschichte aus, kontrolliert die Welt und beschreibt Alles und Alle um euch herum.  
 \
 **Erschaffe deine Spielfigur.**  
 Wähle eine Klasse, eine Abstammung, eine Kultur und einen Hintergrund für deine Figur.  
 Das ist dein:e Held:in in der Spielwelt!  
 \
-**Eine Begegnung spielen:**  
-In deinem Zug beschreibst du, was dein Charakter tut.  
+**Eine Begegnung spielen.**  
+In deinem Zug beschreibst du, was dein Spielcharakter tut.  
 Schwingst du dein Schwert, wirkst du einen Zauber oder sprichst du mit jemandem?  
 Um herauszufinden, ob du Erfolg hast, würfelst du einen zwanzigseitigen Würfel (W20) und addierst deinen Attributsmodifikator und eventuell einen Fertigkeitsbonus.  
 Höhere Würfe sind besser!
@@ -27,19 +27,19 @@ Höhere Würfe sind besser!
 > Erkenne ich irgendwelche Symbole oder Schriftzeichen?  
 > \
 > **Spielleitung:**  
-> Mach eine Nachforschungen-Probe mit Intelligenz.  
+> Mach einen Nachforschungenwurf mit Intelligenz.  
 > \
 > **Susanne:**  
 > (würfelt einen W20)  
 > Das ist eine 12, plus 1 für Intelligenz und 2 durch meine Übung in Nachforschungen, also insgesamt 15.  
 > \
 > **Spielleitung:**  
-> Du erkennst einige verblasste Symbole eines uralten Ordens, der dem Schutz des Waldes geweiht war.  
+> Du erkennst einige verblasste Symbole eines uralten Ordens, der dem Schutz des Waldes geweiht war.
 > Das war wohl ein Druidentempel.
 > \
 > **Oliver (spielt Osmus, einen menschlichen Waldläufer):**  
 > Ich horche genau hin, um herauszufinden, woher das Kratzen kommt.  
-> Wahrnehmung-Probe?  
+> Wahrnehmungswurf?  
 > \
 > **Spielleitung:**  
 > Nur zu.  
@@ -79,7 +79,7 @@ Höhere Würfe sind besser!
 > 15!  
 > Ich bin zuerst dran!  
 > Ich versuche, es mit einem schnellen Zauber zu verwirren.  
-> Ich wirke Gehässiger Spott und rufe: „Du siehst aus wie etwas, das der Wald wieder ausgespuckt hat!“  
+> Ich wirke _Gehässiger Spott_ und rufe: „Du siehst aus wie etwas, das der Wald wieder ausgespuckt hat!"  
 > Es muss einen Rettungswurf auf Weisheit machen.  
 > \
 > **Spielleitung:**  
@@ -126,28 +126,28 @@ Höhere Würfe sind besser!
 > \
 > **Osmus:**  
 > (würfelt W20)  
-> 14, plus 3 für Stärke, also 17.  
+> 14, plus 3 für Stärke, also 17.
 > \
 > **Spielleitung:**  
 > Du hältst stand, aber die Tentakel der Kreatur versuchen weiterhin, dich zu packen.  
-> Sie wird es erneut versuchen.  
-> Was ist dein nächster Zug?  
+> Sie wird es erneut versuchen.
+> Was ist dein nächster Zug?
 > \
 > **Sylvana:**  
-> Ich trete zurück und wirke Befehl auf die Kreatur und rufe „Flieh!“, um sie zur Flucht zu zwingen!  
-> Sie muss einen Rettungswurf auf Weisheit, SG 13, machen.  
+> Ich trete zurück und wirke _Befehl_ auf die Kreatur und rufe „Flieh!", um sie zur Flucht zu zwingen!  
+> Sie muss einen Rettungswurf auf Weisheit, SG 13, machen.
 > \
 > **Spielleitung:**  
 > (würfelt für die Kreatur)  
 > Das ist eine 9.  
-> Misslungen!  
+> Misslungen!
 > \
 > **Sylvana:**  
-> Sie muss ihre Reaktion nutzen, um so weit wie möglich wegzubewegen!  
+> Sie muss ihre Reaktion nutzen, um sich so weit wie möglich wegzubewegen!
 > \
 > **Spielleitung:**  
 > Die Kreatur schreit vor Schmerz, krabbelt an der Decke in die fernste Ecke und verschafft euch Platz.  
-> Sie wirkt geschwächt, aber noch immer gefährlich.  
+> Sie wirkt geschwächt, aber noch immer gefährlich.
 > \
 > **Osmus:**  
 > Bringen wir es zu Ende!
