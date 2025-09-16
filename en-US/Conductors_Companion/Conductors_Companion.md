@@ -1,4 +1,4 @@
-# Free5e Conductor's Companion
+# Free5e Conductor's Companion: Tips, Tools, and Advice for Running Free5e
 
 (<mark>Preview Work-in-Progress</mark>)
 

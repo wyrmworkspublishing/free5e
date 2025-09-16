@@ -1,8 +1,5 @@
-# Free5e Character's Codex
-(<mark>Preview Work-in-Progress</mark>)
+# Free5e Character's Codex: Player’s Guide to Free5e
 
-<mark>Highlighted Portions</mark> are scheduled for significant modification.
-\
 Sign up to receive email updates at [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard)
 
 [**Introduction**](./01_Introduction/Introduction.md)
