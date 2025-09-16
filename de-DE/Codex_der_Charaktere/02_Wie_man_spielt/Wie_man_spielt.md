@@ -34,7 +34,8 @@ Höhere Würfe sind besser!
 > Das ist eine 12, plus 1 für Intelligenz und 2 durch meine Übung in Nachforschungen, also insgesamt 15.  
 > \
 > **Spielleitung:**  
-> Du erkennst einige verblasste Symbole eines uralten Ordens, der dem Schutz des Waldes geweiht war. Das war wohl ein Druidentempel.
+> Du erkennst einige verblasste Symbole eines uralten Ordens, der dem Schutz des Waldes geweiht war.
+> Das war wohl ein Druidentempel.
 > \
 > **Oliver (spielt Osmus, einen menschlichen Waldläufer):**  
 > Ich horche genau hin, um herauszufinden, woher das Kratzen kommt.  
