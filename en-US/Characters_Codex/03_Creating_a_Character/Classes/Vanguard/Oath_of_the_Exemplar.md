@@ -32,7 +32,7 @@ Oath of the Exemplar Spells (table)_
 | Level | Vanguard Spells                                                                          |
 |:------|:-----------------------------------------------------------------------------------------|
 |  3rd  | [Sanctuary](#Sanctuary_sanctuary), [Sleep](#Sleep_sleep)                                 |
-|  5th  | [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness), [Silence](#Silence_silence) |
+|  5th  | [Disrupt Sense](#Disrupt_Sense_disrupt_sense), [Silence](#Silence_silence)               |
 |  9th  | [Counterspell](#Counterspell_counterspell), [Dispel Magic](#Dispel_Magic_dispel_magic)   |
 | 13th  | [Banishment](#Banishment_banishment), [Divination](#Divination_divination)               |
 | 17th  | [Hallow](#Hallow_hallow), [Mislead](#Mislead_mislead)                                    |

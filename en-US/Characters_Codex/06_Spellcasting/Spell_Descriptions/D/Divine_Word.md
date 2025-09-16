@@ -30,9 +30,9 @@ Choose any number of creatures you can pinpoint within range.
 Each creature that can hear you must make a Charisma saving throw.
 On a failed save, a creature suffers an effect based on its current hit points:
 
-- 50 hit points or fewer: [deafened](#Conditions_deafened) for 1 minute
-- 40 hit points or fewer: [deafened](#Conditions_deafened) and [blinded](#Conditions_blinded) for 10 minutes
-- 30 hit points or fewer: [deafened](#Conditions_deafened), [blinded](#Conditions_blinded), and [stunned](#Conditions_stunned) for 1 hour
+- 50 hit points or fewer: [deprived (hearing)](#Conditions_deprived) for 1 minute
+- 40 hit points or fewer: [deprived (hearing)](#Conditions_deprived) and [deprived (sight)](#Conditions_deprived) for 10 minutes
+- 30 hit points or fewer: [deprived (hearing)](#Conditions_deprived), [deprived (sight)](#Conditions_deprived), and [stunned](#Conditions_stunned) for 1 hour
 - 20 hit points or fewer: killed instantly
 
 Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a [Wish](#Wish_wish) spell.

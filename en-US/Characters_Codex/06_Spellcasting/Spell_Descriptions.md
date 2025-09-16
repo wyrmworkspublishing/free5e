@@ -56,8 +56,6 @@
 
 [Blight](./Spell_Descriptions/B/Blight.md)
 
-[Blindness/Deafness](./Spell_Descriptions/B/Blindness_Deafness.md)
-
 [Blink](./Spell_Descriptions/B/Blink.md)
 
 [Blur](./Spell_Descriptions/B/Blur.md)
@@ -185,6 +183,8 @@
 [Dispel Evil and Good](./Spell_Descriptions/D/Dispel_Evil_and_Good.md)
 
 [Dispel Magic](./Spell_Descriptions/D/Dispel_Magic.md)
+
+[Disrupt Sense](./Spell_Descriptions/D/Disrupt_Sense.md)
 
 [Divination](./Spell_Descriptions/D/Divination.md)
 

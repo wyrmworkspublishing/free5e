@@ -9,15 +9,6 @@ A creature has a condition or not.
 
 These definitions specify what happens to a creature under a condition.
 
-### Blinded
-
-> **Note:**
-> This condition is not the same as being blind, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
-> Blind creatures are more accustomed to using their other senses, and blindness has a spectrum of experiences.
-
-- A blinded creature can’t see and automatically fails any ability check that requires sight.
-- Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
-
 ### Bloodied (Variant Rule)
 
 - A creature is bloodied when reduced to half of its maximum hit points or less.
@@ -27,13 +18,25 @@ These definitions specify what happens to a creature under a condition.
 - A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
 - The charmer has advantage on any ability check to interact socially with the creature.
 
-### Deafened
+### Deprived
+<!-- TODO This name isn't yet final and may have to be changed after 09/19/2025. -->
+
+<!-- TODO These notes used to be part of the blinded and deafened conditions. We may want something similar here, but it has to be rephrased.
+
+> **Note:**
+> This condition is not the same as being blind, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
+> Blind creatures are more accustomed to using their other senses, and blindness has a spectrum of experiences.
 
 > **Note:**
 > This condition is not the same as being deaf, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
 > Deaf creatures are more accustomed to using their other senses.
 
-- A deafened creature can’t hear and automatically fails any ability check that requires hearing.
+-->
+
+When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
+
+- You cannot use the affected sense and automatically fail any ability check that relies on it.
+- If this condition blocks all of your precise senses, you have disadvantage on attack rolls, and attack rolls against you have advantage.
 
 ### Exhaustion
 
@@ -69,6 +72,15 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 - A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
 - The condition ends if the grappler is [incapacitated](#Conditions_incapacitated) (see the condition).
 - The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [Thunderwave](#Thunderwave_thunderwave) spell.
+
+### Impaired
+
+When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
+
+- Ability checks that rely on the affected sense are made with disadvantage.
+- If this condition impairs all of your precise senses, you make attack rolls with a –2 penalty.
+  (Depending on the extent of the impairment, the Conductor might adjust the penalty from –1 to –5.)
+- Passive scores that rely on the affected sense are reduced by 5.
 
 ### Incapacitated {#Conditions_incapacitated}
 

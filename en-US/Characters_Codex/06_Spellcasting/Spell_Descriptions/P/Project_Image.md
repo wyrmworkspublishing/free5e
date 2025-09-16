@@ -29,7 +29,7 @@ The duplicate can appear anywhere within range as long as you have observed the 
 
 You can use an action to move this duplicate up to twice your Speed and make it speak and behave in whatever way you choose, mimicking your mannerism with perfect accuracy.
 You can use a bonus action to use your duplicate’s senses until the beginning of your next turn.
-During this time, you cannot sense your body’s surroundings (as with the [blinded](#Conditions_blinded) and [deafened](#Conditions_deafened) conditions).
+During this time, you cannot sense your body’s surroundings (as with the [deprived (sight)](#Conditions_deprived) and [deprived (hearing)](#Conditions_deprived) conditions).
 
 A creature can use an action to attempt an Intelligence (Investigation) check against your spell save DC to reveal the spell’s illusory nature.
 Physical interactions reveal the illusion for what it is as things can pass through it with ease.

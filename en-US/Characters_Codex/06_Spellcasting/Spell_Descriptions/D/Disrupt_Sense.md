@@ -1,6 +1,7 @@
-#### Blindness/Deafness
+#### Disrupt Sense
 <!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Blindness/Deafness"
+[_metadata_:spell_name]:- "Disrupt Sense"
+[_metadata_:spell_original_name]:- "Blindness/Deafness"
 [_metadata_:spell_level]:- "2"
 [_metadata_:spell_school]:- "necromancy"
 [_metadata_:ritual]:- "false"
@@ -15,8 +16,8 @@
 [_metadata_:concentration]:- "false"
 [_metadata_:saving_throw]:- "Constitution"
 [_metadata_:saving_throw_success]:- "avoids_effect, ends_effect"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level necromancy_
 
@@ -25,7 +26,19 @@ _2nd-level necromancy_
 **Components:** V \
 **Duration:** 1 minute
 
-Until the spell ends, one creature you can pinpoint is [blinded](#Conditions_blinded) or [deafened](#Conditions_deafened) (your choice) unless it succeeds on a Constitution saving throw.
+Until the spell ends, one creature you can pinpoint is [deprived](#Conditions_deprived) of one sense unless it succeeds on a Constitution saving throw.
+Choose the sense to disrupt from the following list:
+
+- sight
+- hearing
+- smell
+- [parasense (air pressure)](#Exploration_Environment_parasense)
+- [parasense (echolocation)](#Exploration_Environment_parasense)
+- [parasense (electrical fields)](#Exploration_Environment_parasense)
+- [parasense (magical cues)](#Exploration_Environment_parasense)
+- [parasense (motion)](#Exploration_Environment_parasense)
+- [parasense (thermal)](#Exploration_Environment_parasense)
+
 At the end of each of its turns the target can repeat its saving throw, ending the spell on a success.
 
 **At Higher Levels.**

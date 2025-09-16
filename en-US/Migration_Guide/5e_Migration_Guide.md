@@ -34,6 +34,7 @@ If a product (e.g. an adventure or a monster stat block) mentions one of these s
 - Arcane Sword → Katy's Spectral Sword
 - Arcanist’s Magic Aura → DT's Magic Aura
 - Black Tentacles → Coreador's Black Tentacles
+- Blindness/Deafness → Disrupt Sense
 - Druidcraft → Naturecraft
 - Faithful Hound → Chloe's Faithful Hound
 - Feeblemind → Confound

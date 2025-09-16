@@ -34,7 +34,7 @@ A [Greater Restoration](#Greater_Restoration_greater_restoration) spell or simil
 
 <!-- spell-checker:words Mindfire -->
 - **Blinding Sickness.**
-  The target is [blinded](#Conditions_blinded) and has disadvantage on Wisdom checks and Wisdom saving throws.
+  The target is [deprived (sight)](#Conditions_deprived) and has disadvantage on Wisdom checks and Wisdom saving throws.
 - **Filth Fever.**
   The target has disadvantage when using Strength for an ability check, attack roll, or saving throw.
 - **Flesh Rot.**

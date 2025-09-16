@@ -102,7 +102,7 @@ Doing so gives you advantage on melee weapon attack rolls using Strength during 
 You gain an uncanny sense of when things nearby aren’t as they should be, giving you an edge when you dodge away from danger.
 
 You have advantage on Dexterity saving throws against effects that you can pinpoint, such as traps and spells.
-To gain this benefit, you can’t be blinded, deafened, or incapacitated.
+To gain this benefit, you can’t be [deprived (sight)](#Conditions_deprived), [deprived (hearing)](#Conditions_deprived), or [incapacitated](#Conditions_incapacitated).
 
 ##### Dreadnought Path (3rd Level) {#Dreadnought_dreadnought_path}
 

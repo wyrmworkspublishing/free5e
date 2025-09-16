@@ -33,7 +33,7 @@ You and creatures you choose at the time of casting are immune to the barrier’
 The barrier can be created as either a vertical wall–up to 90 feet long, 30 feet high, and 1 inch thick–or a 30-foot diameter sphere.
 If the wall intersects a space occupied by a creature the spell fails, you lose your action, and the spell slot is wasted.
 
-When a creature that can see the barrier moves within 20 feet of the area or starts its turn within 20 feet of the area, it must succeed on a Constitution saving throw or be [blinded](#Conditions_blinded) for 1 minute.
+When a creature that can see the barrier moves within 20 feet of the area or starts its turn within 20 feet of the area, it must succeed on a Constitution saving throw or be [deprived (sight)](#Conditions_deprived) for 1 minute.
 
 The wall has 7 layers, each layer of a different color in order from red to violet.
 Once a layer is destroyed, it is gone for the duration of the spell.
@@ -71,8 +71,8 @@ When it accumulates three successful saves the effect ends.
 This layer can be destroyed by bright light, such as that created by the [Daylight](#Daylight_daylight) spell or a spell of equal or greater level.
 \
 **Violet:**
-The creature is [blinded](#Conditions_blinded).
+The creature is [deprived (sight)](#Conditions_deprived).
 At the start of your next turn, the creature makes a Wisdom saving throw, ending the effect on a success.
-On a failed save, the creature is banished to another random [plane](#Planes_of_Existence_planes_of_existence) and is no longer blind.
+On a failed save, the creature is banished to another random [plane](#Planes_of_Existence_planes_of_existence) and is no longer deprived (sight).
 Typically if it originated from another plane it returns there, while other creatures are generally cast into the Astral Plane or Ethereal Plane.
 This layer can be destroyed by [Dispel Magic](#Dispel_Magic_dispel_magic) or a similar spell of equal or greater level capable of ending spells or magical effects.
