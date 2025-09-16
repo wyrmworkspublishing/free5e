@@ -21,8 +21,30 @@ You can choose how it communicates or roll on the following table.
 
 #### Senses
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+With sentience comes awareness.
+A sentient item can perceive its surroundings out to a limited range.
+You can select its precise senses or roll on the following tables.
+
+|  1d100 | Sense                          |
+|:------:|:-------------------------------|
+| 01-17  | Normal Vision                  |
+| 18-32  | Hearing                        |
+| 33-42  | Smell                          |
+| 43-52  | Darkvision                     |
+| 53-60  | Parasense (echolocation)       |
+| 61-68  | Parasense (air pressure)       |
+| 69-76  | Parasense (heat)               |
+| 77-84  | Parasense (electrical fields)  |
+| 85-94  | Parasense (magical cues)       |
+| 95-100 | Truesight                      |
+
+| 1d10 | Distance       |
+|:-----|:---------------|
+|  1-6 | up to 30 feet  |
+|  7-9 | up to 60 feet  |
+|   10 | up to 120 feet |
+
+If the item should have multiple senses, select or roll for each sense.
 
 #### Alignment
 
