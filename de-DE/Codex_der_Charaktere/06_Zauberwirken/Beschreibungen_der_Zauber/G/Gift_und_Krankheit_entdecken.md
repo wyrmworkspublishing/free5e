@@ -1,6 +1,7 @@
 #### Gift und Krankheit entdecken
 <!-- markdownlint-disable link-image-reference-definitions -->
 <!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
+<!-- spell-checker:words disease poison -->
 [_metadata_:spell_name]:- "Gift und Krankheit entdecken"
 [_metadata_:spell_name_english]:- "Detect Poison and Disease"
 [_metadata_:spell_school]:- "Erkenntniszauber"

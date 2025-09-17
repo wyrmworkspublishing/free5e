@@ -1,6 +1,7 @@
 #### Gutes und Böses entdecken
 <!-- markdownlint-disable link-image-reference-definitions -->
 <!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
+<!-- spell-checker:words evil good -->
 [_metadata_:spell_name]:- "Gutes und Böses entdecken"
 [_metadata_:spell_name_english]:- "Detect Evil and Good"
 [_metadata_:spell_school]:- "Erkenntniszauber"

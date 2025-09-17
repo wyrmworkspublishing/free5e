@@ -1,6 +1,7 @@
 #### Cerilsens Geheime Truhe
 <!-- markdownlint-disable link-image-reference-definitions -->
 <!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
+<!-- spell-checker:words chest -->
 [_metadata_:spell_name]:- "Cerilsens Geheime Truhe"
 [_metadata_:spell_original_name]:- "Geheime Truhe"
 [_metadata_:spell_name_english]:- "Cerilsen's Secret Chest"

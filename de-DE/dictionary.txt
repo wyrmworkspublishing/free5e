@@ -13,6 +13,7 @@ arkan*
 Arkanist*
 Atkinson
 Attributsmodifikator
+Attributswurf
 Authors
 Bardin
 BFRD
@@ -29,6 +30,7 @@ Coreador*
 Creative
 Dimensionstür
 Druidenkunst
+Eibenblatt
 ESRD
 Feenfeuer
 Feenwesen
@@ -49,6 +51,7 @@ Inklusivität
 Jess
 Katy*
 Kibbles
+Konstitutionsrettungswurf
 Konstitutionswürfen
 Klingenbarriere
 Koord
@@ -62,6 +65,7 @@ Meteoritenschwarm
 Morscheck*
 Nachforschungen*
 Natalex
+nekromantischen
 Nekromantiezauber
 Osmus
 Paoliello*
