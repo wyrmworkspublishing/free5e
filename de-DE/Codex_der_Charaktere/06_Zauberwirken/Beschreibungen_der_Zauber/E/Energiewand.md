@@ -26,7 +26,7 @@ _Hervorrufungszauber 5. Grades_
 **Komponenten:** V, G, M (eine Prise Pulver eines zermahlenen klaren Edelsteins) \
 **Wirkungsdauer:** Konzentration, bis zu 10 Minuten
 
-Eine unsichtbare Energiewand erscheint an einem Punkt deiner Wahl in Reichweite.
+Eine [unsichtbare](#Zustaende_unsichtbar) Energiewand erscheint an einem Punkt deiner Wahl in Reichweite.
 Sie erscheint in einer Ausrichtung deiner Wahl, als senkrechte, waagerechte oder abgewinkelte Barriere.
 Sie kann frei schweben oder auf einer festen Oberfläche stehen.
 Du kannst sie auch zu einer halbrunden Kuppel oder einer Sphäre mit einem Radius von bis zu drei Metern formen, oder du kannst eine flache Oberfläche aus zehn Platten erschaffen, die jeweils neun Quadratmeter groß sind, jede Platte muss an eine andere angrenzen.
