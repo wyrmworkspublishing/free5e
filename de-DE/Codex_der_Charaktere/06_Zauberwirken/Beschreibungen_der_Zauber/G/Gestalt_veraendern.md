@@ -36,7 +36,8 @@ Du passt deinen Körper an eine aquatische Umgebung an.
 Dir wachsen Kiemen und Schwimmhäute zwischen den Fingern.
 Du kannst unter Wasser atmen und erhältst eine Schwimmbewegungsrate, die deiner Schrittbewegungsrate entspricht.
 
-**Aussehen ändern:** Du veränderst dein Aussehen.
+**Aussehen ändern:**
+Du veränderst dein Aussehen.
 Du bestimmst, wie du aussiehst: Größe, Gewicht, Gesichtszüge, Klang deiner Stimme, Haarlänge, Haarfarbe, sowie etwaige besondere Merkmale.
 Du kannst dich als Mitglied eines anderen Volks ausgeben, wobei deine Werte unverändert bleiben.
 Du kannst nicht als Kreatur einer anderen Größenkategorie erscheinen.
