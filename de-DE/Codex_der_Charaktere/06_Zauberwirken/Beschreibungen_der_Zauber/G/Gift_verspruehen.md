@@ -5,7 +5,7 @@
 [_metadata_:spell_name]:- "Gift versprühen"
 [_metadata_:spell_name_english]:- "Poison Spray"
 [_metadata_:spell_school]:- "Beschwörungszauber"
-[_metadata_:spell_level]:- "Zaubertrick"
+[_metadata_:spell_level]:- "0"
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "Aktion"
 [_metadata_:ritual]:- "false"
