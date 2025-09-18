@@ -10,7 +10,7 @@
 [_metadata_:casting_time_unit]:- "Aktion"
 [_metadata_:ritual]:- "true"
 [_metadata_:range]:- "Selbst"
-[_metadata_:target]:- "dich selbst"
+[_metadata_:target]:- "9-m-Radius Sphäre"
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
