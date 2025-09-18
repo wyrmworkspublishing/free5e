@@ -23,7 +23,7 @@
 _Erkenntniszauber 1. Grades (Ritual)_
 
 **Zeitaufwand:** 1 Aktion \
-**Reichweite:** Selbst \
+**Reichweite:** Selbst (9-m-Radius Sphäre) \
 **Komponenten:** V, G, M (ein Eibenblatt) \
 **Wirkungsdauer:** Konzentration, bis zu 10 Minuten
 
