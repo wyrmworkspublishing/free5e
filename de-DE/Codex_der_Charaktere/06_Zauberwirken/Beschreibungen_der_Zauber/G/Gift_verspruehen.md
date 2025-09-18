@@ -4,43 +4,33 @@
 <!-- spell-checker:words poison -->
 [_metadata_:spell_name]:- "Gift versprühen"
 [_metadata_:spell_name_english]:- "Poison Spray"
-[_metadata_:spell_school]:- "???"
-[_metadata_:spell_level]:- "???"
-[_metadata_:casting_time_amount]:- "???"
-<!-- "action", "bonus action", "reaction", "minute", "minutes", "hour", "hours" -->
-[_metadata_:casting_time_unit]:- "???"
-[_metadata_:casting_time_reaction_trigger]:- "???"
-<!-- "true" oder "false" -->
+[_metadata_:spell_school]:- "Beschwörungszauber"
+[_metadata_:spell_level]:- "0"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "Aktion"
 [_metadata_:ritual]:- "false"
-[_metadata_:range]:- "???"
-[_metadata_:target]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_verbal]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_somatic]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_material]:- "???"
-[_metadata_:components_material_description]:- "???"
-[_metadata_:components_material_cost]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:concentration]:- "???"
-[_metadata_:duration]:- "???"
-[_metadata_:saving_throw]:- "???"
-<!-- "halves_damage", "avoids_effect", "ends_effect", "special"; falls mehrere wahr sind, kommagetrennt einfügen -->
-[_metadata_:saving_throw_success]:- "???"
-[_metadata_:damage_formula]:- "???d???"
-[_metadata_:damage_type]:- "???"
-<!-- "mechanics_same_wording_same", "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
-[_metadata_:compared_to_wotc_srd_5.1]:- "???"
-<!-- "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
-[_metadata_:compared_to_a5e_srd]:- "???"
+[_metadata_:range]:- "3 m"
+[_metadata_:target]:- "eine Kreatur in Reichweite"
+[_metadata_:saving_throw]:- "Konstitution"
+[_metadata_:saving_throw_success]:- "avoids_effect"
+[_metadata_:damage_formula]:- "1W12"
+[_metadata_:damage_type]:- "Gift"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "Unmittelbar"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-<mark>_X-zauber n. Grades (Ritual?)_ oder _Zaubertrick der X_</mark>
+_Zaubertrick der Beschwörung_
 
-**Zeitaufwand:** ??? \
-**Reichweite:** ??? \
-**Komponenten:** ??? \
-**Wirkungsdauer:** ???
+**Zeitaufwand:** 1 Aktion \
+**Reichweite:** 3 m \
+**Komponenten:** V, G \
+**Wirkungsdauer:** Unmittelbar
 
-> **Warning**
-> Dieser Zauber wird noch übersetzt.
+Du streckst deine Hand in Richtung einer Kreatur in Reichweite aus, die du sehen kannst, und erzeugst eine Wolke giftigen Gases aus deiner Handfläche.
+Die Kreatur muss einen Konstitutionsrettungswurf bestehen, oder sie erleidet `1W12` Giftschaden.
+
+Der Schaden dieses Zaubers steigt um je `1W12`, wenn du die 5. Stufe (`2W12`), die 11. Stufe (`3W12`) und die 17. Stufe (`4W12`) erreichst.
