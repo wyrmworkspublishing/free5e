@@ -5,7 +5,7 @@
 [_metadata_:spell_name]:- "Göttliche Führung"
 [_metadata_:spell_name_english]:- "Guidance"
 [_metadata_:spell_school]:- "Erkenntniszauber"
-[_metadata_:spell_level]:- "Zaubertrick"
+[_metadata_:spell_level]:- "0"
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "Aktion"
 [_metadata_:ritual]:- "false"
