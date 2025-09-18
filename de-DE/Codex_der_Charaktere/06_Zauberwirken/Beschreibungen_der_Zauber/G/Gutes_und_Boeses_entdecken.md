@@ -22,7 +22,7 @@
 _Erkenntniszauber 1. Grades_
 
 **Zeitaufwand:** 1 Aktion \
-**Reichweite:** Selbst \
+**Reichweite:** Selbst (9-m-Radius Sphäre) \
 **Komponenten:** V, G \
 **Wirkungsdauer:** Konzentration, bis zu 10 Minuten
 
