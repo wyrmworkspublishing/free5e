@@ -39,7 +39,7 @@ Du kannst unter Wasser atmen und erhältst eine Schwimmbewegungsrate, die deiner
 **Aussehen ändern:**
 Du veränderst dein Aussehen.
 Du bestimmst, wie du aussiehst: Größe, Gewicht, Gesichtszüge, Klang deiner Stimme, Haarlänge, Haarfarbe, sowie etwaige besondere Merkmale.
-Du kannst dich als Mitglied eines anderen Volks ausgeben, wobei deine Werte unverändert bleiben.
+Du kannst dich als Mitglied einer anderen Abstammung ausgeben, wobei deine Werte unverändert bleiben.
 Du kannst nicht als Kreatur einer anderen Größenkategorie erscheinen.
 Deine Grundform bleibt ebenfalls gleich: Als Zweibeiner kannst du dich mit diesem Zauber beispielsweise nicht in einen Vierbeiner verwandeln.
 Während der Wirkungsdauer kannst du deine Aktion jederzeit verwenden, um dein Aussehen erneut zu verändern.
