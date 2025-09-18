@@ -26,7 +26,7 @@ _Nekromantiezauber 1. Grades_
 **Komponenten:** V, G, M (eine kleine Menge Alkohol oder Spirituosen) \
 **Wirkungsdauer:** 1 Stunde
 
-Du stärkst dich selbst mit einer nekromantischen Nachahmung des Lebens und erhältst für die Wirkungsdauer 1W4+4 temporäre Trefferpunkte.
+Du stärkst dich selbst mit einer nekromantischen Nachahmung des Lebens und erhältst für die Wirkungsdauer `1W4+4` temporäre Trefferpunkte.
 
 **Auf höheren Graden:**
 Wirkst du diesen Zauber, indem du einen Zauberplatz des 2. Grades oder höher nutzt, erhältst du für jeden Grad über dem 1. zusätzliche `5` temporäre Trefferpunkte.
