@@ -81,6 +81,26 @@ Specifically, the following spells were added:
 - Hex (created specifically for Free5e)
 - Iz’zart's Swarm Limb (created for _[Limitless Heroics](https://wyrmworkspublishing.com/product/limitless-heroics/?utm_source=migration-doc&utm_medium=document&utm_campaign=Free5e)_ by Wyrmworks Publishing and released into CC-BY 4.0 for Free5e)
 
+## Magic Item Changes
+
+> **Warning**
+> This section is yet to be written.
+
+### Renamed Items
+
+Some magic items have been renamed in Free5e, in most cases to honor those who supported the project financially.
+If a product (e.g. an adventure or a random loot table) mentions one of these items, you can use the renamed version instead.
+
+- Apparatus of the Crab → Apparatus of Paoliello
+- Efficient Quiver → Gesa's Impossible Quiver
+- Feather Token → Tefria's Lucky Feather
+- Handy Haversack → MacDoogle's Trans-Spatial Containment Pack
+- Horn of Valhalla → Trumpet of Leoj
+- Instant Fortress → I'aea'kea's Portable Spire
+- Marvelous Pigments → K’myla’s Playful Fingerpaints
+
+<!-- Not renamed: Restorative Ointment -->
+
 ## Senses {#senses}
 
 ### Pinpoint, Sense, and Observe {#pinpoint-sense-and-observe}
