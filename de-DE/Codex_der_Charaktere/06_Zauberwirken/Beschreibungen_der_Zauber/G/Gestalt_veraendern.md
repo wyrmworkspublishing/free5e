@@ -31,7 +31,8 @@ Wenn du den Zauber wirkst, wähle eine der folgenden Optionen aus.
 Deren Effekt hält für die Wirkungsdauer des Zaubers an.
 Solange der Zauber anhält, kannst du als Aktion eine Option beenden, um die Vorzüge einer anderen zu erhalten.
 
-**Aquatische Anpassung:** Du passt deinen Körper an eine aquatische Umgebung an.
+**Aquatische Anpassung:**
+Du passt deinen Körper an eine aquatische Umgebung an.
 Dir wachsen Kiemen und Schwimmhäute zwischen den Fingern.
 Du kannst unter Wasser atmen und erhältst eine Schwimmbewegungsrate, die deiner Schrittbewegungsrate entspricht.
 
