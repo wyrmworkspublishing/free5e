@@ -35,6 +35,6 @@ Sie bleibt für die Wirkungsdauer bestehen.
 Erschaffst du die Wand so, dass sie den Bereich einer Kreatur durchdringt, wird die Kreatur auf eine Seite der Wand gestoßen (deine Wahl).
 
 Nichts kann die Wand physisch durchdringen.
-Sie ist gegen alle Schadensarten immun und kann nicht durch _Magie bannen_ aufgehoben werden.
+Sie ist gegen alle Schadensarten immun und kann nicht durch _[Magie bannen](#Magie_bannen_magie_bannen)_ aufgehoben werden.
 Der Zauber _[Auflösung](#Aufloesung_auflösung)_ zerstört die Wand jedoch sofort.
 Die Wand erstreckt sich auch in die Ätherebene und blockiert damit Reisen über diese Ebene.
