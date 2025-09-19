@@ -24,5 +24,5 @@ _2nd-level illusion (ritual)_
 **Duration:** Concentration, up to 10 minutes
 
 Until the spell ends, a bubble of silence envelops a 20-foot radius sphere centered on a point within range, and no sound can travel in or out of it.
-While in the area a creature is [deprived (hearing)](#Conditions_deprived) and immune to thunder damage.
+While in the area a creature is [nullified (hearing)](#Conditions_nullified) and immune to thunder damage.
 Casting a spell that requires a vocalized component is impossible while within the area.

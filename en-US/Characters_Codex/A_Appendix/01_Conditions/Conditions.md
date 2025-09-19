@@ -18,26 +18,6 @@ These definitions specify what happens to a creature under a condition.
 - A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
 - The charmer has advantage on any ability check to interact socially with the creature.
 
-### Deprived
-<!-- TODO This name isn't yet final and may have to be changed after 09/19/2025. -->
-
-<!-- TODO These notes used to be part of the blinded and deafened conditions. We may want something similar here, but it has to be rephrased.
-
-> **Note:**
-> This condition is not the same as being blind, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
-> Blind creatures are more accustomed to using their other senses, and blindness has a spectrum of experiences.
-
-> **Note:**
-> This condition is not the same as being deaf, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
-> Deaf creatures are more accustomed to using their other senses.
-
--->
-
-When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
-
-- You cannot use the affected sense and automatically fail any ability check that relies on it.
-- If this condition blocks all of your precise senses, you have disadvantage on attack rolls, and attack rolls against you have advantage.
-
 ### Exhaustion
 
 Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion.
@@ -93,6 +73,25 @@ When you gain this condition, it applies to one or more specific senses (such as
 - For the purpose of hiding, the creature is [heavily obscured](#Exploration_Environment_senses_and_awareness) to such creatures.
   Its location can still be detected through noise, tracks, or other cues.
 - Attack rolls against a creature you cannot pinpoint have disadvantage, and a creature’s attack rolls against a target that cannot pinpoint it have advantage.
+
+### Nullified
+
+<!-- TODO These notes used to be part of the blinded and deafened conditions. We may want something similar here, but it has to be rephrased.
+
+> **Note:**
+> This condition is not the same as being blind, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
+> Blind creatures are more accustomed to using their other senses, and blindness has a spectrum of experiences.
+
+> **Note:**
+> This condition is not the same as being deaf, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
+> Deaf creatures are more accustomed to using their other senses.
+
+-->
+
+When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
+
+- You cannot use the affected sense and automatically fail any ability check that relies on it.
+- If this condition blocks all of your precise senses, you have disadvantage on attack rolls, and attack rolls against you have advantage.
 
 ### Paralyzed
 

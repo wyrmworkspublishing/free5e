@@ -25,5 +25,5 @@ _9th-level evocation_
 **Duration:** Instantaneous
 
 Healing energy restores up to 700 hit points among any number of creatures that are not constructs or undead.
-Creatures healed in this way are also cured of any diseases, and any effect causing them to be [deprived (sight)](#Conditions_deprived) or [deprived (hearing)](#Conditions_deprived).
+Creatures healed in this way are also cured of any diseases, and any effect causing them to be [nullified (sight)](#Conditions_nullified) or [nullified (hearing)](#Conditions_nullified).
 In addition, on subsequent turns within the next minute you can use a bonus action to distribute any unused hit points.

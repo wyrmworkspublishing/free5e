@@ -272,9 +272,8 @@ _This is a modified version of the article [A New Look at Blindsight in DnD](htt
 Historically speaking, 5e has mostly assumed that player characters can speak by producing sounds with their mouths and understand language by hearing those sounds with their ears.
 While this will likely continue to be true for many characters, Free5e strives to be inclusive and thus make it not only possible but seamless to play characters who communicate in other ways.
 
-<!-- TODO This will have to be adapted once the Impaired condition is complete. -->
-
-Among other things, this led us to add the following note to the _Deafened_ condition:
+<!-- TODO This will have to be adapted once the nullified condition is complete. -->
+Among other things, this led us to add the following note to the _deafened_ condition:
 
 > **Note:**
 > This condition is not the same as being deaf, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
@@ -330,16 +329,16 @@ The Free5e version of this spell makes the method of communication much more ope
 
 ## Updated Conditions {#updated-conditions}
 
-To better accommodate the changes related to [pinpointing](#pinpoint-sense-and-observe-pinpoint-sense-and-observe), Free5e replaced the conditions _Blinded_ and _Deafened_ with a new condition: _Deprived_.
+To better accommodate the changes related to [pinpointing](#pinpoint-sense-and-observe-pinpoint-sense-and-observe), Free5e replaced the conditions _blinded_ and _deafened_ with a new condition: _nullified_.
 
-> **Deprived**
+> **Nullified**
 >
 > When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
 >
 > - You cannot use the affected sense and automatically fail any ability check that relies on it.
 > - If this condition blocks all of your precise senses, you have disadvantage on attack rolls, and attack rolls against you have advantage.
 
-In addition to this, a new condition was introduced to represent partial loss of a specific sense: _Impaired_.
+In addition to this, a new condition was introduced to represent partial loss of a specific sense: _impaired_.
 
 > **Impaired**
 >
@@ -354,7 +353,7 @@ _Impaired_ does not strictly match any condition from other 5e rulesets, but it 
 
 ### How to use the new conditions in your games {#how-to-use-the-new-conditions-in-your-games}
 
-When third party material uses the conditions _Blinded_ or _Deafened_ related to a creature that relies on sight / hearing as a primary sense, you can replace those with _Deprived (sight)_ / _Deprived (hearing)_.
+When third party material uses the conditions _blinded_ or _deafened_ related to a creature that relies on sight / hearing as a primary sense, you can replace those with _nullified (sight)_ / _nullified (hearing)_.
 The same is true if you create your own spells and stat blocks.
 
 #### Example 1: Condition Immunities {#example-1-condition-immunities}
@@ -365,9 +364,9 @@ The creature _Shrieker_ from the _Fungi_ section of the SRD 5.1 has the followin
 
 This can be replaced the following, to make the creature compatible with Free5e:
 
-> **Condition Immunities** <mark>deprived (sight)</mark>, <mark>deprived (hearing)</mark>, frightened
+> **Condition Immunities** <mark>nullified (sight)</mark>, <mark>nullified (hearing)</mark>, frightened
 
-In some cases it might also be useful to change monsters to be immune to other forms of the _deprived_ or _impaired_ conditions.
+In some cases it might also be useful to change monsters to be immune to other forms of the _nullified_ or _impaired_ conditions.
 
 ##### Example 2: Monster Abilities {#example-2-monster-abilities}
 
@@ -383,14 +382,14 @@ This ability clearly affects the sense of sight, so it can be changed as follows
 > **Blinding Spittle (Recharge 5–6).**
 > The mouther spits a chemical glob at a point it can see within 15 feet of it.
 > The glob explodes in a blinding flash of light on impact.
-> Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be <mark>deprived (sight)</mark> until the end of the mouther’s next turn.
+> Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be <mark>nullified (sight)</mark> until the end of the mouther’s next turn.
 
 You could even decide, that this ability affects additional senses to an equal or lesser extent, e.g.:
 
 > **Blinding Spittle (Recharge 5–6).**
 > The mouther spits a chemical glob at a point it can see within 15 feet of it.
 > The glob explodes in a blinding flash of light on impact.
-> Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be <mark>deprived (sight) and impaired (parasense, motion)</mark> until the end of the mouther’s next turn.
+> Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be <mark>nullified (sight) and impaired (parasense, motion)</mark> until the end of the mouther’s next turn.
 
 Looking at a different creature, the _Shrieker_ already used in the [example about condition immunities](#example-1-condition-immunities) also has the following ability:
 
@@ -406,7 +405,7 @@ However we could easily introduce _impaired_ conditions here, given how loud the
 > The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker’s turns afterward.
 > <mark>During this time, any creature is _impaired (hearing)_ and _impaired (parasense, echolocation)_ while within 30 feet of the shrieker.</mark>
 
-This represents that while the shrieking is obviously a distracting nuisance, it is not so bad as to be deafening (which would impart _deprived_ conditions).
+This represents that while the shrieking is obviously a distracting nuisance, it is not so bad as to be deafening (which would impart _nullified_ conditions).
 
 #### Example 3: The stat block for _Bat_ {#example-3-the-stat-block-for-bat}
 
@@ -436,7 +435,7 @@ The SRD 5.1 contains the following stat block for bats:
 > _Hit:_ 1 piercing damage.
 
 The **_Echolocation_** feature makes it very clear, that this is a creature which relies on hearing to [pinpoint](#pinpoint-sense-and-observe-pinpoint-sense-and-observe).
-So using the new [parasense](#parasense-parasense) mechanic and the new _deprived_ condition, this could be changed as follows:
+So using the new [parasense](#parasense-parasense) mechanic and the new _nullified_ condition, this could be changed as follows:
 
 > **Bat** \
 > _Tiny beast, unaligned_
@@ -453,7 +452,7 @@ So using the new [parasense](#parasense-parasense) mechanic and the new _deprive
 > **Languages** — \
 > **Challenge** 0 (10 XP)
 >
-> **_Echolocation._** The bat can't use its <mark>parasense (echolocation)</mark> while <mark>deprived (hearing) or deprived (parasense, echolocation)</mark>. \
+> **_Echolocation._** The bat can't use its <mark>parasense (echolocation)</mark> while <mark>nullified (hearing) or nullified (parasense, echolocation)</mark>. \
 > **_Keen Hearing._** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 >
 > **Actions** \

@@ -26,7 +26,7 @@ _2nd-level necromancy_
 **Components:** V \
 **Duration:** 1 minute
 
-Until the spell ends, one creature you can pinpoint is [deprived](#Conditions_deprived) of one sense unless it succeeds on a Constitution saving throw.
+Until the spell ends, one creature you can pinpoint is [nullified](#Conditions_nullified) of one sense unless it succeeds on a Constitution saving throw.
 Choose the sense to disrupt from the following list:
 
 - sight

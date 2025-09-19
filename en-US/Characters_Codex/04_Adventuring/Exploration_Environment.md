@@ -29,7 +29,7 @@ In a **lightly obscured** area, such as dim light, patchy fog, or moderate folia
 A creature effectively suffers from the [impaired (sight)](#Conditions_impaired) condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
 
 A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely.
-A creature effectively suffers from the [deprived (sight)](#Conditions_deprived) condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
+A creature effectively suffers from the [nullified (sight)](#Conditions_nullified) condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
 
 #### Pinpoint {#Exploration_Environment_pinpoint}
 

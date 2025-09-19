@@ -28,4 +28,4 @@ _8th-level abjuration_
 
 Creatures you choose that are within a 30-foot radius shed dim light in a 5-foot radius and have advantage on saving throws.
 Attacks made against these creatures have disadvantage.
-When a fiend or undead hits such a creature, the aura erupts into blinding light, forcing the attacker to make a Constitution saving throw or be [deprived (sight)](#Conditions_deprived) until the spell ends.
+When a fiend or undead hits such a creature, the aura erupts into blinding light, forcing the attacker to make a Constitution saving throw or be [nullified (sight)](#Conditions_nullified) until the spell ends.

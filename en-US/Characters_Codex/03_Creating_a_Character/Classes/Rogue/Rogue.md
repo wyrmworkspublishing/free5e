@@ -121,7 +121,7 @@ Whenever you make an ability check that lets you add your proficiency bonus, you
 
 ##### Blindsense (14th Level) {#Rogue_blindsense}
 
-If you are able to hear and not [deprived (hearing)](#Conditions_deprived) or [impaired (hearing)](#Conditions_impaired), you are aware of the location of any hidden or [invisible](#Conditions_invisible) creature within 10 feet of you.
+If you are able to hear and not [nullified (hearing)](#Conditions_nullified) or [impaired (hearing)](#Conditions_impaired), you are aware of the location of any hidden or [invisible](#Conditions_invisible) creature within 10 feet of you.
 
 ##### Slippery Mind (15th Level) {#Rogue_slippery_mind}
 
