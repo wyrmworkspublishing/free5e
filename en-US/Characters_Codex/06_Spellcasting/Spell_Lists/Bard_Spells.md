@@ -43,9 +43,9 @@
 
 - [Aid](#Aid_aid)
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
-- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
+- [Disrupt Sense](#Disrupt_Sense_disrupt_sense)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - [Enthrall](#Enthrall_enthrall)

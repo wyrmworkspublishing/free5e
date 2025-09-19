@@ -30,8 +30,8 @@ _6th-level evocation_
 
 Oozes and undead have disadvantage on saving throws made to resist this spell.
 Radiant sunlight streaks from your hand.
-Each creature in a line 60 feet long and 5 feet wide takes `6d8` radiant damage and is [blinded](#Conditions_blinded) for 1 round if it fails a Constitution saving throw.
-On a successful save, it takes half damage and isn't blinded by this spell.
+Each creature in a line 60 feet long and 5 feet wide takes `6d8` radiant damage and is [nullified (sight)](#Conditions_nullified) for 1 round if it fails a Constitution saving throw.
+On a successful save, it takes half damage and isn't nullified by this spell.
 
 Until the spell ends, you can use an action on subsequent turns to create a new beam of sunlight.
 

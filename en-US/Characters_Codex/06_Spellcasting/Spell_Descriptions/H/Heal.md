@@ -14,8 +14,8 @@
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
 [_metadata_:healing_formula]:- "70"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level evocation_
 
@@ -25,7 +25,7 @@ _6th-level evocation_
 **Duration:** Instantaneous
 
 One creature that is neither a construct nor undead regains `70` hit points.
-The spell also ends blindness, deafness, and any diseases afflicting the target.
+The spell also ends any [nullified](#Conditions_nullified) and [impaired](#Conditions_impaired) conditions the creature may have and that are not caused by active environmental effects, and any diseases afflicting the target.
 
 **At Higher Levels.**
 The hit points regained increase by 10 for each slot level above 6th.

@@ -34,9 +34,9 @@
 
 - [Aid](#Aid_aid)
 - [Augury](#Augury_augury) (ritual)
-- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - [Continual Flame](#Continual_Flame_continual_flame)
+- [Disrupt Sense](#Disrupt_Sense_disrupt_sense)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Find Traps](#Find_Traps_find_traps)
 - [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)

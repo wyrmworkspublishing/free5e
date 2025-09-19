@@ -43,11 +43,11 @@
 #### 2nd Level
 
 - [Alter Self](#Alter_Self_alter_self) (concentration)
-- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Blur](#Blur_blur) (concentration)
 - [Darkness](#Darkness_darkness) (concentration)
 - [Darkvision](#Darkvision_darkvision)
 - [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
+- [Disrupt Sense](#Disrupt_Sense_disrupt_sense)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
 - [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
 - [Flame Blade](#Flame_Blade_flame_blade) (concentration)
