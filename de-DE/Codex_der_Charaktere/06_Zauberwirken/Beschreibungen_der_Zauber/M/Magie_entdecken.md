@@ -4,42 +4,30 @@
 <!-- spell-checker:words magic -->
 [_metadata_:spell_name]:- "Magie entdecken"
 [_metadata_:spell_name_english]:- "Detect Magic"
-[_metadata_:spell_school]:- "???"
-[_metadata_:spell_level]:- "???"
-[_metadata_:casting_time_amount]:- "???"
-<!-- "action", "bonus action", "reaction", "minute", "minutes", "hour", "hours" -->
-[_metadata_:casting_time_unit]:- "???"
-[_metadata_:casting_time_reaction_trigger]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:ritual]:- "false"
-[_metadata_:range]:- "???"
-[_metadata_:target]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_verbal]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_somatic]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:components_material]:- "???"
-[_metadata_:components_material_description]:- "???"
-[_metadata_:components_material_cost]:- "???"
-<!-- "true" oder "false" -->
-[_metadata_:concentration]:- "???"
-[_metadata_:duration]:- "???"
-[_metadata_:saving_throw]:- "???"
-<!-- "halves_damage", "avoids_effect", "ends_effect", "special"; falls mehrere wahr sind, kommagetrennt einfügen -->
-[_metadata_:saving_throw_success]:- "???"
-[_metadata_:damage_formula]:- "???d???"
-[_metadata_:damage_type]:- "???"
+[_metadata_:spell_school]:- "Erkenntniszauber"
+[_metadata_:spell_level]:- "1"
+[_metadata_:casting_time_amount]:- "1"
+[_metadata_:casting_time_unit]:- "Aktion"
+[_metadata_:ritual]:- "true"
+[_metadata_:range]:- "Selbst"
+[_metadata_:target]:- "9-m-Radius Sphäre"
+[_metadata_:components_verbal]:- "true"
+[_metadata_:components_somatic]:- "true"
+[_metadata_:components_material]:- "false"
+[_metadata_:concentration]:- "true"
+[_metadata_:duration]:- "10 Minuten"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 <!-- "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
 [_metadata_:compared_to_a5e_srd]:- "???"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-<mark>_X-zauber n. Grades (Ritual?)_ oder _Zaubertrick der X_</mark>
+_Erkenntniszauber 1. Grades (Ritual)_
 
-**Zeitaufwand:** ??? \
-**Reichweite:** ??? \
-**Komponenten:** ??? \
-**Wirkungsdauer:** ???
+**Zeitaufwand:** 1 Aktion \
+**Reichweite:** Selbst \
+**Komponenten:** V, G \
+**Wirkungsdauer:** Konzentration, bis zu 10 Minuten
 
-> **Warning**
-> Dieser Zauber wird noch übersetzt.
+Während der Wirkungsdauer nimmst du die Gegenwart von Magie im Abstand von bis zu neun Metern von dir wahr.
+Wenn du auf diese Weise Magie wahrnimmst, kannst du deine Aktion verwenden, um schwache Auren um sichtbare magische Kreaturen oder Objekte sowie ihre magische Schule zu erkennen, falls vorhanden.
+
+Dieser Zauber durchdringt die meisten Barrieren, wird aber von 30 Zentimetern Stein, 2,5 Zentimetern gewöhnlichem Metall, dünnem Bleiblech sowie von einem Meter Holz oder Erde blockiert.
