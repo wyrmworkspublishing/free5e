@@ -33,8 +33,8 @@ After three failed saves, the disease lasts for the duration and the creature st
 A [Greater Restoration](#Greater_Restoration_greater_restoration) spell or similar effect also ends the disease.
 
 <!-- spell-checker:words Mindfire -->
-- **Blinding Sickness.**
-  The target is [blinded](#Conditions_blinded) and has disadvantage on Wisdom checks and Wisdom saving throws.
+- **Omen Plague.**
+  The target is tormented by illusory portents and has disadvantage on Wisdom checks and Wisdom saving throws.
 - **Filth Fever.**
   The target has disadvantage when using Strength for an ability check, attack roll, or saving throw.
 - **Flesh Rot.**
