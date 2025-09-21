@@ -55,7 +55,7 @@ for root, dirs, files in os.walk(spellpath):
         matchAtHigherLevels = re.search(regexConfigs['atHigherLevelsRegex'], line)
         matchCantripDamageIncrease = re.search(regexConfigs['cantripDamageIncreaseRegex'], line)
         matchCantripBeamIncrease = re.search(regexConfigs['cantripBeamIncreaseRegex'], line)
-        if (line_number < duration_line + 2):
+        if (line_number < duration_line + 2 or (at_higher_levels_start_line != None and line_number >= at_higher_levels_start_line)):
           continue
         elif matchAtHigherLevels:
           # We don't need the "At higher levels" part to be included
@@ -63,7 +63,8 @@ for root, dirs, files in os.walk(spellpath):
           continue
         elif matchCantripDamageIncrease or matchCantripBeamIncrease:
           at_higher_levels_start_line = line_number
-        elif at_higher_levels_start_line == None:
+          continue
+        else:
           spell_text = line.replace('\n', '\\n')
           spell_text_list.append(spell_text)
       spelldict['spell_text'] = ''.join(spell_text_list).removesuffix('\\n').removesuffix('\\n')
@@ -78,6 +79,7 @@ for root, dirs, files in os.walk(spellpath):
             at_higher_levels_text = line.replace('\n', '\\n')
             at_higher_levels_list.append(at_higher_levels_text)
         spelldict['spell_at_higher_levels'] = ''.join(at_higher_levels_list).removesuffix('\\n')
+        print('  spell_at_higher_levels            -> {}'.format(spelldict['spell_at_higher_levels']))
 
       if len(spelldict) > 1:
         spells.append(spelldict)
