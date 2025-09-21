@@ -42,15 +42,18 @@ dwarven
 Dwarvish
 Earthspeak
 elven
+Elvenkind
 enpowered
 ESRD
 extradimensional
 Exemplarism
 Eyebite
 Feywild
+Fingerpaints
 floorplan
 Forcecage
 Geas
+Gesa
 ghast*
 gnoll*
 goblinoid*
@@ -63,6 +66,7 @@ grimoire*
 Guttersnipe
 Halfling*
 handaxe*
+headwear
 hightened
 hippogriff*
 humanlike
@@ -76,10 +80,13 @@ invisiblity
 Iz’zart*
 Keoghtom
 Kickstarter
+K’myla
+Leoj
 Lifedrinker
 lizardfolk
 Longstrider
 longsword*
+MacDoogle
 multiclass
 Melestrua
 metamagic
@@ -94,6 +101,7 @@ Naturecraft
 neurodivergence
 Nondetection
 nonhostile
+nonhumanoid
 nonplayer
 nonmagical
 nunchaku
@@ -101,7 +109,7 @@ openfontlicense
 Osmus
 owlbear*
 Paoliello
-parasense
+parasense*
 Passwall
 pegasi
 Polearm
@@ -133,6 +141,7 @@ stirge*
 Stoneskin
 stoneworthy
 Sylvana
+Tefria
 teleporter
 teleporting
 Teos

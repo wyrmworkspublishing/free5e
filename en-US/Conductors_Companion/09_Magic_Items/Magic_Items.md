@@ -1,15 +1,7 @@
 # Magic Items
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
-
-<!--
-Renamed items:
-> - Instant Fortress → I'aea'kea's Portable Spire
--->
-<!-- Not yet renamed:
-> - Keoghtom's Ointment -> ???
--->
+Magic items are gleaned from the hoards of conquered monsters or discovered in long-lost vaults.
+Such items grant capabilities a character could rarely have otherwise, or they complement their owner’s capabilities in wondrous ways.
 
 [Attunement](./Attunement.md)
 
