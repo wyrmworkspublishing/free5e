@@ -199,7 +199,7 @@ Also, you can’t be tracked by nonmagical means, unless you choose to leave a t
 ##### Feral Senses (18th Level) {#Ranger_feral_senses}
 
 At 18th level, you gain preternatural senses that help you fight creatures you couldn’t usually sense.
-You can pinpoint any creature within 30 feet of you, provided that the creature isn’t hidden from you, and you aren’t [nullified (sight)](#Conditions_nullified) or [nullified (hearing)](#Conditions_nullified).
+You can pinpoint any creature within 30 feet of you, provided that the creature isn’t hidden from you, and you aren’t [nullified (sight or hearing)](#Conditions_nullified).
 
 ##### Foe Slayer (20th Level) {#Ranger_foe_slayer}
 

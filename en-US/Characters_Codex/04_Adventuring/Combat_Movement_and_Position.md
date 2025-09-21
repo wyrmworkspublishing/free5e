@@ -91,7 +91,7 @@ If you leave a hostile creature’s reach during your move, you provoke an oppor
 #### Flying Movement
 
 Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling.
-If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise nullified of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [Fly](#Fly_fly) spell.
+If a flying creature is knocked prone, has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [Fly](#Fly_fly) spell.
 
 #### Creature Size
 

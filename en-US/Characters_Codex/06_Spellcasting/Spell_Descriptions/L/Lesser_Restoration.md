@@ -23,5 +23,5 @@ _2nd-level abjuration_
 **Components:** V, S \
 **Duration:** Instantaneous
 
-Your glowing hand removes one disease or one of the [nullified (sight)](#Conditions_nullified), [nullified (hearing)](#Conditions_nullified), [paralyzed](#Conditions_paralyzed), or [poisoned](#Conditions_poisoned) conditions affecting one creature.
+Your glowing hand removes one disease or one of the [nullified](#Conditions_nullified), [paralyzed](#Conditions_paralyzed), or [poisoned](#Conditions_poisoned) conditions affecting one creature.
 At the Conductor’s discretion, some diseases might not be curable with this spell.

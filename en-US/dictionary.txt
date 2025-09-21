@@ -1,3 +1,5 @@
++s
+
 Aboleth
 Aboleths
 Abadía
@@ -109,7 +111,7 @@ openfontlicense
 Osmus
 owlbears
 Paoliello
-parasense
+parasense*
 Passwall
 pegasi
 Polearm

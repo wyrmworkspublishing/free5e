@@ -34,7 +34,7 @@ If a product (e.g. an adventure or a monster stat block) mentions one of these s
 - Arcane Sword → Katy's Spectral Sword
 - Arcanist’s Magic Aura → DT's Magic Aura
 - Black Tentacles → Coreador's Black Tentacles
-- Blindness/Deafness → Disrupt Sense
+- Blindness/Deafness → Nullify Sense
 - Druidcraft → Naturecraft
 - Faithful Hound → Chloe's Faithful Hound
 - Feeblemind → Confound
@@ -272,14 +272,13 @@ _This is a modified version of the article [A New Look at Blindsight in DnD](htt
 Historically speaking, 5e has mostly assumed that player characters can speak by producing sounds with their mouths and understand language by hearing those sounds with their ears.
 While this will likely continue to be true for many characters, Free5e strives to be inclusive and thus make it not only possible but seamless to play characters who communicate in other ways.
 
-<!-- TODO This will have to be adapted once the nullified condition is complete. -->
-Among other things, this led us to add the following note to the _deafened_ condition:
+Among other things, this led us to add the following note to the _[nullified](#updated-conditions)_ condition:
 
 > **Note:**
-> This condition is not the same as being deaf, the permanent disability, as most of the disadvantage is due to a sudden change without time to adapt to it.
-> Deaf creatures are more accustomed to using their other senses.
+> This condition is not the same as being blind or deaf, the permanent disabilities, as most of the disadvantage is due to a sudden changes without time to adapt to them.
+> Blind and deaf creatures are more accustomed to using their other senses, and these disabilities each have a spectrum of experiences.
 
-This makes it very clear, that being temporarily deafened is very different from a character being permanently deaf.
+This makes it very clear, that being temporarily deafened (or _nullified (hearing)_ in the language of the game) is very different from a character being permanently deaf.
 It also works in tandem with rules such as [pinpoint](#pinpoint-sense-and-observe) that allow for characters that use senses other than hearing to interact with the world.
 
 #### Introducing sign languages {#introducing-sign-languages}
@@ -337,6 +336,7 @@ To better accommodate the changes related to [pinpointing](#pinpoint-sense-and-o
 >
 > - You cannot use the affected sense and automatically fail any ability check that relies on it.
 > - If this condition blocks all of your precise senses, you have disadvantage on attack rolls, and attack rolls against you have advantage.
+> - If a supporting sense is nullified, dependent parasenses are also _nullified_ (e.g., _nullified (hearing)_ also nullifies auditory echolocation).
 
 In addition to this, a new condition was introduced to represent partial loss of a specific sense: _impaired_.
 
@@ -364,7 +364,7 @@ The creature _Shrieker_ from the _Fungi_ section of the SRD 5.1 has the followin
 
 This can be replaced the following, to make the creature compatible with Free5e:
 
-> **Condition Immunities** <mark>nullified (sight)</mark>, <mark>nullified (hearing)</mark>, frightened
+> **Condition Immunities** <mark>nullified (sight, hearing)</mark>, frightened
 
 In some cases it might also be useful to change monsters to be immune to other forms of the _nullified_ or _impaired_ conditions.
 
@@ -403,7 +403,7 @@ However we could easily introduce _impaired_ conditions here, given how loud the
 > **Shriek.**
 > When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it.
 > The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker’s turns afterward.
-> <mark>During this time, any creature is _impaired (hearing)_ and _impaired (parasense, echolocation)_ while within 30 feet of the shrieker.</mark>
+> <mark>During this time, any creature is _impaired (hearing)_ while within 30 feet of the shrieker.</mark>
 
 This represents that while the shrieking is obviously a distracting nuisance, it is not so bad as to be deafening (which would impart _nullified_ conditions).
 
@@ -452,7 +452,7 @@ So using the new [parasense](#parasense-parasense) mechanic and the new _nullifi
 > **Languages** — \
 > **Challenge** 0 (10 XP)
 >
-> **_Echolocation._** The bat can't use its <mark>parasense (echolocation)</mark> while <mark>nullified (hearing) or nullified (parasense, echolocation)</mark>. \
+> **_Echolocation._** The bat can't use its <mark>parasense (echolocation)</mark> while <mark>nullified (hearing) or nullified (parasense: echolocation)</mark>. \
 > **_Keen Hearing._** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 >
 > **Actions** \

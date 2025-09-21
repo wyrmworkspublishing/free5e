@@ -11,7 +11,7 @@ You have darkvision to 60 feet, or the range of your existing darkvision increas
 \
 **Dark Gnome Magic.**
 You can cast [Disguise Self](#Disguise_Self_disguise_self) once per long rest.
-Once you reach 3rd level, you can cast [Disrupt Sense](#Disrupt_Sense_disrupt_sense) (sight only) once per long rest.
+Once you reach 3rd level, you can cast [Nullify Sense](#Nullify_Sense_nullify_sense) (sight only) once per long rest.
 At 5th level, you can cast [Nondetection](#Nondetection_nondetection) once per long rest.
 You don’t need material components for these spells, and when casting them your spellcasting ability is Intelligence, Wisdom, or Charisma (whichever is highest).
 \

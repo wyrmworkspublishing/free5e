@@ -32,7 +32,7 @@ Oozes and undead have disadvantage on saving throws made to resist this spell.
 You create a burst of radiant sunlight that fills a 60-foot radius sphere centered on a point you choose.
 Each creature in the area takes `12d6` radiant damage and is [nullified (sight)](#Conditions_nullified) for 1 minute if it fails a Constitution saving throw.
 On a successful save, it takes half as much damage and isn't nullified by this spell.
-A creature nullified by this spell repeats its saving throw at the end of each of its turns, ending the deprivation on a successful save.
+A creature nullified by this spell repeats its saving throw at the end of each of its turns, ending the nullification on a successful save.
 
 This spell dispels any magical darkness in its area.
 This light is sunlight.
