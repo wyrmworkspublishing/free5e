@@ -25,11 +25,48 @@ for root, dirs, files in os.walk(spellpath):
       print('  spell_name                          -> {}'.format(spellname))
       spelldict['spell_name'] = spellname
 
-      for line in lines:
-        match = re.search('^\\[_metadata_:([\\w_\\.]+)\\]:-\\s*"([^"]*)"', line)
-        if match:
-          print('  {:35s} -> {}'.format(match.group(1), match.group(2)))
-          spelldict[match.group(1)] = match.group(2)
+      duration_line = None;
+      for line_number, line in enumerate(lines):
+        matchMetadata = re.search('^\\[_metadata_:([\\w_\\.]+)\\]:-\\s*"([^"]*)"', line)
+        matchDuration = re.search('^\*\*Duration:\*\* .*', line)
+        if matchMetadata:
+          print('  {:35s} -> {}'.format(matchMetadata.group(1), matchMetadata.group(2)))
+          spelldict[matchMetadata.group(1)] = matchMetadata.group(2)
+        elif matchDuration:
+          duration_line = line_number
+
+      if (duration_line == None):
+        raise Exception('No start line for duration found in file "{}"', file)
+
+      spell_text_list = []
+      at_higher_levels_start_line = None;
+      for line_number, line in enumerate(lines):
+        matchAtHigherLevels = re.search('^\*\*At Higher Levels.\*\*.*', line)
+        matchCantripDamageLevels = re.search('^This spell’s damage increases.*', line)
+        matchCantripBeamLevels = re.search('^The spell creates more than one beam when you reach higher levels:.*', line)
+        if (line_number < duration_line + 2):
+          continue
+        elif matchAtHigherLevels:
+          # We don't need the "At higher levels" part to be included
+          at_higher_levels_start_line = line_number + 1
+          continue
+        elif matchCantripDamageLevels or matchCantripBeamLevels:
+          at_higher_levels_start_line = line_number
+        elif at_higher_levels_start_line == None:
+          spell_text = line.replace('\n', '\\n')
+          spell_text_list.append(spell_text)
+      spelldict['spell_text'] = ''.join(spell_text_list).removesuffix('\\n').removesuffix('\\n')
+      print('  spell_text                          -> {}'.format(spelldict['spell_text']))
+
+      at_higher_levels_list = []
+      if (at_higher_levels_start_line):
+        for line_number, line in enumerate(lines):
+          if (line_number < at_higher_levels_start_line):
+            continue
+          else:
+            at_higher_levels_text = line.replace('\n', '\\n')
+            at_higher_levels_list.append(at_higher_levels_text)
+        spelldict['spell_at_higher_levels'] = ''.join(at_higher_levels_list).removesuffix('\\n')
 
       if len(spelldict) > 1:
         spells.append(spelldict)
@@ -68,7 +105,9 @@ with (open(outfile, 'w', newline='')) as csvfile:
     'healing formula',
     'compared to the wotc srd',
     'compared to the a5e srd',
-    'original spell name'
+    'original spell name',
+    'spell text',
+    'at higher levels'
   ])
 
   for spell in sortedSpells:
@@ -96,5 +135,7 @@ with (open(outfile, 'w', newline='')) as csvfile:
       spell.get('healing_formula', ''),
       spell.get('compared_to_wotc_srd_5.1', "unknown"),
       spell.get('compared_to_a5e_srd', "unknown"),
-      spell.get('spell_original_name', '')
+      spell.get('spell_original_name', ''),
+      spell.get('spell_text'),
+      spell.get('spell_at_higher_levels', '')
     ])
