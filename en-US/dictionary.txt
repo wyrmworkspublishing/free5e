@@ -173,6 +173,7 @@ unplaceable
 Warhammer
 Warhordling
 waterskin
+Wizarding
 Wodewose
 Wodewoses
 Wose
