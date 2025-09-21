@@ -40,5 +40,5 @@ At any time for the duration of the spell, you can use your action to change you
 
 **Natural Weapons.**
 You grow claws, fangs, spines, horns, or a different natural weapon of your choice.
-Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes.
+Your unarmed strikes deal `1d6` bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes.
 Finally, the natural weapon is magic, and you have a +1 bonus to the attack and damage rolls you make using it.

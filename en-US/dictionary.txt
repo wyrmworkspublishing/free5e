@@ -46,15 +46,18 @@ dwarven
 Dwarvish
 Earthspeak
 elven
+Elvenkind
 enpowered
 ESRD
 extradimensional
 Exemplarism
 Eyebite
 Feywild
+Fingerpaints
 floorplan
 Forcecage
 Geas
+Gesa
 ghast
 ghasts
 gnoll
@@ -72,6 +75,7 @@ Halfling
 Halflings
 handaxe
 handaxes
+headwear
 hightened
 hippogriffs
 humanlike
@@ -86,10 +90,13 @@ Iz’zart
 Iz’zart's
 Keoghtom
 Kickstarter
+K’myla
+Leoj
 Lifedrinker
 Longstrider
 longsword
 longswords
+MacDoogle
 multiclass
 Melestrua
 Metamagic
@@ -104,6 +111,7 @@ Naturecraft
 Neurodivergence
 Nondetection
 nonhostile
+nonhumanoid
 Nonplayer
 nonmagical
 nunchaku
@@ -147,6 +155,7 @@ Stonecunning
 Stoneskin
 Stoneworthy
 Sylvana
+Tefria
 teleporting
 Teos
 Tiefling

@@ -39,7 +39,8 @@ Werden diese nicht vor dem Wirken des Zaubers gebannt, wirken sie wieder, wenn d
 Dieser Zauber schließt alle tödlichen Wunden und stellt sämtliche abgetrennten Gliedmaßen wieder her.
 Von den Toten aufzuerstehen ist eine Tortur.
 
-Das Ziel erhält einen Malus von -4 auf alle Angriffs-, Attributs- und Rettungswürfe. Nach jeder langen Rast wird der Malus um 1 reduziert, bis er verschwindet.
+Das Ziel erhält einen Malus von -4 auf alle Angriffs-, Attributs- und Rettungswürfe.
+Nach jeder langen Rast wird der Malus um 1 reduziert, bis er verschwindet.
 
 Wirkst du diesen Zauber, um eine Kreatur zum Leben zu erwecken, die seit mindestens einem Jahr tot ist, belastet dich das stark.
 Du kannst erst nach einer langen Rast wieder Zauber wirken und bist bis dahin bei sämtlichen Angriffs-, Attributs- und Rettungswürfen im Nachteil.
