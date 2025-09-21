@@ -2,14 +2,24 @@ import csv
 import os
 import re
 import sys
+import tomllib
 
-spellpath = sys.argv[1]
-outfile = sys.argv[2]
+language = sys.argv[1]
+spellpath = sys.argv[2]
+outfile = sys.argv[3]
+
+with open("spell_extractor.toml", "rb") as f:
+    configData = tomllib.load(f)
+configForLang = configData.get(language)
+regexConfigs = configForLang['regexes']
+
 print ('Reading spell files from directory {}, writing to file {}\n'.format(spellpath, outfile))
 
 spells = []
 
 for root, dirs, files in os.walk(spellpath):
+  if (root == spellpath):
+    continue
   print ('Found {} spell files in {}'.format(len(files), root))
 
   for file in files:
@@ -27,8 +37,8 @@ for root, dirs, files in os.walk(spellpath):
 
       duration_line = None;
       for line_number, line in enumerate(lines):
-        matchMetadata = re.search('^\\[_metadata_:([\\w_\\.]+)\\]:-\\s*"([^"]*)"', line)
-        matchDuration = re.search('^\*\*Duration:\*\* .*', line)
+        matchMetadata = re.search(regexConfigs['metadataRegex'], line)
+        matchDuration = re.search(regexConfigs['durationRegex'], line)
         if matchMetadata:
           print('  {:35s} -> {}'.format(matchMetadata.group(1), matchMetadata.group(2)))
           spelldict[matchMetadata.group(1)] = matchMetadata.group(2)
@@ -36,21 +46,21 @@ for root, dirs, files in os.walk(spellpath):
           duration_line = line_number
 
       if (duration_line == None):
-        raise Exception('No start line for duration found in file "{}"', file)
+        raise Exception('No start line for duration found in file "{}"'.format(file))
 
       spell_text_list = []
       at_higher_levels_start_line = None;
       for line_number, line in enumerate(lines):
-        matchAtHigherLevels = re.search('^\*\*At Higher Levels.\*\*.*', line)
-        matchCantripDamageLevels = re.search('^This spell’s damage increases.*', line)
-        matchCantripBeamLevels = re.search('^The spell creates more than one beam when you reach higher levels:.*', line)
+        matchAtHigherLevels = re.search(regexConfigs['atHigherLevelsRegex'], line)
+        matchCantripDamageIncrease = re.search(regexConfigs['cantripDamageIncreaseRegex'], line)
+        matchCantripBeamIncrease = re.search(regexConfigs['cantripBeamIncreaseRegex'], line)
         if (line_number < duration_line + 2):
           continue
         elif matchAtHigherLevels:
           # We don't need the "At higher levels" part to be included
           at_higher_levels_start_line = line_number + 1
           continue
-        elif matchCantripDamageLevels or matchCantripBeamLevels:
+        elif matchCantripDamageIncrease or matchCantripBeamIncrease:
           at_higher_levels_start_line = line_number
         elif at_higher_levels_start_line == None:
           spell_text = line.replace('\n', '\\n')

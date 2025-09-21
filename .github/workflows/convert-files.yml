@@ -60,7 +60,7 @@ jobs:
       - name: Ensure that the output directory exists
         run: mkdir -p "${{ inputs.generated_files_target_directory }}"
       - name: Run the extraction tool
-        run: python3 tools/spell_extractor/spell_extractor.py "${{ inputs.spell_descriptions_path }}" "${{ inputs.generated_files_target_directory }}/spells-${{ inputs.language }}.tsv"
+        run: python3 tools/spell_extractor/spell_extractor.py "${{ inputs.language }}" "${{ inputs.spell_descriptions_path }}" "${{ inputs.generated_files_target_directory }}/spells-${{ inputs.language }}.tsv"
       - name: Upload built Artifacts
         uses: actions/upload-artifact@v4
         with:
