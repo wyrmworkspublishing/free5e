@@ -8,7 +8,8 @@ language = sys.argv[1]
 spellpath = sys.argv[2]
 outfile = sys.argv[3]
 
-with open("spell_extractor.toml", "rb") as f:
+dir_path = os.path.dirname(os.path.realpath(__file__))
+with open(dir_path + '/spell_extractor.toml', 'rb') as f:
     configData = tomllib.load(f)
 configForLang = configData.get(language)
 regexConfigs = configForLang['regexes']
