@@ -1,5 +1,13 @@
 #### Boots of Striding and Springing
-<!-- TODO Tag this magical item -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:item_name]:- "Boots of Striding and Springing"
+[_metadata_:item_type]:- "Wondrous item"
+[_metadata_:item_rarity]:- "uncommon"
+[_metadata_:requires_attunement]:- "true"
+[_metadata_:requires_attunement_by_alignment]:- "any"
+[_metadata_:requires_attunement_by_ancestry]:- "any"
+[_metadata_:requires_attunement_by_class]:- "any"
+[_metadata_:requires_attunement_by_spellcaster]:- "false"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Wondrous item, uncommon (requires attunement)_
 

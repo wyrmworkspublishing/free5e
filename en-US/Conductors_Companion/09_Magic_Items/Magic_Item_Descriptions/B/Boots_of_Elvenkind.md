@@ -1,5 +1,9 @@
 #### Boots of Elvenkind
-<!-- TODO Tag this magical item -->
+<!-- markdownlint-disable link-image-reference-definitions -->
+[_metadata_:item_name]:- "Boots of Elvenkind"
+[_metadata_:item_type]:- "Wondrous item"
+[_metadata_:item_rarity]:- "uncommon"
+[_metadata_:requires_attunement]:- "false"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Wondrous item, uncommon_
 
