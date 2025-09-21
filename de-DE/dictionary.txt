@@ -92,8 +92,10 @@ Teleportation
 Thaumaturgie
 TTRPG
 Unverwundbarkeit
+Verzauberungs*
 Weisheitswürfen
 Vampirgriff
 wurf*
 Wyrmworks
+zauber*
 Zeitstop
