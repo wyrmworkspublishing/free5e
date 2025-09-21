@@ -163,6 +163,7 @@ warhammer*
 warhordling
 waterskin*
 wererat*
+Wizarding
 wodewose*
 wose*
 WotC
