@@ -8,7 +8,7 @@ Use these tables to generate a patron or NPC for your adventure, applying an NPC
 |   2 | Flighty       | Elf               |
 |   3 | Shifty        | Dwarf             |
 |   4 | Optimistic    | Halfling          |
-|   5 | Paranoid      | Orc               |
+|   5 | Skeptical     | Orc               |
 |   6 | Well spoken   | Gnome             |
 |   7 | Superior      | Tiefling          |
 |   8 | Haughty       | Dragonborn        |

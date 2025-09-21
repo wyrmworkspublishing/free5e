@@ -1,7 +1,5 @@
 #### Travel Scenery
 
-<!-- TODO The Google Doc doesn't have any description here, maybe add one? -->
-
 | d100 | Travel Scenery.                                                                                                                                                       |
 |:----:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   1  | A flock of birds wheels and dives in the air, staying noticeable for most of the day.                                                                                 |

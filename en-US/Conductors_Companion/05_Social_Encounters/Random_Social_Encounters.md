@@ -1,7 +1,5 @@
-#### Social Encounters
+### Random Social Encounters
 <!-- spell-checker:words wineseller -->
-
-<!-- TODO The Google Doc doesn't have any description here, maybe add one? -->
 
 | d100 | Social Encounter                                                                                                                          |
 |:----:|:------------------------------------------------------------------------------------------------------------------------------------------|

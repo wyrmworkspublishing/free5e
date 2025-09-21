@@ -14,7 +14,7 @@ At 1st through 4th level, traps often have a DC of 13, and deal `7` (`2d6`) dama
 |   6 | Radiant pillars     |
 |   7 | Flame-jet idols     |
 |   8 | Force beams         |
-|   9 | Crippling caltrops  |
+|   9 | Barbed caltrops     |
 |  10 | Acidic pools        |
 |  11 | Bear traps          |
 |  12 | Ghostly haunting    |

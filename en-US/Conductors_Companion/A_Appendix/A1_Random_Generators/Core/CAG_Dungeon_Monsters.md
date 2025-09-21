@@ -6,6 +6,8 @@ If you decide to use a monster as a boss monster, give it double hit points and 
 
 For foes such as bandits and cultists, you can also roll for ancestry on the NPC creation lists if those foes having a common origin makes sense for your narrative.
 
+<!-- TODO This table is currently very much focused on tiers 1 and 2. We should add to it, to make it useable for higher tiers as well. -->
+
 | d8, d12, or d20 | Monsters         |
 |:---------------:|:-----------------|
 |        1        | Giant rats       |
@@ -25,6 +27,6 @@ For foes such as bandits and cultists, you can also roll for ancestry on the NPC
 |       15        | Ogres            |
 |       16        | Wererats         |
 |       17        | Basilisks        |
-|       18        | Green hags       |
+|       18        | Green haggards   |
 |       19        | Hell hounds      |
 |       20        | Mummies          |
