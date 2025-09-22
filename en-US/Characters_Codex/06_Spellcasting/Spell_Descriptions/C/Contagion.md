@@ -15,7 +15,7 @@
 [_metadata_:concentration]:- "false"
 [_metadata_:saving_throw]:- "Constitution"
 [_metadata_:saving_throw_success]:- "ends_effect"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _5th-level necromancy_
@@ -34,16 +34,17 @@ A [Greater Restoration](#Greater_Restoration_greater_restoration) spell or simil
 
 <!-- spell-checker:words Mindfire -->
 - **Omen Plague.**
-  The target is tormented by illusory portents and has disadvantage on Wisdom checks and Wisdom saving throws.
+  Illusory portents cloud the target's vision.
+  It is [nullified (sight)](#Conditions_nullified) and has disadvantage on Wisdom checks and Wisdom saving throws.
 - **Filth Fever.**
   The target has disadvantage when using Strength for an ability check, attack roll, or saving throw.
 - **Flesh Rot.**
   The target has disadvantage on Charisma ability checks and becomes vulnerable to all damage.
 - **Mindfire.**
-  During combat the target is confused, and it has disadvantage when using Intelligence for an ability check or saving throw.
+  During combat the target is confused (as if under the effects of the [Confusion](#Confusion_confusion) spell), and it has disadvantage when using Intelligence for an ability check or saving throw.
 - **Rattling Cough.**
   The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
 - **Slimy Doom.**
   The target bleeds uncontrollably.
   It has disadvantage when using Constitution for an ability check or saving throw.
-  Whenever it takes damage, the target is stunned until the end of its next turn.
+  Whenever it takes damage, the target is [stunned](#Conditions_stunned) until the end of its next turn.
