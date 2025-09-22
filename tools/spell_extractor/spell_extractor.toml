@@ -1,0 +1,22 @@
+# This is the configuration file for the spell extractor
+
+[en-US.regexes]
+metadataRegex = "^\\[_metadata_:([\\w_\\.]+)\\]:-\\s*\"([^\"]*)\""
+durationRegex = "^\\*\\*Duration:\\*\\* .*"
+atHigherLevelsRegex = "^\\*\\*At Higher Levels.\\*\\*.*"
+cantripDamageIncreaseRegex = "^This spell’s damage increases.*"
+cantripBeamIncreaseRegex = "^The spell creates more than one beam when you reach higher levels:.*"
+
+[es-MX.regexes]
+metadataRegex = "^\\[_metadata_:([\\w_\\.]+)\\]:-\\s*\"([^\"]*)\""
+durationRegex = "^\\*\\*Duración:\\*\\* .*"
+atHigherLevelsRegex = "^\\*\\*A niveles superiores.\\*\\*.*"
+cantripDamageIncreaseRegex = "^El daño del conjuro aumenta en.*"
+cantripBeamIncreaseRegex = "^El conjuro crea más de un rayo cuando alcanzas niveles superiores:.*"
+
+[de-DE.regexes]
+metadataRegex = "^\\[_metadata_:([\\w_\\.]+)\\]:-\\s*\"([^\"]*)\""
+durationRegex = "^\\*\\*Wirkungsdauer:\\*\\* .*"
+atHigherLevelsRegex = "^\\*\\*Auf höheren Graden:\\*\\*.*"
+cantripDamageIncreaseRegex = "^Der Schaden dieses Zaubers wird jeweils um.*"
+cantripBeamIncreaseRegex = "^Auf höheren Stufen erschafft der Zauber mehr als einen Strahl:.*"
