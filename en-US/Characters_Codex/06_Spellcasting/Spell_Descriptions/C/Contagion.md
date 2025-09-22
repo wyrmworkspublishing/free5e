@@ -15,7 +15,7 @@
 [_metadata_:concentration]:- "false"
 [_metadata_:saving_throw]:- "Constitution"
 [_metadata_:saving_throw_success]:- "ends_effect"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _5th-level necromancy_
