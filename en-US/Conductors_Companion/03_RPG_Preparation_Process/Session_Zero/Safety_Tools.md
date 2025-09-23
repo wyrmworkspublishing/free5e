@@ -1,7 +1,10 @@
 ### Discuss Safety Tools
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+Discuss any potentially troubling themes of the campaign and its adventures, establishing hard lines and off-screen content you and your players have for the campaign.
+Write these things down.
+Discuss what tools you and your players can use to pause the game and break character whenever it becomes necessary to talk about the campaign's themes and content.
+
+[Safety Tools](./Safety_Tools_Definition.md)
 
 [Potentially Sensitive Topics](./Safety_Tools_Sensitive_Topics.md)
 

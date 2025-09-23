@@ -1,6 +1,7 @@
 # This tool will extract certain tags from a spell file.
 # It does NOT however claim to extract anything from the actual spell text; so things such as damage dice or types, saving throws, etc. have to be added manually.
 # It can also not determine, where this spell comes from or whether it was renamed.
+import os
 import re
 import sys
 import tomllib
@@ -13,7 +14,8 @@ languageMatch = re.match('^[a-z]{2}-[A-Z]{2}$', language)
 if (not languageMatch):
   raise Exception('Invalid language "{}"'.format(language))
 
-with open("spell_tagger.toml", "rb") as f:
+dir_path = os.path.dirname(os.path.realpath(__file__))
+with open(dir_path + '/spell_tagger.toml', 'rb') as f:
     configData = tomllib.load(f)
 configForLang = configData.get(language)
 
