@@ -6,15 +6,15 @@ ability modifier,,Attributsmodifikator
 ability score,,Attributswert
 abjuration,,Bannmagie
 acid damage,,Säureschaden
-acolyte,,Tempeldiener
+acolyte,,Tempeldiener:in
 acrobatics,skill,Akrobatik
 action,,Aktion
 actions in combat,,Aktionen im Kampf
-adept,,Adept
+adept,,Adept:in
 advantage,,Vorteil
 adventure,,Abenteuer
 adventuring,,auf Abenteuer ausziehen
-adventuring gear,,Abenteurerausrüstung
+adventuring gear,,Abenteuerausrüstung
 alignment,,Gesinnung
 ally,,Verbündete:r
 ammunition,,Munition
@@ -24,11 +24,11 @@ ancestry,,Abstammung
 animal handling,skill,Mit Tieren umgehen
 arcana,skill,Arkane Kunde
 arcane traditions,,Arkane Traditionen
-arcanist,,Arkanist
+arcanist,,Arkanist:in
 area of effect,,Wirkungsbereich
 armor,,Rüstung
 armor class,,Rüstungsklasse
-assassin,,Assassine
+assassin,,Assassin:in
 astral,,astral
 astral plane,,Astralebene
 at higher levels,Character level,Auf höheren Stufen
@@ -43,8 +43,8 @@ attunement,,Einstimmung
 background,,Hintergrund
 backgrounds,,Hintergründe
 bard,,Bard:in
-bard college,,Bard:innenschule
-bard spells,,Zauber der Barden
+bard college,,Bardische Schule
+bard spells,spell list,Zauber der Bard:innen
 beast,,Tier
 blinded,condition,Geblendet
 bloodied,,angeschlagen
@@ -52,13 +52,13 @@ bludgeoning damage,,Wuchtschaden
 bonus,,Bonus
 bonus action,,Bonusaktion
 boon,,Segen
-bounty hunter,,Kopfgeldjäger
-brawler,,Schläger
+bounty hunter,,Kopfgeldjäger:in
+brawler,,Schläger:in
 bright light,,helles Licht
 campaign,,Kampagne
 cantrip,,Zaubertrick
 carrying capacity,,Traglast
-cast,a spell,wirken
+cast,a spell,zaubern/ einen Zauber wirken
 casting time,,Zeitaufwand
 celestial,Monster type,Celestische:r
 celestial,Adjektive,celestisch
@@ -72,9 +72,9 @@ circle of the city,,Zirkel der Stadt
 circle of the land,,Zirkel des Landes
 class features,,Klassenmerkmale
 classes,,Klassen
-cleric,,Kleriker
+cleric,,Kleriker:in
 cleric domain,,Göttliche Domäne
-cleric spells,,Zauber der Kleriker
+cleric spells,spell list,Zauber der Kleriker:innen
 climb,,klettern
 cold,damage type,Kälteschaden
 college of fools,,Schule der Narren
@@ -141,16 +141,16 @@ dragonfire,fire produced by a dragon’s breath weapon,Drachenfeuer
 draw,A weapon,ziehen
 dreadnought,,Zornstreiter:in
 dreadnought paths,,Pfade der Zornstreiter:innen
-drop,to x hit points,fallen auf
+drop,to x hit points,Die Trefferpunkte sinken auf x TP / TP werden auf X reduziert
 duration,spells,Wirkungsdauer
-dwarf,,Zwerg
+dwarf,,Zwerg:in
 dwarven,adjective,zwergisch
-dwarves,not dwarfs,Zwerge
+dwarves,not dwarfs,Zwerg:innen
 dwarvish,language,Zwergisch
 eldritch,depends on context,"schauerlich, mystisch, unheimlich"
 eldritch invocations,,schauerliche Anrufungen
 elemental,monster type,Elementar
-elf,,Elf
+elf,,Elf:e
 elven,adjective,elfisch
 elvish,language,Elfisch
 enchantment,,Verzauberung
@@ -172,10 +172,10 @@ feats,,Talente
 fey,monster type,Feenwesen
 fey warped,,Feengezeichnet
 fiend,monster type,Unhold
-fighter,,Kämpfer
+fighter,,Kämpfer:in
 fighting style,,Kampfstil
 finesse,,Finesse
-finish,a rest,beenden
+finish,a (long or short) rest,eine lange / kurze Rast beenden
 fire,damage type,Feuerschaden
 fly,,Fliegen
 focus,,Fokus
@@ -186,7 +186,7 @@ gain,temp hp,erhalten
 gargantuan,,gigantisch
 giant,monster type,Riese
 glyph,,Glyphe
-gnome,,Gnom
+gnome,,Gnom:in
 gnomish,language,Gnomisch
 goblinoid,monster type,Goblinoid
 grab,verb,packen
@@ -208,7 +208,7 @@ hover,,schweben
 huge,,riesig
 human,,Mensch
 humanoid,monster type,Humanoide
-hunter,,Jäger
+hunter,,Jäger:in
 illusion,,Illusion
 illusions,,Illusionen
 immunity,,Immunität
@@ -223,6 +223,7 @@ instantaneous,,augenblicklich
 intelligence,,Intelligenz
 interacting with objects around you,,mit Gegenständen interagieren
 intimidation,skill,Einschüchtern
+investigation,skill,Nachforschungen
 invisibility,,Unsichtbarkeit
 invisible,,unsichtbar
 jump,,springen
@@ -238,11 +239,11 @@ magic,,Magie
 magic item,,Magischer Gegenstand
 magic-user,,Magiekundige:r
 make,a check,einen Wurf ablegen
-making an attack,,einen Angriff ausführen
+making an attack,,"einen Angriff ausführen, angreifen"
 martial archetypes,,Kampfarchetypen
 martial disciplines,,Kampftraditionen
 martial weapon,,Kriegswaffen
-martyr domain,,Domäne des Märtyrers
+martyr domain,,Domäne des Martyriums
 material,,Material
 maximum hit points,,maximale Trefferpunkte
 medicine,,Heilkunde
@@ -264,7 +265,7 @@ non-player character,,Nichtspielercharakter
 nonmagical,,nichtmagisch
 oath of devotion,,Schwur der Hingabe
 oath of the exemplar,,Schwur des Exempels
-oath of duty,,Heiliger Schwur
+oath of duty,,Schwur der Pflicht
 object,,Gegenstand
 observe,,beobachten
 occupied space,,besetzter Bereich
@@ -276,7 +277,7 @@ pact boon,,Segen des Paktes
 pact magic,,Paktmagie
 paralyzed,,gelähmt
 passive perception,,passive Wahrnehmung
-path of the berserker,,Pfad des Berserkers
+path of the berserker,,Pfad des Berserkertums
 path of the dragon,,Pfad des Drachen
 patron,,Patron
 per day,,pro Tag
@@ -290,8 +291,8 @@ pinpoint,,lokalisieren
 plane,,Ebene
 planes of existence,chapter title,Die Ebenen der Existenz
 plant,,Pflanze
-player,,"Spieler, Spielerin, Spielende"
-player character,,Spielercharakter
+player,,"Spielende:r, Gruppenmitglied"
+player character,,Spielcharakter
 poison damage,,Giftschaden
 poisoned,,vergiftet
 proficiency,with,geübt
@@ -303,10 +304,14 @@ psychic damage,,Psychischer Schaden
 radiant damage,,gleißender Schaden
 rage,,Kampfrausch
 range,,Reichweite
-ranged,"weapon, attack...","Fernkampf, Fernkampfwaffen, Fernkampf-Kriegswaffen, Fernkampfangriff, Fernkampf-Zauberangriff"
-ranger,,Waldläufer
-ranger archetypes,,Waldläuferarchetypen
-ranger spells,,Zauber der Waldläufer:innen
+ranged weapon,,Fernkampfwaffe
+martial ranged weapon,,Fernkampf-Kriegswaffe
+ranged attack,,Fernkampfangriff
+ranged weapon attack,,Fernkampf-Waffenangriff
+ranged spell attack,,Fernkampf-Zauberangriff
+ranger,,Waldläufer:in
+ranger archetypes,,Archtypen der Wildnis
+ranger spells,spell list,Zauber der Waldläufer:innen
 reach,,Reichweite
 reaction,use your reaction to,Reaktion verwenden um
 ready,an action,eine Aktion vorbereiten
@@ -318,19 +323,19 @@ resting,,rasten
 restore,hp,TP wiederherstellen
 restrained,,festgesetzt
 ritual,,Ritual
-rogue,,Schurke
-roguish archetypes,,Schurkenarchetypen
+rogue,,Schurk:in
+roguish archetypes,,schurkische Archetypen
 roleplay/roleplaying,,Rollenspiel/rollenspielen
 round,,Runde
 round down,,abrunden
 rule,,Regel
 rulebook,,Regelbuch
-sacred mandate,,sakrales Mandat
+sacred mandate,,heiliges Mandat
 save,,Rettungswurf
 save dc,,SG des Rettungswurfs
 saving throw,,Rettungswurf
 school of magic,,Schule der Magie
-score,a critical hit,einen kritischen Treffer landen
+score,a critical hit,einen kritischen Treffer landen / erzielen
 scry/scries/scried/scrying/scryer,one who scries,Hellsehen
 search,,suchen
 sense,noun,Sinn
@@ -346,11 +351,11 @@ slashing,damage,Hiebschaden
 sleight of hand,,Fingerfertigkeit
 small,,klein
 somatic,,Geste
-sorcerer,,Zauberer
-sorcerer spells,,Zauber der Zauberer
-sorcerous origins,,Ursprung der Zauberei
+sorcerer,,Zauber:in
+sorcerer spells,spell list,Zauber der Zauber:innen
+sorcerous origin,,Ursprung der Zauberei
 space,,Raum
-speed,,Geschwindigkeit
+speed,,"Geschwindigkeit, Bewegungsrate"
 spell,,Zauber
 spell descriptions,,Zauberbeschreibungen
 spell duel,,Zauberduell
@@ -361,19 +366,19 @@ spell trap,,Zauberfalle
 spell ward,,Zauberschutz
 spell-shield,,Zauberschild
 spellbook,,Zauberbuch
-spellcaster,,Zauberwirker
+spellcaster,,Zauberwirkende:r / Zauber wirkende Person
 spellcaster/spellcasting,,Zauberwirker/Zauberwirken
-spellcasting,,zauberwirken
+spellcasting,,Zauber wirken
 spellcraft,noun,Zauberkunst
 spellfire,,Zauberfeuer
 sphere,,Sphäre
 stable,,stabil
 staffs,not staves,Stäbe
-stat block,,Statblock
+stat block,,Spielwerte
 stealth,skill,Heimlichkeit
 strength,,Stärke
 stunned,condition,betäubt
-subclass,,Subklasse
+subclass,,Unterklasse
 succeed,a check,einen Wurf bestehen
 summon,,beschwören
 surprise,,Überraschung
@@ -388,14 +393,12 @@ teleportation,,Teleportation
 temporary hit points,,temporäre Trefferpunkte
 tenet,,Lehre
 the environment,,die Umgebung
-the fiend,,der Unhold
 the overseer,,der Aufseher
-theurge,,Theurg
-thief,,Dieb
+theurge,,Theurg:in
+thief,,Dieb:in
 thrown,,geworfen
 thunder damage,,Donnerschaden
 tiefling,,Tiefling
-timeline,,Zeitleiste
 tiny,,winzig
 tools,,Werkzeuge
 transmutation,,Verwandlung
@@ -414,23 +417,23 @@ use,an action,eine Aktion verwenden
 using ability scores,,Attributswerte verwenden
 using each ability,,Einzelne Attribute verwenden
 utilize,,nutzen
-vanguard,,Eidwahrer
-vanguard spells,,Zauber der Eidwahrer:innen
+vanguard,,Eidwahrer:in
+vanguard spells,spell list,Zauber der Eidwahrer:innen
 verbal,,verbal
 versatile,,vielseitig
 vulnerability,,Verwundbarkeit
 war magic,,Kriegsmagie
-warlock,,Hexenmeister
-warlock spells,,Zauber der Hexenmeister:innen
+warlock,,Hexenmeister:in
+warlock spells,spell list,Zauber der Hexenmeister:innen
 weapon properties,,Waffeneigenschaften
 weapons,,Waffen
 weaponsmith,,Waffenschmied
 wielding,,führen
 wisdom,,Weisheit
-wizard,,Magier
-wizard spells,,Zauber der Magier:innen
-wodewose,,Druide
-wodewose circles,,Zirkel der Druiden
-wodewose spells,,Zauber der Druiden
+wizard,,Magier:in
+wizard spells,spell list,Zauber der Magier:innen
+wodewose,,Druid:in
+wodewose circles,,Druidische Zirkel
+wodewose spells,spell list,Zauber der Druid:innen
 working together,,zusammenarbeiten
 worshiper,,Anhänger
