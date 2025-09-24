@@ -8,6 +8,7 @@
 [_metadata_:spell_level]:- "1"
 [_metadata_:casting_time_amount]:- "1"
 [_metadata_:casting_time_unit]:- "Reaktion"
+[_metadata_:casting_time_reaction_trigger]:- "eine Kreatur im Umkreis von 18 Metern um dich herum, die du sehen kannst, fügt dir Schaden zu"
 [_metadata_:ritual]:- "false"
 [_metadata_:range]:- "18 m"
 [_metadata_:target]:- "eine Kreatur, die dir Schaden zugefügt hat"
