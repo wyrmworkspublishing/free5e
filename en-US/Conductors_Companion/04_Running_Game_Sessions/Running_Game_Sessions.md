@@ -11,6 +11,8 @@
 
 [Combat Encounters](./Combat_Encounters/Combat_Encounters.md)
 
+[Using Magic Items](./Using_Magic_Items/Using_Magic_Items.md)
+
 [Tools for Improvisation](./Tools_for_Improvisation/Tools_for_Improvisation.md)
 
 [Quick Tricks for Easier Games](./Quick_Tricks_for_Easier_Games/Quick_Tricks_for_Easier_Games.md)
