@@ -39,7 +39,7 @@ Du versuchst, eine humanoide Kreatur in Reichweite zu betören, die du sehen kan
 Sie muss einen Weisheitsrettungswurf bestehen oder sie wird für die Wirkungsdauer von dir bezaubert.
 Wenn du oder deine Verbündeten gegen die Kreatur kämpfen, ist sie beim Rettungswurf im Vorteil.
 
-Während das Ziel bezaubert ist und ihr euch auf derselben Existenzebene aufhaltet, verfügst du über eine telepathische Verbindung zu ihm.
+Während das Ziel bezaubert ist und ihr euch auf derselben [Existenzebene](#Ebenen_der_Existenz_ebenen_der_existenz) aufhaltet, verfügst du über eine telepathische Verbindung zu ihm.
 Diese kannst du verwenden, um der Kreatur Befehle zu erteilen, solange du bei Bewusstsein bist (erfordert keine Aktion).
 Die Kreatur befolgt diese nach Kräften.
 Du kannst eine einfache, allgemeine Aktion angeben, wie „Greife diese Kreatur an", „Lauf dorthin" oder „Hole diesen Gegenstand".
