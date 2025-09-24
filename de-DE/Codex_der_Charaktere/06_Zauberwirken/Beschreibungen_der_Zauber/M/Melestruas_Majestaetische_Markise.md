@@ -5,7 +5,7 @@
 [_metadata_:spell_name]:- "Melestruas Majestätische Markise"
 [_metadata_:spell_original_name]:- "Winzige Hütte"
 [_metadata_:spell_name_english]:- "Melestrua's Marvelous Marquee"
-_metadata_:spell_school]:- "Hervorrufungszauber"
+[_metadata_:spell_school]:- "Hervorrufungszauber"
 [_metadata_:spell_level]:- "3"
 [_metadata_:casting_time_amount]:- "1"
 <!-- "action", "bonus action", "reaction", "minute", "minutes", "hour", "hours" -->
