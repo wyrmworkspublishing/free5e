@@ -96,6 +96,7 @@ Thaumaturgie
 TTRPG
 Unverwundbarkeit
 Verzauberungs*
+Weisheits*
 Weisheitswürfen
 Vampirgriff
 wurf*

@@ -12,7 +12,6 @@
 <!-- "true" oder "false" -->
 [_metadata_:ritual]:- "false"
 [_metadata_:range]:- "9 m"
-[_metadata_:target]:- "22,5 Kilogramm Nahrung und 120 Liter Wasser"
 <!-- "true" oder "false" -->
 [_metadata_:components_verbal]:- "true"
 <!-- "true" oder "false" -->
