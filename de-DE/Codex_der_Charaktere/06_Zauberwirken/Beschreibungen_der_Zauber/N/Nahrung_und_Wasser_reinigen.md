@@ -4,43 +4,34 @@
 <!-- spell-checker:words food purify -->
 [_metadata_:spell_name]:- "Nahrung und Wasser reinigen"
 [_metadata_:spell_name_english]:- "Purify Food and Drink"
-[_metadata_:spell_school]:- "???"
-[_metadata_:spell_level]:- "???"
-[_metadata_:casting_time_amount]:- "???"
+[_metadata_:spell_school]:- "Verwandlungszauber"
+[_metadata_:spell_level]:- "1"
+[_metadata_:casting_time_amount]:- "1"
 <!-- "action", "bonus action", "reaction", "minute", "minutes", "hour", "hours" -->
-[_metadata_:casting_time_unit]:- "???"
-[_metadata_:casting_time_reaction_trigger]:- "???"
+[_metadata_:casting_time_unit]:- "Aktion"
 <!-- "true" oder "false" -->
-[_metadata_:ritual]:- "false"
-[_metadata_:range]:- "???"
-[_metadata_:target]:- "???"
+[_metadata_:ritual]:- "true"
+[_metadata_:range]:- "3 m"
+[_metadata_:target]:- "1,5-m-Radius Sphäre"
 <!-- "true" oder "false" -->
-[_metadata_:components_verbal]:- "???"
+[_metadata_:components_verbal]:- "true"
 <!-- "true" oder "false" -->
-[_metadata_:components_somatic]:- "???"
+[_metadata_:components_somatic]:- "true"
 <!-- "true" oder "false" -->
-[_metadata_:components_material]:- "???"
-[_metadata_:components_material_description]:- "???"
-[_metadata_:components_material_cost]:- "???"
+[_metadata_:components_material]:- "false"
 <!-- "true" oder "false" -->
-[_metadata_:concentration]:- "???"
-[_metadata_:duration]:- "???"
-[_metadata_:saving_throw]:- "???"
-<!-- "halves_damage", "avoids_effect", "ends_effect", "special"; falls mehrere wahr sind, kommagetrennt einfügen -->
-[_metadata_:saving_throw_success]:- "???"
-[_metadata_:damage_formula]:- "???d???"
-[_metadata_:damage_type]:- "???"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "Unmittelbar"
 <!-- "mechanics_same_wording_same", "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
-[_metadata_:compared_to_wotc_srd_5.1]:- "???"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 <!-- "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
 [_metadata_:compared_to_a5e_srd]:- "???"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-<mark>_X-zauber n. Grades (Ritual?)_ oder _Zaubertrick der X_</mark>
+_Verwandlungszauber 1. Grades (Ritual)_
 
-**Zeitaufwand:** ??? \
-**Reichweite:** ??? \
-**Komponenten:** ??? \
-**Wirkungsdauer:** ???
+**Zeitaufwand:** 1 Aktion \
+**Reichweite:** 3 m \
+**Komponenten:** V, G \
+**Wirkungsdauer:** Unmittelbar
 
-> **Warning**
-> Dieser Zauber wird noch übersetzt.
+Alle nichtmagischen Nahrungsmittel und Getränke in einer Sphäre mit einem Radius von 1,5 Metern, die auf einen Punkt deiner Wahl in Reichweite zentriert ist, werden von Giften und Krankheiten gereinigt.
