@@ -1,4 +1,4 @@
-#### Dungeon Wall Decorations
+### Dungeon Wall Decorations
 <!-- spell-checker:words Marouflage -->
 
 Types of wall decorations that might reveal secrets and clues.

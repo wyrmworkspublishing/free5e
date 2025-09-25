@@ -1,4 +1,4 @@
-#### Dungeon Monsters
+### Dungeon Monsters
 
 You can add monsters and other foes to your adventure by consulting the following list.
 Roll a `d8` for easy monsters, roll a `d12` to expand the range into hard monsters, or roll a `d20` to also include dangerous monsters.

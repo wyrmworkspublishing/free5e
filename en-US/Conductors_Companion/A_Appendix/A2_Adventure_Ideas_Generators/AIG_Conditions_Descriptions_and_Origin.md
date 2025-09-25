@@ -1,4 +1,4 @@
-#### Condition, Description, and Origin
+### Condition, Description, and Origin
 
 Locations, monuments, or items can be flavored by determining their condition, description, and origin.
 

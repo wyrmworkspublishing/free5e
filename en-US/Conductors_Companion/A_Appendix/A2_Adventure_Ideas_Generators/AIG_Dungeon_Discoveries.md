@@ -1,4 +1,4 @@
-#### Dungeon Discoveries
+### Dungeon Discoveries
 
 Add useful discoveries such as the following to your adventure, to create upward beats in the characters' story.
 

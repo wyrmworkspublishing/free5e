@@ -1,4 +1,4 @@
-#### Quests
+### Quests
 
 Any quests the characters are asked to fulfill might be distilled down to one of the following starting points.
 

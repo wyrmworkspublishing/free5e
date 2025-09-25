@@ -1,4 +1,4 @@
-#### Chambers
+### Chambers
 
 Use this list when you need to define the purpose of a chamber in a dungeon, keep, or similar site.
 Reflavor any chamber to suit the theme of the adventure.

@@ -1,4 +1,4 @@
-#### Locations, Monuments, and Items
+### Locations, Monuments, and Items
 
 The location of the quest might also contain specific monuments or items tied to the adventure's goals.
 

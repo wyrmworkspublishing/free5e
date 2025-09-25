@@ -1,4 +1,4 @@
-#### Patrons and NPCs
+### Patrons and NPCs
 
 Use these tables to generate a patron or NPC for your adventure, applying an NPC stat block to create villains, hirelings, rivals, or heralds.
 
