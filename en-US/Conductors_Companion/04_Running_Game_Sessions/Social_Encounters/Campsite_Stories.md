@@ -1,4 +1,4 @@
-### Passive Monster Initiative
+#### Quick Trick: Campsite Stories
 
 > **Warning**
 > This section has not yet been transferred from the Google Doc.

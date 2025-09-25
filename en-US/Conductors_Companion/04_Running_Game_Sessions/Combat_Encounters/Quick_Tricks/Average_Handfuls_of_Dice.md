@@ -1,4 +1,4 @@
-### Use Index Cards for Initiative
+#### Average Handfuls of Dice**
 
 > **Warning**
 > This section has not yet been transferred from the Google Doc.
