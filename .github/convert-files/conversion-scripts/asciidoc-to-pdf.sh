@@ -2,6 +2,8 @@
 
 set -euo pipefail
 
+source "$(dirname $0)/download-images.sh"
+
 function convert_asciidoc_to_pdf {
   echo "Converting AsciiDoc files from ${ADOC_SOURCE_DIR} to PDF..."
 
@@ -36,5 +38,6 @@ THEMES_DIR="$(pwd)/${INPUT_BOOK_DIRECTORY}/themes"
 echo "Converting all AsciiDoc files in ${ADOC_SOURCE_DIR} to a PDF file. The settings are: language=${INPUT_LANGUAGE}, book_main_markdown_file=${INPUT_BOOK_MAIN_FILE}"
 
 pushd "${ADOC_SOURCE_DIR}"
+find_and_download_images
 convert_asciidoc_to_pdf
 popd
