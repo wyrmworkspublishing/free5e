@@ -1,6 +1,6 @@
 # Legal
 
-Este libro es una traducción por un voluntario, quien habla español como idioma no materno. Para ver la versión del libro oficial, tanto como la información legal oficial, leer la versión original en inglés disponible en [https://free5e.com](https://free5e.com). 
+Este libro es una traducción del Free5e Character's Codex (original: © 2025 by Wyrmworks Publishing, disponible en [https://free5e.com](https://free5e.com)), que tiene licencia Creative Commons 4.0 Atribución/Reconocimiento disponible en [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode). Para ver la versión del libro oficial, tanto como la información legal oficial, leer la versión original en inglés disponible en [https://free5e.com](https://free5e.com). Este traducción es el trabajo de un voluntario, Sequoia Sanchini, con al ayudo de la comunidad Free5e y también está disponible con la misma licencia. 
 
 Esta obra contiene materiales extraídas del A5E System Reference Document (A5ESRD/ Documento de Referencia de Sistema A5E) por EN Publishing y disponible en [A5ESRD.com](https://A5ESRD.com), basado en Level Up: Advanced 5th Edition (Nivela: 5a Edición Avanzado), disponible en [www.levelup5e.com](https://www.levelup5e.com).
 A5ESRD tiene la licencia Creative Commons 4.0 Atribución/Reconocimiento disponible en [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
@@ -15,10 +15,11 @@ Esta obra incluye materiales extraídas del Black Flag Reference Document 1.0 (�
 disponible en [https://koboldpress.com/Black-Flag-Roleplaying](https://koboldpress.com/Black-Flag-Roleplaying).
 El BFRD 1.0 tiene la licencia Creative Commons 4.0 Internacional disponible en [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
 El texto del Free5e Character's Codex (version original en inglés) © 2025 by Wyrmworks Publishing y disponible en [https://free5e.com](https://free5e.com) con la licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional.
-Para ver una copia de la licensia, ir a [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) por inglés o [https://creativecommons.org/licenses/by/4.0/deed.es] (https://creativecommons.org/licenses/by/4.0/deed.es) por español .
+Para ver una copia de la licencia, ir a [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) por inglés o [https://creativecommons.org/licenses/by/4.0/deed.es] (https://creativecommons.org/licenses/by/4.0/deed.es) por español.
+
 Usted es libre de usar esta contenido en cualquier manera permitido por la licencia si incluyas esta frase de atribución en se trabajo:
-> Esta obra contiene materiales extraídas del **Free5e Character's Codex**, © 2025 by Wyrmworks Publishing, y disponible en [https://free5e.com](https://free5e.com).
-> EL **Free5e Character's Codex** tiene la licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional (CC-BY-4.0).
+> Esta obra contiene materiales extraídas del Free5e Pergamino de Personajes, una traducción de **Free5e Character's Codex**, © 2025 by Wyrmworks Publishing, y disponible en [https://free5e.com](https://free5e.com).
+> El **Free5e Character's Codex** tiene la licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional (CC-BY-4.0). El versión en español fue creado por la comunidad Free5e con el trabajo de Sequoia Sanchini, y también tiene la licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional (CC-BY-4.0)
 > Para ver la licencia, ir a [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) (inglés) o [https://creativecommons.org/licenses/by/4.0/deed.es] (español).
 >
 > Esta adaptación también incluye materias originalmente de
