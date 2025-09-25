@@ -3,7 +3,7 @@
 > **Warning**
 > This document is very much work in progress.
 
-## Class Name Changes {#class-name-changes}
+## <a id="class-name-changes"></a>Class Name Changes
 
 Some class names in Free5e have been updated to remove outdated or problematic references while staying true to their themes.
 They use the same game mechanics as the original classes.
@@ -17,13 +17,13 @@ They use the same game mechanics as the original classes.
 - **Paladin → Vanguard:**
   Removing the association with a real-world religious conflict
 
-## Spell Changes {#spell-changes}
+## <a id="spell-changes"></a>Spell Changes
 
 Many spells in Free5e were changed compared to their equivalents in the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC (available at [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document) under the Creative Commons Attribution 4.0 International License, [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)).
 Often the changes are small.
 In all cases effort was put into making them remain compatible in spirit, for the sake of compatibility with existing materials.
 
-### Renamed spells {#renamed-spells}
+### <a id="renamed-spells"></a>Renamed spells
 <!-- spell-checker:words Feeblemind -->
 
 Some spells have been renamed in Free5e, in most cases to honor those who supported the project financially.
@@ -51,16 +51,16 @@ If a product (e.g. an adventure or a monster stat block) mentions one of these s
 
 <!-- Not renamed: Resilient Sphere -->
 
-### Reworded spells {#reworded-spells}
+### <a id="reworded-spells"></a>Reworded spells
 
 Many spells were reworded for clarity and/or brevity, but remain the same mechanically.
 
-### Changes related to pinpoint {#changes-related-to-pinpoint}
+### <a id="changes-related-to-pinpoint"></a>Changes related to pinpoint
 
 As explained in the section on [Pinpoint](#pinpoint-sense-and-observe), many spells in the SRD 5.1 use language such as "a creature you can see" or "a creature that can hear you".
 Since Free5e expands upon the senses that can be used in many places, spells that used such language also had to be updated.
 
-### More expansive changes to spells {#more-expansive-changes-to-spells}
+### <a id="more-expansive-changes-to-spells"></a>More expansive changes to spells
 
 In addition to the System Reference Document 5.1 by Wizards of the Coast LLC, Free5e also takes inspiration and uses content from the A5E System Reference Document (A5ESRD) by EN Publishing (available at [A5ESRD.com](https://A5ESRD.com) under the Creative Commons Attribution 4.0 International License, [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)).
 Specifically, many spells were modified or expanded upon by in the A5ESRD.
@@ -71,7 +71,7 @@ In most such cases, Free5e either adjusted the spell to enhance compatibility, o
 
 <!-- TODO It would be helpful to go into more detail on each changed spell here; however that's also A LOT of work. Maybe we can add those at a later point in time. -->
 
-### Additional spells {#additional-spells}
+### <a id="additional-spells"></a>Additional spells
 
 Free5e contains a number of spells that are not included in the SRD 5.1.
 Specifically, the following spells were added:
@@ -104,7 +104,7 @@ If a product (e.g. an adventure or a random loot table) mentions one of these it
 
 ## Senses {#senses}
 
-### Pinpoint, Sense, and Observe {#pinpoint-sense-and-observe}
+### <a id="pinpoint-sense-and-observe"></a>Pinpoint, Sense, and Observe
 <!-- spell-checker:words blindsight worg xjkappax -->
 
 For too long, many abilities and spells in 5e have used phrasing like "a creature you can see" or "a creature that can see or hear you," which unintentionally excludes blind characters and limits monster design.
@@ -138,7 +138,7 @@ The result is more accurate, inclusive, and playable rules that don’t burden t
 
 We also added options for adjusted spells and other abilities that use visuals instead of auditory requirements.
 
-#### What does this unlock? {#what-does-this-unlock}
+#### <a id="what-does-this-unlock"></a>What does this unlock?
 
 - **Blind characters** can now observe creatures they’ve experienced through touch, sound, or other cues, making Wild Shape and Shapechange accessible without visual input.
 - **Bards can now use visual arts** like dance to grant Bardic Inspiration.
@@ -156,7 +156,7 @@ ___
 ![A masculine adept with closed eyes and pink hair and purple pants](https://art.ngfiles.com/images/823000/823950_xjkappax_blind-monk.jpg)
 _Blind Monk © 2017 by xjkappax is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)_
 
-#### How to use _pinpoint_, _sense_, and _observe_ in your games {#how-to-use-pinpoint-sense-and-observe-in-your-games}
+#### <a id="how-to-use-pinpoint-sense-and-observe-in-your-games"></a>How to use _pinpoint_, _sense_, and _observe_ in your games
 
 All materials by the Free5e project already use the _pinpoint_ mechanic.
 
@@ -166,7 +166,7 @@ To adapt materials from other sources to the pinpoint mechanic, it will often be
 - "pinpoint" (if the precise identification of a creature or object is relevant), or
 - "observe" (when a creature requires the opportunity to gather more extensive information).
 
-##### Example 1: The spell _Compulsion_ {#example-1-the-spell-compulsion}
+##### <a id="example-1-the-spell-compulsion"></a>Example 1: The spell _Compulsion_
 
 The spell description for _Compulsion_ from the SRD 5.1 starts as follows (highlighting added for clarity):
 > Creatures of your choice that **you can see within range** and **that can hear you** must make a Wisdom saving throw.
@@ -177,7 +177,7 @@ Free5e changes this as follows:
 Here, the caster must be able to identify the precise positions of the creatures to be affected by the spell.
 The creatures to be affected however must only be able to be aware of part of the effect (in many cases the vocal component).
 
-##### Example 2: The class feature _Wild Shape_ {#example-2-the-class-feature-wild-shape}
+##### <a id="example-2-the-class-feature-wild-shape"></a>Example 2: The class feature _Wild Shape_
 
 In the SRD 5.1, the Druid class contains the _Wild Shape_ class feature.
 The description of this feature starts as follows:
@@ -193,7 +193,7 @@ Instead, the character must have had time to study the creature in more detail.
 
 <!-- TODO Add an example for modifying a monster stat block to work with the new mechanics -->
 
-#### Why It Matters {#why-it-matters}
+#### <a id="why-it-matters"></a>Why It Matters
 
 TTRPGs are about limitless imagination, so why let outdated rules limit who can fully participate?
 
@@ -202,7 +202,7 @@ Because in the worlds we imagine, everyone should have a place at the table.
 
 _This is a modified version of the article [This D&D Rule Change Finally Makes Sense](https://wyrmworkspublishing.com/this-dd-rule-change-finally-makes-sense/?utm_source=migration-doc&utm_medium=document&utm_campaign=Free5e), published by Wyrmworks Publishing on July 17th 2025 and used with permission._
 
-### Parasense {#parasense}
+### <a id="parasense"></a>Parasense
 <!-- spell-checker:words dracolich infravision -->
 
 Blindsight has always been one of the most confusing and inconsistent mechanics in 5e.
@@ -227,7 +227,7 @@ It’s a mess.
 
 Blindsight tries to solve the problem of non-visual perception in TTRPGs, but instead, it creates more questions than it answers.
 
-#### The intent behind Parasense {#the-intent-behind-parasense}
+#### <a id="the-intent-behind-parasense"></a>The intent behind Parasense
 
 Parasense was born out of a simple question:
 _What if we defined perception based on the actual sense being used?_
@@ -238,7 +238,7 @@ By separating the concept of **spatial awareness** from sight, we could account 
 This was born out of our community discussions on [Pinpoint](#pinpoint-sense-and-observe), our clarified rules for how creatures determine exact locations.
 In these discussions we realized that blindsight wasn’t just vague — it was limiting.
 
-#### What Is Parasense? {#what-is-parasense}
+#### <a id="what-is-parasense"></a>What Is Parasense?
 
 **Parasense** is a new mechanic in Free5e that replaces blindsight for monsters.
 
@@ -256,7 +256,7 @@ If that sense is disrupted, parasense is disrupted.
 This small change solves the problems blindsight could never handle:
 **it adds clarity, it adds weakness, and it respects diversity.**
 
-#### The Parasense Rules {#the-parasense-rules}
+#### <a id="the-parasense-rules"></a>The Parasense Rules
 
 Here’s how we wrote it:
 
@@ -264,10 +264,10 @@ Here’s how we wrote it:
 >
 > A creature with parasense can pinpoint and observe its surroundings within a defined area (e.g., 60 ft. cone) without using sight.
 > This sense depends on a supporting sense, like hearing, sensitivity to pressure, or specific magic or energy types.
-> It may be disrupted by effects that interfere with that sense (e.g., [Silence](#Silence_silence) for auditory echolocation, strong wind for air pressure).
+> It may be disrupted by effects that interfere with that sense (e.g., Silence for auditory echolocation, strong wind for air pressure).
 > Parasense reveals position and general features but not fine detail.
 
-#### Examples in Play {#examples-in-play}
+#### <a id="examples-in-play"></a>Examples in Play
 
 - A **worg** in total darkness can still stalk prey using its parasense (scent + hearing), but strong winds may throw it off.
 - A **water elemental** can detect movement of fluids, like blood in nearby creatures, but gargoyles are invisible to them.
@@ -279,7 +279,7 @@ It makes encounters more tactical, adding new ways for players and Conductors to
 
 ![A dragon with its wings held in an oval shape and its tail curling beneath it](https://wyrmworkspublishing.com/wp-content/uploads/2023/03/dragon-clipart-md.png)
 
-#### How to use Parasense in your game {#how-to-use-parasense-in-your-game}
+#### <a id="how-to-use-parasense-in-your-game"></a>How to use Parasense in your game
 
 > **Warning**
 > This section is yet to be written.
@@ -288,7 +288,7 @@ It makes encounters more tactical, adding new ways for players and Conductors to
 
 _This is a modified version of the article [A New Look at Blindsight in DnD](https://wyrmworkspublishing.com/a-new-look-at-blindsight-in-dnd/?utm_source=migration-doc&utm_medium=document&utm_campaign=Free5e), published by Wyrmworks Publishing on August 19th 2025 and used with permission._
 
-### Muteness & Deafness {#muteness-deafness}
+### <a id="muteness-deafness"></a>Muteness & Deafness
 
 Historically speaking, 5e has mostly assumed that player characters can speak by producing sounds with their mouths and understand language by hearing those sounds with their ears.
 While this will likely continue to be true for many characters, Free5e strives to be inclusive and thus make it not only possible but seamless to play characters who communicate in other ways.
@@ -302,7 +302,7 @@ Among other things, this led us to add the following note to the _[nullified](#u
 This makes it very clear, that being temporarily deafened (or _nullified (hearing)_ in the language of the game) is very different from a character being permanently deaf.
 It also works in tandem with rules such as [pinpoint](#pinpoint-sense-and-observe) that allow for characters that use senses other than hearing to interact with the world.
 
-#### Introducing sign languages {#introducing-sign-languages}
+#### <a id="introducing-sign-languages"></a>Introducing sign languages
 
 Free5e introduces the option of using sign languages.
 Depending on the character in question, these can be used either in addition to spoken languages or to replace them.
@@ -315,12 +315,12 @@ The rule as it appears in the _Character's Codex_ reads as follows:
 > You must have at least one hand free to communicate by sign, and the creature you are communicating with must be able to see you.
 > When attempting to make subtle signs to remain unnoticed, you must succeed on a Sleight of Hand check against the passive Perception of observers.
 
-#### How to use sign languages in your games {#how-to-use-sign-languages-in-your-game}
+#### <a id="how-to-use-sign-languages-in-your-game"></a>How to use sign languages in your games
 
 Many options in the Free5e project either use the [pinpoint, sense, and observe mechanism](#pinpoint-sense-and-observe), thus not specifically stating which method it uses to communicate meaning.
 Some parts of the game however already offer specific mechanisms for using sign language.
 
-##### Example 1: The subclass feature _Cutting Words_ {#example-1-the-subclass-feature-cutting-words}
+##### <a id="example-1-the-subclass-feature-cutting-words"></a>Example 1: The subclass feature _Cutting Words_
 
 Bards who join the _College of Lore_ gain the feature _Cutting Words_ at level 3.
 In the SRD 5.1, this feature includes the following:
@@ -329,7 +329,7 @@ In the SRD 5.1, this feature includes the following:
 In Free5e, this was changed as follows:
 > The creature is immune <mark>if it can’t hear (or see if you’re using a sign language)</mark> you or if it’s immune to being charmed.
 
-##### Example 2: The spell _Enthrall_ {#example-2-the-spell-enthrall}
+##### <a id="example-2-the-spell-enthrall"></a>Example 2: The spell _Enthrall_
 
 The SRD 5.1 version of the spell _Enthrall_ has the following spell description:
 > You weave a <mark>distracting string of words</mark>, causing creatures of your choice that you can see within range and <mark>that can hear you</mark> to make a Wisdom saving throw.
@@ -347,9 +347,9 @@ The Free5e version of this spell makes the method of communication much more ope
 
 <!-- TODO Add an example for modifying an NPC stat block to use sign language -->
 
-## Updated Conditions {#updated-conditions}
+## <a id="updated-conditions"></a>Updated Conditions
 
-To better accommodate the changes related to [pinpointing](#pinpoint-sense-and-observe-pinpoint-sense-and-observe), Free5e replaced the conditions _blinded_ and _deafened_ with a new condition: _nullified_.
+To better accommodate the changes related to [pinpointing](#pinpoint-sense-and-observe), Free5e replaced the conditions _blinded_ and _deafened_ with a new condition: _nullified_.
 
 > **Nullified**
 >
@@ -372,12 +372,12 @@ In addition to this, a new condition was introduced to represent partial loss of
 
 _Impaired_ does not strictly match any condition from other 5e rulesets, but it can be used in conjunction with materials for such rulesets nevertheless.
 
-### How to use the new conditions in your games {#how-to-use-the-new-conditions-in-your-games}
+### <a id="how-to-use-the-new-conditions-in-your-games"></a>How to use the new conditions in your games
 
 When third party material uses the conditions _blinded_ or _deafened_ related to a creature that relies on sight / hearing as a primary sense, you can replace those with _nullified (sight)_ / _nullified (hearing)_.
 The same is true if you create your own spells and stat blocks.
 
-#### Example 1: Condition Immunities {#example-1-condition-immunities}
+#### <a id="example-1-condition-immunities"></a>Example 1: Condition Immunities
 
 The creature _Shrieker_ from the _Fungi_ section of the SRD 5.1 has the following entry:
 
@@ -389,7 +389,7 @@ This can be replaced the following, to make the creature compatible with Free5e:
 
 In some cases it might also be useful to change monsters to be immune to other forms of the _nullified_ or _impaired_ conditions.
 
-##### Example 2: Monster Abilities {#example-2-monster-abilities}
+##### <a id="example-2-monster-abilities"></a>Example 2: Monster Abilities
 
 The creature _Gibbering Mouther_ from the SRD 5.1 has the following ability:
 
@@ -428,7 +428,7 @@ However we could easily introduce _impaired_ conditions here, given how loud the
 
 This represents that while the shrieking is obviously a distracting nuisance, it is not so bad as to be deafening (which would impart _nullified_ conditions).
 
-#### Example 3: The stat block for _Bat_ {#example-3-the-stat-block-for-bat}
+#### <a id="example-3-the-stat-block-for-bat"></a>Example 3: The stat block for _Bat_
 
 The SRD 5.1 contains the following stat block for bats:
 
@@ -455,8 +455,8 @@ The SRD 5.1 contains the following stat block for bats:
 > _Melee Weapon Attack:_ +0 to hit, reach 5 t., one creature.
 > _Hit:_ 1 piercing damage.
 
-The **_Echolocation_** feature makes it very clear, that this is a creature which relies on hearing to [pinpoint](#pinpoint-sense-and-observe-pinpoint-sense-and-observe).
-So using the new [parasense](#parasense-parasense) mechanic and the new _nullified_ condition, this could be changed as follows:
+The **_Echolocation_** feature makes it very clear, that this is a creature which relies on hearing to [pinpoint](#pinpoint-sense-and-observe).
+So using the new [parasense](#parasense) mechanic and the new _nullified_ condition, this could be changed as follows:
 
 > **Bat** \
 > _Tiny beast, unaligned_
@@ -483,7 +483,7 @@ So using the new [parasense](#parasense-parasense) mechanic and the new _nullifi
 
 If such a bat were under the _impaired (hearing)_ or _impaired (parasense, auditory echolocation)_ condition, its passive Perception would be reduced by 5, and even with its **_Keen Hearing_** feature, it would suffer a numeric penalty between -1 and -5 (-2 unless stated otherwise) on any perception check that relies on hearing.
 
-## Legal Information {#legal-information}
+## <a id="legal-information"></a>Legal Information
 
 This work includes material adapted from the **Free5e Character's Codex**, © 2025 by Wyrmworks Publishing, and available at [https://free5e.com](https://free5e.com).
 The **Free5e Character's Codex** is licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0).
