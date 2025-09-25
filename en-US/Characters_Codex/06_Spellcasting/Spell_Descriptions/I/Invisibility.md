@@ -24,7 +24,7 @@ _2nd-level illusion_
 **Components:** V, S, M (an eyelash encased in gum arabic) \
 **Duration:** Concentration, up to 1 hour
 
-You wreathe a creature in an illusory veil, making it [invisible](#Conditions_invisible).
+You wreathe a creature in an illusory veil, making it [imperceptible (sight)](#Conditions_imperceptible).
 Anything the target is carrying or wearing is also invisible so long as it remains in the target’s possession.
 The spell’s effects end for a target that attacks or casts a spell.
 

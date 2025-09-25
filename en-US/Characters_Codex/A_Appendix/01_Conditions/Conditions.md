@@ -62,17 +62,30 @@ When you gain this condition, it applies to one or more specific senses (such as
   (Depending on the extent of the impairment, the Conductor might adjust the penalty from –1 to –5.)
 - Passive scores that rely on the affected sense are reduced by 5.
 
-### Incapacitated {#Conditions_incapacitated}
+### Imperceptible
+
+This condition always relates to a specific sense, which may be a specific form of [Parasense](#Exploration_Environment_parasense).
+Some common types of imperceptibility are:
+
+- _Imperceptible (sight)_, also called _invisible_
+- _Imperceptible (hearing)_, also called _inaudible_
+- _Imperceptible (smell)_, also called _odorless_
+
+When a something is _Imperceptible_ to a Parasense, it must always relate to a specific secondary sense.
+For example, a creature could have the condition _Imperceptible (parasense: electrical fields)_ and hide from a sharks' electric sense, or _Imperceptible (parasense: auditory echolocation)_ and thereby hide from a bat's echolocation.
+
+A creature can benefit from one or several forms of the _Imperceptible_ condition at the same time.
+The following rules are valid for each individual case:
+
+- An imperceptible creature is impossible to pinpoint by the sense in question without the aid of magic or a special sense. For the purpose of hiding, the creature is [heavily obscured](#Exploration_Environment_senses_and_awareness).
+  The creature’s location can be detected by things detectable by other senses, e.g. noises an invisible creature makes or any tracks it leaves.
+- Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
+- A creature cannot benefit from this condition if it is perceived by any accurate sense.
+  So for example, a bat using echolocation could ignore the _Imperceptible (sight)_ condition of another creature.
+
+### <a id="Conditions_incapacitated"></a>Incapacitated
 
 - An incapacitated creature can’t take actions or reactions.
-
-### Invisible
-
-- An invisible creature cannot be seen without the aid of magic or a precise sense other than sight.
-  Creatures that rely on sight as their only precise sense can therefore not pinpoint its position.
-- For the purpose of hiding, the creature is [heavily obscured](#Exploration_Environment_senses_and_awareness) to such creatures.
-  Its location can still be detected through noise, tracks, or other cues.
-- Attack rolls against a creature you cannot pinpoint have disadvantage, and a creature’s attack rolls against a target that cannot pinpoint it have advantage.
 
 ### Nullified
 

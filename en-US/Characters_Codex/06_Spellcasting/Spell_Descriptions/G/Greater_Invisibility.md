@@ -23,4 +23,4 @@ _4th-level illusion_
 **Components:** V, S \
 **Duration:** Concentration, up to 1 minute
 
-A creature, along with anything it is currently carrying or wearing, is [invisible](#Conditions_invisible).
+A creature, along with anything it is currently carrying or wearing, is [imperceptible (sight)](#Conditions_imperceptible).
