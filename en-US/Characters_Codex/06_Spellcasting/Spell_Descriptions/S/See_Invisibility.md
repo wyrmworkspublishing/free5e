@@ -25,4 +25,4 @@ _2nd-level divination_
 **Duration:** 1 hour
 
 You can see [imperceptible (sight)](#Conditions_imperceptible) creatures and objects, and you can see into the [Ethereal Plane](#Planes_of_Existence_planes_of_existence).
-You perceive Ethereal creatures and objects as translucent phantoms.
+You perceive ethereal creatures and objects as translucent phantoms.

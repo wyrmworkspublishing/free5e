@@ -68,7 +68,7 @@
 - [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
 - [Gust of Wind](#Gust_of_Wind_gust_of_wind) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
-- [Invisibility](#Invisibility_invisibility) (concentration)
+- [Imperceptibility](#Imperceptibility_imperceptibility) (concentration)
 - [Knock](#Knock_knock)
 - [Levitate](#Levitate_levitate) (concentration)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
@@ -134,7 +134,7 @@
 - [Divination](#Divination_divination) (ritual)
 - [Fabricate](#Fabricate_fabricate)
 - [Fire Shield](#Fire_Shield_fire_shield)
-- [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
+- [Greater Imperceptibility](#Greater_Imperceptibility_greater_imperceptibility) (concentration)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->

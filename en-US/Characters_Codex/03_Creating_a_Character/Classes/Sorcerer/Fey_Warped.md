@@ -18,13 +18,13 @@ ___
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Fey Origin Spells (table)_
 
-| Sorcerer Level | Spells |
-|---------------:|:-------|
-|            1st | [Charm Person](#Charm_Person_charm_person), [Faerie Fire](#Faerie_Fire_faerie_fire) |
-|            3nd | [Mirror Image](#Mirror_Image_mirror_image), [Misty Step](#Misty_Step_misty_step) |
-|            5th | [Blink](#Blink_blink), [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) |
-|            7th | [Confusion](#Confusion_confusion), [Greater Invisibility](#Greater_Invisibility_greater_invisibility) |
-|            9th | [Dominate Person](#Dominate_Person_dominate_person), [Mislead](#Mislead_mislead) |
+| Sorcerer Level | Spells                                                                                                            |
+|---------------:|:------------------------------------------------------------------------------------------------------------------|
+|            1st | [Charm Person](#Charm_Person_charm_person), [Faerie Fire](#Faerie_Fire_faerie_fire)                               |
+|            3nd | [Mirror Image](#Mirror_Image_mirror_image), [Misty Step](#Misty_Step_misty_step)                                  |
+|            5th | [Blink](#Blink_blink), [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern)                                     |
+|            7th | [Confusion](#Confusion_confusion), [Greater Imperceptibility](#Greater_Imperceptibility_greater_imperceptibility) |
+|            9th | [Dominate Person](#Dominate_Person_dominate_person), [Mislead](#Mislead_mislead)                                  |
 
 ___
 

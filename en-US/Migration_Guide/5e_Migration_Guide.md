@@ -40,8 +40,10 @@ If a product (e.g. an adventure or a monster stat block) mentions one of these s
 - Feeblemind → Confound
 - Floating Disk → Pelham's Hovering Platter
 - Freezing Sphere → Fiona's Freezing Sphere
+- Greater Invisibility → Greater Imperceptibility (see [Updated Conditions](#updated-conditions) for details)
 - Hideous Laughter → Paoliello's Hideous Laughter
 - Instant Summons → Natalex's Instant Summons
+- Invisibility → Imperceptibility (see [Updated Conditions](#updated-conditions) for details)
 - Irresistible Dance → Emma's Irresistible Dance
 - Magnificent Mansion → Alia's Magnificent Mansion
 - Private Sanctum → Jess's Private Sanctum
