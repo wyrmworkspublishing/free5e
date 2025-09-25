@@ -28,8 +28,7 @@ You may also choose larger objects; treat Medium objects as 2 objects, Large obj
 
 Until the spell ends or a target is reduced to 0 hit points, you animate the targets and turn them into constructs under your control.
 
-<!-- TODO The parasense options here do not match those we currently have in the Environment section. We should probably compare those lists. -->
-Each construct has Constitution 10, Intelligence 3, Wisdom 3, and Charisma 1, as well as a flying speed of 30 feet and the ability to hover (if securely fastened to something larger, it has a Speed of 0), and [parasense](#Exploration_Environment_parasense) (choose one: audible or optical echolocation, electrical fields, motion, or thermal) to a range of 30 feet ([nullified](#Conditions_nullified) of that sense beyond that distance).
+Each construct has Constitution 10, Intelligence 3, Wisdom 3, and Charisma 1, as well as a flying speed of 30 feet and the ability to hover (if securely fastened to something larger, it has a Speed of 0), and [parasense](#Exploration_Environment_parasense) (choose one: auditory or optical echolocation, electrical, motion, or thermal) to a range of 30 feet ([nullified](#Conditions_nullified) of that sense beyond that distance).
 Otherwise a construct’s statistics are determined by its size.
 
 | Size                    |   HP   | AC | Attack                                             | STR | DEX |

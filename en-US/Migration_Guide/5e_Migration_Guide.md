@@ -213,9 +213,9 @@ It’s a mess.
 - **It’s vague.**
   Does blindsight let a creature "see" every detail (like color), or just know the positions of nearby creatures?
 - **It’s inconsistent.**
-  A bat’s echolocation and an ooze’s chemical awareness are lumped into the same mechanic, even though they work completely differently.
+  A bat’s auditory echolocation and an ooze’s chemical awareness are lumped into the same mechanic, even though they work completely differently.
 - **It ignores weaknesses.**
-  Echolocation should fail in Silence.
+  Auditory echolocation should fail in Silence.
   Air pressure detection should fail in windy conditions.
   Thermal detection (remember Infravision?) should be unidirectional.
   But blindsight flattens all these nuances into one catch-all.
@@ -249,7 +249,7 @@ Here’s the key difference:
 **parasense is always tied to its supporting sense.**
 If that sense is disrupted, parasense is disrupted.
 
-- A bat’s parasense (echolocation) fails in a _Silence_ spell.
+- A bat’s parasense (auditory echolocation) fails in a _Silence_ spell.
 - A shark’s parasense (electrical) is scrambled by electrical or magnetic interference.
 - A shrieker’s spore detection is blown away by a _Gust of Wind_.
 
@@ -263,7 +263,8 @@ Here’s how we wrote it:
 > **Parasense**
 >
 > A creature with parasense can pinpoint and observe its surroundings within a defined area (e.g., 60 ft. cone) without using sight.
-> This sense relies on a supporting sense such as echolocation or sensitivity to air pressure, heat, electrical fields, or magical cues and may be disrupted by effects that interfere with that sense (e.g., Silence for echolocation, strong wind for air pressure).
+> This sense depends on a supporting sense, like hearing, sensitivity to pressure, or specific magic or energy types.
+> It may be disrupted by effects that interfere with that sense (e.g., [Silence](#Silence_silence) for auditory echolocation, strong wind for air pressure).
 > Parasense reveals position and general features but not fine detail.
 
 #### Examples in Play {#examples-in-play}
@@ -468,11 +469,11 @@ So using the new [parasense](#parasense-parasense) mechanic and the new _nullifi
 > |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 > |  2 (-4) | 15 (+2) |  8 (-1) |  2 (-4) | 12 (+1) |  3 (-3) |
 >
-> **Senses** <mark>parasense (echolocation, auditory) 60 ft.</mark>, passive Perception 11 \
+> **Senses** <mark>parasense (auditory echolocation) 60 ft.</mark>, passive Perception 11 \
 > **Languages** — \
 > **Challenge** 0 (10 XP)
 >
-> **_Echolocation._** The bat can't use its <mark>parasense (echolocation)</mark> while <mark>nullified (hearing) or nullified (parasense: echolocation)</mark>. \
+> **_Echolocation._** The bat can't use its <mark>parasense (auditory echolocation)</mark> while <mark>nullified (hearing) or nullified (parasense: auditory echolocation)</mark>. \
 > **_Keen Hearing._** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 >
 > **Actions** \
@@ -480,7 +481,7 @@ So using the new [parasense](#parasense-parasense) mechanic and the new _nullifi
 > _Melee Weapon Attack:_ +0 to hit, reach 5 t., one creature.
 > _Hit:_ 1 piercing damage.
 
-If such a bat were under the _impaired (hearing)_ or _impaired (parasense, auditory echolocation)_ condition, it's passive Perception would be reduced by 5 and even with its **_Keen Hearing_** feature it would suffer a numeric penalty between -1 and -5 (-2 unless stated otherwise) on any perception check that relies on hearing.
+If such a bat were under the _impaired (hearing)_ or _impaired (parasense, auditory echolocation)_ condition, its passive Perception would be reduced by 5, and even with its **_Keen Hearing_** feature, it would suffer a numeric penalty between -1 and -5 (-2 unless stated otherwise) on any perception check that relies on hearing.
 
 ## Legal Information {#legal-information}
 
