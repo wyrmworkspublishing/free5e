@@ -25,7 +25,7 @@ for root, dirs, files in os.walk(spellpath):
 
   for file in files:
     print("Processing file {}...".format(file))
-    if (not file.endswith('.md')):
+    if (file.startswith('_') or not file.endswith('.md')):
       continue
     filepath = os.path.join(root, file)
     with open(filepath, 'r') as spellfile:
