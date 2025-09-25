@@ -142,7 +142,7 @@
 ;;Glyph of Warding;Glyph of Warding;reworded;open;no;
 ;;Goodberry;Goodberry;mechanically changed;open;no;
 ;;Grease;Grease;reworded;open;no;
-;;Greater Invisibility;Greater Invisibility;reworded;open;no;This spell is due to be mechanically changed.
+;;Greater Imperceptibility;Greater Invisibility;changed;open;no;This spell was renamed and mechanically changed in the context of replacing the Invisible condition with Imperceptible
 ;;Greater Restoration;Greater Restoration;mechanically changed;open;no;
 ;;Guardian of Faith;Guardian of Faith;reworded;open;no;
 ;;Guards and Wards;Guards and Wards;reworded;open;no;
@@ -168,11 +168,11 @@
 ;;Ice Storm;Ice Storm;reworded;open;no;
 ;;Identify;Identify;mechanically changed;open;no;
 ;;Illusory Script;Illusory Script;reworded;open;no;
+;;Imperceptibility;Invisibility;changed;open;no;This spell was renamed and mechanically changed in the context of replacing the Invisible condition with Imperceptible
 ;;Imprisonment;Imprisonment;mechanically changed;open;no;
 ;;Incendiary Cloud;Incendiary Cloud;reworded;open;no;
 ;;Inflict Wounds;Inflict Wounds;reworded;open;no;
 ;;Insect Plague;Insect Plague;reworded;open;no;
-;;Invisibility;Invisibility;reworded;open;no;This spell is due to be mechanically changed.
 ;;Iz’zart's Swarm Limb;-;new;open;no;This spell is completely new for Free5e and so doesn't have a WotC equivalent.
 ;;Jess's Private Sanctum;Private Sanctum;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
 ;;Jump;Jump;not changed;open;no;
@@ -260,7 +260,7 @@
 ;;Sanctuary;Sanctuary;mechanically changed;open;no;
 ;;Scorching Ray;Scorching Ray;reworded;open;no;
 ;;Scrying;Scrying;reworded;open;no;
-;;See Invisibility;See Invisibility;reworded;open;no;
+;;See Invisibility;See Invisibility;reworded;open;no;This spell may be changed due to replacing the Invisible condition with Imperceptible
 ;;Seeming;Seeming;reworded;open;no;
 ;;Sending;Sending;reworded;open;no;
 ;;Sequester;Sequester;mechanically changed;open;no;
