@@ -350,19 +350,24 @@ The Free5e version of this spell makes the method of communication much more ope
 ## <a id="updated-conditions"></a>Updated Conditions
 
 To better accommodate the changes related to [pinpointing](#pinpoint-sense-and-observe), Free5e replaced the conditions _blinded_ and _deafened_ with a new condition: _nullified_.
+Also, the _invisible_ condition was replaced by the new condition _imperceptible_.
 
-> **Nullified**
->
+### Nullified
+
+The new _nullified_ condition is defined as follows:
+
 > When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
 >
 > - You cannot use the affected sense and automatically fail any ability check that relies on it.
 > - If this condition blocks all of your precise senses, you have disadvantage on attack rolls, and attack rolls against you have advantage.
 > - If a supporting sense is nullified, dependent parasenses are also _nullified_ (e.g., _nullified (hearing)_ also nullifies auditory echolocation).
 
+This is meant to replace both the _blinded_ and _deafened_ conditions, as well as add options for temporarily blocking other senses.
+
+### Impaired
+
 In addition to this, a new condition was introduced to represent partial loss of a specific sense: _impaired_.
 
-> **Impaired**
->
 > When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
 >
 > - Ability checks that rely on the affected sense are made with disadvantage.
@@ -371,6 +376,31 @@ In addition to this, a new condition was introduced to represent partial loss of
 > - Passive scores that rely on the affected sense are reduced by 5.
 
 _Impaired_ does not strictly match any condition from other 5e rulesets, but it can be used in conjunction with materials for such rulesets nevertheless.
+
+### Imperceptible
+
+Rounding out the trio, the _invisible_ condition was replaced with _imperceptible_:
+
+> This condition always relates to a specific sense, which may be a specific form of [Parasense](#parasense).
+> Some common types of imperceptibility are:
+>
+> - _Imperceptible (sight)_, also called _invisible_
+> - _Imperceptible (hearing)_, also called _inaudible_
+> - _Imperceptible (smell)_, also called _odorless_
+>
+> When a something is _Imperceptible_ to a Parasense, it must always relate to a specific secondary sense.
+> For example, a creature could have the condition _Imperceptible (parasense: electrical fields)_ and hide from a sharks' electric sense, or _Imperceptible (parasense: auditory echolocation)_ and thereby hide from a bat's echolocation.
+>
+> A creature can benefit from one or several forms of the _Imperceptible_ condition at the same time.
+> The following rules are valid for each individual case:
+>
+> - An imperceptible creature is impossible to pinpoint by the sense in question without the aid of magic or a special sense. For the purpose of hiding, the creature is heavily obscured.
+>   The creature’s location can be detected by things detectable by other senses, e.g. noises an invisible creature makes or any tracks it leaves.
+> - Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
+> - A creature cannot benefit from this condition if it is perceived by any accurate sense.
+>   So for example, a bat using echolocation could ignore the _Imperceptible (sight)_ condition of another creature.
+
+Anywhere, where you previously would have used the _invisible_ condition, you can replace it with _imperceptible (sight)_.
 
 ### <a id="how-to-use-the-new-conditions-in-your-games"></a>How to use the new conditions in your games
 
@@ -482,6 +512,8 @@ So using the new [parasense](#parasense) mechanic and the new _nullified_ condit
 > _Hit:_ 1 piercing damage.
 
 If such a bat were under the _impaired (hearing)_ or _impaired (parasense, auditory echolocation)_ condition, its passive Perception would be reduced by 5, and even with its **_Keen Hearing_** feature, it would suffer a numeric penalty between -1 and -5 (-2 unless stated otherwise) on any perception check that relies on hearing.
+
+<!-- TODO Add examples for the imperceptible condition -->
 
 ## <a id="legal-information"></a>Legal Information
 
