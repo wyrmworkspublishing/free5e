@@ -43,7 +43,6 @@
 
 - [Aid](#Aid_aid)
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
-- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
@@ -58,6 +57,7 @@
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Magic Mouth](#Magic_Mouth_magic_mouth) (ritual)
 - [Mirror Image](#Mirror_Image_mirror_image)
+- [Nullify Sense](#Nullify_Sense_nullify_sense)
 - [See Invisibility](#See_Invisibility_see_invisibility)
 - [Shatter](#Shatter_shatter)
 - [Silence](#Silence_silence) (ritual)

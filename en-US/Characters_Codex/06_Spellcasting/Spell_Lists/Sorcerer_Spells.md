@@ -43,7 +43,6 @@
 #### 2nd Level
 
 - [Alter Self](#Alter_Self_alter_self) (concentration)
-- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Blur](#Blur_blur) (concentration)
 - [Darkness](#Darkness_darkness) (concentration)
 - [Darkvision](#Darkvision_darkvision)
@@ -60,6 +59,7 @@
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
+- [Nullify Sense](#Nullify_Sense_nullify_sense)
 - [Scorching Ray](#Scorching_Ray_scorching_ray)
 - [See Invisibility](#See_Invisibility_see_invisibility)
 - [Shatter](#Shatter_shatter)

@@ -34,7 +34,6 @@
 
 - [Aid](#Aid_aid)
 - [Augury](#Augury_augury) (ritual)
-- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - [Continual Flame](#Continual_Flame_continual_flame)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
@@ -43,6 +42,7 @@
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
+- [Nullify Sense](#Nullify_Sense_nullify_sense)
 - [Prayer of Healing](#Prayer_of_Healing_prayer_of_healing)
 - [Protection from Poison](#Protection_from_Poison_protection_from_poison)
 - [Silence](#Silence_silence) (ritual)

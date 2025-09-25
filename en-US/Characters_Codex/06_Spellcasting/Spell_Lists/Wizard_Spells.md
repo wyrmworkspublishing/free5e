@@ -55,7 +55,6 @@
 - [Alter Self](#Alter_Self_alter_self) (concentration)
 - [Arcane Lock](#Arcane_Lock_arcane_lock)
 - [Augury](#Augury_augury) (ritual)
-- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Blur](#Blur_blur) (concentration)
 - [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
 - [Continual Flame](#Continual_Flame_continual_flame)
@@ -77,6 +76,7 @@
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
+- [Nullify Sense](#Nullify_Sense_nullify_sense)
 - [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
 - [Rope Trick](#Rope_Trick_rope_trick)
 - [Scorching Ray](#Scorching_Ray_scorching_ray)

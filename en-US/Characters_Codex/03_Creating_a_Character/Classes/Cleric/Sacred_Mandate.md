@@ -147,12 +147,12 @@ Choose one matching your mandate:
 
 - **Avatar of War** (War, Storm)
   \
-  When reduced to 0 hit points, you drop to 1 hit point instead and may use your reaction to make one weapon attack.
+  When reduced to `0` hit points, you drop to `1` hit point instead and may use your reaction to make one weapon attack.
   You also gain resistance to bludgeoning, piercing, and slashing damage for 1 minute.
 - **Illuminated Soul** (Light, Life)
   \
   As an action, you emit a 30-foot aura for 1 minute.
-  Allies in the area gain advantage on saving throws against being blinded, charmed, or frightened and regain 1d6 hit points at the start of their turns.
+  Allies in the area gain advantage on saving throws against being [nullified (sight)](#Conditions_nullified), [charmed](#Conditions_charmed), or [frightened](#Conditions_frightened) and regain `1d6` hit points at the start of their turns.
 - **Shifting Facade** (Trickery, Knowledge)
   \
   The locations of anyone within 30 feet of you become difficult for enemies to determine for one minute, as all creatures that you choose, including you, seem to switch places with each other.
