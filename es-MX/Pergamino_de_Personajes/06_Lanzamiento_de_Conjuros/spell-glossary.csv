@@ -25,7 +25,6 @@
 ;;Blade Barrier;Blade Barrier;mechanically changed;open;no;
 ;;Bless;Bless;reworded;open;no;
 ;;Blight;Blight;reworded;open;no;
-;;Blindness/Deafness;Blindness/Deafness;reworded;open;no;
 ;;Blink;Blink;reworded;open;no;
 ;;Blur;Blur;reworded;open;no;
 ;;Bragolbeleg's Acid Bolt;Acid Arrow;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
@@ -218,6 +217,7 @@
 ;;Natalex's Instant Summons;Instant Summons;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
 ;;Naturecraft;Druidcraft;reworded;open;no;
 ;;Nondetection;Nondetection;reworded;open;no;
+;;Nullify Sense;Blindness/Deafness;changed;open;no;This spell was renamed and mechanically changed in the context of replacing the Blinded and Deafened conditions with Nullified
 ;;Paoliello's Hideous Laughter;Hideous Laughter;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
 ;;Pass without Trace;Pass without Trace;not changed;open;no;
 ;;Passwall;Passwall;reworded;open;no;
