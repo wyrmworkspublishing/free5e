@@ -55,7 +55,7 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 
 ### Impaired
 
-When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
+When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of [parasense](#Exploration_Environment_parasense)).
 
 - Ability checks that rely on the affected sense are made with disadvantage.
 - If this condition impairs all of your precise senses, you make attack rolls with a –2 penalty.
@@ -93,11 +93,11 @@ The following rules are valid for each individual case:
 > This condition is not the same as being blind or deaf, the permanent disabilities, as most of the disadvantage is due to a sudden changes without time to adapt to them.
 > Blind and deaf creatures are more accustomed to using their other senses, and these disabilities each have a spectrum of experiences.
 
-When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of parasense).
+When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of [parasense](#Exploration_Environment_parasense)).
 
 - You cannot use the affected sense and automatically fail any ability check that relies on it.
 - If this condition blocks all of your precise senses, you have disadvantage on attack rolls, and attack rolls against you have advantage.
-- If a supporting sense is nullified, dependent parasenses are also _nullified_ (e.g., _nullified (hearing)_ also nullifies auditory echolocation).
+- If a supporting sense is _nullified_, dependent parasenses are also _nullified_ (e.g., _nullified (hearing)_ also nullifies auditory echolocation).
 
 ### Paralyzed
 

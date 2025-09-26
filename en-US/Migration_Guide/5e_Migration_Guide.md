@@ -48,6 +48,7 @@ If a product (e.g. an adventure or a monster stat block) mentions one of these s
 - Magnificent Mansion → Alia's Magnificent Mansion
 - Private Sanctum → Jess's Private Sanctum
 - Secret Chest → Cerilsen's Secret Chest
+- See Invisibility → Perceive the Imperceptible
 - Telepathic Bond → Rantock's Telepathic Bond
 - Tiny Hut → Melestrua's Marvelous Marquee
 
