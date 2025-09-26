@@ -6,9 +6,34 @@
 # Note: According to https://github.com/streetsidesoftware/cspell-dicts, there is currently no Mexican Spanish dictionary available.
 # We're using the Spanish (Spain) dictionary as the closest approximation; any terms specific to Mexican Spanish would have to be added here though.
 
+Atkinson
+Author
+Authors
+BFRD
+Black
+Creative
+Coast
+Codex
+Commons
+Compendium
+ESRD
+Flag
+Flourish
+Hyperlegible
+Kibbles
+Kobold
+Legacies
+Legends
+Michael
 Naturalador
 Pactosuario
 Parasenso
 Publishing
+Press
+Sequoia
+Sanchini
+Shea
+Tasty
+Wizards
 WotC
 Wyrmworks
