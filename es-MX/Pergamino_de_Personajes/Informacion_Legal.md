@@ -1,7 +1,7 @@
 # Información Legal
 
 Este libro es una traducción del Free5e Character's Codex (original: © 2025 by Wyrmworks Publishing, disponible en [https://free5e.com](https://free5e.com)), que tiene licencia Creative Commons 4.0 Atribución/Reconocimiento disponible en [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode). 
-Para ver la versión del libro oficial, tanto como la información legal oficial, leer la versión original en inglés disponible en [https://free5e.com](https://free5e.com). 
+Para ver la versión del libro oficial, tanto como la información legal oficial, leer la versión original en inglés disponible en [https://free5e.com](https://free5e.com).
 Este traducción es el trabajo de un voluntario, Sequoia Sanchini, con al ayudo y apoyo de la comunidad Free5e y también está disponible con la misma licencia.
 
 Esta obra contiene materiales extraídas del A5E System Reference Document (A5ESRD/ Documento de Referencia de Sistema A5E) por EN Publishing y disponible en [A5ESRD.com](https://A5ESRD.com), basado en Level Up: Advanced 5th Edition (Nivela: 5a Edición Avanzado), disponible en [www.levelup5e.com](https://www.levelup5e.com).
