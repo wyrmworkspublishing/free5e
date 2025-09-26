@@ -1,6 +1,6 @@
 # Información Legal
 
-Este libro es una traducción del Free5e Character's Codex (original: © 2025 by Wyrmworks Publishing, disponible en [https://free5e.com](https://free5e.com)), que tiene licencia Creative Commons 4.0 Atribución/Reconocimiento disponible en [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode). 
+Este libro es una traducción del Free5e Character's Codex (original: © 2025 by Wyrmworks Publishing, disponible en [https://free5e.com](https://free5e.com)), que tiene licencia Creative Commons 4.0 Atribución/Reconocimiento disponible en [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode).
 Para ver la versión del libro oficial, tanto como la información legal oficial, leer la versión original en inglés disponible en [https://free5e.com](https://free5e.com).
 Este traducción es el trabajo de un voluntario, Sequoia Sanchini, con al ayudo y apoyo de la comunidad Free5e y también está disponible con la misma licencia.
 
@@ -18,7 +18,7 @@ El texto del Free5e Character's Codex (version original en inglés) © 2025 by W
 Para ver una copia de la licencia, ir a [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) por inglés o [https://creativecommons.org/licenses/by/4.0/deed.es](https://creativecommons.org/licenses/by/4.0/deed.es) por español.
 Usted es libre de usar esta contenido en cualquier manera permitido por la licencia si incluyas esta frase de atribución en se trabajo:
 > Esta obra contiene materiales extraídas del Free5e Pergamino de Personajes, una traducción de **Free5e Character's Codex**, © 2025 by Wyrmworks Publishing, y disponible en [https://free5e.com](https://free5e.com).
-> El **Free5e Character's Codex** tiene la licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional (CC-BY-4.0). El versión en español fue creado por la comunidad Free5e con el trabajo de Sequoia Sanchini, y también tiene la licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional (CC-BY-4.0)
+> El **Free5e Character's Codex** tiene la licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional (CC-BY-4.0). El versión en español fue creado por la comunidad Free5e con el trabajo de Sequoia Sanchini, y también tiene la licencia Creative Commons Atribución/Reconocimiento 4.0 Internacional (CC-BY-4.0).
 > Para ver la licencia, ir a [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/) (inglés) o [https://creativecommons.org/licenses/by/4.0/deed.es] (español).
 >
 > Esta adaptación también incluye materias originalmente de

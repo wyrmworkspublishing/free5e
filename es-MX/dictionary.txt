@@ -8,6 +8,7 @@
 
 Atkinson
 Author
+Authors
 BFRD
 Black
 Creative
@@ -20,9 +21,10 @@ Flag
 Flourish
 Hyperlegible
 Kibbles
+Kobold
 Legacies
 Legends
-Micheal
+Michael
 Naturalador
 Pactosuario
 Parasenso
