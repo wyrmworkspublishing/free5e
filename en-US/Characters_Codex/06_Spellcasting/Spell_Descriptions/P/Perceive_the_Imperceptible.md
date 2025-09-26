@@ -1,6 +1,7 @@
-#### See Invisibility
+#### Perceive the Imperceptible
 <!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "See Invisibility"
+[_metadata_:spell_original_name]:- "Perceive the Imperceptible"
+[_metadata_:spell_original_name]:- "See Invisibility"
 [_metadata_:spell_level]:- "2"
 [_metadata_:spell_school]:- "divination"
 [_metadata_:ritual]:- "false"
@@ -14,8 +15,8 @@
 [_metadata_:components_material_description]:- "a pinch of talc and a small sprinkling of powdered silver"
 [_metadata_:duration]:- "1 hour"
 [_metadata_:concentration]:- "false"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_same"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_same"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level divination_
 
@@ -24,5 +25,6 @@ _2nd-level divination_
 **Components:** V, S, M (a pinch of talc and a small sprinkling of powdered silver) \
 **Duration:** 1 hour
 
-You can see [invisible](#Conditions_invisible) creatures and objects, and you can see into the [Ethereal Plane](#Planes_of_Existence_planes_of_existence).
-You perceive Ethereal creatures and objects as translucent phantoms.
+Select one sense of your choice.
+You can pinpoint creatures and objects [imperceptible](#Conditions_imperceptible) to that sense, and you can see into the [Ethereal Plane](#Planes_of_Existence_planes_of_existence).
+You perceive ethereal creatures and objects as translucent phantoms.

@@ -24,7 +24,7 @@ _1st-level conjuration (ritual)_
 **Components:** V, S, M (a piece of string and a bit of wood) \
 **Duration:** 1 hour
 
-You create an [invisible](#Conditions_invisible), mindless, shapeless force to perform simple tasks.
+You create an [imperceptible (sight)](#Conditions_imperceptible), mindless, shapeless force to perform simple tasks.
 The servant appears in an unoccupied space on the ground that you can pinpoint and endures until it takes damage, moves more than 60 feet away from you, or the spell ends.
 It has AC 10, 1 hit point, a Strength of 2, and can’t attack.
 

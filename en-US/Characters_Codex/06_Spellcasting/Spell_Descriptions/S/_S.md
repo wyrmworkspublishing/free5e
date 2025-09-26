@@ -8,8 +8,6 @@
 
 [Scrying](./Scrying.md)
 
-[See Invisibility](./See_Invisibility.md)
-
 [Seeming](./Seeming.md)
 
 [Sending](./Sending.md)

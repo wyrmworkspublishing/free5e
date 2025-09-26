@@ -32,7 +32,7 @@ The difficulty of the Wisdom saving throw for this spell is modified by your kno
 
 On a successful save, the target isn’t affected, and you can’t use this spell against it again for 24 hours.
 On a failed save, you can see and hear the target through an invisible sensor that appears within 10 feet of it and moves with the target.
-Any creature who can see invisibility or rolls a critical success on its saving throw perceives the sensor as a fist-sized glowing orb hovering in the air.
+Any creature who can see _imperceptible (seeing)_ creatures or objects, or who rolls a critical success on its saving throw perceives the sensor as a fist-sized glowing orb hovering in the air.
 Creatures cannot sense you through the sensor.
 
 | Knowledge or Physical Connection                                 | DC Modifier |

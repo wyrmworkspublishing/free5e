@@ -20,7 +20,7 @@
 
 [Grease](./Grease.md)
 
-[Greater Invisibility](./Greater_Invisibility.md)
+[Greater Imperceptibility](./Greater_Imperceptibility.md)
 
 [Greater Restoration](./Greater_Restoration.md)
 

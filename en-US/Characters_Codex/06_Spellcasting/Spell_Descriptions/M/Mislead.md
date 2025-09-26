@@ -23,7 +23,7 @@ _5th-level illusion_
 **Components:** S \
 **Duration:** Concentration, up to 1 hour
 
-You become [invisible](#Conditions_invisible).
+You become [imperceptible (sight)](#Conditions_imperceptible).
 Simultaneously, an illusory copy of you appears where you’re standing.
 This invisibility ends when you cast a spell but the copy lasts until the spell ends.
 

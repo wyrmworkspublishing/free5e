@@ -8,6 +8,8 @@
 
 [Pelham's Hovering Platter](./Pelhams_Hovering_Platter.md)
 
+[Perceive the Imperceptible](./Perceive_the_Imperceptible.md)
+
 [Phantasmal Killer](./Phantasmal_Killer.md)
 
 [Phantom Steed](./Phantom_Steed.md)
