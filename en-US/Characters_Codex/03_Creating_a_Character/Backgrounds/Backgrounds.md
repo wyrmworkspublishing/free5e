@@ -77,6 +77,7 @@ This sample background offers concrete benefits (features, proficiencies, and la
 ### Other sample backgrounds
 
 You can choose one of these backgrounds for your character, or use them as inspiration to design your own using the instructions and Acolyte example.
+If a chosen background grants a proficiency your character already has from another source, you may select a different proficiency of the same type (skill, tool, or language).
 
 | Background | Skill Proficiencies | Tool Proficiency and/or Language | Equipment | Feature |
 |-----------:|:-------------------:|:--------------------------------:|:---------:|:-------:|
