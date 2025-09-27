@@ -22,7 +22,7 @@ Black
 bonus*
 Bragolbeleg*
 celestisch*
-Charismawürfen
+Charisma*
 Cerilsen*
 Chloe*
 Coast
@@ -43,8 +43,6 @@ Flourish
 Geas
 Gendern
 Geschicklichkeits*
-Geschicklichkeitsmodifikator
-Geschicklichkeitswürfen
 Halblings
 Hervorrufungs*
 Hyperlegible
@@ -54,7 +52,6 @@ Jess
 Katy*
 Kibbles
 Konstitutions*
-Konstitutionswürfen
 Klingenbarriere
 Koord
 Legacies
@@ -64,6 +61,7 @@ Magierrüstung
 Martelo
 Melestrua*
 Meteoritenschwarm
+modifikator*
 Morscheck*
 Nachforschungen*
 Natalex
@@ -82,7 +80,7 @@ Sagenkunde
 Säureblitz
 Säurespritzer
 Schwarmprothese
-Stärkewürfen
+Stärke*
 Shea
 Shillelagh
 Simulakrum
@@ -97,7 +95,7 @@ TTRPG
 Unverwundbarkeit
 Verzauberungs*
 Weisheits*
-Weisheitswürfen
+würfen*
 Vampirgriff
 wurf*
 Wyrmworks
