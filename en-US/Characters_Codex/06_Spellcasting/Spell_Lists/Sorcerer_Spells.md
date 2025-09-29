@@ -60,7 +60,7 @@
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
 - [Nullify Sense](#Nullify_Sense_nullify_sense)
-- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_Imperceptible)
+- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_imperceptible)
 - [Scorching Ray](#Scorching_Ray_scorching_ray)
 - [Shatter](#Shatter_shatter)
 - [Spider Climb](#Spider_Climb_spider_climb) (concentration)

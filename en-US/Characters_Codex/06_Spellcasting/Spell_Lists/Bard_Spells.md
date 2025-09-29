@@ -58,7 +58,7 @@
 - [Magic Mouth](#Magic_Mouth_magic_mouth) (ritual)
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Nullify Sense](#Nullify_Sense_nullify_sense)
-- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_Imperceptible)
+- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_imperceptible)
 - [Shatter](#Shatter_shatter)
 - [Silence](#Silence_silence) (ritual)
 - [Suggestion](#Suggestion_suggestion) (concentration)

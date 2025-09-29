@@ -77,7 +77,7 @@
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
 - [Nullify Sense](#Nullify_Sense_nullify_sense)
-- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_Imperceptible)
+- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_imperceptible)
 - [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
 - [Rope Trick](#Rope_Trick_rope_trick)
 - [Scorching Ray](#Scorching_Ray_scorching_ray)

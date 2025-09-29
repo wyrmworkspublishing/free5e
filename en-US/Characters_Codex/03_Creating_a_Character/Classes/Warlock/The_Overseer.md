@@ -16,7 +16,7 @@ _Overseer's Expanded Spells (table)_
 | Spell Level | Spells                                                                                                                              |
 |------------:|:------------------------------------------------------------------------------------------------------------------------------------|
 |         1st | [Sleep](#Sleep_sleep), [Alarm](#Alarm_alarm)                                                                                        |
-|         2nd | [Nullify Sense](#Nullify_Sense_nullify_sense), [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_Imperceptible) |
+|         2nd | [Nullify Sense](#Nullify_Sense_nullify_sense), [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_imperceptible) |
 |         3rd | [Clairvoyance](#Clairvoyance_clairvoyance), [Slow](#Slow_slow)                                                                      |
 |         4th | [Arcane Eye](#Arcane_Eye_arcane_eye), [Fabricate](#Fabricate_fabricate)                                                             |
 |         5th | [Creation](#Creation_creation), [Telekinesis](#Telekinesis_telekinesis)                                                             |
