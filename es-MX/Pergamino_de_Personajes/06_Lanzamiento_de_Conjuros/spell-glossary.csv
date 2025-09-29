@@ -222,6 +222,7 @@
 ;;Pass without Trace;Pass without Trace;not changed;open;no;
 ;;Passwall;Passwall;reworded;open;no;
 ;;Pelham's Hovering Platter;Floating Disk;reworded;open;no;
+;;Perceive the Imperceptible;See Invisibility;mechanically changed;open;no;This spell may be changed due to replacing the Invisible condition with Imperceptible
 ;;Phantasmal Killer;Phantasmal Killer;mechanically changed;open;no;
 ;;Phantom Steed;Phantom Steed;reworded;open;no;
 ;;Planar Ally;Planar Ally;reworded;open;no;
@@ -260,7 +261,6 @@
 ;;Sanctuary;Sanctuary;mechanically changed;open;no;
 ;;Scorching Ray;Scorching Ray;reworded;open;no;
 ;;Scrying;Scrying;reworded;open;no;
-;;See Invisibility;See Invisibility;reworded;open;no;This spell may be changed due to replacing the Invisible condition with Imperceptible
 ;;Seeming;Seeming;reworded;open;no;
 ;;Sending;Sending;reworded;open;no;
 ;;Sequester;Sequester;mechanically changed;open;no;
