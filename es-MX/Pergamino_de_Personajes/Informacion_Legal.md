@@ -24,8 +24,7 @@ Usted es libre de usar esta contenido en cualquier manera permitido por la licen
 >
 > - El  **A5E System Reference Document (A5ESRD)** por EN Publishing, disponible en [A5ESRD.com](https://A5ESRD.com) con la licencia CC-BY-4.0.
 > - El **System Reference Document 5.1 (SRD 5.1)** por Wizards of the Coast LLC, disponible en [https://dnd.wizards.com/resources/systems-reference-document](https://dnd.wizards.com/resources/systems-reference-document) y con la licencia CC-BY-4.0.
-> - El **Lazy GM’s Resource Document** por Michael E.
-Shea de [SlyFlourish.com](https://SlyFlourish.com), con la licencia CC-BY-4.0.
+> - El **Lazy GM’s Resource Document** por Michael E Shea de [SlyFlourish.com](https://SlyFlourish.com), con la licencia CC-BY-4.0.
 > - El **Kibbles’ Compendium of Legends and Legacies** por KibblesTasty Homebrew LLC, disponible en [https://www.kthomebrew.com/krd](https://www.kthomebrew.com/krd) con la licencia CC-BY-4.0.
 > - El **Black Flag Reference Document 1.0 (“BFRD 1.0”)** por Kobold Press, disponible en [https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf](https://koboldpress.com/wp-content/uploads/2025/07/Black-Flag-Roleplaying-v04_2025_07_01.pdf) con la licencia CC-BY-4.0.
 Todo el arte en esta libro tiene la licencia [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) o [CC-0](https://creativecommons.org/publicdomain/zero/1.0/deed).
