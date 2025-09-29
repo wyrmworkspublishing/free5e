@@ -1,4 +1,4 @@
 #### Beyond the Material Plane
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+Beyond the Material Plane, the various planes of existence are realms of myth and mystery.
+They’re not just other worlds, but different qualities of being governed by spiritual and elemental principles.
