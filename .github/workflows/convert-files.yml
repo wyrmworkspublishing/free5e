@@ -65,7 +65,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: spells-${{ inputs.language }}-${{ needs.create-timestamp.outputs.timestamp }}.tsv
-          path: ${{ github.workspace }}/generated
+          path: ${{ github.workspace }}/generated/
 
   convert-markdown-to-asciidoc:
     name: ${{ inputs.language }}/${{ inputs.book_main_file }} Markdown -> AsciiDoc
@@ -91,7 +91,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.create-timestamp.outputs.timestamp }}
-          path: ${{ github.workspace }}/generated
+          path: ${{ github.workspace }}/generated/
       - run: echo "🐉 This job's status is ${{ job.status }}."
 
   convert-asciidoc-to-docbook:

@@ -11,6 +11,9 @@ function convert_docbook_to_docx {
   echo "Converting ${DOCBOOK_MAIN_FILE} to ${DOCX_TARGET_FILE}..."
 
   pandoc \
+      -s \
+      --toc \
+      --toc-depth=2 \
       --from docbook \
       --to docx \
       --output "${DOCX_TARGET_FILE}" \
