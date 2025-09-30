@@ -10,4 +10,4 @@ The **Shadowfell** is a bleak, muted mirror marked by decay, silence, and pervas
 It warps reality with oppressive shadows and lingering despair, populated by the undead, echoes of the living, and entities drawn to grief, loss, and oblivion.
 Entrances to the Shadowfell often form near sites of tragedy, in forgotten ruins, or during eclipses.
 
-Intentional travel to either plane typically requires planar magic such as _Plane Shift_, but natural portals, called **fey crossings** or **shadow crossings**, can appear unexpectedly, drawing in the unprepared.
+Intentional travel to either plane typically requires planar magic such as _<span class="spell spell-Plane_Shift_plane_shift">Plane Shift</span>_, but natural portals, called **fey crossings** or **shadow crossings**, can appear unexpectedly, drawing in the unprepared.

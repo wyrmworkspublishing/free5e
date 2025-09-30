@@ -6,8 +6,8 @@ Traveling beyond the Material Plane is possible by casting spells or using plana
 
 **Spells.**
 Several spells grant direct or indirect access to other planes.
-_Plane Shift_ and _Gate_ transport adventurers precisely to any plane, while _Etherealness_ lets them enter the [Ethereal Plane](#Transitive_Planes_transitive_planes) and travel to touched planes like the [Elemental Planes](#Inner_Planes_inner_planes).
-_Astral Projection_ projects adventurers into the [Astral Plane](#Transitive_Planes_transitive_planes) for travel to the [Outer Planes](#Outer_Planes_outer_planes).
+_<span class="spell spell-Plane_Shift_plane_shift">Plane Shift</span>_ and _<span class="spell spell-Gate_gate">Gate</span>_ transport adventurers precisely to any plane, while _<span class="spell spell-Etherealness_etherealness">Etherealness</span>_ lets them enter the [Ethereal Plane](#Transitive_Planes_transitive_planes) and travel to touched planes like the [Elemental Planes](#Inner_Planes_inner_planes).
+_<span class="spell spell-Astral_Projection_astral_projection">Astral Projection</span>_ projects adventurers into the [Astral Plane](#Transitive_Planes_transitive_planes) for travel to the [Outer Planes](#Outer_Planes_outer_planes).
 
 **Portals.**
 A portal is a stationary interplanar connection linking a specific location on one plane to another.
