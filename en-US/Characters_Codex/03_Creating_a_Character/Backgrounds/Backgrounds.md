@@ -8,8 +8,7 @@ While cultures reflect the environment and values of the community that your cha
 
 Their background offers vital story cues: what changed to drive them to adventure, why they left their past life, how they obtained their gear, or why they lack wealth despite family riches.
 
-<!-- style:sidebar -->
-> **Duplicate proficiencies** \
+> **Note:**
 > If a chosen background grants a proficiency your character already has from another source, you may select a different proficiency of the same type (skill, tool, or language).
 
 ### Creating a Background
