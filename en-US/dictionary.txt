@@ -41,6 +41,7 @@ Dungeoneer
 dwarven
 Dwarvish
 Earthspeak
+efreet
 elven
 Elvenkind
 enpowered
