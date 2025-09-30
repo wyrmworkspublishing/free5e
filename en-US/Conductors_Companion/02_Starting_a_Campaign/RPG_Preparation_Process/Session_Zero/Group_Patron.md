@@ -1,6 +1,6 @@
 #### Decide on a Group Patron
 
-Some groups have a group patron – an  NPC or organization connected to all of the characters, chosen at the start or growing into that role over time as the group bonds with them.
+Some groups have a group patron – an NPC or organization connected to all of the characters, chosen at the start or growing into that role over time as the group bonds with them.
 Such a patron might be the thing that binds the group together to follow a greater purpose.
 They will likely provide tasks and quests for the party, offer advice and information, and generally be connected to the tone and main quest of the campaign.
 

@@ -1,7 +1,7 @@
 #### Spiral Campaign Development
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+Spiral campaign development builds campaign worlds starting in the area immediately surrounding the characters, then spirals out, expanding the world as the characters experience it.
+This section offers suggestions and inspiration for building a spiral campaign.
 
 [Campaign Pitch](./Spiral_Campaign_Pitch.md)
 

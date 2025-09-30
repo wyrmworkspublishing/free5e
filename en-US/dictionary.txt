@@ -1,3 +1,4 @@
++es
 +s
 +'s
 
@@ -10,12 +11,14 @@ antilife
 antimagic
 Arcanist
 archdevil*
+archmage*
 Aquan
 Auran
 backstab
 balor
 balors
 Barkskin
+behir*
 BFRD
 blindsense
 bloodlust
@@ -84,6 +87,7 @@ Keoghtom
 Kickstarter
 K’myla
 Leoj
+lich*
 Lifedrinker
 lizardfolk
 Longstrider
@@ -167,6 +171,7 @@ waterskin*
 wererat*
 Wizarding
 wodewose*
+worldbuilding
 wose*
 WotC
 wychwood
