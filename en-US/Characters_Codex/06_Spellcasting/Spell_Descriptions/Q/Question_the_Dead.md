@@ -1,6 +1,7 @@
-#### Speak with Dead
+#### Question the Dead
 <!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Speak with Dead"
+[_metadata_:spell_name]:- "Question the Dead"
+[_metadata_:spell_original_name]:- "Speak with Dead"
 [_metadata_:spell_level]:- "3"
 [_metadata_:spell_school]:- "necromancy"
 [_metadata_:ritual]:- "false"

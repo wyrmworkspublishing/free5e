@@ -1,6 +1,7 @@
-#### Speak with Plants
+#### Converse with Plants
 <!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Speak with Plants"
+[_metadata_:spell_name]:- "Converse with Plants"
+[_metadata_:spell_original_name]:- "Speak with Plants"
 [_metadata_:spell_level]:- "3"
 [_metadata_:spell_school]:- "transmutation"
 [_metadata_:ritual]:- "false"

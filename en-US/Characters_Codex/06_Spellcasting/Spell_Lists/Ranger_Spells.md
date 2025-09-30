@@ -5,6 +5,7 @@
 
 - [Alarm](#Alarm_alarm)
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
+- [Converse with Animals](#Converse_with_Animals_converse_with_animals) <!-- previously "Speak with Animals" -->
 - [Cure Wounds](#Cure_Wounds_cure_wounds)
 - [Detect Magic](#Detect_Magic_detect_magic) (concentration)
 - [Detect Poison and Disease](#Detect_Poison_and_Disease_detect_poison_and_disease) (concentration)
@@ -15,7 +16,6 @@
 - [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Jump](#Jump_jump)
 - [Longstrider](#Longstrider_longstrider)
-- [Speak with Animals](#Speak_with_Animals_speak_with_animals)
 
 #### 2nd Level
 
@@ -38,13 +38,13 @@
 #### 3rd Level
 
 - [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
+- [Converse with Plants](#Converse_with_Plants_converse_with_plants) <!-- previously "Speak with Plants" -->
 - [Daylight](#Daylight_daylight)
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone)
 - [Nondetection](#Nondetection_nondetection)
 - [Plant Growth](#Plant_Growth_plant_growth)
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Revivify](#Revivify_revivify)
-- [Speak with Plants](#Speak_with_Plants_speak_with_plants)
 - [Water Breathing](#Water_Breathing_water_breathing)
 - [Water Walk](#Water_Walk_water_walk)
 - [Wind Wall](#Wind_Wall_wind_wall) (concentration)

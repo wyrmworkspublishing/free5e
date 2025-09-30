@@ -64,6 +64,8 @@
 ;;Continual Flame;Continual Flame;reworded;open;no;
 ;;Control Water;Control Water;mechanically changed;open;no;
 ;;Control Weather;Control Weather;reworded;open;no;
+;;Converse with Animals;Speak with Animals;reworded;open;no;This spell was renamed, so as to not be specific to verbal communication
+;;Converse with Plants;Speak with Plants;reworded;open;no;This spell was renamed, so as to not be specific to verbal communication
 ;;Coreador's Black Tentacles;Black Tentacles;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
 ;;Counterspell;Counterspell;mechanically changed;open;no;
 ;;Create Food and Water;Create Food and Water;not changed;open;no;
@@ -244,6 +246,7 @@
 ;;Protection from Evil and Good;Protection from Evil and Good;reworded;open;no;
 ;;Protection from Poison;Protection from Poison;reworded;open;no;
 ;;Purify Food and Drink;Purify Food and Drink;not changed;open;no;
+;;Question the Dead;Speak with Dead;reworded;open;no;This spell was renamed, so as to not be specific to verbal communication
 ;;Raise Dead;Raise Dead;reworded;open;no;
 ;;Rantock's Telepathic Bond;Telepathic Bond;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
 ;;Ray of Enfeeblement;Ray of Enfeeblement;reworded;open;no;
@@ -277,9 +280,6 @@
 ;;Sleet Storm;Sleet Storm;reworded;open;no;
 ;;Slow;Slow;not changed;open;no;
 ;;Spare the Dying;Spare the Dying;mechanically changed;open;no;
-;;Speak with Animals;Speak with Animals;reworded;open;no;
-;;Speak with Dead;Speak with Dead;reworded;open;no;
-;;Speak with Plants;Speak with Plants;reworded;open;no;
 ;;Spider Climb;Spider Climb;reworded;open;no;
 ;;Spike Growth;Spike Growth;reworded;open;no;
 ;;Spirit Guardians;Spirit Guardians;mechanically changed;open;no;

@@ -1,6 +1,7 @@
-#### Speak with Animals
+#### Converse with Animals
 <!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Speak with Animals"
+[_metadata_:spell_name]:- "Converse with Animals"
+[_metadata_:spell_original_name]:- "Speak with Animals"
 [_metadata_:spell_level]:- "1"
 [_metadata_:spell_school]:- "divination"
 [_metadata_:ritual]:- "true"
