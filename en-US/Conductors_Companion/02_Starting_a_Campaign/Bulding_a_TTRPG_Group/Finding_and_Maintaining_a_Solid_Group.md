@@ -1,7 +1,7 @@
 ### Finding and Maintaining a Solid Group
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+Finding and maintaining a solid group for roleplaying gaming remains the most difficult task for many Conductors.
+This section offers suggestions for finding players that fit well with your group, and for keeping that group going for years to come.
 
 [Finding Players](./Finding_Players.md)
 
