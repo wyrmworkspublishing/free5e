@@ -4,6 +4,8 @@ set -euo pipefail
 
 git config --global --add safe.directory $PWD
 
+CONVERSION_SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+
 # Define a function for converting Markdown to AsciiDoc
 function convert_markdown_to_asciidoc {
   echo "Converting Markdown files from $(pwd) to AsciiDoc..."
@@ -86,20 +88,33 @@ include::attributes.adoc[]\
   # Now make sure that the tables look decent
   echo "Make sure that tables are rendered nicely..."
   for adoc in $(find . -name '*.adoc'); do
-    sed -i'.tables.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
-    mv $adoc "$adoc.tables.bak"
-    awk '
-      /^$/ { blank++ }
-      blank && /^\|===$/ { blank=0; print "[%autowidth,width=100%]" }
-      /^./ { blank=0 }
-      { print }
-    ' "$adoc.tables.bak" > $adoc
+    if grep -q '|===' "$adoc"; then
+      sed -i'.tables.bak' -e 's/^\[cols/\[%autowidth,width=100%\]\n\[cols/g' $adoc
+      mv $adoc "$adoc.tables.bak"
+      awk '
+        /^$/ { blank++ }
+        blank && /^\|===$/ { blank=0; print "[%autowidth,width=100%]" }
+        /^./ { blank=0 }
+        { print }
+      ' "$adoc.tables.bak" > $adoc
+    fi
+  done
+
+  # Render sidebars correctly
+  echo "Make sidebars render correctly..."
+  for adoc in $(find . -name '*.adoc'); do
+    if grep -q '// style:sidebar' "$adoc"; then
+      cp $adoc "$adoc.sidebars.bak"
+      python3 $CONVERSION_SCRIPT_DIR/format-sidebars.py "$adoc.sidebars.bak" > $adoc
+    fi
   done
 
   # Fix assets links
   for adoc in $(find . -name '*.adoc'); do
-    sed -i'.images.bak' -e 's/image:[\.\/]*assets/image:assets/g' $adoc
-    sed -i'.images.bak' -e 's/image::[\.\/]*assets/image::assets/g' $adoc
+    if grep -q 'image:' "$adoc"; then
+      sed -i'.images.bak' -e 's/image:[\.\/]*assets/image:assets/g' $adoc
+      sed -i'.images.bak' -e 's/image::[\.\/]*assets/image::assets/g' $adoc
+    fi
   done
 
   # If everything worked, remove the temporary backup files

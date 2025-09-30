@@ -31,7 +31,7 @@ A creature effectively suffers from the [impaired (sight)](#Conditions_impaired)
 A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely.
 A creature effectively suffers from the [nullified (sight)](#Conditions_nullified) condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
 
-#### Pinpoint {#Exploration_Environment_pinpoint}
+#### <a id="Exploration_Environment_pinpoint"></a>Pinpoint
 
 A creature can pinpoint a target’s location only if the target provides a relevant sensory cue—visibility for sight, vibrations for tremorsense, odor for scent, and so on.
 
@@ -46,7 +46,7 @@ If an effect depends on a creature pinpointing you using an imprecise sense, use
 \
 \* See the chapter _Monster Information_ in the _Monstrous Manuscript_ for more information on tremorsense.
 
-#### Sense {#Exploration_Environment_sense}
+#### <a id="Exploration_Environment_sense"></a>Sense
 
 A creature that can sense another is at least aware of its presence without necessarily knowing its exact location, such as hearing or smelling something without pinpointing where it originates.
 
