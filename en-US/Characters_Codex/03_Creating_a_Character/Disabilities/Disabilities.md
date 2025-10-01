@@ -1,4 +1,4 @@
-### Variant Rule: Disabilities
+## Variant Rule: Disabilities
 
 Fantasy worlds benefit by reflecting the real world’s diversity in physical and mental abilities.
 Here are three methods to achieve this:
@@ -17,7 +17,15 @@ Here are three methods to achieve this:
    Finally, consider adding fantasy benefits to devices like attacks, defenses, or other powers.
    _Limitless Heroics - Including Characters with Disabilities, Mental Illness, and Neurodivergence in Fifth Edition_ by Wyrmworks Publishing offers comprehensive examples.
 
-**Assistive Items.**
+<!-- style:sidebar -->
+> **Disabilities and Senses** \
+> Creatures in Free5e experience the world by being able to [sense](#Exploration_Environment_sense), [pinpoint](#Exploration_Environment_pinpoint), and [observe](#Exploration_Environment_observe) it.
+> This can happen using **precise** and **imprecise** senses.
+> Some creatures have senses beyond the mundane ones; these are called [parasenses](#Exploration_Environment_parasense).
+> You can find out more about how Free5e handles this in [the section "The Environment" of chapter 14: Exploration](#Exploration_Environment_exploration_environment).
+
+### Assistive Items
+
 If you use trait and assistance mechanics, assistive items appear in the [Equipment](#Equipment_equipment) section under [Assistive Items](#Assistive_Items_assistive_items).
 These items support characters in navigating the game with disability traits and include both mundane and magical tools.
 They do not negate the disability but help the character adapt or access their environment in new ways.
