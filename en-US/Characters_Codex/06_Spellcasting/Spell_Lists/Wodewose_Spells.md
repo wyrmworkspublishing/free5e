@@ -15,6 +15,7 @@
 
 - [Animal Friendship](#Animal_Friendship_animal_friendship)
 - [Charm Person](#Charm_Person_charm_person)
+- [Converse with Animals](#Converse_with_Animals_converse_with_animals) <!-- previously "Speak with Animals" --> (ritual)
 - [Create or Destroy Water](#Create_or_Destroy_Water_create_or_destroy_water)
 - [Cure Wounds](#Cure_Wounds_cure_wounds)
 - [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
@@ -29,7 +30,6 @@
 - [Longstrider](#Longstrider_longstrider)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
 - [Purify Food and Drink](#Purify_Food_and_Drink_purify_food_and_drink) (ritual)
-- [Speak with Animals](#Speak_with_Animals_speak_with_animals) (ritual)
 - [Thunderwave](#Thunderwave_thunderwave)
 
 #### 2nd Level
@@ -59,6 +59,7 @@
 
 - [Call Lightning](#Call_Lightning_call_lightning) (concentration)
 - [Conjure Animals](#Conjure_Animals_conjure_animals) (concentration)
+- [Converse with Plants](#Converse_with_Plants_converse_with_plants) <!-- previously "Speak with Plants" -->
 - [Daylight](#Daylight_daylight)
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
@@ -66,7 +67,6 @@
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
 - [Revivify](#Revivify_revivify)
 - [Sleet Storm](#Sleet_Storm_sleet_storm) (concentration)
-- [Speak with Plants](#Speak_with_Plants_speak_with_plants)
 - [Water Breathing](#Water_Breathing_water_breathing) (ritual)
 - [Water Walk](#Water_Walk_water_walk) (ritual)
 - [Wind Wall](#Wind_Wall_wind_wall) (concentration)

@@ -1,6 +1,7 @@
-#### Speak with Plants
+#### Converse with Plants
 <!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Speak with Plants"
+[_metadata_:spell_name]:- "Converse with Plants"
+[_metadata_:spell_original_name]:- "Speak with Plants"
 [_metadata_:spell_level]:- "3"
 [_metadata_:spell_school]:- "transmutation"
 [_metadata_:ritual]:- "false"
@@ -23,7 +24,7 @@ _3rd-level transmutation_
 **Components:** V, S \
 **Duration:** 10 minutes
 
-Your voice takes on a magical timbre, awakening plants in your vicinity to limited sentience.
+You awaken plants in your vicinity to limited sentience.
 Until the spell ends, plants within 30 feet of you can communicate with you and follow simple commands, telling you about recent events including creatures that have passed, weather, and nearby locations.
 
 The targets have a limited mobility: they can move their branches, tendrils, and stalks freely.

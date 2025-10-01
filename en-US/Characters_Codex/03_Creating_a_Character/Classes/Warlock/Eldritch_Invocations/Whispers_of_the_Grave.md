@@ -3,4 +3,4 @@
 **Prerequisite:**
 9th level
 \
-You can cast [Speak with Dead](#Speak_with_Dead_speak_with_dead) at will, without expending a spell slot.
+You can cast [Question the Dead](#Question_the_Dead_question_the_dead) at will, without expending a spell slot.

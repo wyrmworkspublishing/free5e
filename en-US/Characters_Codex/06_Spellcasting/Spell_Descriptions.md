@@ -32,7 +32,7 @@
 
 [P](./Spell_Descriptions/P/_P.md)
 
-<!-- No spells start with Q -->
+[Q](./Spell_Descriptions/Q/_Q.md)
 
 [R](./Spell_Descriptions/R/_R.md)
 

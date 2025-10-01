@@ -68,6 +68,10 @@
 
 [Control Weather](./Control_Weather.md)
 
+[Converse with Animals](./Converse_with_Animals.md)
+
+[Converse with Plants](./Converse_with_Plants.md)
+
 [Coreador's Black Tentacles](./Coreadors_Black_Tentacles.md)
 
 [Counterspell](./Counterspell.md)

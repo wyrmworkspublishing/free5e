@@ -40,12 +40,6 @@
 
 [Spare the Dying](./Spare_the_Dying.md)
 
-[Speak with Animals](./Speak_with_Animals.md)
-
-[Speak with Dead](./Speak_with_Dead.md)
-
-[Speak with Plants](./Speak_with_Plants.md)
-
 [Spider Climb](./Spider_Climb.md)
 
 [Spike Growth](./Spike_Growth.md)

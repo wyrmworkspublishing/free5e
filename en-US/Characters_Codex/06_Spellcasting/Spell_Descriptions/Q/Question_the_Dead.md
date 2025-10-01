@@ -1,6 +1,7 @@
-#### Speak with Dead
+#### Question the Dead
 <!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Speak with Dead"
+[_metadata_:spell_name]:- "Question the Dead"
+[_metadata_:spell_original_name]:- "Speak with Dead"
 [_metadata_:spell_level]:- "3"
 [_metadata_:spell_school]:- "necromancy"
 [_metadata_:ritual]:- "false"
@@ -14,7 +15,7 @@
 [_metadata_:components_material_description]:- "burning incense"
 [_metadata_:duration]:- "10 minutes"
 [_metadata_:concentration]:- "false"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _3rd-level necromancy_
@@ -28,7 +29,7 @@ You call forth one corpse's memories, animating it enough to answer 5 questions.
 The spell fails if the corpse was the target of this spell within the last 10 days.
 
 The corpse’s knowledge is limited: it knows only what it knew in life and cannot learn new information or speak about anything that has occurred since its death.
-It speaks only in the languages it knew, and doesn’t need to give a truthful answer if it has reason not to.
+It speaks or signs only in the languages it knew, and doesn’t need to give a truthful answer if it has reason not to.
 Answers might be brief, cryptic, or repetitive.
 
-This spell does not return a departed soul, nor does it have any effect on an undead corpse, or one without a mouth.
+This spell does not return a departed soul, nor does it have any effect on an undead corpse, and the corpse must have the limbs or mouth needed to communicate.

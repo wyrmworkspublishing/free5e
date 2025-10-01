@@ -68,7 +68,7 @@
 - [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
 - [Gust of Wind](#Gust_of_Wind_gust_of_wind) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
-- [Imperceptibility](#Imperceptibility_imperceptibility) (concentration)
+- [Imperceptibility](#Imperceptibility_imperceptibility) (concentration) <!-- previously "Invisibility" -->
 - [Knock](#Knock_knock)
 - [Levitate](#Levitate_levitate) (concentration)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
@@ -76,8 +76,8 @@
 - [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
 - [Mirror Image](#Mirror_Image_mirror_image)
 - [Misty Step](#Misty_Step_misty_step)
-- [Nullify Sense](#Nullify_Sense_nullify_sense)
-- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_imperceptible)
+- [Nullify Sense](#Nullify_Sense_nullify_sense) <!-- previously "Blindness/Deafness" -->
+- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_imperceptible) <!-- previously "See Invisibility" -->
 - [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
 - [Rope Trick](#Rope_Trick_rope_trick)
 - [Scorching Ray](#Scorching_Ray_scorching_ray)
@@ -108,11 +108,11 @@
 - [Nondetection](#Nondetection_nondetection)
 - [Phantom Steed](#Phantom_Steed_phantom_steed) (ritual)
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
+- [Question the Dead](#Question_the_Dead_question_the_dead) <!-- previously "Speak with Dead" -->
 - [Remove Curse](#Remove_Curse_remove_curse)
 - [Sending](#Sending_sending)
 - [Sleet Storm](#Sleet_Storm_sleet_storm) (concentration)
 - [Slow](#Slow_slow) (concentration)
-- [Speak with Dead](#Speak_with_Dead_speak_with_dead)
 - [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
 - [Tongues](#Tongues_tongues)
 - [Vampiric Touch](#Vampiric_Touch_vampiric_touch) (concentration)
@@ -134,7 +134,7 @@
 - [Divination](#Divination_divination) (ritual)
 - [Fabricate](#Fabricate_fabricate)
 - [Fire Shield](#Fire_Shield_fire_shield)
-- [Greater Imperceptibility](#Greater_Imperceptibility_greater_imperceptibility) (concentration)
+- [Greater Imperceptibility](#Greater_Imperceptibility_greater_imperceptibility) (concentration) <!-- previously "Greater Invisibility" -->
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - [Ice Storm](#Ice_Storm_ice_storm)
 - [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
