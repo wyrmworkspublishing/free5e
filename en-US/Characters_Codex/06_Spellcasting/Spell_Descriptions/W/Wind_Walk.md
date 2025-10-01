@@ -25,7 +25,7 @@ _6th-level transmutation_
 **Duration:** 8 hours
 
 You and up to 10 willing creatures you can pinpoint assume a gaseous form and appear as wisps of cloud.
-Each target has a flying speed of 300 feet and resistance to damage from nonmagical weapons, but the only action it can take is the Dash action or to revert to its normal form (a process that takes 1 minute during which it is [incapacitated](#Conditions_incapacitated) and can’t move).
+Each target has a flying speed of 300 feet and resistance to damage from nonmagical weapons, but the only action it can take is the Dash action or to revert to its normal form (a process that takes 1 minute during which it is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ and can’t move).
 
 Until the spell ends, a target can change again to cloud form (in an identical transformation process).
 

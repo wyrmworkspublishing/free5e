@@ -25,7 +25,7 @@ _6th-level evocation_
 **Duration:** Instantaneous
 
 One creature that is neither a construct nor undead regains `70` hit points.
-The spell also ends any [nullified](#Conditions_nullified) and [impaired](#Conditions_impaired) conditions the creature may have and that are not caused by active environmental effects, and any diseases afflicting the target.
+The spell also ends any _[<span class="condition">nullified</span>](#Conditions_nullified)_ and _[<span class="condition">impaired</span>](#Conditions_impaired)_ conditions the creature may have and that are not caused by active environmental effects, and any diseases afflicting the target.
 
 **At Higher Levels.**
 The hit points regained increase by 10 for each slot level above 6th.

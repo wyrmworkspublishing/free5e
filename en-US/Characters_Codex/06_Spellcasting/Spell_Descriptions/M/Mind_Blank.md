@@ -25,4 +25,4 @@ _8th-level abjuration_
 
 One willing creature is immune to psychic damage, any effect that would read its emotions or thoughts, divination spells, and the charmed condition.
 
-This immunity extends even to the [Wish](#Wish_wish) spell, and magical effects or spells of similar power that would affect the target’s mind or gain information about it.
+This immunity extends even to the _[<span class="spell">Wish</span>](#Wish_wish)_ spell, and magical effects or spells of similar power that would affect the target’s mind or gain information about it.

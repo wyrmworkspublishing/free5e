@@ -50,8 +50,8 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 ### Grappled
 
 - A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
-- The condition ends if the grappler is [incapacitated](#Conditions_incapacitated) (see the condition).
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [Thunderwave](#Thunderwave_thunderwave) spell.
+- The condition ends if the grappler is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition).
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the _[<span class="spell">Thunderwave</span>](#Thunderwave_thunderwave)_ spell.
 
 ### Impaired
 
@@ -104,7 +104,7 @@ When you gain this condition, it applies to one or more specific senses (such as
 > **Note:**
 > This condition is not the same as paralysis, the permanent disability, as paralysis has a spectrum of experiences, and people with this disability learn to adapt in creative ways to accomplish their goals.
 
-- A paralyzed creature is [incapacitated](#Conditions_incapacitated) (see the condition) and can’t move or speak.
+- A paralyzed creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition) and can’t move or speak.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
@@ -113,7 +113,7 @@ When you gain this condition, it applies to one or more specific senses (such as
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone).
   Its weight increases by a factor of ten, and it ceases aging.
-- The creature is [incapacitated](#Conditions_incapacitated) (see the condition), can’t move or speak, and is unaware of its surroundings.
+- The creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition), can’t move or speak, and is unaware of its surroundings.
 - Attack rolls against the creature have advantage.
 - The creature automatically fails Strength and Dexterity saving throws.
 - The creature has resistance to all damage.
@@ -138,13 +138,13 @@ When you gain this condition, it applies to one or more specific senses (such as
 
 ### Stunned
 
-- A stunned creature is [incapacitated](#Conditions_incapacitated) (see the condition), can’t move, and can speak only falteringly.
+- A stunned creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition), can’t move, and can speak only falteringly.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
 
 ### Unconscious
 
-- An unconscious creature is [incapacitated](#Conditions_incapacitated) (see the condition), can’t move or speak, and is unaware of its surroundings
+- An unconscious creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition), can’t move or speak, and is unaware of its surroundings
 - The creature drops whatever it’s holding and falls prone.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.

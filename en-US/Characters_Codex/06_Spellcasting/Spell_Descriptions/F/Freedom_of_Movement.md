@@ -25,7 +25,7 @@ _4th-level abjuration_
 **Duration:** 1 hour
 
 One willing creature ignores difficult terrain.
-Spells and magical effects can’t reduce its speed or [paralyze](#Conditions_paralyzed) or [restrain](#Conditions_restrained) it.
+Spells and magical effects can’t reduce its speed or _[<span class="condition>paralyze</span>](#Conditions_paralyzed)_ or _[<span class="condition">restrain</span>](#Conditions_restrained)_ it.
 It can spend 5 feet of movement to escape from nonmagical restraints or grapples.
 The target’s movement and attacks aren’t penalized from being underwater.
 

@@ -11,9 +11,9 @@ You have darkvision to 60 feet, or the range of your existing darkvision increas
 You have proficiency with rapiers and hand crossbows.
 \
 **Shadow Lore.**
-You know a cantrip: either [Dancing Lights](#Dancing_Lights_dancing_lights) or [Minor Illusion](#Minor_Illusion_minor_illusion).
-Once you reach 3rd level, you can cast [Faerie Fire](#Faerie_Fire_faerie_fire) once per long rest.
-At 5th level, you can cast [Darkness](#Darkness_darkness) once per long rest.
+You know a cantrip: either _[<span class="spell">Dancing Lights</span>](#Dancing_Lights_dancing_lights)_ or _[<span class="spell">Minor Illusion</span>](#Minor_Illusion_minor_illusion)_.
+Once you reach 3rd level, you can cast _[<span class="spell">Faerie Fire</span>](#Faerie_Fire_faerie_fire)_ once per long rest.
+At 5th level, you can cast _[<span class="spell">Darkness</span>](#Darkness_darkness)_ once per long rest.
 You don’t need material components for these spells, and when casting them your spellcasting ability is Intelligence, Wisdom, or Charisma (whichever is highest).
 \
 **Languages.**

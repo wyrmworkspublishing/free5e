@@ -38,7 +38,7 @@ On a failed save, choose from one of the forms of bindings below (each lasts unt
   A _small mithral orb_ is required for this casting.
 - **Chaining.**
   Chains made of unbreakable material erupt from the ground bind the target where it stands.
-  The target is [restrained](#Conditions_restrained) and cannot be moved by any means.
+  The target is _[<span class="condition">restrained</span>](#Conditions_restrained)_ and cannot be moved by any means.
   A _small adamantine chain_ is required for this casting.
 - **Hedged Prison.**
   The target is imprisoned in a maze-like demiplane of your choosing, such as a labyrinth, a cage, a tower, a hedge maze, or any similar structure you desire.
@@ -59,7 +59,7 @@ Divination spells cannot reveal the location of the target.
 When cast, you must specify a condition that will cause the spell to end and release the target.
 This condition must be based on some observable action or quality and not related to mechanics like level, hit points, or class, and the Conductor must agree to it.
 
-A [Dispel Magic](#Dispel_Magic_dispel_magic) only dispels an imprisonment if it is cast using a 9th-level spell slot and targets the prison or the special component used to create the prison.
+A _[<span class="spell">Dispel Magic</span>](#Dispel_Magic_dispel_magic)_ only dispels an imprisonment if it is cast using a 9th-level spell slot and targets the prison or the special component used to create the prison.
 
 Each casting that uses the same spell effect requires its own special component.
 Repeated castings with the same component frees the prior occupant.

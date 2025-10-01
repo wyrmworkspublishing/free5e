@@ -29,7 +29,7 @@ _7th-level conjuration_
 
 You and up to 8 willing creatures linking hands in a circle are transported to a plane of existence that you choose.
 If the destination is generally described, targets arrive near that destination in a location chosen by the Conductor.
-If you know the correct sequence of an existing teleportation circle (see [Teleportation Circle](#Teleportation_Circle_teleportation_circle)), you can choose it as the destination (if the designated circle is too small for all targets to fit, any additional targets are shunted to the closest unoccupied spaces).
+If you know the correct sequence of an existing teleportation circle (see _[<span class="spell">Teleportation Circle</span>](#Teleportation_Circle_teleportation_circle)_), you can choose it as the destination (if the designated circle is too small for all targets to fit, any additional targets are shunted to the closest unoccupied spaces).
 
 Alternatively this spell can be used offensively to banish an unwilling creature.
 You make a melee spell attack and on a hit the target must succeed on a Charisma saving throw or be transported to a random location on a [plane of existence](#Planes_of_Existence_planes_of_existence) that you choose.

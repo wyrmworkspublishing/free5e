@@ -25,7 +25,7 @@ Select one of the following benefits:
 - **Poisoner’s Path.**
   You gain proficiency (or expertise if you already have proficiency) with the [poisoner’s kit](#Tools_tools).
   During a long rest, you can create a long lasting poison for one or more weapons for free.
-  Until the end of your next long rest your [Sneak Attack](#Rogue_sneak_attack) damage with that weapon becomes Poison damage and creatures struck with it must make a Constitution saving throw with a DC of `8 + your Proficiency modifier + your Dexterity modifier` or become [Poisoned](#Conditions_poisoned) for one minute.
+  Until the end of your next long rest your [Sneak Attack](#Rogue_sneak_attack) damage with that weapon becomes Poison damage and creatures struck with it must make a Constitution saving throw with a DC of `8 + your Proficiency modifier + your Dexterity modifier` or become _[<span class="condition">poisoned</span>](#Conditions_poisoned)_ for one minute.
   Creatures poisoned this way make a new save at the end of each of their turns, ending the condition on success.
   Once a creature passes the save against this effect, it cannot suffer the Poisoned condition from it again for 24 hours.
 
@@ -42,7 +42,7 @@ Select one of the following benefits:
   When you roll initiative while Hidden from all hostile creatures rolling initiative, you gain advantage on the roll.
 - **Specialized Poisons.**
   When you create a poison, you can designate one creature type (for example, Fiends).
-  The damage of that poison ignores resistance or immunity that creature type may have to poison or the [Poisoned condition](#Conditions_poisoned).
+  The damage of that poison ignores resistance or immunity that creature type may have to poison or the _[<span class="condition">poisoned</span>](#Conditions_poisoned)_ condition.
 
 ###### Lethal Blows (17th Level) {#Assassin_lethal_blows}
 

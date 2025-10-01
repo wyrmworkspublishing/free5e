@@ -27,7 +27,7 @@ The Travel Pace table assumes that characters travel for 8 hours per day.
 They can push on beyond that limit, at the risk of exhaustion.
 For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour.
 The DC is `10 + 1 for each hour past 8 hours`.
-On a failed saving throw, a character suffers one level of exhaustion (see the [Exhaustion](#Conditions_exhaustion) condition).
+On a failed saving throw, a character suffers one level of exhaustion (see the _[<span class="condition">exhaustion</span>](#Conditions_exhaustion)_ condition).
 
 **Mounts and Vehicles.**
 For short spans of time (up to an hour), many animals move much faster than humanoids.

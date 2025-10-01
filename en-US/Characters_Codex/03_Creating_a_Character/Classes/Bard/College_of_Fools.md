@@ -37,7 +37,7 @@ You gain the following benefits:
 
 ###### Fatal Flourish (6th Level)
 
-When you use your Action to make an ability check, cast [Vicious Mockery](#Vicious_Mockery_vicious_mockery), or make a weapon attack with a melee weapon, you can make a single weapon attack with a light melee weapon or dart as bonus action.
+When you use your Action to make an ability check, cast _[<span class="spell">Vicious Mockery</span>](#Vicious_Mockery_vicious_mockery)_, or make a weapon attack with a melee weapon, you can make a single weapon attack with a light melee weapon or dart as bonus action.
 
 ###### Energetic Encore (14th Level)
 

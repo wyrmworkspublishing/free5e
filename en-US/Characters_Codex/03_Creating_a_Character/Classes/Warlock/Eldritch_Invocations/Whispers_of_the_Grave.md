@@ -3,4 +3,4 @@
 **Prerequisite:**
 9th level
 \
-You can cast [Question the Dead](#Question_the_Dead_question_the_dead) at will, without expending a spell slot.
+You can cast _[<span class="spell">Question the Dead</span>](#Question_the_Dead_question_the_dead)_ at will, without expending a spell slot.

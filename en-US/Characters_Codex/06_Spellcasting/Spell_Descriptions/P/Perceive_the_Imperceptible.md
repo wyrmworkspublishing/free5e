@@ -26,5 +26,5 @@ _2nd-level divination_
 **Duration:** 1 hour
 
 Select one sense of your choice.
-You can pinpoint creatures and objects [imperceptible](#Conditions_imperceptible) to that sense, and you can see into the [Ethereal Plane](#Planes_of_Existence_planes_of_existence).
+You can pinpoint creatures and objects _[<span class="condition">imperceptible</span>](#Conditions_imperceptible)_ to that sense, and you can see into the [Ethereal Plane](#Planes_of_Existence_planes_of_existence).
 You perceive ethereal creatures and objects as translucent phantoms.

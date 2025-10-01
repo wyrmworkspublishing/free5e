@@ -30,7 +30,7 @@ ___
 
 ###### Fey Trickery (1st Level)
 
-You learn the [Minor Illusion](#Minor_Illusion_minor_illusion) cantrip.
+You learn the _[<span class="spell">Minor Illusion</span>](#Minor_Illusion_minor_illusion)_ cantrip.
 It does not count against your cantrips known.
 Additionally, you are adept at illusory tricks, gaining the ability to befuddle, trick and baffle people with your magic.
 As a bonus action, you can do any of the following:
@@ -53,7 +53,7 @@ If you are already proficient in all options, you gain proficiency in one skill 
 ###### Biting Illusions (6th Level)
 
 Once per turn on your turn when you roll damage with an illusion spell, you can add your Charisma modifier to the damage roll.
-Additionally, once per turn when a creature interacts with one of your illusions, you can choose to deal psychic damage equal to your Charisma modifier to them (such as destroying a Mirror Image or inspecting a [Major Image](#Major_Image_major_image)).
+Additionally, once per turn when a creature interacts with one of your illusions, you can choose to deal psychic damage equal to your Charisma modifier to them (such as destroying a Mirror Image or inspecting a _[<span class="spell">Major Image</span>](#Major_Image_major_image)_).
 If they make a check or save to determine the reality of the illusion that has damaged them that turn, it is made with disadvantage.
 
 ###### Fey Steps (14th Level)

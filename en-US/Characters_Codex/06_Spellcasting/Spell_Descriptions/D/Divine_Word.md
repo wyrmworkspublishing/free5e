@@ -30,11 +30,11 @@ Choose any number of creatures you can pinpoint within range.
 Each creature that can hear you must make a Charisma saving throw.
 On a failed save, a creature suffers an effect based on its current hit points:
 
-- 50 hit points or fewer: [nullified (hearing)](#Conditions_nullified) for 1 minute
-- 40 hit points or fewer: [nullified (hearing, sight)](#Conditions_nullified) for 10 minutes
-- 30 hit points or fewer: [nullified (hearing, sight)](#Conditions_nullified), and [stunned](#Conditions_stunned) for 1 hour
+- 50 hit points or fewer: _[<span class="condition">nullified (hearing)</span>](#Conditions_nullified)_ for 1 minute
+- 40 hit points or fewer: _[<span class="condition">nullified (hearing, sight)</span>](#Conditions_nullified)_ for 10 minutes
+- 30 hit points or fewer: _[<span class="condition">nullified (hearing, sight)</span>](#Conditions_nullified)_, and _[<span class="condition">stunned</span>](#Conditions_stunned)_ for 1 hour
 - 20 hit points or fewer: killed instantly
 
-Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a [Wish](#Wish_wish) spell.
+Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn’t there already) and can’t return to your current plane for 24 hours by any means short of a _[<span class="spelL">Wish</span>](#Wish_wish)_ spell.
 
 If you know a [sign language](#Languages_signing), you can prepare this spell with a somatic component instead of verbal to affect creatures that can see you instead of hearing you.

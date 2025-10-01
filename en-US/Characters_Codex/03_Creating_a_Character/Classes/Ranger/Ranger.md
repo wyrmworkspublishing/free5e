@@ -134,7 +134,7 @@ The following table shows how many spell slots you have to cast your spells.
 
 To cast one of these spells, you must expend a slot of the spell’s level or higher.
 You regain all expended spell slots when you finish a long rest.
-For example, if you know the 1st-level spell [Animal Friendship](#Animal_Friendship_animal_friendship) and have a 1st-level and a 2nd-level spell slot available, you can cast Animal Friendship using either slot.
+For example, if you know the 1st-level spell _[<span class="spell">Animal Friendship</span>](#Animal_Friendship_animal_friendship)_ and have a 1st-level and a 2nd-level spell slot available, you can cast Animal Friendship using either slot.
 
 **Spells Known of 1st Level and Higher**
 \
@@ -180,7 +180,7 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 Moving through nonmagical difficult terrain costs you no extra movement.
 You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the [Entangle](#Entangle_entangle) spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the _[<span class="spell">Entangle</span>](#Entangle_entangle)_ spell.
 
 ##### Hide in Plain Sight (10th Level) {#Ranger_hide_in_plain_sight}
 
@@ -199,7 +199,7 @@ Also, you can’t be tracked by nonmagical means, unless you choose to leave a t
 ##### Feral Senses (18th Level) {#Ranger_feral_senses}
 
 At 18th level, you gain preternatural senses that help you fight creatures you couldn’t usually sense.
-You can pinpoint any creature within 30 feet of you, provided that the creature isn’t hidden from you, and you aren’t [nullified (sight or hearing)](#Conditions_nullified).
+You can pinpoint any creature within 30 feet of you, provided that the creature isn’t hidden from you, and you aren’t _[<span class="condition">nullified (sight or hearing)</span>](#Conditions_nullified)_.
 
 ##### Foe Slayer (20th Level) {#Ranger_foe_slayer}
 

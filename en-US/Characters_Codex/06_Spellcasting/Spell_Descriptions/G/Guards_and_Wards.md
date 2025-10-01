@@ -40,23 +40,23 @@ _Guards and Wards_ creates the following effects within the area of the spell.
   Corridors are heavily obscured with fog.
   Additionally, creatures that choose between multiple passages or branches have a 50% chance to unknowingly choose a path other than the one they meant to choose.
 - **Doors.**
-  Doors are magically locked as if by an [Arcane Lock](#Arcane_Lock_arcane_lock) spell.
-  Additionally, you may conceal up to 10 doors with an illusion as per the illusory object component of the [Minor Illusion](#Minor_Illusion_minor_illusion) spell to make the doors appear as unadorned wall sections.
+  Doors are magically locked as if by an _[<span class="spell">Arcane Lock</span>](#Arcane_Lock_arcane_lock)_ spell.
+  Additionally, you may conceal up to 10 doors with an illusion as per the illusory object component of the _[<span class="spell">Minor Illusion</span>](#Minor_Illusion_minor_illusion)_ spell to make the doors appear as unadorned wall sections.
 - **Stairs.**
-  Stairs are filled from top to bottom with webs as per the [Web](#Web_web) spell.
+  Stairs are filled from top to bottom with webs as per the _[<span class="spell">Web</span>](#Web_web)_ spell.
   Until the spell ends, the webbing strands regrow 10 minutes after they are damaged or destroyed.
 
 In addition, one of the following spell effects can be placed within the spell’s area.
 
-- [Dancing Lights](#Dancing_Lights_dancing_lights) can be placed in 4 corridors and you can choose for them to repeat a simple sequence.
-- [Magic Mouth](#Magic_Mouth_magic_mouth) spells can be placed in 2 locations.
-- [Stinking Clouds](#Stinking_Cloud_stinking_cloud) can be placed in 2 locations.
+- _[<span class="spell">Dancing Lights</span>](#Dancing_Lights_dancing_lights)_ can be placed in 4 corridors and you can choose for them to repeat a simple sequence.
+- _[<span class="spell">Magic Mouth</span>](#Magic_Mouth_magic_mouth)_ spells can be placed in 2 locations.
+- _[<span class="spell">Stinking Clouds</span>](#Stinking_Cloud_stinking_cloud)_ can be placed in 2 locations.
   The clouds return after 10 minutes if dispersed while the spell remains.
-- A [Gust of Wind](#Gust_of_Wind_gust_of_wind) can be placed in a corridor or room.
+- A _[<span class="spell">Gust of Wind</span>](#Gust_of_Wind_gust_of_wind)_ can be placed in a corridor or room.
 - Pick a 5-foot square.
-  Any creature that passes through it is subjected to a [Suggestion](#Suggestion_suggestion) spell, hearing the suggestion mentally.
+  Any creature that passes through it is subjected to a _[<span class="spell">Suggestion</span>](#Suggestion_suggestion)_ spell, hearing the suggestion mentally.
 
 The entirety of the warded area radiates as magic.
-Each effect must be targeted by separate [Dispel Magic](#Dispel_Magic_dispel_magic) spells to be removed.
+Each effect must be targeted by separate _[<span class="spell">Dispel Magic</span>](#Dispel_Magic_dispel_magic)_ spells to be removed.
 
 The spell can be made permanent by recasting the spell every day for a year.

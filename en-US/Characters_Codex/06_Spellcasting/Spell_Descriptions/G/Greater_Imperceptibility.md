@@ -24,7 +24,7 @@ _4th-level illusion_
 **Components:** V, S \
 **Duration:** Concentration, up to 1 minute
 
-A creature, along with anything it is currently carrying or wearing, is [imperceptible](#Conditions_imperceptible) to a sense of your choice (e.g., sight, hearing, one type of parasense).
+A creature, along with anything it is currently carrying or wearing, is _[<span class="condition">imperceptible</span>](#Conditions_imperceptible)_ to a sense of your choice (e.g., sight, hearing, one type of parasense).
 
 **At Higher Levels.**
 When you cast this spell using a spell slot of 5th level or higher, you can either target one additional creature or cause one targeted creature to be imperceptible to one additional sense for each slot level above 4th.

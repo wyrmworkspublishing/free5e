@@ -27,7 +27,7 @@ _3rd-level illusion_
 **Duration:** Concentration, up to 1 minute
 
 You conjure swirling hues that roil through the air for a moment before vanishing.
-Creatures in a 30-foot cube that can perceive the effect must succeed on a Wisdom saving throw or become [charmed](#Conditions_charmed).
-A creature charmed by this spell becomes [incapacitated](#Conditions_incapacitated) and its speed is reduced to 0.
+Creatures in a 30-foot cube that can perceive the effect must succeed on a Wisdom saving throw or become _[<span class="condition">charmed</span>](#Conditions_charmed)_.
+A creature charmed by this spell becomes _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ and its speed is reduced to 0.
 
 The effect ends on a creature when it takes damage or when another creature uses an action to shake it out of its daze.

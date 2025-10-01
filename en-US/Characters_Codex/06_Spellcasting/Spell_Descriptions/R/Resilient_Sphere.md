@@ -31,7 +31,7 @@ A transparent sphere of force encloses one creature or object of Large size or s
 An unwilling creature must succeed on a Dexterity saving throw, or be enclosed for the duration.
 
 The sphere is weightless and just large enough for the target to fit inside.
-The sphere can be destroyed without harming anyone inside by being dealt at least 15 force damage at once or by being targeted with a [Disintegrate](#Disintegrate_disintegrate).
+The sphere can be destroyed without harming anyone inside by being dealt at least 15 force damage at once or by being targeted with a _[<span class="spell">Disintegrate</span>](#Disintegrate_disintegrate)_.
 The sphere is immune to all other damage, and no spell effects, physical objects, or anything else can pass through, though a target can breathe while inside it.
 The target cannot be damaged by any attacks or effects originating from outside the sphere, and the target cannot damage anything outside of it.
 

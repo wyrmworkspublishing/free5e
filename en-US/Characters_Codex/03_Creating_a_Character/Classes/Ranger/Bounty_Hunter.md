@@ -41,7 +41,7 @@ If you are already proficient in Intimidation, you gain expertise in Intimidatio
 ###### Dead or Alive (3rd Level) {#Bounty_Hunter_dead_or_alive}
 
 You can mark a target to bring them down dead or alive.
-You can place this mark on a creature you can pinpoint within 120 feet as a bonus action, or as part of placing a mark on the creature that requires a bonus action (such as [Hunter's Mark](#Hunters_Mark_hunters_mark)).
+You can place this mark on a creature you can pinpoint within 120 feet as a bonus action, or as part of placing a mark on the creature that requires a bonus action (such as _[<span class="spell">Hunter's Mark</span>](#Hunters_Mark_hunters_mark)_).
 This mark lasts for 1 minute, or until you use it again.
 Choose one of the following when you mark a creature:
 
@@ -63,7 +63,7 @@ Additionally, you have advantage on ability checks to tie knots or secure ropes.
 
 ###### Pin Down (11th Level)
 
-When a creature you have marked with [Dead or Alive](#Bounty_Hunter_dead_or_alive) moves 5 feet, stands up from being prone, or escapes from the [Restrained](#Conditions_restrained) condition while within 60 feet of you, you can use your reaction to make an opportunity attack against them if they are in range of a weapon you are wielding.
+When a creature you have marked with [Dead or Alive](#Bounty_Hunter_dead_or_alive) moves 5 feet, stands up from being prone, or escapes from the _[<span class="condition">restrained</span>](#Conditions_restrained)_ condition while within 60 feet of you, you can use your reaction to make an opportunity attack against them if they are in range of a weapon you are wielding.
 If you make this attack with a ranged weapon, you have disadvantage on the attack.
 
 ###### Unwavering Pursuit (15th Level)

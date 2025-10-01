@@ -38,4 +38,4 @@ The creature can’t use spells or magic items, and can’t understand language,
 
 At the end of every 30 days, the creature can repeat its saving throw, ending the effect on a success.
 
-[Greater Restoration](#Greater_Restoration_greater_restoration), [Heal](#Heal_heal), or [Wish](#Wish_wish) can also be used to end the effect.
+_[<span class="spell">Greater Restoration</span>](#Greater_Restoration_greater_restoration)_, _[<span class="spell">Heal</span>](#Heal_heal)_, or _[<span class="spell">Wish</span>](#Wish_wish)_ can also be used to end the effect.

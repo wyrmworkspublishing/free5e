@@ -1,7 +1,7 @@
 ### Damage and Healing
 
 Injury and the risk of death are constant companions of those who explore fantasy gaming worlds.
-The thrust of a sword, a well-placed arrow, or a blast of flame from a [Fireball](#Fireball_fireball) spell all have the potential to damage, or even kill, the hardiest of creatures.
+The thrust of a sword, a well-placed arrow, or a blast of flame from a _[<span class="spell">Fireball</span>](#Fireball_fireball)_ spell all have the potential to damage, or even kill, the hardiest of creatures.
 
 #### Hit Points
 
@@ -26,7 +26,7 @@ When attacking with a **weapon**, you add your ability modifier—the same modif
 A **spell** tells you which dice to roll for damage and whether to add any modifiers.
 
 If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them.
-For example, when a Wizard casts [Fireball](#Fireball_fireball) or a Cleric casts [Flame Strike](#Flame_Strike_flame_strike), the spell’s damage is rolled once for all creatures caught in the blast.
+For example, when a Wizard casts _[<span class="spell">Fireball</span>](#Fireball_fireball)_ or a Cleric casts _[<span class="spell">Flame Strike</span>](#Flame_Strike_flame_strike)_, the spell’s damage is rolled once for all creatures caught in the blast.
 
 ##### Critical Hits
 
@@ -58,13 +58,13 @@ Red dragons breathe fire, and many spells conjure flames to deal fire damage.
 
 **Force.**
 Force is pure magical energy focused into a damaging form.
-Most effects that deal force damage are spells, including [Magic Missile](#Magic_Missile_magic_missile) and spiritual weapon.
+Most effects that deal force damage are spells, including _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ and spiritual weapon.
 
 **Lightning.**
-A [Lightning Bolt](#Lightning_Bolt_lightning_bolt) spell and a blue dragon’s breath deal lightning damage.
+A _[<span class="spell">Lightning Bolt</span>](#Lightning_Bolt_lightning_bolt)_ spell and a blue dragon’s breath deal lightning damage.
 
 **Necrotic.**
-Necrotic damage, dealt by certain undead and a spell such as [Chill Touch](#Chill_Touch_chill_touch), withers matter and even the soul.
+Necrotic damage, dealt by certain undead and a spell such as _[<span class="spell">Chill Touch</span>](#Chill_Touch_chill_touch)_, withers matter and even the soul.
 
 **Piercing.**
 Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
@@ -76,13 +76,13 @@ Venomous stings and the toxic gas of a green dragon’s breath deal poison damag
 Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
 
 **Radiant.**
-Radiant damage, dealt by a Cleric’s [Flame Strike](#Flame_Strike_flame_strike) spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+Radiant damage, dealt by a Cleric’s _[<span class="spell">Flame Strike</span>](#Flame_Strike_flame_strike)_ spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 **Slashing.**
 Swords, axes, and monsters’ claws deal slashing damage.
 
 **Thunder.**
-A concussive burst of sound, such as the effect of the [Thunderwave](#Thunderwave_thunderwave) spell, deals thunder damage.
+A concussive burst of sound, such as the effect of the _[<span class="spell">Thunderwave</span>](#Thunderwave_thunderwave)_ spell, deals thunder damage.
 
 #### Damage Resistance and Vulnerability
 
@@ -102,14 +102,14 @@ For example, a creature has bludgeoning and nonmagical damage resistance, so non
 
 Unless it results in death, damage isn’t permanent.
 Even death is reversible through powerful magic.
-Rest can restore a creature’s hit points, and magical methods such as a [Cure Wounds](#Cure_Wounds_cure_wounds) spell or a potion of healing can remove damage in an instant.
+Rest can restore a creature’s hit points, and magical methods such as a _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_ spell or a potion of healing can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points.
 A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost.
 For example, a Wodewose grants a Ranger 8 hit points of healing.
 If the Ranger has 14 current hit points and has a hit point maximum of 20, the Ranger regains 6 hit points from the Wodewose, not 8.
 
-A creature that has died can’t regain hit points until magic such as the [Revivify](#Revivify_revivify) spell has restored it to life.
+A creature that has died can’t regain hit points until magic such as the _[<span class="spell">Revivify</span>](#Revivify_revivify)_ spell has restored it to life.
 
 #### Dropping to 0 Hit Points
 
@@ -122,7 +122,7 @@ When damage reduces you to 0 hit points and there is damage remaining, you die i
 
 ##### Falling Unconscious
 
-If damage reduces you to 0 hit points and fails to kill you, you fall [unconscious](#Conditions_unconscious) (see [appendix A, "Conditions"](#Conditions_conditions)).
+If damage reduces you to 0 hit points and fails to kill you, you fall _[<span class="condition">unconscious</span>](#Conditions_unconscious)_ (see [appendix A, "Conditions"](#Conditions_conditions)).
 This unconsciousness ends if you regain any hit points.
 
 ##### Death Saving Throws

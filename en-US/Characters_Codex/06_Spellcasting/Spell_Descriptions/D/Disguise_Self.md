@@ -30,4 +30,4 @@ Illusory changes in shape can be discovered by touch.
 To see through your disguise without touching it, a creature must use its action to make an Intelligence (Investigation) check against your spell save DC.
 
 **At Higher Levels.**
-When using a 3rd-level spell slot or higher, this spell functions identically to the [Seeming](#Seeming_seeming) spell, except the spell’s duration is 10 minutes.
+When using a 3rd-level spell slot or higher, this spell functions identically to the _[<span class="spell">Seeming</span>](#Seeming_seeming)_ spell, except the spell’s duration is 10 minutes.

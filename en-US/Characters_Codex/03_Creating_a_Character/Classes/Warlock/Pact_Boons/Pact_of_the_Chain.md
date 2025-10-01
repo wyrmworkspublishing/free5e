@@ -1,6 +1,6 @@
 ###### Pact of the Chain
 
-You learn the [Find Familiar](#Find_Familiar_find_familiar) spell and can cast it as a ritual.
+You learn the _[<span class="spell">Find Familiar</span>](#Find_Familiar_find_familiar)_ spell and can cast it as a ritual.
 The spell doesn’t count against your number of spells known.
 
 When you cast the spell, you can choose one of the normal forms for your familiar or one of the following special forms: imp, pseudodragon, quasit, or sprite.

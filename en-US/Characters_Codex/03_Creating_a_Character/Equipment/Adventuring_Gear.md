@@ -49,7 +49,7 @@ This section describes items that have special rules or require further explanat
 - **Crowbar.**
   Using a crowbar grants advantage to Strength checks where the crowbar’s leverage can be applied.
 - **Earplugs.**
-  When the wearer chooses to use their earplugs they can add the result of a d4 to saving throws against attacks that depend on the target’s hearing (e.g. [Vicious Mockery](#Vicious_Mockery_vicious_mockery)).
+  When the wearer chooses to use their earplugs they can add the result of a d4 to saving throws against attacks that depend on the target’s hearing (e.g. _[<span class="spell">Vicious Mockery</span>](#Vicious_Mockery_vicious_mockery)_).
   However while they are wearing these, they have disadvantage on all hearing-related Wisdom (Perception) checks.
 - **Fishing Tackle.**
   This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.

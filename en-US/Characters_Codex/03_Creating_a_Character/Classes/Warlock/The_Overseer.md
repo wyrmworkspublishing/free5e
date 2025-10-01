@@ -54,7 +54,7 @@ You can no longer be [surprised](#Combat_General_Terms_surprise), benefit from y
 ###### Suppressor’s Sight (14th Level)
 
 You can conjure the full power of your patron’s magic suppressing eye.
-As an action, you manifest a giant spectral eye in your space which creates an antimagic field (as per [the spell](#Antimagic_Field_antimagic_field)) in a 150-foot cone until the start of your next turn.
+As an action, you manifest a giant spectral eye in your space which creates an antimagic field (as per the _[<span class="spell">Antimagic Field</span>](#Antimagic_Field_antimagic_field)_ spell) in a 150-foot cone until the start of your next turn.
 This eye does not move from the space it was manifested in.
 Once you use this feature, you can’t use it again until you finish a long rest.
 

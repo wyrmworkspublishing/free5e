@@ -8,7 +8,7 @@ Its members are skilled hunters, trackers, and guardians of the wild.
 Your Speed increases by 5 feet.
 \
 **Nature’s Ally.**
-You can cast [Animal Friendship](#Animal_Friendship_animal_friendship) without material components once per long rest.
+You can cast _[<span class="spell">Animal Friendship</span>](#Animal_Friendship_animal_friendship)_ without material components once per long rest.
 Your spellcasting ability for this spell is Intelligence, Wisdom, or Charisma (whichever is highest).
 \
 **Nature’s Touch.**

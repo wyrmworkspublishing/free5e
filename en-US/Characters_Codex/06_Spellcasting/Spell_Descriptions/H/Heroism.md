@@ -24,7 +24,7 @@ _1st-level enchantment_
 **Duration:** Concentration, up to 1 minute
 
 One willing creature’s spirit is bolstered.
-Until the spell ends, the target gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns and it cannot be [frightened](#Conditions_frightened).
+Until the spell ends, the target gains temporary hit points equal to your spellcasting ability modifier at the start of each of its turns and it cannot be _[<span class="condition">frightened</span>](#Conditions_frightened)_.
 Any temporary hit points remaining are lost when the spell ends.
 
 **At Higher Levels.**

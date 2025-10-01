@@ -113,7 +113,7 @@ The spells must be of a level for which you have spell slots.
 
 For example, if you are a 3rd-level Wodewose, you have four 1st-level and two 2nd-level spell slots.
 With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
-If you prepare the 1st-level spell [Cure Wounds](#Cure_Wounds_cure_wounds), you can cast it using a 1st-level or 2nd-level slot.
+If you prepare the 1st-level spell _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_, you can cast it using a 1st-level or 2nd-level slot.
 Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can also change your list of prepared spells when you finish a long rest.
@@ -175,7 +175,7 @@ While you are transformed, the following rules apply:
   For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage.
   As long as the excess damage doesn’t reduce your normal form to 0 hit points, you aren’t knocked unconscious.
 - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.
-  Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as [Call Lightning](#Call_Lightning_call_lightning), that you’ve already cast.
+  Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _[<span class="spell">Call Lightning</span>](#Call_Lightning_call_lightning)_, that you’ve already cast.
 - You retain the benefit of any features from your class, ancestry, or other source and can use them if the new form is physically capable of doing so.
   However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it.

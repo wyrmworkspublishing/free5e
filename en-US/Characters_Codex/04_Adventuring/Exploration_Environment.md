@@ -26,10 +26,10 @@ Darkness and similar effects that obscure sensory cues can hinder these actions.
 
 A given area might be lightly or heavily obscured.
 In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage.
-A creature effectively suffers from the [impaired (sight)](#Conditions_impaired) condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
+A creature effectively suffers from the _[<span class="condition">impaired (sight)</span>](#Conditions_impaired)_ condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
 
 A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely.
-A creature effectively suffers from the [nullified (sight)](#Conditions_nullified) condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
+A creature effectively suffers from the _[<span class="condition">nullified (sight)</span>](#Conditions_nullified)_ condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
 
 #### <a id="Exploration_Environment_pinpoint"></a>Pinpoint
 
@@ -80,7 +80,7 @@ However, the creature can’t discern color in darkness, only shades of gray.
 
 A creature with parasense can pinpoint and observe its surroundings within a defined area (e.g., 60 ft. cone) without using sight.
 This sense depends on a supporting sense, like hearing, sensitivity to pressure, or specific magic or energy types.
-It may be disrupted by effects that interfere with that sense (e.g., [Silence](#Silence_silence) for auditory echolocation, strong wind for air pressure).
+It may be disrupted by effects that interfere with that sense (e.g., _[<span class="spell">Silence</span>](#Silence_silence)_ for auditory echolocation, strong wind for air pressure).
 Parasense reveals position and general features but not fine detail.
 
 #### Truesight
@@ -90,7 +90,7 @@ Furthermore, the creature can see into the Ethereal Plane.
 
 #### Food and Water
 
-Characters who don’t eat or drink suffer the effects of [exhaustion](#Conditions_exhaustion) (see ["Conditions"](#Conditions_conditions)).
+Characters who don’t eat or drink suffer the effects of _[<span class="condition">exhaustion</span>](#Conditions_exhaustion)_ (see ["Conditions"](#Conditions_conditions)).
 Exhaustion caused by lack of food or water can’t be removed until the character eats and drinks the full required amount.
 
 ##### Food

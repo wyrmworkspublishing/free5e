@@ -28,7 +28,7 @@ Until the spell ends you can use an action on subsequent turns to pick a new tar
 Depending on whether you target a creature or an object, the spell has the following effects:
 
 **Creature:**
-The target makes a Strength check against your spell save DC or it is moved up to 30 feet in any direction and [restrained](#Conditions_restrained) (even in mid-air) until the end of your next turn.
+The target makes a Strength check against your spell save DC or it is moved up to 30 feet in any direction and _[<span class="condition">restrained</span>](#Conditions_restrained)_ (even in mid-air) until the end of your next turn.
 You cannot move a target beyond the range of the spell.
 On subsequent rounds, you can use your action to attempt to maintain your telekinetic grip on the creature, which may attempt another Strength check.
 

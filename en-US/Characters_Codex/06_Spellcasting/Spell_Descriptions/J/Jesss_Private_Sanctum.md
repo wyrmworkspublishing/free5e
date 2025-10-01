@@ -29,7 +29,7 @@ _4th-level abjuration_
 You increase the magical security in a cube with sides between 5 and 100 feet long, choosing one or more of the following:
 
 - Sound cannot pass the edge of the area.
-- Light and vision (including [Darkvision](#Exploration_Environment_darkvision)) cannot pass the edge of the area.
+- Light and vision (including [darkvision](#Exploration_Environment_darkvision)) cannot pass the edge of the area.
 - Sensors created by divination spells can neither enter the area nor appear within it.
 - Creatures within the area cannot be targeted by divination spells.
 - Nothing can teleport into or out of the area.

@@ -79,7 +79,7 @@ Higher rolls are better!
 > 15!
 > I’m first!
 > I try to confuse it with a quick spell.
-> I cast Vicious Mockery, shouting, ‘You look like something the forest spit out!’
+> I cast _<span class="spell spell-Vicious_Mockery_vicious_mockery">Vicious Mockery</span>_, shouting, ‘You look like something the forest spit out!’
 > It needs to make a Wisdom saving throw.
 > \
 > **Conductor:**
@@ -134,7 +134,7 @@ Higher rolls are better!
 > What’s your next move?
 > \
 > **Sylvana:**
-> I step back and cast Command on the creature and shout “Flee!” to force it to flee!
+> I step back and cast _<span class="spell spell-Command_command">Command</span>_ on the creature and shout “Flee!” to force it to flee!
 > It needs to make a Wisdom saving throw, DC 13.
 > \
 > **Conductor:**

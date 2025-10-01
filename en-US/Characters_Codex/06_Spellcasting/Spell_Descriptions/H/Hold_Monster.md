@@ -26,7 +26,7 @@ _5th-level enchantment_
 **Components:** V, S, M (a small, straight piece of iron) \
 **Duration:** Concentration, up to 1 minute
 
-One non-undead creature that you can pinpoint and that fails a Wisdom saving throw is [paralyzed](#Conditions_paralyzed).
+One non-undead creature that you can pinpoint and that fails a Wisdom saving throw is _[<span class="condition">paralyzed</span>](#Conditions_paralyzed)_.
 At the end of each of its turns, the target makes another saving throw, ending the spell’s effects on it on a successful save.
 
 **At Higher Levels.**

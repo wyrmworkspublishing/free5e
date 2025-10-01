@@ -20,7 +20,7 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
 <!-- spell-checker:words flamberge -->
 > **Reflavor, Don't Rewrite**
 > \
-> Want your [Magic Missile](#Magic_Missile_magic_missile) to look like flying fish or your fighter to wield a wavy flamberge sword?
+> Want your _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ to look like flying fish or your fighter to wield a wavy flamberge sword?
 > No problem!
 > You can change the style of weapons, spells, and features to suit your character’s concept as long as the mechanics stay the same.
 > Work with your Conductor to make Free5e your own.

@@ -32,11 +32,11 @@ Choose one or both of the following effects.
 When cast upon the same target with the same effect for 30 successive days, it lasts until it is dispelled.
 
 - **_False Aura._**
-  You change the way the target appears to spells and magical effects, such as [Detect Magic](#Detect_Magic_detect_magic), that detect magical auras.
+  You change the way the target appears to spells and magical effects, such as _[<span class="spell">Detect Magic</span>](#Detect_Magic_detect_magic)_, that detect magical auras.
   You can make a nonmagical object appear magical, a magical object appear nonmagical, or change the object's magical aura so that it appears to belong to a specific school of magic that you choose.
   When you use this effect on an object, you can make the false magic apparent to any creature that handles the item.
 - **_Mask._**
-  You change the way the target appears to spells and magical effects that detect creature types, such as a Vanguard's [Divine Sense](#Vanguard_divine_sense) or the trigger of a [Symbol](#Symbol_symbol) spell.
+  You change the way the target appears to spells and magical effects that detect creature types, such as a Vanguard's [Divine Sense](#Vanguard_divine_sense) or the trigger of a _[<span class="spell">Symbol</span>](#Symbol_symbol)_ spell.
   You choose a creature type and other spells and magical effects treat the target as if it were a creature of that type or of that alignment.
 
 **At Higher Levels.**

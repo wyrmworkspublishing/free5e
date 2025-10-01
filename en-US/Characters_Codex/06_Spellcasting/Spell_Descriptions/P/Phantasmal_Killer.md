@@ -29,7 +29,7 @@ _2nd-level abjuration_
 
 You create an illusion that invokes one creature’s deepest fears.
 Only the target can see this illusion.
-When the spell is cast and at the end of each of its turns (though never more than once per round), the target makes a Wisdom saving throw or takes `4d10` psychic damage and becomes [frightened](#Conditions_frightened).
+When the spell is cast and at the end of each of its turns (though never more than once per round), the target makes a Wisdom saving throw or takes `4d10` psychic damage and becomes _[<span class="condition">frightened</span>](#Conditions_frightened)_.
 The spell ends early when the target succeeds on its saving throw.
 A target that succeeds on its initial saving throw takes half damage.
 

@@ -111,7 +111,7 @@ When an attacker that you can pinpoint hits you with an attack, you can use your
 
 ##### Evasion (7th Level) {#Rogue_evasion}
 
-You can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an [Ice Storm](#Ice_Storm_ice_storm) spell.
+You can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an _[<span class="spell">Ice Storm</span>](#Ice_Storm_ice_storm)_ spell.
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ##### Reliable Talent (11th Level) {#Rogue_reliable_talent}
@@ -121,7 +121,7 @@ Whenever you make an ability check that lets you add your proficiency bonus, you
 
 ##### Blindsense (14th Level) {#Rogue_blindsense}
 
-If you are able to hear and not [impaired (hearing)](#Conditions_impaired), you are aware of the location of any hidden or [imperceptible (sight)](#Conditions_imperceptible) creature within 10 feet of you.
+If you are able to hear and not _[<span class="condition">impaired (hearing)</span>](#Conditions_impaired)_, you are aware of the location of any hidden or _[<span class="condition">imperceptible (sight)</span>](#Conditions_imperceptible)_ creature within 10 feet of you.
 
 ##### Slippery Mind (15th Level) {#Rogue_slippery_mind}
 

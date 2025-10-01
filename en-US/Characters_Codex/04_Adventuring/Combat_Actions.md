@@ -35,7 +35,7 @@ If you take the Disengage action, your movement doesn’t provoke opportunity at
 
 When you take the Dodge action, you focus entirely on avoiding attacks.
 Until the start of your next turn, any attack roll made against you has disadvantage if you can pinpoint the attacker, and you make Dexterity saving throws with advantage.
-You lose this benefit if you are [incapacitated](#Conditions_incapacitated) (as explained in [appendix A, "Conditions"](#Conditions_conditions)) or if your speed drops to 0.
+You lose this benefit if you are _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (as explained in [appendix A, "Conditions"](#Conditions_conditions)) or if your speed drops to 0.
 
 #### Help
 
@@ -67,7 +67,7 @@ To ready a spell, cast it normally but hold its energy.
 You release the energy with your reaction when the trigger occurs.
 The spell must have a casting time of 1 action and holding onto the spell's magic requires concentration.
 If your concentration breaks, the spell dissipates.
-For example, if you’re concentrating on the [Web](#Web_web) spell and ready [Magic Missile](#Magic_Missile_magic_missile), your Web spell ends if you take damage before releasing Magic Missile.
+For example, if you’re concentrating on the _[<span class="spell">Web</span>](#Web_web)_ spell and ready _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_, your _<span class="spell spell-Web_web">Web</span>_ spell ends if you take damage before releasing _<span class="spell spell-Magic_Missile_magic_missile">Magic Missile</span>_.
 
 #### Search
 

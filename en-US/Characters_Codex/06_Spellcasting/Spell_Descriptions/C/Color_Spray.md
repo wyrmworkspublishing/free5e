@@ -27,7 +27,7 @@ _1st-level illusion_
 A blast of dazzling multicolored light flashes from your hand to blind creatures in the area until the start of your next turn.
 Roll `6d10`.
 The spell affects this many hit points worth of creatures.
-In ascending order of hit points starting with the target with the lowest hit points (ignoring creatures that are unconscious or unable to see), targets within the area are [nullified (sight)](#Conditions_nullified).
+In ascending order of hit points starting with the target with the lowest hit points (ignoring creatures that are unconscious or unable to see), targets within the area are _[<span class="condition">nullified (sight)</span>](#Conditions_nullified)_.
 
 When a target is nullified (sight), subtract its hit points from the total before moving on to the next target.
 A target with more hit points than the remaining total is unaffected.

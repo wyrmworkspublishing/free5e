@@ -27,7 +27,7 @@ _5th-level abjuration_
 **Components:** V, S, M (a jewel worth at least 1,000 gp, which the spell consumes) \
 **Duration:** 24 hours
 
-One celestial, elemental, fey, or fiend must remain within range for the entire casting of the spell (usually by means of a [Magic Circle](#Magic_Circle_magic_circle) spell).
+One celestial, elemental, fey, or fiend must remain within range for the entire casting of the spell (usually by means of a _[<span class="spell">Magic Circle</span>](#Magic_Circle_magic_circle)_ spell).
 If it fails a Charisma saving throw at the end of the casting time, you force the target to serve you until the spell ends.
 If the target was summoned through some other means, like a spell, the duration of the original spell is extended to match this spell’s duration.
 

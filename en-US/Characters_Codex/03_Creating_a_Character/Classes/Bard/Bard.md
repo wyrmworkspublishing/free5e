@@ -88,7 +88,7 @@ The following table shows how many spell slots you have to cast your spells of 1
 To cast one of these spells, you must expend a slot of the spell’s level or higher.
 You regain all expended spell slots when you finish a long rest.
 
-For example, if you know the 1st-level spell [Cure Wounds](#Cure_Wounds_cure_wounds) and have a 1st-level and a 2nd-level spell slot available, you can cast Cure Wounds using either slot.
+For example, if you know the 1st-level spell _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_ and have a 1st-level and a 2nd-level spell slot available, you can cast Cure Wounds using either slot.
 \
 **Spells Known of 1st Level and Higher**
 \

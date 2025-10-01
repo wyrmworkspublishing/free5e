@@ -29,9 +29,9 @@ _2nd-level conjuration_
 One creature of flesh and blood becomes restrained as it begins to turn to stone.
 On a successful saving throw, the target isn’t affected.
 
-A creature [restrained](#Conditions_restrained) by this spell must make another Constitution saving throw at the end of each of its turns.
+A creature _[<span class="condition">restrained</span>](#Conditions_restrained)_ by this spell must make another Constitution saving throw at the end of each of its turns.
 If it successfully saves against this spell three times, the spell ends.
-If it fails its saves three times, it is turned to stone and has the [petrified condition](#Conditions_petrified) for the duration.
+If it fails its saves three times, it is turned to stone and has the _[<span class="condition">petrified</span>](#Conditions_petrified)_ condition for the duration.
 The successes and failures don't need to be consecutive; keep track of both until the target collects three of a kind.
 
 If you maintain concentration for the maximum duration of the spell, this petrification is permanent.

@@ -16,7 +16,7 @@ Your ability to recreate divine magic using arcane magic is limited.
 You can cast a number of spells gained from this feature equal to your proficiency bonus.
 You regain all uses when you complete a long rest.
 When you use your [Arcane Recovery](#Wizard_arcane_recovery) feature, you can choose to reset this limit instead of regain spell slots.
-Using divine magic that brings creatures back from the dead strains your body, causing you to gain 2 levels of [exhaustion](#Conditions_exhaustion) when you cast a spell learned through this feature that restores a creature to life.
+Using divine magic that brings creatures back from the dead strains your body, causing you to gain 2 levels of _[<span class="condition">exhaustion</span>](#Conditions_exhaustion)_ when you cast a spell learned through this feature that restores a creature to life.
 
 ###### Theologian (2nd Level)
 
