@@ -16,7 +16,7 @@ Meditating to regain your focus points can now include things such as playing ca
 
 ###### Bonus Proficiencies (3rd Level)
 
-You gain proficiency in the Athletics skill, or another skill of your choice if you are already proficient in Athletics.
+You gain proficiency in the _Athletics_ skill, or another skill of your choice if you are already proficient in _Athletics_.
 
 ###### Pragmatism (3rd Level)
 

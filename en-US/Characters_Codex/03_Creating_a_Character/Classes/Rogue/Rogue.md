@@ -23,13 +23,13 @@ Light armor
 Simple weapons, hand crossbows, longswords, rapiers, shortswords
 \
 **Tools:**
-Thieves’ tools
+_Thieves’ Tools_
 \
 **Saving Throws:**
 Dexterity, Intelligence
 \
 **Skills:**
-Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+Choose four from _Acrobatics_, _Athletics_, _Deception_, _Insight_, _Intimidation_, _Investigation_, _Perception_, _Performance_, _Persuasion_, _Sleight of Hand_, and _Stealth_
 
 ##### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -66,10 +66,10 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ##### Expertise (1st & 6th Level) {#Rogue_expertise}
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves’ tools.
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with _Thieves’ Tools_.
 You gain [expertise](#Proficiency_Bonus_expertise) with the chosen proficiencies.
 
-At 6th level, you can choose two more of your proficiencies (in skills or with thieves’ tools) to gain this benefit.
+At 6th level, you can choose two more of your proficiencies (in skills or with _Thieves’ Tools_) to gain this benefit.
 
 ##### Sneak Attack (1st Level) {#Rogue_sneak_attack}
 

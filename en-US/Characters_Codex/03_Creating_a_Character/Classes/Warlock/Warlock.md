@@ -32,7 +32,7 @@ None
 Wisdom, Charisma
 \
 **Skills:**
-Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+Choose two skills from _Arcana_, _Deception_, _History_, _Intimidation_, _Investigation_, _Nature_, and _Religion_
 
 ##### Equipment
 

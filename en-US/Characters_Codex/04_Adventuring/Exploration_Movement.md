@@ -44,11 +44,11 @@ ___
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Travel Pace (table)_
 
-| Pace   | Distance traveled per Minute | Distance traveled per Hour | Distance traveled per Day | Effect |
-|:-------|:-:|:-:|:-:|:-:|
-| Fast   | 400 feet | 4 miles | 30 miles | -5 penalty to passive Wisdom (Perception) scores |
-| Normal | 300 feet | 3 miles | 24 miles | — |
-| Slow   | 200 feet | 2 miles | 18 miles | Able to use stealth |
+| Pace   | Distance traveled per Minute | Distance traveled per Hour | Distance traveled per Day | Effect                                             |
+|:-------|:----------------------------:|:--------------------------:|:-------------------------:|:--------------------------------------------------:|
+| Fast   |           400 feet           |           4 miles          |          30 miles         | -5 penalty to passive Wisdom (_Perception_) scores |
+| Normal |           300 feet           |           3 miles          |          24 miles         | —                                                  |
+| Slow   |           200 feet           |           2 miles          |          18 miles         | Able to use stealth                                |
 
 ___
 
@@ -66,8 +66,8 @@ Adventurers might have to climb, crawl, swim, or jump to get where they need to 
 ##### Climbing, Swimming, and Crawling
 
 While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed.
-At the Conductor’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check.
-Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
+At the Conductor’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (_Athletics_) check.
+Similarly, gaining any distance in rough water might require a successful Strength (_Athletics_) check.
 
 ##### Jumping
 
@@ -83,9 +83,9 @@ _Jumping (table)_
 
 | Type of Jump             | Jump Distance                          | Conditions                               | Checks                   |
 |:-------------------------|:---------------------------------------|:-----------------------------------------|:-------------------------|
-| **Long Jump (running)**  | Up to your Strength score (feet) with a 10-foot running start | Height doesn’t matter unless specified by the Conductor | DC 10 Strength (Athletics) to clear a low obstacle; DC 10 Dexterity (Acrobatics) to avoid falling prone in difficult terrain |
+| **Long Jump (running)**  | Up to your Strength score (feet) with a 10-foot running start | Height doesn’t matter unless specified by the Conductor | DC 10 Strength (_Athletics_) to clear a low obstacle; DC 10 Dexterity (_Acrobatics_) to avoid falling prone in difficult terrain |
 | **Long Jump (standing)** | Half your Strength score (feet)        | Each foot jumped uses 1 foot of movement | Same as running long jump |
-| **High Jump (running)**  | 3 + Strength modifier (feet) with a 10-foot running start | Extend arms to reach height of the jump plus 1.5 × your height | Conductor may allow a Strength (Athletics) check to jump higher than normal |
+| **High Jump (running)**  | 3 + Strength modifier (feet) with a 10-foot running start | Extend arms to reach height of the jump plus 1.5 × your height | Conductor may allow a Strength (_Athletics_) check to jump higher than normal |
 | **High Jump (standing)** | Half the result of a running high jump | Each foot jumped uses 1 foot of movement | Same as running high jump |
 
 ___

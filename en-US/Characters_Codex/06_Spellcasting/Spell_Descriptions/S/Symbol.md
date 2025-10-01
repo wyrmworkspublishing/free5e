@@ -31,7 +31,7 @@ _7th-level abjuration_
 
 You inscribe a potent glyph on one object or a surface no larger than 10 feet in diameter, setting a magical trap for your enemies.
 If the glyph is moved more than 10 feet from its original position, or if it comes within 20 feet of another glyph that you have cast, the spell ends.
-Finding the Tiny glyph requires an Intelligence (Investigation) check against your spell save DC.
+Finding the Tiny glyph requires an Intelligence (_Investigation_) check against your spell save DC.
 
 Describe the actions a creature must perform to trigger the spell, such as approaching within a certain distance, opening or touching the object the glyph is inscribed on, or seeing or reading the glyph.
 The creature must have a clear path to the glyph to trigger it.

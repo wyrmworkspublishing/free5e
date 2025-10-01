@@ -9,8 +9,8 @@ While dice rolls may not be prevalent, well-timed skill checks add depth, blendi
 
 Examples include:
 
-- Spinning a compelling tale and rolling a Charisma (Persuasion) check to convince a guard to let the party enter a restricted area.
-- Bluffing a rival merchant to negotiate a better deal with a Charisma (Deception) check.
+- Spinning a compelling tale and rolling a Charisma (_Persuasion_) check to convince a guard to let the party enter a restricted area.
+- Bluffing a rival merchant to negotiate a better deal with a Charisma (_Deception_) check.
 - Roleplaying a character’s reaction to a major failure, like mourning a fallen ally.
 - Navigating court politics to gain favor or sow discord.
-- Convincing a dragon to spare the party by exploiting its vanity or offering an unconventional gift, the gift giving advantage on a Charisma (Persuasion) check.
+- Convincing a dragon to spare the party by exploiting its vanity or offering an unconventional gift, the gift giving advantage on a Charisma (_Persuasion_) check.

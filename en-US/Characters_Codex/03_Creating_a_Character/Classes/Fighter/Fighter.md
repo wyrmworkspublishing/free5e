@@ -32,7 +32,7 @@ None
 Strength, Constitution
 \
 **Skills:**
-Choose two skills from Acrobatics, Animal, Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
+Choose two skills from _Acrobatics_, _Animal Handling_, _Athletics_, _History_, _Insight_, _Intimidation_, _Perception_, and _Survival_
 
 ##### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:

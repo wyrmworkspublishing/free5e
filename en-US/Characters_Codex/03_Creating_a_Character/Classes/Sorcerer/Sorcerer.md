@@ -32,7 +32,7 @@ None
 Constitution, Charisma
 \
 **Skills:**
-Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+Choose two from _Arcana_, _Deception_, _Insight_, _Intimidation_, _Persuasion_, and _Religion_
 
 ##### Equipment
 

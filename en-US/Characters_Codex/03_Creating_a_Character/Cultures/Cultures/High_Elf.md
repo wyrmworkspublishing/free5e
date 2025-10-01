@@ -5,10 +5,10 @@ Its people seek mastery in magic and social arts, elevating their influence in a
 \
 \
 **Cunning Diplomat.**
-When you are requested by the Conductor to make a Deception (Charisma), Insight (Wisdom), Intimidation (Charisma), or Persuasion (Charisma) ability check, you may choose to use your Intelligence rather than the requested ability.
+When you are requested by the Conductor to make a Charisma (_Deception_), Wisdom (_Insight_), Charisma (_Intimidation_), or Charisma (_Persuasion_) ability check, you may choose to use your Intelligence rather than the requested ability.
 \
 **High Elf Education.**
-You are proficient in Persuasion and one additional skill of your choice.
+You are proficient in _Persuasion_ and one additional skill of your choice.
 \
 **High Elf Weapon Training.**
 You have proficiency with rapiers and longswords.

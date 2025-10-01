@@ -5,5 +5,5 @@
 - On the first turn that you start with 0 hit points and must make a death saving throw, you make that saving throw with advantage.
   When you take massive damage that would kill you instantly, you can use your reaction to make a death saving throw.
   If the saving throw succeeds, you instead fall unconscious and are dying.
-- Medicine checks made to stabilize you have advantage.
+- Wisdom (_Medicine_) checks made to stabilize you have advantage.
   Once between long rests, when a creature successfully stabilizes you, at the start of your next turn you regain 1 hit point.

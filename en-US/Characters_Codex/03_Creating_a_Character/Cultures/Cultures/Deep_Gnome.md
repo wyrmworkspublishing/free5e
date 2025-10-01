@@ -16,7 +16,7 @@ At 5th level, you can cast _[<span class="spell">Nondetection</span>](#Nondetect
 You don’t need material components for these spells, and when casting them your spellcasting ability is Intelligence, Wisdom, or Charisma (whichever is highest).
 \
 **Subterranean Camouflage.**
-You gain expertise on Stealth checks made to hide in rocky terrain.
+You gain [expertise](#Proficiency_Bonus_expertise) on _Stealth_ checks made to hide in rocky terrain.
 \
 **Languages.**
 You can understand and communicate in Common, Gnomish, and Undercommon.

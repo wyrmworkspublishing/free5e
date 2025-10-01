@@ -32,7 +32,7 @@ None
 Intelligence, Wisdom
 \
 **Skills:**
-Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+Choose two from _Arcana_, _History_, _Insight_, _Investigation_, _Medicine_, and _Religion_
 
 ##### Equipment
 

@@ -44,7 +44,7 @@ None
 Wisdom, Charisma
 \
 **Skills:**
-Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
+Choose two from _Athletics_, _Insight_, _Intimidation_, _Medicine_, _Persuasion_, and _Religion_
 
 ##### Equipment
 

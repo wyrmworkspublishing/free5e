@@ -10,10 +10,10 @@ Hiding in the brilliant outfits in plain sight more surely than darkened leather
 ###### Jester’s Juggling (3rd Level)
 
 You master the art of juggling almost anything.
-You gain proficiency in Performance (or another skill of your choice if you are already proficient in it).
+You gain proficiency in _Performance_ (or another skill of your choice if you are already proficient in it).
 
 Additionally, you can draw or stow any number of items or weapons during your turn.
-You can hold more weapons or objects than you have hands, but when you do so, at the end of your turn you must make Dexterity (Performance) check with a DC of 5 times the additional number of hands you need to wield or hold all the items you are holding (for example, to hold 3 daggers would be a DC 5, while to hold 3 daggers and greatsword would be DC 15).
+You can hold more weapons or objects than you have hands, but when you do so, at the end of your turn you must make Dexterity (_Performance_) check with a DC of 5 times the additional number of hands you need to wield or hold all the items you are holding (for example, to hold 3 daggers would be a DC 5, while to hold 3 daggers and greatsword would be DC 15).
 On failure, you drop any that you don’t have sufficient hands to hold.
 
 ###### Fool’s Fumble (3rd Level)
@@ -23,7 +23,7 @@ When you do so, reroll the check or attack roll and add your Bardic Inspiration 
 
 ###### Acrobatic Antics (6th Level)
 
-Your acrobatic mastery gives you proficiency in Acrobatics (or another skill of your choice if you are already proficient in it).
+Your acrobatic mastery gives you proficiency in _Acrobatics_ (or another skill of your choice if you are already proficient in it).
 You can use your acrobatic foolery to tumble around the most dangerous places safely.
 You gain the following benefits:
 

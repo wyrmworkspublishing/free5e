@@ -49,13 +49,13 @@ The civilized beasts feature means that you would be able to cast spells (perfor
 
 ###### Urban Adaptation (10th Level)
 
-You become immune to poison and disease, and gain one skill of your choice from Insight, Perception, Persuasion, Sleight of Hand, or Stealth.
+You become immune to poison and disease, and gain one skill of your choice from _Insight_, _Perception_, _Persuasion_, _Sleight of Hand_, or _Stealth_.
 If you have all the listed skills, you can select any skill of your choice instead.
 
 ###### Keen Skills (14th Level)
 
 You gain proficiency in an additional skill from the list in Urban Adaptation.
-Additionally, if a beast you assume the form of is proficient in a skill you are normally proficient in, you gain expertise in that skill while transformed into that beast.
+Additionally, if a beast you assume the form of is proficient in a skill you are normally proficient in, you gain [expertise](#Proficiency_Bonus_expertise) in that skill while transformed into that beast.
 
 ###### Tiny Tributes (14th Level)
 

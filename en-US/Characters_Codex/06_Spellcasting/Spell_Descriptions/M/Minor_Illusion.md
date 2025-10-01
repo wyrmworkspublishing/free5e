@@ -34,5 +34,5 @@ Sounds are audible outside the spell’s area.
 Visual illusions may replicate any image and remain within the spell’s area, but cannot create sound, light, smell, or other sensory effects.
 
 The image is revealed as an illusion with any physical interaction as physical objects and creatures pass through it.
-An Intelligence (Investigation) check against your spell save DC also reveals the image is an illusion.
+An Intelligence (_Investigation_) check against your spell save DC also reveals the image is an illusion.
 When a creature realizes the image is an illusion, the effects become fainter for that creature.

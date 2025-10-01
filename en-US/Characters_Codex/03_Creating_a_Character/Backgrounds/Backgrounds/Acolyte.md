@@ -8,7 +8,7 @@ Were you a temple functionary raised to assist priests, or a high priest with a 
 Perhaps you lead a small cult or an occult group serving a fiendish master you now deny.
 
 **Skill Proficiencies:**
-Insight, Religion
+_Insight_, _Religion_
 \
 **Languages:**
 Two of your choice

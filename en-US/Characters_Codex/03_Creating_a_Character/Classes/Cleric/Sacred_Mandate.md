@@ -39,11 +39,11 @@ You may choose a different damage type for each feature.
 
 Choose one from a list thematic to your mandate:
 
-- **Knowledge:** One language, Arcana or History
-- **Life:** Medicine or Herbalism Kit
-- **Light:** Performance or Persuasion
-- **Storm:** Athletics or Nature
-- **Trickery:** Deception or Sleight of Hand
+- **Knowledge:** One language, _Arcana_ or _History_
+- **Life:** _Medicine_ or _Herbalism Kit_
+- **Light:** _Performance_ or _Persuasion_
+- **Storm:** _Athletics_ or _Nature_
+- **Trickery:** _Deception_ or _Sleight of Hand_
 - **War:** Martial Weapons or Heavy Armor
 
 ###### Divine Gift (1st & 10th Level)

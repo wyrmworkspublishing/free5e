@@ -15,9 +15,9 @@ Your spellcasting ability for this spell is Intelligence, Wisdom, or Charisma (w
 Choose one of the following.
 
 - **Way with Animals:**
-  You gain proficiency in Animal Handling and with land vehicles.
+  You gain proficiency in _Animal Handling_ and with _Land Vehicles_.
 - **Way with Plants:**
-  You gain proficiency in Nature and with herbalism kits.
+  You gain proficiency in _Nature_ and with _Herbalism Kits_.
 
 **Treeborne Scout.**
 You gain a climb speed equal to your walking speed.

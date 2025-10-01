@@ -8,15 +8,15 @@ Its people value patience, ingenuity, and enduring strength in the face of chall
 Once between long rests, you can do one of the following:
 
 - **Concentrate:**
-  You gain expertise on a Constitution saving throw made to maintain concentration.
+  You gain [expertise](#Proficiency_Bonus_expertise) on a Constitution saving throw made to maintain concentration.
 - **Persist:**
   You may reattempt a failed ability check.
 
 **Natural Barterer.**
-When bartering, haggling, or negotiating an exchange of goods, you gain expertise on Intimidation and Persuasion checks, and you may always choose which ability score to use for these rolls (Intelligence, Wisdom, or Charisma).
+When bartering, haggling, or negotiating an exchange of goods, you gain [expertise](#Proficiency_Bonus_expertise) on _Intimidation_ and _Persuasion_ checks, and you may always choose which ability score to use for these rolls (Intelligence, Wisdom, or Charisma).
 \
 **Natural Survivalist.**
-You gain proficiency in Survival.
+You gain proficiency in _Survival_.
 \
 **Temporary Expert.**
 Each time you gain a level, you may choose to lose proficiency in one skill or tool and gain proficiency in a different skill or tool in its place.

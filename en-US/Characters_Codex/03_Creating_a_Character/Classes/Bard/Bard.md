@@ -147,7 +147,7 @@ Your choice grants you features at 3rd level and again at 6th and 14th level.
 ##### Expertise (3rd & 10th Level) {#Bard_expertise}
 
 At 3rd level, choose two of your skill proficiencies.
-You gain expertise with the chosen proficiencies.
+You gain [expertise](#Proficiency_Bonus_expertise) with the chosen proficiencies.
 
 At 10th level, you can choose another two skill proficiencies to gain this benefit.
 

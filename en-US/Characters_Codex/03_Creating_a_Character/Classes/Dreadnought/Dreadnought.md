@@ -32,7 +32,7 @@ None
 Strength, Constitution
 \
 **Skills:**
-Choose two from Animal Handling, Athletics, Intimidation, Nature, Perception, and Survival
+Choose two from _Animal Handling_, _Athletics_, _Intimidation_, _Nature_, _Perception_, and _Survival_
 
 ##### Equipment
 

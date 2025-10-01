@@ -3,5 +3,5 @@
 **Prerequisite:**
 Proficiency with medium armor
 
-- Medium armor doesn’t impose disadvantage on your Dexterity (Stealth) checks.
+- Medium armor doesn’t impose disadvantage on your Dexterity (_Stealth_) checks.
 - When you are wearing medium armor, the maximum Dexterity modifier you can add to your Armor Class increases to 3.

@@ -11,13 +11,13 @@ At 5th level, you can cast _[<span class="spell">Suggestion</span>](#Suggestion_
 You don’t need material components for these spells, and when casting them your spellcasting ability is Charisma.
 \
 **Friendly.**
-You are proficient in either Deception or Persuasion.
+You are proficient in either _Deception_ or _Persuasion_.
 \
 **Wagoner.**
-You are either proficient in either Animal Handling or with Land Vehicles.
+You are either proficient in either _Animal Handling_ or with _Land Vehicles_.
 \
 **Ways of the Land.**
-You have expertise in Survival.
+You have [expertise](#Proficiency_Bonus_expertise) in _Survival_.
 \
 **Languages.**
 You can understand and communicate in Common, Dwarvish, and two additional languages.

@@ -31,7 +31,7 @@ Once inside, the rope can be pulled into the extradimensional space.
 
 No spells or attacks can cross into or out of the extradimensional space.
 Creatures inside the extradimensional space can see out of a 3-foot-by-5-foot window centered on its entrance.
-Creatures outside the space can spot the entrance with a Wisdom (Perception) check against your spell save DC.
+Creatures outside the space can spot the entrance with a Wisdom (_Perception_) check against your spell save DC.
 If they can reach it, creatures can pass in and out of the space.
 
 When the spell ends, anything inside the extradimensional space falls to the ground.

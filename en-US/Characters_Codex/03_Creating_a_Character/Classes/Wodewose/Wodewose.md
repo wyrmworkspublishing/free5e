@@ -33,7 +33,6 @@ As a Wodewose, you gain the following class features.
 
 ##### Proficiencies
 
-<!-- TODO Maybe remove the limitation of not using metal armor or shields? -->
 **Armor:**
 Light armor, medium armor, shields (Wodewoses will not wear armor or use shields made of metal)
 \
@@ -41,13 +40,13 @@ Light armor, medium armor, shields (Wodewoses will not wear armor or use shields
 Clubs, daggers, darts, javelins, maces, quarterstaffs, sabers, sickles, slings, spears
 \
 **Tools:**
-Herbalism kit
+_Herbalism Kit_
 \
 **Saving Throws:**
 Intelligence, Wisdom
 \
 **Skills:**
-Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception, Religion, and Survival
+Choose two from _Arcana_, _Animal Handling_, _Insight_, _Medicine_, _Nature_, _Perception_, _Religion_, and _Survival_
 
 ##### Equipment
 
@@ -87,7 +86,7 @@ You start with the following equipment, in addition to the equipment granted by 
 You know Wild Speech, the secret language of Wodewoses.
 You can speak the language and use it to leave hidden messages.
 You and others who know this language automatically spot such a message.
-Others spot the message’s presence with a successful DC 15 Wisdom (Perception) check but can’t decipher it without magic.
+Others spot the message’s presence with a successful DC 15 Wisdom (_Perception_) check but can’t decipher it without magic.
 
 ##### Spellcasting (1st Level) {#Wodewose_spellcasting}
 
@@ -177,7 +176,7 @@ While you are transformed, the following rules apply:
 - You can’t cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form.
   Transforming doesn’t break your concentration on a spell you’ve already cast, however, or prevent you from taking actions that are part of a spell, such as _[<span class="spell">Call Lightning</span>](#Call_Lightning_call_lightning)_, that you’ve already cast.
 - You retain the benefit of any features from your class, ancestry, or other source and can use them if the new form is physically capable of doing so.
-  However, you can’t use any of your special senses, such as darkvision, unless your new form also has that sense.
+  However, you can’t use any of your special senses, such as [darkvision](#Exploration_Environment_darkvision), unless your new form also has that sense.
 - You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it.
   Worn equipment functions as normal, but the Conductor decides whether it is practical for the new form to wear a piece of equipment, based on the creature’s shape and size.
   Your equipment doesn’t change size or shape to match the new form, and any equipment that the new form can’t wear must either fall to the ground or merge with it.

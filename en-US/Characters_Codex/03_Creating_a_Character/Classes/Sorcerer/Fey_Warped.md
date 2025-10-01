@@ -40,14 +40,14 @@ As a bonus action, you can do any of the following:
 - **Obscuring Tricks.**
   Make a creature of your choice (including yourself) within 30 feet invisible or heavily obscured by an illusion until the start of its next turn.
 - **Glamorous Presence.**
-  Gain advantage on a Deception, Intimidation, Performance, or Persuasion check, gaining a grander presence through your illusions.
+  Gain advantage on a Charisma (_Deception_), Charisma (_Intimidation_), Charisma (_Performance_), or Charisma (_Persuasion_) check, gaining a grander presence through your illusions.
 
 You can do this a number of times equal to your proficiency bonus, regaining all uses when you complete a long rest.
 
 ###### Dramatic Powers (1st Level)
 
 Your magic gives you a flair that easily impresses others.
-You gain proficiency in your choice of persuasion, intimidation, deception, or performance.
+You gain proficiency in your choice of _Persuasion_, _Intimidation_, _Deception_, or _Performance_.
 If you are already proficient in all options, you gain proficiency in one skill of your choice.
 
 ###### Biting Illusions (6th Level)

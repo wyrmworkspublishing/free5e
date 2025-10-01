@@ -51,14 +51,14 @@ The corrosive spray of a <span class="monster monster-Black_Dragon_black_dragon"
 Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
 
 **Cold.**
-The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
+The infernal chill radiating from an ice devil’s spear and the frigid blast of a <span class="monster monster-White_Dragon_white_dragon">white dragon’s</span> breath deal cold damage.
 
 **Fire.**
 <span class="monster monster-Red_Dragon_red_dragon">Red dragons</span> breathe fire, and many spells conjure flames to deal fire damage.
 
 **Force.**
 Force is pure magical energy focused into a damaging form.
-Most effects that deal force damage are spells, including _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ and spiritual weapon.
+Most effects that deal force damage are spells, including _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ and _[<span class="spell">Spiritual Weapon</span>](#Spiritual_Weapon_spiritual_weapon)_.
 
 **Lightning.**
 A _[<span class="spell">Lightning Bolt</span>](#Lightning_Bolt_lightning_bolt)_ spell and a <span class="monster monster-Blue_Dragon_blue_dragon">blue dragon’s</span> breath deal lightning damage.
@@ -76,7 +76,7 @@ Venomous stings and the toxic gas of a <span class="monster monster-Green_Dragon
 Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
 
 **Radiant.**
-Radiant damage, dealt by a Cleric’s _[<span class="spell">Flame Strike</span>](#Flame_Strike_flame_strike)_ spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+Radiant damage, dealt by a Cleric’s _[<span class="spell">Flame Strike</span>](#Flame_Strike_flame_strike)_ spell or an <span class="monster monster-Angels_angels">angel’s</span> smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 **Slashing.**
 Swords, axes, and monsters’ claws deal slashing damage.
@@ -154,7 +154,7 @@ To save a creature with 0 hit points, heal it.
 If healing is unavailable, stabilize it to prevent a failed death saving throw.
 
 Use your action to administer first aid and attempt stabilization.
-This requires a successful DC 10 Wisdom (Medicine) check.
+This requires a successful DC 10 Wisdom (_Medicine_) check.
 
 A **stable** creature doesn’t make death saving throws but remains unconscious.
 It regains 1 hit point after 1d4 hours if not healed.

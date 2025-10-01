@@ -20,8 +20,8 @@ Using divine magic that brings creatures back from the dead strains your body, c
 
 ###### Theologian (2nd Level)
 
-You gain proficiency in the Religion skill.
-If you already have proficiency in Religion, you can select another skill to gain proficiency in.
+You gain proficiency in the _Religion_ skill.
+If you already have proficiency in _Religion_, you can select another skill to gain proficiency in.
 
 ###### Celestial Conduit (6th Level)
 

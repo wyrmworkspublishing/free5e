@@ -62,7 +62,6 @@ _Desert (table)_
 | 9th            | [Insect Plague](#Insect_Plague_insect_plague), [Wall of Stone](#Wall_of_Stone_wall_of_stone)                                                    |
 
 ___
-
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Forest (table)_
 
@@ -85,7 +84,6 @@ _Grassland (table)_
 | 9th            | [Dream](#Dream_dream), [Insect Plague](#Insect_Plague_insect_plague)                                                                         |
 
 ___
-
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Mountain (table)_
 

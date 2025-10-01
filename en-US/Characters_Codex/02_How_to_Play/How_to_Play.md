@@ -27,11 +27,11 @@ Higher rolls are better!
 > Do I recognize any symbols or writing?
 > \
 > **Conductor:**
-> Make an Investigation check, using Intelligence.
+> Make an _Investigation_ check, using Intelligence.
 > \
 > **Susan:**
 > (Rolls d20)
-> That’s a 12, plus 1 for Intelligence and 2 from my Investigation proficiency, so 15 total.
+> That’s a 12, plus 1 for Intelligence and 2 from my _Investigation_ proficiency, so 15 total.
 > \
 > **Conductor:**
 > You recognize some faded symbols of an ancient order dedicated to protecting the forest.
@@ -39,7 +39,7 @@ Higher rolls are better!
 > \
 > **Owen (playing Osmus, a human Ranger):**
 > I listen closely to locate where the scratching is coming from.
-> Perception check?
+> _Perception_ check?
 > \
 > **Conductor:**
 > Go ahead.

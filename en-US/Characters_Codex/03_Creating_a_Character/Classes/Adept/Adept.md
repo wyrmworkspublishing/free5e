@@ -26,13 +26,13 @@ None
 Simple weapons, shortswords
 \
 **Tools:**
-Choose one type of artisan’s tools or one musical instrument
+Choose one type of _Artisan’s Tools_ or one _Musical Instrument_
 \
 **Saving Throws:**
 Strength, Dexterity
 \
 **Skills:**
-Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+Choose two from _Acrobatics_, _Athletics_, _History_, _Insight_, _Religion_, and _Stealth_
 
 ##### Equipment
 

@@ -38,8 +38,8 @@ You can only gain this benefit if you are familiar with the target’s ancestry 
 
 ###### Fist of the Law (3rd Level)
 
-You gain proficiency in Intimidation.
-If you are already proficient in Intimidation, you gain expertise in Intimidation, allowing you to add double your proficiency bonus to Intimidation skill checks.
+You gain proficiency in _Intimidation_.
+If you are already proficient in _Intimidation_, you gain [expertise](#Proficiency_Bonus_expertise) in _Intimidation_, allowing you to add double your proficiency bonus to _Intimidation_ skill checks.
 
 ###### Dead or Alive (3rd Level) {#Bounty_Hunter_dead_or_alive}
 

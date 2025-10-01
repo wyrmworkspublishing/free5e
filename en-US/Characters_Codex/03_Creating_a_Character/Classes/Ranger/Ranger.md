@@ -32,7 +32,7 @@ None
 Strength, Dexterity
 \
 **Skills:**
-Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+Choose three from _Animal Handling_, _Athletics_, _Insight_, _Investigation_, _Nature_, _Perception_, _Stealth_, and _Survival_
 
 ##### Equipment
 
@@ -75,7 +75,7 @@ Beginning at 1st level, you have significant experience studying, tracking, hunt
 Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead.
 Alternatively, you can select two ancestries of humanoid (such as <span class="monster monster-Gnoll_gnoll">gnolls</span> and <span class="monster monster-Orc_ord">orcs</span>) as favored enemies.
 
-You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+You have advantage on Wisdom (_Survival_) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
@@ -188,7 +188,7 @@ You can spend 1 minute creating camouflage for yourself.
 You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
 Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are.
-You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions.
+You gain a +10 bonus to Dexterity (_Stealth_) checks as long as you remain there without moving or taking actions.
 Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
 ##### Vanish (14th Level) {#Ranger_vanish}

@@ -62,7 +62,7 @@ For example, if you are a Fighter 3/Rogue 2, you have the proficiency bonus of a
 | Class       | Proficiencies Gained                                                                                       |
 |:------------|:-----------------------------------------------------------------------------------------------------------|
 | Dreadnought | Shields, simple weapons, martial weapons                                                                   |
-| Bard        | Light armor, one skill of your choice, one musical instrument of your choice                               |
+| Bard        | Light armor, one skill of your choice, one _Musical Instrument_ of your choice                             |
 | Cleric      | Light armor, medium armor, shields                                                                         |
 | Wodewose    | Light armor, medium armor, shields (Wodewoses will not wear armor or use shields made of metal)            |
 | Fighter     | Light armor, medium armor, shields, simple weapons, martial weapons                                        |

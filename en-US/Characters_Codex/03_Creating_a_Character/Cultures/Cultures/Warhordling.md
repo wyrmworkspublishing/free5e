@@ -8,7 +8,7 @@ Its people excel in battle and forge bonds through shared challenges.
 As a bonus action, you can move up to your Speed towards an enemy that you can sense.
 \
 **Menacing.**
-You gain proficiency in Intimidation.
+You gain proficiency in _Intimidation_.
 \
 **War Horde Weapon Training.**
 You become proficient in two chosen martial weapons and light armor, and can also create functional but ramshackle weapons from available materials.

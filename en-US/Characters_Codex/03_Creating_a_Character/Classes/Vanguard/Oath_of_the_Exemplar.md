@@ -44,7 +44,7 @@ You gain the following two Channel Divinity options.
 **Shroud of Silence.**
 As a bonus action, you present your holy symbol and whisper a prayer, shrouding one creature within 60 feet in an aura of silence.
 For 10 minutes, the target makes no noise.
-It cannot speak (including the verbal components of spells) and gains advantage on Dexterity (Stealth) ability checks.
+It cannot speak (including the verbal components of spells) and gains advantage on Dexterity (_Stealth_) ability checks.
 An unwilling creature makes a Wisdom saving throw against your spell save DC to prevent the effect when targeted, and can repeat the saving throw at the end of each of their turns to end the effect on a success.
 \
 **Sanctuary of the Sacrosanct.**
@@ -53,7 +53,7 @@ All creatures of your choice within 30 feet gain temporary hit points equal to `
 
 ###### Aura of Serenity (7th & 18th Level) {#Oath_of_the_Exemplar_aura_of_serenity}
 
-Starting at 7th level, you permeate an aura of quiet serenity, reducing the volume of all noises within 10 feet. You and friendly creatures in the aura gain resistance to thunder damage, and armor does not give disadvantage on Dexterity (Stealth) checks for creatures within the aura.
+Starting at 7th level, you permeate an aura of quiet serenity, reducing the volume of all noises within 10 feet. You and friendly creatures in the aura gain resistance to thunder damage, and armor does not give disadvantage on Dexterity (_Stealth_) checks for creatures within the aura.
 At 18th level, the range of this aura increases to 30 feet.
 
 ###### Rebuke (15th Level) {#Oath_of_the_Exemplar_rebuke}

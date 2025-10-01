@@ -48,7 +48,7 @@ If your ally attacks the target before your next turn, the first attack roll is 
 
 #### Hide
 
-When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the [rules for hiding](#Using_Dexterity_hiding).
+When you take the Hide action, you make a Dexterity (_Stealth_) check in an attempt to hide, following the [rules for hiding](#Using_Dexterity_hiding).
 If you succeed, you gain certain benefits, as described in the ["Targeting Without Exact Location" section](#Combat_Making_an_Attack_targeting_without_exact_location) later in this chapter.
 
 #### Ready
@@ -72,7 +72,7 @@ For example, if you’re concentrating on the _[<span class="spell">Web</span>](
 #### Search
 
 When you take the Search action, you devote your attention to finding something.
-Depending on the nature of your search, the Conductor might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
+Depending on the nature of your search, the Conductor might have you make a Wisdom (_Perception_) check or an Intelligence (_Investigation_) check.
 
 #### Use an Object
 

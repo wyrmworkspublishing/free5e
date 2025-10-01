@@ -37,11 +37,11 @@ A creature can pinpoint a target’s location only if the target provides a rele
 
 Precise senses (sight, [parasense](#Exploration_Environment_parasense), tremorsense\*, or [truesight](#Exploration_Environment_truesight)) allow a creature to pinpoint a target’s exact location within the sense’s range.
 
-Imprecise senses (hearing, scent) allow pinpointing only within 15 feet; beyond 15 feet, the creature can attempt a Wisdom (Perception) check (`DC = 10 + 1 per 5 feet to the target`) to pinpoint within 30 feet.
+Imprecise senses (hearing, scent) allow pinpointing only within 15 feet; beyond 15 feet, the creature can attempt a Wisdom (_Perception_) check (`DC = 10 + 1 per 5 feet to the target`) to pinpoint within 30 feet.
 
 Environmental factors such as noise or wind can reduce a sense’s effectiveness and may obscure the area for that sense.
 
-If an effect depends on a creature pinpointing you using an imprecise sense, use its passive Wisdom (Perception) to determine whether it succeeds.
+If an effect depends on a creature pinpointing you using an imprecise sense, use its passive Wisdom (_Perception_) to determine whether it succeeds.
 \
 \
 \* See the chapter _Monster Information_ in the _Monstrous Manuscript_ for more information on tremorsense.

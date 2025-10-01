@@ -44,7 +44,7 @@ When you invoke your [Overseer’s Gaze](#The_Overseer_overseers_gaze), the spec
 Once during the duration of each eye, you can pick the effect it fires instead of rolling.
 The spectral eye moves with you and is always in your space.
 
-While you have the spectral eye with you, have advantage on [Wisdom (Perception)](#Using_Wisdom_wisdom_checks) checks and can perform the [Search](#Combat_Actions_search) action as a bonus action (instead of firing an eye ray).
+While you have the spectral eye with you, have advantage on [Wisdom (_Perception_)](#Using_Wisdom_wisdom_checks) checks and can perform the [Search](#Combat_Actions_search) action as a bonus action (instead of firing an eye ray).
 
 ###### Patron’s Paranoia (10th Level)
 

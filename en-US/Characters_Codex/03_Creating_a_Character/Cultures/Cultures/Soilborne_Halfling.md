@@ -13,7 +13,7 @@ You can attempt to divine the earth’s wisdom (as with the _[<span class="spell
 You can't use this trait again until after you finish a long rest.
 \
 **Wild and Unshackled.**
-You gain proficiency in two of the following skills: Acrobatics, Animal Handling, Nature, Religion, or Survival.
+You gain proficiency in two of the following skills: _Acrobatics_, _Animal Handling_, _Nature_, _Religion_, or _Survival_.
 \
 **Languages.**
 You can understand and communicate in Common, Halfling, and Terran.
