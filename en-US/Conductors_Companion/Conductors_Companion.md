@@ -1,3 +1,11 @@
+---
+author: Wyrmworks Publishing
+copyright: Creative Commons Attribution 4.0 International License (CC-BY-4.0)
+doctype: book
+lang: en
+toc: true
+toclevels: 2
+---
 # Free5e Conductor's Companion: Tips, Tools, and Advice for Running Free5e
 
 (<mark>Preview Work-in-Progress</mark>)

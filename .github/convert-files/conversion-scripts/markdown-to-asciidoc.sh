@@ -10,8 +10,6 @@ CONVERSION_SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/nul
 function convert_markdown_to_asciidoc {
   echo "Converting Markdown files from $(pwd) to AsciiDoc..."
 
-  lang="$(cut -d '-' -f1 <<< "$INPUT_LANGUAGE")"
-
   for md in $(find . -name '*.md'); do
     md_filepath="$(dirname -- $md)"
     md_filename="${md##*/}"
@@ -22,11 +20,7 @@ function convert_markdown_to_asciidoc {
     # Convert all the Markdown files to AsciiDoc
     echo "Converting ${md} to ${adoc_filepath}/${adoc_filename}..."
     kramdoc \
-      -a author="Wyrmworks Publishing"  \
-      -a copyright="Creative Commons Attribution 4.0 International License (CC-BY-4.0)" \
-      -a doctype=book \
       -a icons=font \
-      -a lang="${lang}" \
       -a partnums \
       -a reproducible \
       -a revdate="$(LANG="${INPUT_LANGUAGE}" git log -1 --pretty="format:%cd" --date=format:"${INPUT_DATE_FORMAT}" .)" \
@@ -34,8 +28,6 @@ function convert_markdown_to_asciidoc {
       -a sectnumlevels=1 \
       -a stem \
       -a table-stripes=even \
-      -a toc \
-      -a toclevels=2 \
       --auto-ids \
       --auto-id-prefix="${md_filename%.md}_" \
       --auto-id-separator="_" \

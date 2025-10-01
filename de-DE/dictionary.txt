@@ -28,6 +28,7 @@ Chloe*
 Coast
 Commons
 Compendium
+copyright
 Coreador*
 Creative
 Dimensionstür
@@ -93,6 +94,8 @@ Tabletop
 Tasty
 Teleportation
 Thaumaturgie
+toclevels
+true
 TTRPG
 Unverwundbarkeit
 Verzauberungs*

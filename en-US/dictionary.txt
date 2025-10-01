@@ -155,6 +155,7 @@ tiefling*
 themself
 Theurge
 Thunderwave
+toclevels
 treeborne
 tremorsense
 truesight

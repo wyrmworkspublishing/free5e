@@ -1,3 +1,11 @@
+---
+author: Wyrmworks Publishing
+copyright: Creative Commons Attribution 4.0 International License (CC-BY-4.0)
+doctype: article
+lang: en
+toc: true
+toclevels: 2
+---
 # 5e 2014 to Free5e Migration Guide
 
 > **Warning**
