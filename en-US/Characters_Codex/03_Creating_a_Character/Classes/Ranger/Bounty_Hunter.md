@@ -1,6 +1,9 @@
 ##### Bounty Hunter
 
-Anyone that knows about adventurers will know that their legacy is equal parts heroics and burning drinking establishments to the ground. Equal parts dragons slain and merchants robbed. Everyone needs someone to fear, and Rangers that take the Bounty Hunter path are what those who bring fear to others must fear. Excelling at hunting down targets wherever they should hide, they bring them down dead or alive.
+Anyone that knows about adventurers will know that their legacy is equal parts heroics and burning drinking establishments to the ground.
+Equal parts dragons slain and merchants robbed.
+Everyone needs someone to fear, and Rangers that take the Bounty Hunter path are what those who bring fear to others must fear.
+Excelling at hunting down targets wherever they should hide, they bring them down dead or alive.
 
 > **Repairing Nets**
 > \

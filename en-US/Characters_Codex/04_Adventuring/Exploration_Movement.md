@@ -38,7 +38,7 @@ Characters in wagons, carriages, or other land vehicles choose a pace as normal.
 Characters in a waterborne vessel are limited to the speed of the vessel, and they don’t suffer penalties for a fast pace or gain benefits from a slow pace.
 Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day.
 
-Certain special mounts, such as a pegasus or griffon, or special vehicles, such as a _carpet of flying_, allow you to travel more swiftly.
+Certain special mounts, such as a <span class="monster monster-Pegasus_pegasus">pegasus</span> or <span class="monster monster-Griffon_griffon">griffon</span>, or special vehicles, such as a _<span class="item item-Carpet_of_Flying_carpet_of_flying">carpet of flying</span>_, allow you to travel more swiftly.
 
 ___
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->

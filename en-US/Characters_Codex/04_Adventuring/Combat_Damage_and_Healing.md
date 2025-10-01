@@ -45,7 +45,7 @@ Damage types have no rules of their own, but other rules, such as damage resista
 The damage types follow, with examples to help a Conductor assign a damage type to a new effect.
 
 **Acid.**
-The corrosive spray of a black dragon’s breath and the dissolving enzymes secreted by a black pudding deal acid damage.
+The corrosive spray of a <span class="monster monster-Black_Dragon_black_dragon">black dragon’s</span> breath and the dissolving enzymes secreted by a <span class="monster monster-Black_Pudding_black_pudding">black pudding</span> deal acid damage.
 
 **Bludgeoning.**
 Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
@@ -54,14 +54,14 @@ Blunt force attacks—hammers, falling, constriction, and the like—deal bludge
 The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
 
 **Fire.**
-Red dragons breathe fire, and many spells conjure flames to deal fire damage.
+<span class="monster monster-Red_Dragon_red_dragon">Red dragons</span> breathe fire, and many spells conjure flames to deal fire damage.
 
 **Force.**
 Force is pure magical energy focused into a damaging form.
 Most effects that deal force damage are spells, including _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ and spiritual weapon.
 
 **Lightning.**
-A _[<span class="spell">Lightning Bolt</span>](#Lightning_Bolt_lightning_bolt)_ spell and a blue dragon’s breath deal lightning damage.
+A _[<span class="spell">Lightning Bolt</span>](#Lightning_Bolt_lightning_bolt)_ spell and a <span class="monster monster-Blue_Dragon_blue_dragon">blue dragon’s</span> breath deal lightning damage.
 
 **Necrotic.**
 Necrotic damage, dealt by certain undead and a spell such as _[<span class="spell">Chill Touch</span>](#Chill_Touch_chill_touch)_, withers matter and even the soul.
@@ -70,7 +70,7 @@ Necrotic damage, dealt by certain undead and a spell such as _[<span class="spel
 Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
 
 **Poison.**
-Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
+Venomous stings and the toxic gas of a <span class="monster monster-Green_Dragon_green_dragon">green dragon’s</span> breath deal poison damage.
 
 **Psychic.**
 Mental abilities such as a mind flayer’s psionic blast deal psychic damage.

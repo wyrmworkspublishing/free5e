@@ -17,7 +17,7 @@
 
 #### Surprise {#Combat_General_Terms_surprise}
 
-A band of adventurers sneaks up on a bandit camp, springing from the trees to attack them.
+A band of adventurers sneaks up on a <span class="monster monster-Bandit_bandit">bandit</span> camp, springing from the trees to attack them.
 A gelatinous cube glides down a dungeon passage, unnoticed by the adventurers until the cube engulfs one of them.
 In these situations, one side of the battle gains surprise over the other.
 

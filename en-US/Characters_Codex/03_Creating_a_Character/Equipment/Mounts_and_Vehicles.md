@@ -6,7 +6,7 @@ The Mounts and Other Animals table lists each animal’s speed and base carrying
 An animal pulling a vehicle can carry up to five times its base capacity, including the vehicle’s weight.
 Multiple animals pulling the same vehicle can add their capacities.
 
-Fantasy gaming worlds have rare mounts like flying mounts (pegasi, griffons, hippogriffs) and aquatic mounts (giant sea horses).
+Fantasy gaming worlds have rare mounts like flying mounts (<span class="monster monster-Pegasus_pegasus">pegasi</span>, <span class="monster monster-Griffon_griffon">griffons</span>, <span class="monster monster-Hippogriff_hippogriff">hippogriffs</span>) and aquatic mounts (<span class="monster monster-Giant_Seahorse_giant_seahorse">giant seahorses</span>).
 Acquiring such mounts often requires raising the creature from an egg, bargaining with a powerful entity, or negotiating with the mount itself.
 \
 **Barding.**
@@ -26,14 +26,14 @@ If you have proficiency with a certain kind of vehicle (land or water), you can 
 
 | Item           |   Cost |  Speed | Carrying Capacity |
 |:---------------|-------:|-------:|------------------:|
-| Camel          |  50 gp | 50 ft. |           480 lb. |
-| Donkey or mule |   8 gp | 40 ft. |           420 lb. |
-| Elephant       | 200 gp | 40 ft. |         1,320 lb. |
-| Horse, draft   |  50 gp | 40 ft. |           540 lb. |
-| Horse, riding  |  75 gp | 60 ft. |           480 lb. |
-| Mastiff        |  25 gp | 40 ft. |           195 lb. |
-| Pony           |  30 gp | 40 ft. |           225 lb. |
-| Warhorse       | 400 gp | 60 ft. |           540 lb. |
+| <span class="monster monster-Camel_camel">Camel</span>          |  50 gp | 50 ft. |           480 lb. |
+| Donkey or <span class="monster monster-Mule_mule">mule</span> |   8 gp | 40 ft. |           420 lb. |
+| <span class="monster monster-Elephant_elephant">Elephant</span>       | 200 gp | 40 ft. |         1,320 lb. |
+| <span class="monster monster-Draft_Horse_draft_horse">Horse, draft</span>   |  50 gp | 40 ft. |           540 lb. |
+| <span class="monster monster-Riding_Horse_riding_horse">Horse, riding</span>  |  75 gp | 60 ft. |           480 lb. |
+| <span class="monster monster-Mastiff_mastiff">Mastiff</span>        |  25 gp | 40 ft. |           195 lb. |
+| <span class="monster monster-Pony_pony">Pony</span>           |  30 gp | 40 ft. |           225 lb. |
+| <span class="monster monster-Warhorse_warhorse">Warhorse</span>       | 400 gp | 60 ft. |           540 lb. |
 
 #### Tack, Harness, and Drawn Vehicles (table)
 

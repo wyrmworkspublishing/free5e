@@ -19,7 +19,7 @@ Higher rolls are better!
 > **Grey (Conductor):**
 > The village elder has asked you to investigate a strange ruin in the nearby forest.
 > After hours of travel, you arrive at a crumbling stone structure covered in moss.
-> Inside, the air is damp, and faint echoes of scratching come from within the stony depths..
+> Inside, the air is damp, and faint echoes of scratching come from within the stony depths.
 > What do you do?
 > \
 > **Susan (playing Sylvana, a halfling Bard):**

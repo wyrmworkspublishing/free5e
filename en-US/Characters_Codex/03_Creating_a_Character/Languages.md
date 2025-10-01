@@ -23,11 +23,11 @@ _Languages (table)_
 | Common            | Humans           | Common   | \| | Abyssal         | Demons              | Infernal  |
 | Dwarvish          | Dwarves          | Dwarvish | \| | Celestial       | Celestials          | Celestial |
 | Elvish            | Elves            | Elvish   | \| | Draconic        | Dragons, dragonborn | Draconic  |
-| Giant             | Ogres, Giants    | Dwarvish | \| | Deep Speech     | Aboleths, cloakers  | –         |
+| Giant             | <span class="monster monster-Ogre_ogre">Ogres</span>, <span class="monster monster-Giants_giants">Giants</span>    | Dwarvish | \| | Deep Speech     | <span class="monster monster-Aboleth_aboleth">Aboleths</span>, <span class="monster monster-Cloaker_cloaker">cloakers</span>  | –         |
 | Gnomish           | Gnomes           | Dwarvish | \| | Infernal        | Devils              | Infernal  |
 | Goblin            | Goblinoids       | Dwarvish | \| | Primordial      | Elementals          | Dwarvish  |
 | Halfling          | Halflings        | Common   | \| | Sylvan          | Fey creatures       | Elvish    |
-| Orc               | Orcs             | Dwarvish | \| | Undercommon     | Underworld traders  | Elvish    |
+| Orc               | <span class="monster monster-Orc_orc">Orcs</span>             | Dwarvish | \| | Undercommon     | Underworld traders  | Elvish    |
 
 ___
 

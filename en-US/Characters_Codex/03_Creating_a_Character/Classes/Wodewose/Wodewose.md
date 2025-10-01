@@ -158,7 +158,7 @@ _Beast Shapes (table)_
 
 ___
 
-You can stay in a beast shape for a number of hours equal to half your Wodewose level (rounded down).
+You can stay in a beast shape for a number of hours equal to `half your Wodewose level` (rounded down).
 You then revert to your normal form unless you expend another use of this feature.
 You can revert to your normal form earlier by using a bonus action on your turn.
 You automatically revert if you fall unconscious, drop to 0 hit points, or die.

@@ -178,7 +178,7 @@ Each Pact Boon option produces a special creature or an object that reflects you
 \
 **Pact of the Chain.**
 Your familiar takes on a form reflecting your patron’s nature.
-If you serve the Fiend, your familiar might manifest as a cunning imp or a fiery quasit.
+If you serve the Fiend, your familiar might manifest as a cunning <span class="monster monster-Imp_imp">imp</span> or a fiery <span class="monster monster-Quasit_quasit">quasit</span>.
 Those bound to the Overseer summon familiars that evoke its omnipresent vigilance—creatures with multiple eyes, strange glowing features, or unnerving whispers, a constant reminder of its watchful gaze.
 \
 **Pact of the Blade.**

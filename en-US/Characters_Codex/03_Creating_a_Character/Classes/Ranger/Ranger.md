@@ -73,7 +73,7 @@ You start with the following equipment, in addition to the equipment granted by 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
 Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead.
-Alternatively, you can select two ancestries of humanoid (such as gnolls and orcs) as favored enemies.
+Alternatively, you can select two ancestries of humanoid (such as <span class="monster monster-Gnoll_gnoll">gnolls</span> and <span class="monster monster-Orc_ord">orcs</span>) as favored enemies.
 
 You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 

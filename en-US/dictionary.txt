@@ -15,8 +15,7 @@ archmage*
 Aquan
 Auran
 backstab
-balor
-balors
+balor*
 Barkskin
 behir*
 BFRD

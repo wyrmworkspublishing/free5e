@@ -9,7 +9,7 @@ A brawler is always armed and dangerous, and isn’t above using a weapon if it�
 
 ###### Weapon is a State of Mind (3rd Level)
 
-You gain a remarkable ability to turn anything into a weapon—fists, improvised weapons, goblins, etc.
+You gain a remarkable ability to turn anything into a weapon—fists, improvised weapons, <span class="monster monster-Goblin_goblin">goblins</span>, etc.
 You can add your proficiency bonus to attacks made with improvised weapons, and all attacks you make with them deal `1d8` damage bludgeoning, piercing, or slashing damage (depending on their nature) if their damage die would be smaller.
 You can use creatures you are grappling as improvised weapons with the [Thrown 5/10](#Weapon_Properties_weapon_properties) property.
 If they are one or more sizes smaller than you, they gain the [Light](#Weapon_Properties_weapon_properties) property.

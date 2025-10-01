@@ -1,7 +1,7 @@
 ##### Circle of the City
 
 The circle of the city is about adaption — the adaption of nature to cities and cities to nature.
-Wodewoses of this circle recognize the teeming life of the city as just another ecosystem, one adapted to a special type of life, feeling kinship with the creatures that thrive in such an environment, particularly that which remains wild in the heart of the city, such as rats, pigeons, and cats.
+Wodewoses of this circle recognize the teeming life of the city as just another ecosystem, one adapted to a special type of life, feeling kinship with the creatures that thrive in such an environment, particularly that which remains wild in the heart of the city, such as <span class="monster monster-Rat_rat">rats</span>, <span class="monster">pigeons</span>, and <span class="monster monster-Cat_cat">cats</span>.
 While more primeval Wodewoses may view them as scarcely different to other city-dwellers, they are no less in tune with nature than other Wodewoses, simply tuning into a different, more subtle and pervasive, frequency.
 
 ###### Circle Spells (2nd & 3rd & 5th & 7th & 9th Level)
@@ -25,8 +25,8 @@ _Circle of City Spells_
 
 ###### Living Eyes of the City (2nd Level)
 
-When you cast _[<span class="spell">Animal Friendship</span>](#Animal_Friendship_animal_friendship)_, you can target up to a dozen animals of the same type when targeting tiny creatures (such as cats, rats, pigeons, or similar).
-When a tiny animal is charmed in this way, they can understand you in a limited capacity (such as where something you can describe in terms they would understand is), you can understand them in a limited capacity (such as which direction something is), and will lend you aid in simple tasks as long as it does not place them in danger.
+When you cast _[<span class="spell">Animal Friendship</span>](#Animal_Friendship_animal_friendship)_, you can target up to a dozen animals of the same type when targeting Tiny creatures (such as <span class="monster monster-Cat_cat">cats</span>, <span class="monster monster-Rat_rat">rats</span>, <span class="monster">pigeons</span>, or similar).
+When a Tiny animal is charmed in this way, they can understand you in a limited capacity (such as where something you can describe in terms they would understand is), you can understand them in a limited capacity (such as which direction something is), and will lend you aid in simple tasks as long as it does not place them in danger.
 They can be convinced to take on greater risks with an appropriate _Animal Handling_ check with the DC determined by the Conductor.
 
 Additionally, any familiar you summon with _[<span class="spell">Find Familiar</span>](#Find_Familiar_find_familiar)_ gains the ability to communicate with creatures of a type resembling the form it takes, and has advantage on all _Animal Handling_ checks while interacting with beasts it can communicate with.

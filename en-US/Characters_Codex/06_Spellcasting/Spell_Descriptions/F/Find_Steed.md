@@ -23,7 +23,7 @@ _2nd-level conjuration_
 **Duration:** Instantaneous
 
 You summon a spirit that takes the form of a loyal mount, creating a lasting bond with it.
-You decide on the steed’s appearance, and choose whether it uses the statistics of an elk, giant lizard, panther, warhorse, or wolf (the Conductor may offer additional options).
+You decide on the steed’s appearance, and choose whether it uses the statistics of an <span class="monster monster-Elk_elk">elk</span>, <span class="monster monster-Giant_Lizard_giant_lizard">giant lizard</span>, <span class="monster monster-Panther_panther">panther</span>, <span class="monster monster-Warhorse_warhorse">warhorse</span>, or <span class="monster monster-Wolf_wolf">wolf</span> (the Conductor may offer additional options).
 Its statistics change in the following ways:
 
 - Its type is your choice of celestial, fey, or fiend.

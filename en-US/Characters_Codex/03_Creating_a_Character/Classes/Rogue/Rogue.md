@@ -111,7 +111,7 @@ When an attacker that you can pinpoint hits you with an attack, you can use your
 
 ##### Evasion (7th Level) {#Rogue_evasion}
 
-You can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an _[<span class="spell">Ice Storm</span>](#Ice_Storm_ice_storm)_ spell.
+You can nimbly dodge out of the way of certain area effects, such as a <span class="monster monster-Red_Dragon_red_dragon">red dragon’s</span> fiery breath or an _[<span class="spell">Ice Storm</span>](#Ice_Storm_ice_storm)_ spell.
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ##### Reliable Talent (11th Level) {#Rogue_reliable_talent}

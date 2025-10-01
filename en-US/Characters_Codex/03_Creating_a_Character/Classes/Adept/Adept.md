@@ -157,7 +157,7 @@ Your unarmed strikes count as magical for the purpose of overcoming resistance a
 
 ##### Evasion (7th Level) {#Adept_evasion}
 
-Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a _[<span class="spell">Fireball</span>](#Fireball_fireball)_ spell.
+Your instinctive agility lets you dodge out of the way of certain area effects, such as a <span class="monster monster-Blue_Dragon_blue_dragon">blue dragon’s</span> lightning breath or a _[<span class="spell">Fireball</span>](#Fireball_fireball)_ spell.
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ##### Stillness of Mind (7th Level) {#Adept_stillness_of_mind}

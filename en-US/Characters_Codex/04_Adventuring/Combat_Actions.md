@@ -58,7 +58,7 @@ You can take the Ready action to do so.
 
 First, decide what perceivable circumstance will trigger your reaction.
 Then, choose the action you’ll take or move up to your speed.
-Examples include _"If the cultist steps on the trapdoor, I’ll pull the lever"_ and _"If the goblin steps next to me, I move away."_
+Examples include _"If the <span class="monster monster-Cultist_cultist">cultist</span> steps on the trapdoor, I’ll pull the lever"_ and _"If the <span class="monster monster-Goblin_goblin">goblin</span> steps next to me, I move away."_
 
 When the trigger occurs, you can take your reaction immediately or ignore it.
 Remember, you can only take one reaction per round.
