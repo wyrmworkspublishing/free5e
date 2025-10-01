@@ -1,6 +1,6 @@
 #### Reflective Planes: Feywild and Shadowfell
 
-The **Feywild** and **Shadowfell** are parallel mirrors of the [Material Plane](#Material_Plane_material_plane), reflecting its geography but shaped by potent emotional forces and infused with the energies of the positive and negative planes.
+The **Feywild** and **Shadowfell** are parallel mirrors of the [Material Plane](#Material_Plane_the_material_plane), reflecting its geography but shaped by potent emotional forces and infused with the energies of the positive and negative planes.
 
 The **Feywild** is a realm of heightened emotion, wild magic, and vibrant life.
 Its landscapes teem with exaggerated natural beauty, shifting seasons, and unpredictable fey creatures.
