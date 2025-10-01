@@ -32,10 +32,10 @@
 ;;Burning Hands;Burning Hands;reworded;open;no;
 ;;Call Lightning;Call Lightning;reworded;open;no;
 ;;Calm Emotions;Calm Emotions;mechanically changed;open;no;
-;;Ceremony;-;new;open;no;WotC D&D has a spell with this name, however it's not part of the SRD
+;;Ceremony;-;new;open;no;"WotC D&D has a spell with this name, however it's not part of the SRD"
 ;;Cerilsen's Secret Chest;Secret Chest;not changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
 ;;Chain Lightning;Chain Lightning;reworded;open;no;
-;;Charm Monster;-;new;open;no;WotC D&D has a spell with this name, however it's not part of the SRD
+;;Charm Monster;-;new;open;no;"WotC D&D has a spell with this name, however it's not part of the SRD"
 ;;Charm Person;Charm Person;reworded;open;no;
 ;;Chill Touch;Chill Touch;reworded;open;no;
 ;;Chloe's Faithful Hound;Faithful Hound;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
@@ -50,7 +50,7 @@
 ;;Comprehend Languages;Comprehend Languages;mechanically changed;open;no;
 ;;Compulsion;Compulsion;reworded;open;no;
 ;;Cone of Cold;Cone of Cold;reworded;open;no;
-;;Confound;Feeblemind;reworded;open;no;This name was changed in English Free5e, since it's a problematic term in English.
+;;Confound;Feeblemind;reworded;open;no;"This name was changed in English Free5e, since it's a problematic term in English."
 ;;Confusion;Confusion;not changed;open;no;
 ;;Conjure Animals;Conjure Animals;mechanically changed;open;no;
 ;;Conjure Celestial;Conjure Celestial;reworded;open;no;
@@ -64,8 +64,8 @@
 ;;Continual Flame;Continual Flame;reworded;open;no;
 ;;Control Water;Control Water;mechanically changed;open;no;
 ;;Control Weather;Control Weather;reworded;open;no;
-;;Converse with Animals;Speak with Animals;reworded;open;no;This spell was renamed, so as to not be specific to verbal communication
-;;Converse with Plants;Speak with Plants;reworded;open;no;This spell was renamed, so as to not be specific to verbal communication
+;;Converse with Animals;Speak with Animals;mechanically changed;open;no;"This spell was changed, so as not to be specific to verbal communication"
+;;Converse with Plants;Speak with Plants;reworded;open;no;"This spell was renamed, so as not to be specific to verbal communication"
 ;;Coreador's Black Tentacles;Black Tentacles;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
 ;;Counterspell;Counterspell;mechanically changed;open;no;
 ;;Create Food and Water;Create Food and Water;not changed;open;no;
@@ -132,7 +132,7 @@
 ;;Forcecage;Forcecage;mechanically changed;open;no;
 ;;Foresight;Foresight;reworded;open;no;
 ;;Freedom of Movement;Freedom of Movement;mechanically changed;open;no;
-;-;Friends;-;new;open;no;WotC D&D has a spell with this name, however it's not part of the SRD
+;-;Friends;-;new;open;no;"WotC D&D has a spell with this name, however it's not part of the SRD"
 ;;Gaseous Form;Gaseous Form;mechanically changed;open;no;
 ;;Gate;Gate;mechanically changed;open;no;
 ;;Geas;Geas;reworded;open;no;
@@ -160,7 +160,7 @@
 ;;Hellish Rebuke;Hellish Rebuke;not changed;open;no;
 ;;Heroes' Feast;Heroes' Feast;reworded;open;no;
 ;;Heroism;Heroism;reworded;open;no;
-;;Hex;-;new;open;no;WotC D&D has a spell with this name, however it's not part of the SRD
+;;Hex;-;new;open;no;"WotC D&D has a spell with this name, however it's not part of the SRD"
 ;;Hold Monster;Hold Monster;reworded;open;no;
 ;;Hold Person;Hold Person;reworded;open;no;
 ;;Holy Aura;Holy Aura;mechanically changed;open;no;
@@ -246,7 +246,7 @@
 ;;Protection from Evil and Good;Protection from Evil and Good;reworded;open;no;
 ;;Protection from Poison;Protection from Poison;reworded;open;no;
 ;;Purify Food and Drink;Purify Food and Drink;not changed;open;no;
-;;Question the Dead;Speak with Dead;reworded;open;no;This spell was renamed, so as to not be specific to verbal communication
+;;Question the Dead;Speak with Dead;mechanically changed;open;no;"This spell was changed, so as not to be specific to verbal communication"
 ;;Raise Dead;Raise Dead;reworded;open;no;
 ;;Rantock's Telepathic Bond;Telepathic Bond;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
 ;;Ray of Enfeeblement;Ray of Enfeeblement;reworded;open;no;

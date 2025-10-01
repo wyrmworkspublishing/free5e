@@ -14,8 +14,8 @@
 [_metadata_:components_material]:- "false"
 [_metadata_:duration]:- "10 minutes"
 [_metadata_:concentration]:- "false"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level divination (ritual)_
 
@@ -24,6 +24,7 @@ _1st-level divination (ritual)_
 **Components:** V, S \
 **Duration:** 10 minutes
 
-You gain the ability to comprehend and verbally communicate with beasts for the duration.
+You gain the ability to comprehend and communicate with beasts by speaking or signing for the duration.
+The beast will use the same communication method as you choose within its physical capabilities.
 The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day.
 You might be able to persuade a beast to perform a small favor for you, at the Conductor’s discretion.

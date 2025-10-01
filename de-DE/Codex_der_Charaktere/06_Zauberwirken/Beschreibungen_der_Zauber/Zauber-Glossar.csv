@@ -84,7 +84,7 @@ Fluch;Fluch;Bestow Curse;Bestow Curse;umformuliert;offen;nein;
 Fluch brechen;Fluch brechen;Remove Curse;Remove Curse;verändert;offen;nein;
 Freundschaft;-;Friends;-;neu;offen;nein;
 Furcht;Furcht;Fear;Fear;umformuliert;offen;nein;
-Gasförmige Gestalt;Gasförmige Gestalt;Gaseous Form;Gaseous Form;verändert;offen;nein;Es gibt einen Zauber mit diesem Namen in WotC D&D, dieser ist allerdings nicht Teil des SRDs.
+Gasförmige Gestalt;Gasförmige Gestalt;Gaseous Form;Gaseous Form;verändert;offen;nein;"Es gibt einen Zauber mit diesem Namen in WotC D&D, dieser ist allerdings nicht Teil des SRDs."
 Geas;Geas;Geas;Geas;umformuliert;offen;nein;
 Gebet der Heilung;Gebet der Heilung;Prayer of Healing;Prayer of Healing;umformuliert;offen;nein;
 Gedanken wahrnehmen;Gedanken wahrnehmen;Detect Thoughts;Detect Thoughts;verändert;offen;nein;
@@ -125,7 +125,7 @@ Identifizieren;Identifizieren;Identify;Identify;verändert;offen;nein;
 Illusionsschrift;Illusionsschrift;Illusory Script;Illusory Script;umformuliert;offen;nein;
 Insektenplage;Insektenplage;Insect Plague;Insect Plague;umformuliert;offen;nein;
 Irrgarten;Irrgarten;Maze;Maze;verändert;offen;nein;
-Iz’zart's Schwarmprothese;-;Iz’zart's Swarm Limb;;neu;offen;nein;Dieser Zauber wurde für Free5e komplett neu erschaffen, es gibt kein Äquivalent im SRD oder in WotC D&D.
+Iz’zart's Schwarmprothese;-;Iz’zart's Swarm Limb;;neu;offen;nein;"Dieser Zauber wurde für Free5e komplett neu erschaffen, es gibt kein Äquivalent im SRD oder in WotC D&D."
 Jess' Privates Heiligtum;Privates Heiligtum;Jess's Private Sanctum;Private Sanctum;umformuliert;offen;nein;
 Kalte Hand;Kalte Hand;Chill Touch;Chill Touch;umformuliert;offen;nein;
 Kältekegel;Kältekegel;Cone of Cold;Cone of Cold;umformuliert;offen;nein;
@@ -164,11 +164,11 @@ Metall erhitzen;Metall erhitzen;Heat Metal;Heat Metal;umformuliert;offen;nein;
 Meteoritenschwarm;Meteoritenschwarm;Meteor Swarm;Meteor Swarm;umformuliert;offen;nein;
 Mit Pflanzen sprechen;Mit Pflanzen sprechen;Converse with Plants;Speak with Plants;umformuliert;offen;nein;Wir wollen diesen Zauber ggf. noch umbenennen
 Mit Stein verschmelzen;Mit Stein verschmelzen;Meld into Stone;Meld into Stone;verändert;offen;nein;
-Mit Tieren sprechen;Mit Tieren sprechen;Converse with Animals;Speak with Animals;umformuliert;offen;nein;Wir wollen diesen Zauber ggf. noch umbenennen
-Mit Toten sprechen;Mit Toten sprechen;Question the Dead;Speak with Dead;umformuliert;offen;nein;Wir wollen diesen Zauber ggf. noch umbenennen
+Mit Tieren sprechen;Mit Tieren sprechen;Converse with Animals;Speak with Animals;verändert;offen;nein;Wir wollen diesen Zauber ggf. noch umbenennen
+Mit Toten sprechen;Mit Toten sprechen;Question the Dead;Speak with Dead;verändert;offen;nein;Wir wollen diesen Zauber ggf. noch umbenennen
 Mondstrahl;Mondstrahl;Moonbeam;Moonbeam;umformuliert;offen;nein;
 Monster beherrschen;Monster beherrschen;Dominate Monster;Dominate Monster;umformuliert;offen;nein;
-Monster bezaubern;-;Charm Monster;-;neu;offen;nein;Es gibt einen Zauber mit diesem Namen in WotC D&D, dieser ist allerdings nicht Teil des SRDs.
+Monster bezaubern;-;Charm Monster;-;neu;offen;nein;"Es gibt einen Zauber mit diesem Namen in WotC D&D, dieser ist allerdings nicht Teil des SRDs."
 Monster festhalten;Monster festhalten;Hold Monster;Hold Monster;umformuliert;offen;nein;
 Morschecks Hand;Arkane Hand;Morscheck's Hand;Arcane Hand;verändert;offen;nein;
 Nahrung und Wasser erschaffen;Nahrung und Wasser erschaffen;Create Food and Water;Create Food and Water;gleich geblieben;offen;nein;
@@ -216,7 +216,7 @@ Schutzkreis;Schutzkreis;Magic Circle;Magic Circle;umformuliert;offen;nein;
 Schwache Elementare beschwören;Schwache Elementare beschwören;Conjure Minor Elementals;Conjure Minor Elementals;umformuliert;offen;nein;
 Schwache Genesung;Schwache Genesung;Lesser Restoration;Lesser Restoration;umformuliert;offen;nein;
 Schwächestrahl;Schwächestrahl;Ray of Enfeeblement;Ray of Enfeeblement;umformuliert;offen;nein;
-Schwachsinn;Schwachsinn;Confound;Feeblemind;umformuliert;offen;nein;Wurde umbenannt, weil es im Englischen ein herabwürdigender Begriff ist.
+Schwachsinn;Schwachsinn;Confound;Feeblemind;umformuliert;offen;nein;"Wurde umbenannt, weil es im Englischen ein herabwürdigender Begriff ist."
 Schweben;Schweben;Levitate;Levitate;verändert;offen;nein;
 Schwerkraft umkehren;Schwerkraft umkehren;Reverse Gravity;Reverse Gravity;verändert;offen;nein;
 Segnen;Segnen;Bless;Bless;umformuliert;offen;nein;
@@ -285,7 +285,7 @@ Verstricken;Verstricken;Entangle;Entangle;umformuliert;offen;nein;
 Vertrauten finden;Vertrauten finden;Find Familiar;Find Familiar;verändert;offen;nein;
 Verwandlung;Verwandlung;Polymorph;Polymorph;verändert;offen;nein;
 Verwirrung;Verwirrung;Confusion;Confusion;gleich geblieben;offen;nein;
-Verwünschen;-;Hex;-;neu;offen;nein;Es gibt einen Zauber mit diesem Namen in WotC D&D, dieser ist allerdings nicht Teil des SRDs.
+Verwünschen;-;Hex;-;neu;offen;nein;"Es gibt einen Zauber mit diesem Namen in WotC D&D, dieser ist allerdings nicht Teil des SRDs."
 Vollständige Genesung;Vollständige Genesung;Greater Restoration;Greater Restoration;verändert;offen;nein;
 Vorahnung;Vorahnung;Augury;Augury;umformuliert;offen;nein;
 Voraussicht;Voraussicht;Foresight;Foresight;umformuliert;offen;nein;
@@ -317,7 +317,7 @@ Wunsch;Wunsch;Wish;Wish;umformuliert;offen;nein;
 Zeichen des Jägers;Zeichen des Jägers;Hunter's Mark;Hunter's Mark;umformuliert;offen;nein;
 Zeitstop;Zeitstop;Time Stop;Time Stop;umformuliert;offen;nein;
 Zerbersten;Zerbersten;Shatter;Shatter;umformuliert;offen;nein;
-Zeremonie;-;Ceremony;-;neu;offen;nein;Es gibt einen Zauber mit diesem Namen in WotC D&D, dieser ist allerdings nicht Teil des SRDs.
+Zeremonie;-;Ceremony;-;neu;offen;nein;"Es gibt einen Zauber mit diesem Namen in WotC D&D, dieser ist allerdings nicht Teil des SRDs."
 Zielsicherer Schlag;Zielsicherer Schlag;True Strike;True Strike;verändert;offen;nein;
 Zone der Wahrheit;Zone der Wahrheit;Zone of Truth;Zone of Truth;gleich geblieben;offen;nein;
 Zungen;Zungen;Tongues;Tongues;verändert;offen;nein;

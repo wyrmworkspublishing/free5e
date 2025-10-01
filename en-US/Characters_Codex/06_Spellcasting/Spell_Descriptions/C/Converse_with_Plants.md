@@ -24,7 +24,7 @@ _3rd-level transmutation_
 **Components:** V, S \
 **Duration:** 10 minutes
 
-Your voice takes on a magical timbre, awakening plants in your vicinity to limited sentience.
+You awaken plants in your vicinity to limited sentience.
 Until the spell ends, plants within 30 feet of you can communicate with you and follow simple commands, telling you about recent events including creatures that have passed, weather, and nearby locations.
 
 The targets have a limited mobility: they can move their branches, tendrils, and stalks freely.
