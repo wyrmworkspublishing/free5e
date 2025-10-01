@@ -1,325 +1,325 @@
-﻿Free5e spell name (Spanish);WotC SRD spell name (Spanish);Free5e spell name (English);WotC SRD spell name (English);Changes compared to WotC (English)?;Status (Spanish);Metadata added?;Comment
-;;Acid Splash;Acid Splash;reworded;open;no;
-;;Aid;Aid;reworded;open;no;
-;;Alarm;Alarm;not changed;open;no;
-;;Alia's Magnificent Mansion;Magnificent Mansion;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Alter Self;Alter Self;not changed;open;no;
-;;Animal Friendship;Animal Friendship;mechanically changed;open;no;
-;;Animal Messenger;Animal Messenger;reworded;open;no;
-;;Animal Shapes;Animal Shapes;reworded;open;no;
-;;Animate Dead;Animate Dead;mechanically changed;open;no;
-;;Animate Objects;Animate Objects;mechanically changed;open;no;
-;;Antilife Shell;Antilife Shell;reworded;open;no;
-;;Antimagic Field;Antimagic Field;reworded;open;no;
-;;Antipathy/Sympathy;Antipathy/Sympathy;reworded;open;no;
-;;Arcane Eye;Arcane Eye;reworded;open;no;
-;;Arcane Lock;Arcane Lock;reworded;open;no;
-;;Astral Projection;Astral Projection;reworded;open;no;
-;;Augury;Augury;reworded;open;no;
-;;Awaken;Awaken;reworded;open;no;
-;;Bane;Bane;reworded;open;no;
-;;Banishment;Banishment;mechanically changed;open;no;
-;;Barkskin;Barkskin;reworded;open;no;
-;;Beacon of Hope;Beacon of Hope;reworded;open;no;
-;;Bestow Curse;Bestow Curse;reworded;open;no;
-;;Blade Barrier;Blade Barrier;mechanically changed;open;no;
-;;Bless;Bless;reworded;open;no;
-;;Blight;Blight;reworded;open;no;
-;;Blink;Blink;reworded;open;no;
-;;Blur;Blur;reworded;open;no;
-;;Bragolbeleg's Acid Bolt;Acid Arrow;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Branding Smite;Branding Smite;not changed;open;no;
-;;Burning Hands;Burning Hands;reworded;open;no;
-;;Call Lightning;Call Lightning;reworded;open;no;
-;;Calm Emotions;Calm Emotions;mechanically changed;open;no;
-;;Ceremony;-;new;open;no;"WotC D&D has a spell with this name, however it's not part of the SRD"
-;;Cerilsen's Secret Chest;Secret Chest;not changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Chain Lightning;Chain Lightning;reworded;open;no;
-;;Charm Monster;-;new;open;no;"WotC D&D has a spell with this name, however it's not part of the SRD"
-;;Charm Person;Charm Person;reworded;open;no;
-;;Chill Touch;Chill Touch;reworded;open;no;
-;;Chloe's Faithful Hound;Faithful Hound;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Circle of Death;Circle of Death;reworded;open;no;
-;;Clairvoyance;Clairvoyance;reworded;open;no;
-;;Clone;Clone;reworded;open;no;
-;;Cloudkill;Cloudkill;reworded;open;no;
-;;Color Spray;Color Spray;reworded;open;no;
-;;Command;Command;reworded;open;no;
-;;Commune;Commune;reworded;open;no;
-;;Commune with Nature;Commune with Nature;reworded;open;no;
-;;Comprehend Languages;Comprehend Languages;mechanically changed;open;no;
-;;Compulsion;Compulsion;reworded;open;no;
-;;Cone of Cold;Cone of Cold;reworded;open;no;
-;;Confound;Feeblemind;reworded;open;no;"This name was changed in English Free5e, since it's a problematic term in English."
-;;Confusion;Confusion;not changed;open;no;
-;;Conjure Animals;Conjure Animals;mechanically changed;open;no;
-;;Conjure Celestial;Conjure Celestial;reworded;open;no;
-;;Conjure Elemental;Conjure Elemental;reworded;open;no;
-;;Conjure Fey;Conjure Fey;reworded;open;no;
-;;Conjure Minor Elementals;Conjure Minor Elementals;reworded;open;no;
-;;Conjure Woodland Beings;Conjure Woodland Beings;reworded;open;no;
-;;Contact other Plane;Contact other Plane;mechanically changed;open;no;
-;;Contagion;Contagion;reworded;open;no;
-;;Contingency;Contingency;reworded;open;no;
-;;Continual Flame;Continual Flame;reworded;open;no;
-;;Control Water;Control Water;mechanically changed;open;no;
-;;Control Weather;Control Weather;reworded;open;no;
-;;Converse with Animals;Speak with Animals;mechanically changed;open;no;"This spell was changed, so as not to be specific to verbal communication"
-;;Converse with Plants;Speak with Plants;reworded;open;no;"This spell was renamed, so as not to be specific to verbal communication"
-;;Coreador's Black Tentacles;Black Tentacles;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Counterspell;Counterspell;mechanically changed;open;no;
-;;Create Food and Water;Create Food and Water;not changed;open;no;
-;;Create or Destroy Water;Create or Destroy Water;reworded;open;no;
-;;Create Undead;Create Undead;reworded;open;no;
-;;Creation;Creation;reworded;open;no;
-;;Cure Wounds;Cure Wounds;reworded;open;no;
-;;Dancing Lights;Dancing Lights;reworded;open;no;
-;;Darkness;Darkness;reworded;open;no;
-;;Darkvision;Darkvision;mechanically changed;open;no;
-;;Daylight;Daylight;reworded;open;no;
-;;Death Ward;Death Ward;reworded;open;no;
-;;Delayed Blast Fireball;Delayed Blast Fireball;reworded;open;no;
-;;Demiplane;Demiplane;reworded;open;no;
-;;Detect Evil and Good;Detect Evil and Good;not changed;open;no;
-;;Detect Magic;Detect Magic;not changed;open;no;
-;;Detect Poison and Disease;Detect Poison and Disease;not changed;open;no;
-;;Detect Thoughts;Detect Thoughts;mechanically changed;open;no;
-;;Dimension Door;Dimension Door;reworded;open;no;
-;;Disguise Self;Disguise Self;mechanically changed;open;no;
-;;Disintegrate;Disintegrate;reworded;open;no;
-;;Dispel Evil and Good;Dispel Evil and Good;mechanically changed;open;no;
-;;Dispel Magic;Dispel Magic;reworded;open;no;
-;;Divination;Divination;reworded;open;no;
-;;Divine Favor;Divine Favor;reworded;open;no;
-;;Divine Word;Divine Word;mechanically changed;open;no;
-;;Dominate Beast;Dominate Beast;reworded;open;no;
-;;Dominate Monster;Dominate Monster;reworded;open;no;
-;;Dominate Person;Dominate Person;not changed;open;no;
-;;Dream;Dream;mechanically changed;open;no;
-;;DT's Magic Aura;Arcanist’s Magic Aura;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Earthquake;Earthquake;mechanically changed;open;no;
-;;Eldritch Blast;Eldritch Blast;reworded;open;no;
-;;Emma's Irresistible Dance;Irresistible Dance;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Enhance Ability;Enhance Ability;not changed;open;no;
-;;Enlarge/Reduce;Enlarge/Reduce;mechanically changed;open;no;
-;;Entangle;Entangle;reworded;open;no;
-;;Enthrall;Enthrall;mechanically changed;open;no;
-;;Etherealness;Etherealness;reworded;open;no;
-;;Expeditious Retreat;Expeditious Retreat;reworded;open;no;
-;;Eyebite;Eyebite;reworded;open;no;
-;;Fabricate;Fabricate;reworded;open;no;
-;;Faerie Fire;Faerie Fire;reworded;open;no;
-;;False Life;False Life;not changed;open;no;
-;;Fear;Fear;reworded;open;no;
-;;Feather Fall;Feather Fall;reworded;open;no;
-;;Find Familiar;Find Familiar;mechanically changed;open;no;
-;;Find Steed;Find Steed;mechanically changed;open;no;
-;;Find the Path;Find the Path;mechanically changed;open;no;
-;;Find Traps;Find Traps;reworded;open;no;
-;;Finger of Death;Finger of Death;mechanically changed;open;no;
-;;Fiona's Freezing Sphere;Freezing Sphere;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Fire Bolt;Fire Bolt;reworded;open;no;
-;;Fire Shield;Fire Shield;not changed;open;no;
-;;Fire Storm;Fire Storm;mechanically changed;open;no;
-;;Fireball;Fireball;reworded;open;no;
-;;Flame Blade;Flame Blade;reworded;open;no;
-;;Flame Strike;Flame Strike;reworded;open;no;
-;;Flaming Sphere;Flaming Sphere;reworded;open;no;
-;;Flesh to Stone;Flesh to Stone;reworded;open;no;
-;;Fly;Fly;reworded;open;no;
-;;Fog Cloud;Fog Cloud;reworded;open;no;
-;;Forbiddance;Forbiddance;reworded;open;no;
-;;Forcecage;Forcecage;mechanically changed;open;no;
-;;Foresight;Foresight;reworded;open;no;
-;;Freedom of Movement;Freedom of Movement;mechanically changed;open;no;
-;-;Friends;-;new;open;no;"WotC D&D has a spell with this name, however it's not part of the SRD"
-;;Gaseous Form;Gaseous Form;mechanically changed;open;no;
-;;Gate;Gate;mechanically changed;open;no;
-;;Geas;Geas;reworded;open;no;
-;;Gentle Repose;Gentle Repose;mechanically changed;open;no;
-;;Giant Insect;Giant Insect;mechanically changed;open;no;
-;;Glibness;Glibness;reworded;open;no;
-;;Globe of Invulnerability;Globe of Invulnerability;reworded;open;no;
-;;Glyph of Warding;Glyph of Warding;reworded;open;no;
-;;Goodberry;Goodberry;mechanically changed;open;no;
-;;Grease;Grease;reworded;open;no;
-;;Greater Imperceptibility;Greater Invisibility;changed;open;no;This spell was renamed and mechanically changed in the context of replacing the Invisible condition with Imperceptible
-;;Greater Restoration;Greater Restoration;mechanically changed;open;no;
-;;Guardian of Faith;Guardian of Faith;reworded;open;no;
-;;Guards and Wards;Guards and Wards;reworded;open;no;
-;;Guidance;Guidance;not changed;open;no;
-;;Guiding Bolt;Guiding Bolt;reworded;open;no;
-;;Gust of Wind;Gust of Wind;mechanically changed;open;no;
-;;Hallow;Hallow;reworded;open;no;
-;;Hallucinatory Terrain;Hallucinatory Terrain;mechanically changed;open;no;
-;;Harm;Harm;reworded;open;no;
-;;Haste;Haste;reworded;open;no;
-;;Heal;Heal;reworded;open;no;
-;;Healing Word;Healing Word;reworded;open;no;
-;;Heat Metal;Heat Metal;reworded;open;no;
-;;Hellish Rebuke;Hellish Rebuke;not changed;open;no;
-;;Heroes' Feast;Heroes' Feast;reworded;open;no;
-;;Heroism;Heroism;reworded;open;no;
-;;Hex;-;new;open;no;"WotC D&D has a spell with this name, however it's not part of the SRD"
-;;Hold Monster;Hold Monster;reworded;open;no;
-;;Hold Person;Hold Person;reworded;open;no;
-;;Holy Aura;Holy Aura;mechanically changed;open;no;
-;;Hunter's Mark;Hunter's Mark;reworded;open;no;
-;;Hypnotic Pattern;Hypnotic Pattern;mechanically changed;open;no;
-;;Ice Storm;Ice Storm;reworded;open;no;
-;;Identify;Identify;mechanically changed;open;no;
-;;Illusory Script;Illusory Script;reworded;open;no;
-;;Imperceptibility;Invisibility;changed;open;no;This spell was renamed and mechanically changed in the context of replacing the Invisible condition with Imperceptible
-;;Imprisonment;Imprisonment;mechanically changed;open;no;
-;;Incendiary Cloud;Incendiary Cloud;reworded;open;no;
-;;Inflict Wounds;Inflict Wounds;reworded;open;no;
-;;Insect Plague;Insect Plague;reworded;open;no;
-;;Iz’zart's Swarm Limb;-;new;open;no;This spell is completely new for Free5e and so doesn't have a WotC equivalent.
-;;Jess's Private Sanctum;Private Sanctum;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Jump;Jump;not changed;open;no;
-;;Katy's Spectral Sword;Arcane Sword;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Knock;Knock;reworded;open;no;
-;;Legend Lore;Legend Lore;reworded;open;no;
-;;Lesser Restoration;Lesser Restoration;reworded;open;no;
-;;Levitate;Levitate;mechanically changed;open;no;
-;;Light;Light;reworded;open;no;
-;;Lightning Bolt;Lightning Bolt;reworded;open;no;
-;;Locate Animals or Plants;Locate Animals or Plants;not changed;open;no;
-;;Locate Creature;Locate Creature;reworded;open;no;
-;;Locate Object;Locate Object;reworded;open;no;
-;;Longstrider;Longstrider;reworded;open;no;
-;;Mage Armor;Mage Armor;reworded;open;no;
-;;Mage Hand;Mage Hand;reworded;open;no;
-;;Magic Circle;Magic Circle;reworded;open;no;
-;;Magic Jar;Magic Jar;mechanically changed;open;no;
-;;Magic Missile;Magic Missile;reworded;open;no;
-;;Magic Mouth;Magic Mouth;reworded;open;no;
-;;Magic Weapon;Magic Weapon;reworded;open;no;
-;;Major Image;Major Image;reworded;open;no;
-;;Mass Cure Wounds;Mass Cure Wounds;mechanically changed;open;no;
-;;Mass Heal;Mass Heal;mechanically changed;open;no;
-;;Mass Healing Word;Mass Healing Word;reworded;open;no;
-;;Mass Suggestion;Mass Suggestion;mechanically changed;open;no;
-;;Maze;Maze;mechanically changed;open;no;
-;;Meld into Stone;Meld into Stone;mechanically changed;open;no;
-;;Melestrua's Marvelous Marquee;Tiny Hut;not changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Mending;Mending;not changed;open;no;
-;;Message;Message;mechanically changed;open;no;
-;;Meteor Swarm;Meteor Swarm;reworded;open;no;
-;;Mind Blank;Mind Blank;reworded;open;no;
-;;Minor Illusion;Minor Illusion;reworded;open;no;
-;;Mirage Arcane;Mirage Arcane;reworded;open;no;
-;;Mirror Image;Mirror Image;mechanically changed;open;no;
-;;Mislead;Mislead;mechanically changed;open;no;
-;;Misty Step;Misty Step;reworded;open;no;
-;;Modify Memory;Modify Memory;reworded;open;no;
-;;Moonbeam;Moonbeam;reworded;open;no;
-;;Morscheck's Hand;Arcane Hand;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Move Earth;Move Earth;reworded;open;no;
-;;Natalex's Instant Summons;Instant Summons;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Naturecraft;Druidcraft;reworded;open;no;
-;;Nondetection;Nondetection;reworded;open;no;
-;;Nullify Sense;Blindness/Deafness;changed;open;no;This spell was renamed and mechanically changed in the context of replacing the Blinded and Deafened conditions with Nullified
-;;Paoliello's Hideous Laughter;Hideous Laughter;mechanically changed;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Pass without Trace;Pass without Trace;not changed;open;no;
-;;Passwall;Passwall;reworded;open;no;
-;;Pelham's Hovering Platter;Floating Disk;reworded;open;no;
-;;Perceive the Imperceptible;See Invisibility;mechanically changed;open;no;This spell may be changed due to replacing the Invisible condition with Imperceptible
-;;Phantasmal Killer;Phantasmal Killer;mechanically changed;open;no;
-;;Phantom Steed;Phantom Steed;reworded;open;no;
-;;Planar Ally;Planar Ally;reworded;open;no;
-;;Planar Binding;Planar Binding;reworded;open;no;
-;;Plane Shift;Plane Shift;reworded;open;no;
-;;Plant Growth;Plant Growth;reworded;open;no;
-;;Poison Spray;Poison Spray;not changed;open;no;
-;;Polymorph;Polymorph;mechanically changed;open;no;
-;;Power Word Kill;Power Word Kill;mechanically changed;open;no;
-;;Power Word Stun;Power Word Stun;reworded;open;no;
-;;Prayer of Healing;Prayer of Healing;reworded;open;no;
-;;Prestidigitation;Prestidigitation;reworded;open;no;
-;;Prismatic Spray;Prismatic Spray;reworded;open;no;
-;;Prismatic Wall;Prismatic Wall;reworded;open;no;
-;;Produce Flame;Produce Flame;reworded;open;no;
-;;Programmed Illusion;Programmed Illusion;reworded;open;no;
-;;Project Image;Project Image;reworded;open;no;
-;;Protection from Energy;Protection from Energy;not changed;open;no;
-;;Protection from Evil and Good;Protection from Evil and Good;reworded;open;no;
-;;Protection from Poison;Protection from Poison;reworded;open;no;
-;;Purify Food and Drink;Purify Food and Drink;not changed;open;no;
-;;Question the Dead;Speak with Dead;mechanically changed;open;no;"This spell was changed, so as not to be specific to verbal communication"
-;;Raise Dead;Raise Dead;reworded;open;no;
-;;Rantock's Telepathic Bond;Telepathic Bond;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
-;;Ray of Enfeeblement;Ray of Enfeeblement;reworded;open;no;
-;;Ray of Frost;Ray of Frost;reworded;open;no;
-;;Regenerate;Regenerate;reworded;open;no;
-;;Reincarnate;Reincarnate;mechanically changed;open;no;
-;;Remove Curse;Remove Curse;mechanically changed;open;no;
-;;Resilient Sphere;Resilient Sphere;reworded;open;no;This spell has a different name in the WotC PHB than it does in the SRD. It could be renamed like some others were.
-;;Resistance;Resistance;reworded;open;no;
-;;Resurrection;Resurrection;not changed;open;no;
-;;Reverse Gravity;Reverse Gravity;mechanically changed;open;no;
-;;Revivify;Revivify;not changed;open;no;
-;;Rope Trick;Rope Trick;mechanically changed;open;no;
-;;Sacred Flame;Sacred Flame;reworded;open;no;
-;;Sanctuary;Sanctuary;mechanically changed;open;no;
-;;Scorching Ray;Scorching Ray;reworded;open;no;
-;;Scrying;Scrying;reworded;open;no;
-;;Seeming;Seeming;reworded;open;no;
-;;Sending;Sending;reworded;open;no;
-;;Sequester;Sequester;mechanically changed;open;no;
-;;Shapechange;Shapechange;reworded;open;no;
-;;Shatter;Shatter;reworded;open;no;
-;;Shield;Shield;not changed;open;no;
-;;Shield of Faith;Shield of Faith;reworded;open;no;
-;;Shillelagh;Shillelagh;reworded;open;no;
-;;Shocking Grasp;Shocking Grasp;reworded;open;no;
-;;Silence;Silence;reworded;open;no;
-;;Silent Image;Silent Image;reworded;open;no;
-;;Simulacrum;Simulacrum;mechanically changed;open;no;
-;;Sleep;Sleep;mechanically changed;open;no;
-;;Sleet Storm;Sleet Storm;reworded;open;no;
-;;Slow;Slow;not changed;open;no;
-;;Spare the Dying;Spare the Dying;mechanically changed;open;no;
-;;Spider Climb;Spider Climb;reworded;open;no;
-;;Spike Growth;Spike Growth;reworded;open;no;
-;;Spirit Guardians;Spirit Guardians;mechanically changed;open;no;
-;;Spiritual Weapon;Spiritual Weapon;reworded;open;no;
-;;Stinking Cloud;Stinking Cloud;not changed;open;no;
-;;Stone Shape;Stone Shape;mechanically changed;open;no;
-;;Stoneskin;Stoneskin;not changed;open;no;
-;;Storm of Vengeance;Storm of Vengeance;reworded;open;no;"In the English and German SRDs, this spell references the name of a rule that was removed after the original DnDNext playtest. In English the wording of this reference in the Round 5-10 rules is: ""The wind and rain count as a severe distraction for the purposes of maintaining concentration on spells."" The rule for ""severe distractions"" still exists, it just doesn't have a specific name. You can find it in the section on concentration, it's the last paragraph there."
-;;Suggestion;Suggestion;mechanically changed;open;no;
-;;Sunbeam;Sunbeam;mechanically changed;open;no;
-;;Sunburst;Sunburst;mechanically changed;open;no;
-;;Symbol;Symbol;mechanically changed;open;no;
-;;Telekinesis;Telekinesis;mechanically changed;open;no;
-;;Teleport;Teleport;reworded;open;no;
-;;Teleportation Circle;Teleportation Circle;reworded;open;no;
-;;Thaumaturgy;Thaumaturgy;reworded;open;no;
-;;Thunderwave;Thunderwave;reworded;open;no;
-;;Time Stop;Time Stop;reworded;open;no;
-;;Tongues;Tongues;mechanically changed;open;no;
-;;Transport via Plants;Transport via Plants;reworded;open;no;
-;;Tree Stride;Tree Stride;mechanically changed;open;no;
-;;True Polymorph;True Polymorph;reworded;open;no;
-;;True Resurrection;True Resurrection;not changed;open;no;
-;;True Seeing;True Seeing;reworded;open;no;
-;;True Strike;True Strike;mechanically changed;open;no;
-;;Unseen Servant;Unseen Servant;reworded;open;no;
-;;Vampiric Touch;Vampiric Touch;reworded;open;no;
-;;Vicious Mockery;Vicious Mockery;reworded;open;no;
-;;Wall of Fire;Wall of Fire;reworded;open;no;
-;;Wall of Force;Wall of Force;not changed;open;no;
-;;Wall of Ice;Wall of Ice;mechanically changed;open;no;
-;;Wall of Stone;Wall of Stone;reworded;open;no;
-;;Wall of Thorns;Wall of Thorns;reworded;open;no;
-;;Warding Bond;Warding Bond;not changed;open;no;
-;;Water Breathing;Water Breathing;reworded;open;no;
-;;Water Walk;Water Walk;reworded;open;no;
-;;Web;Web;reworded;open;no;
-;;Weird;Weird;reworded;open;no;
-;;Wind Walk;Wind Walk;reworded;open;no;
-;;Wind Wall;Wind Wall;mechanically changed;open;no;
-;;Wish;Wish;reworded;open;no;
-;;Word of Recall;Word of Recall;reworded;open;no;
-;;Zone of Truth;Zone of Truth;not changed;open;no;
+﻿Free5e spell name (Spanish),WotC SRD spell name (Spanish),Free5e spell name (English),WotC SRD spell name (English),Changes compared to WotC (English)?,Status (Spanish),Metadata added?,Comment
+,,Acid Splash,Acid Splash,reworded,open,no,
+,,Aid,Aid,reworded,open,no,
+,,Alarm,Alarm,not changed,open,no,
+,,Alia's Magnificent Mansion,Magnificent Mansion,mechanically changed,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Alter Self,Alter Self,not changed,open,no,
+,,Animal Friendship,Animal Friendship,mechanically changed,open,no,
+,,Animal Messenger,Animal Messenger,reworded,open,no,
+,,Animal Shapes,Animal Shapes,reworded,open,no,
+,,Animate Dead,Animate Dead,mechanically changed,open,no,
+,,Animate Objects,Animate Objects,mechanically changed,open,no,
+,,Antilife Shell,Antilife Shell,reworded,open,no,
+,,Antimagic Field,Antimagic Field,reworded,open,no,
+,,Antipathy/Sympathy,Antipathy/Sympathy,reworded,open,no,
+,,Arcane Eye,Arcane Eye,reworded,open,no,
+,,Arcane Lock,Arcane Lock,reworded,open,no,
+,,Astral Projection,Astral Projection,reworded,open,no,
+,,Augury,Augury,reworded,open,no,
+,,Awaken,Awaken,reworded,open,no,
+,,Bane,Bane,reworded,open,no,
+,,Banishment,Banishment,mechanically changed,open,no,
+,,Barkskin,Barkskin,reworded,open,no,
+,,Beacon of Hope,Beacon of Hope,reworded,open,no,
+,,Bestow Curse,Bestow Curse,reworded,open,no,
+,,Blade Barrier,Blade Barrier,mechanically changed,open,no,
+,,Bless,Bless,reworded,open,no,
+,,Blight,Blight,reworded,open,no,
+,,Blink,Blink,reworded,open,no,
+,,Blur,Blur,reworded,open,no,
+,,Bragolbeleg's Acid Bolt,Acid Arrow,reworded,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Branding Smite,Branding Smite,not changed,open,no,
+,,Burning Hands,Burning Hands,reworded,open,no,
+,,Call Lightning,Call Lightning,reworded,open,no,
+,,Calm Emotions,Calm Emotions,mechanically changed,open,no,
+,,Ceremony,-,new,open,no,"WotC D&D has a spell with this name, however it's not part of the SRD"
+,,Cerilsen's Secret Chest,Secret Chest,not changed,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Chain Lightning,Chain Lightning,reworded,open,no,
+,,Charm Monster,-,new,open,no,"WotC D&D has a spell with this name, however it's not part of the SRD"
+,,Charm Person,Charm Person,reworded,open,no,
+,,Chill Touch,Chill Touch,reworded,open,no,
+,,Chloe's Faithful Hound,Faithful Hound,reworded,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Circle of Death,Circle of Death,reworded,open,no,
+,,Clairvoyance,Clairvoyance,reworded,open,no,
+,,Clone,Clone,reworded,open,no,
+,,Cloudkill,Cloudkill,reworded,open,no,
+,,Color Spray,Color Spray,reworded,open,no,
+,,Command,Command,reworded,open,no,
+,,Commune,Commune,reworded,open,no,
+,,Commune with Nature,Commune with Nature,reworded,open,no,
+,,Comprehend Languages,Comprehend Languages,mechanically changed,open,no,
+,,Compulsion,Compulsion,reworded,open,no,
+,,Cone of Cold,Cone of Cold,reworded,open,no,
+,,Confound,Feeblemind,reworded,open,no,"This name was changed in English Free5e, since it's a problematic term in English."
+,,Confusion,Confusion,not changed,open,no,
+,,Conjure Animals,Conjure Animals,mechanically changed,open,no,
+,,Conjure Celestial,Conjure Celestial,reworded,open,no,
+,,Conjure Elemental,Conjure Elemental,reworded,open,no,
+,,Conjure Fey,Conjure Fey,reworded,open,no,
+,,Conjure Minor Elementals,Conjure Minor Elementals,reworded,open,no,
+,,Conjure Woodland Beings,Conjure Woodland Beings,reworded,open,no,
+,,Contact other Plane,Contact other Plane,mechanically changed,open,no,
+,,Contagion,Contagion,reworded,open,no,
+,,Contingency,Contingency,reworded,open,no,
+,,Continual Flame,Continual Flame,reworded,open,no,
+,,Control Water,Control Water,mechanically changed,open,no,
+,,Control Weather,Control Weather,reworded,open,no,
+,,Converse with Animals,Speak with Animals,mechanically changed,open,no,"This spell was changed, so as not to be specific to verbal communication"
+,,Converse with Plants,Speak with Plants,reworded,open,no,"This spell was renamed, so as not to be specific to verbal communication"
+,,Coreador's Black Tentacles,Black Tentacles,mechanically changed,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Counterspell,Counterspell,mechanically changed,open,no,
+,,Create Food and Water,Create Food and Water,not changed,open,no,
+,,Create or Destroy Water,Create or Destroy Water,reworded,open,no,
+,,Create Undead,Create Undead,reworded,open,no,
+,,Creation,Creation,reworded,open,no,
+,,Cure Wounds,Cure Wounds,reworded,open,no,
+,,Dancing Lights,Dancing Lights,reworded,open,no,
+,,Darkness,Darkness,reworded,open,no,
+,,Darkvision,Darkvision,mechanically changed,open,no,
+,,Daylight,Daylight,reworded,open,no,
+,,Death Ward,Death Ward,reworded,open,no,
+,,Delayed Blast Fireball,Delayed Blast Fireball,reworded,open,no,
+,,Demiplane,Demiplane,reworded,open,no,
+,,Detect Evil and Good,Detect Evil and Good,not changed,open,no,
+,,Detect Magic,Detect Magic,not changed,open,no,
+,,Detect Poison and Disease,Detect Poison and Disease,not changed,open,no,
+,,Detect Thoughts,Detect Thoughts,mechanically changed,open,no,
+,,Dimension Door,Dimension Door,reworded,open,no,
+,,Disguise Self,Disguise Self,mechanically changed,open,no,
+,,Disintegrate,Disintegrate,reworded,open,no,
+,,Dispel Evil and Good,Dispel Evil and Good,mechanically changed,open,no,
+,,Dispel Magic,Dispel Magic,reworded,open,no,
+,,Divination,Divination,reworded,open,no,
+,,Divine Favor,Divine Favor,reworded,open,no,
+,,Divine Word,Divine Word,mechanically changed,open,no,
+,,Dominate Beast,Dominate Beast,reworded,open,no,
+,,Dominate Monster,Dominate Monster,reworded,open,no,
+,,Dominate Person,Dominate Person,not changed,open,no,
+,,Dream,Dream,mechanically changed,open,no,
+,,DT's Magic Aura,Arcanist’s Magic Aura,mechanically changed,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Earthquake,Earthquake,mechanically changed,open,no,
+,,Eldritch Blast,Eldritch Blast,reworded,open,no,
+,,Emma's Irresistible Dance,Irresistible Dance,reworded,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Enhance Ability,Enhance Ability,not changed,open,no,
+,,Enlarge/Reduce,Enlarge/Reduce,mechanically changed,open,no,
+,,Entangle,Entangle,reworded,open,no,
+,,Enthrall,Enthrall,mechanically changed,open,no,
+,,Etherealness,Etherealness,reworded,open,no,
+,,Expeditious Retreat,Expeditious Retreat,reworded,open,no,
+,,Eyebite,Eyebite,reworded,open,no,
+,,Fabricate,Fabricate,reworded,open,no,
+,,Faerie Fire,Faerie Fire,reworded,open,no,
+,,False Life,False Life,not changed,open,no,
+,,Fear,Fear,reworded,open,no,
+,,Feather Fall,Feather Fall,reworded,open,no,
+,,Find Familiar,Find Familiar,mechanically changed,open,no,
+,,Find Steed,Find Steed,mechanically changed,open,no,
+,,Find the Path,Find the Path,mechanically changed,open,no,
+,,Find Traps,Find Traps,reworded,open,no,
+,,Finger of Death,Finger of Death,mechanically changed,open,no,
+,,Fiona's Freezing Sphere,Freezing Sphere,mechanically changed,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Fire Bolt,Fire Bolt,reworded,open,no,
+,,Fire Shield,Fire Shield,not changed,open,no,
+,,Fire Storm,Fire Storm,mechanically changed,open,no,
+,,Fireball,Fireball,reworded,open,no,
+,,Flame Blade,Flame Blade,reworded,open,no,
+,,Flame Strike,Flame Strike,reworded,open,no,
+,,Flaming Sphere,Flaming Sphere,reworded,open,no,
+,,Flesh to Stone,Flesh to Stone,reworded,open,no,
+,,Fly,Fly,reworded,open,no,
+,,Fog Cloud,Fog Cloud,reworded,open,no,
+,,Forbiddance,Forbiddance,reworded,open,no,
+,,Forcecage,Forcecage,mechanically changed,open,no,
+,,Foresight,Foresight,reworded,open,no,
+,,Freedom of Movement,Freedom of Movement,mechanically changed,open,no,
+,-,Friends,-,new,open,no,"WotC D&D has a spell with this name, however it's not part of the SRD"
+,,Gaseous Form,Gaseous Form,mechanically changed,open,no,
+,,Gate,Gate,mechanically changed,open,no,
+,,Geas,Geas,reworded,open,no,
+,,Gentle Repose,Gentle Repose,mechanically changed,open,no,
+,,Giant Insect,Giant Insect,mechanically changed,open,no,
+,,Glibness,Glibness,reworded,open,no,
+,,Globe of Invulnerability,Globe of Invulnerability,reworded,open,no,
+,,Glyph of Warding,Glyph of Warding,reworded,open,no,
+,,Goodberry,Goodberry,mechanically changed,open,no,
+,,Grease,Grease,reworded,open,no,
+,,Greater Imperceptibility,Greater Invisibility,changed,open,no,This spell was renamed and mechanically changed in the context of replacing the Invisible condition with Imperceptible
+,,Greater Restoration,Greater Restoration,mechanically changed,open,no,
+,,Guardian of Faith,Guardian of Faith,reworded,open,no,
+,,Guards and Wards,Guards and Wards,reworded,open,no,
+,,Guidance,Guidance,not changed,open,no,
+,,Guiding Bolt,Guiding Bolt,reworded,open,no,
+,,Gust of Wind,Gust of Wind,mechanically changed,open,no,
+,,Hallow,Hallow,reworded,open,no,
+,,Hallucinatory Terrain,Hallucinatory Terrain,mechanically changed,open,no,
+,,Harm,Harm,reworded,open,no,
+,,Haste,Haste,reworded,open,no,
+,,Heal,Heal,reworded,open,no,
+,,Healing Word,Healing Word,reworded,open,no,
+,,Heat Metal,Heat Metal,reworded,open,no,
+,,Hellish Rebuke,Hellish Rebuke,not changed,open,no,
+,,Heroes' Feast,Heroes' Feast,reworded,open,no,
+,,Heroism,Heroism,reworded,open,no,
+,,Hex,-,new,open,no,"WotC D&D has a spell with this name, however it's not part of the SRD"
+,,Hold Monster,Hold Monster,reworded,open,no,
+,,Hold Person,Hold Person,reworded,open,no,
+,,Holy Aura,Holy Aura,mechanically changed,open,no,
+,,Hunter's Mark,Hunter's Mark,reworded,open,no,
+,,Hypnotic Pattern,Hypnotic Pattern,mechanically changed,open,no,
+,,Ice Storm,Ice Storm,reworded,open,no,
+,,Identify,Identify,mechanically changed,open,no,
+,,Illusory Script,Illusory Script,reworded,open,no,
+,,Imperceptibility,Invisibility,changed,open,no,This spell was renamed and mechanically changed in the context of replacing the Invisible condition with Imperceptible
+,,Imprisonment,Imprisonment,mechanically changed,open,no,
+,,Incendiary Cloud,Incendiary Cloud,reworded,open,no,
+,,Inflict Wounds,Inflict Wounds,reworded,open,no,
+,,Insect Plague,Insect Plague,reworded,open,no,
+,,Iz’zart's Swarm Limb,-,new,open,no,This spell is completely new for Free5e and so doesn't have a WotC equivalent.
+,,Jess's Private Sanctum,Private Sanctum,reworded,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Jump,Jump,not changed,open,no,
+,,Katy's Spectral Sword,Arcane Sword,reworded,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Knock,Knock,reworded,open,no,
+,,Legend Lore,Legend Lore,reworded,open,no,
+,,Lesser Restoration,Lesser Restoration,reworded,open,no,
+,,Levitate,Levitate,mechanically changed,open,no,
+,,Light,Light,reworded,open,no,
+,,Lightning Bolt,Lightning Bolt,reworded,open,no,
+,,Locate Animals or Plants,Locate Animals or Plants,not changed,open,no,
+,,Locate Creature,Locate Creature,reworded,open,no,
+,,Locate Object,Locate Object,reworded,open,no,
+,,Longstrider,Longstrider,reworded,open,no,
+,,Mage Armor,Mage Armor,reworded,open,no,
+,,Mage Hand,Mage Hand,reworded,open,no,
+,,Magic Circle,Magic Circle,reworded,open,no,
+,,Magic Jar,Magic Jar,mechanically changed,open,no,
+,,Magic Missile,Magic Missile,reworded,open,no,
+,,Magic Mouth,Magic Mouth,reworded,open,no,
+,,Magic Weapon,Magic Weapon,reworded,open,no,
+,,Major Image,Major Image,reworded,open,no,
+,,Mass Cure Wounds,Mass Cure Wounds,mechanically changed,open,no,
+,,Mass Heal,Mass Heal,mechanically changed,open,no,
+,,Mass Healing Word,Mass Healing Word,reworded,open,no,
+,,Mass Suggestion,Mass Suggestion,mechanically changed,open,no,
+,,Maze,Maze,mechanically changed,open,no,
+,,Meld into Stone,Meld into Stone,mechanically changed,open,no,
+,,Melestrua's Marvelous Marquee,Tiny Hut,not changed,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Mending,Mending,not changed,open,no,
+,,Message,Message,mechanically changed,open,no,
+,,Meteor Swarm,Meteor Swarm,reworded,open,no,
+,,Mind Blank,Mind Blank,reworded,open,no,
+,,Minor Illusion,Minor Illusion,reworded,open,no,
+,,Mirage Arcane,Mirage Arcane,reworded,open,no,
+,,Mirror Image,Mirror Image,mechanically changed,open,no,
+,,Mislead,Mislead,mechanically changed,open,no,
+,,Misty Step,Misty Step,reworded,open,no,
+,,Modify Memory,Modify Memory,reworded,open,no,
+,,Moonbeam,Moonbeam,reworded,open,no,
+,,Morscheck's Hand,Arcane Hand,mechanically changed,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Move Earth,Move Earth,reworded,open,no,
+,,Natalex's Instant Summons,Instant Summons,mechanically changed,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Naturecraft,Druidcraft,reworded,open,no,
+,,Nondetection,Nondetection,reworded,open,no,
+,,Nullify Sense,Blindness/Deafness,changed,open,no,This spell was renamed and mechanically changed in the context of replacing the Blinded and Deafened conditions with Nullified
+,,Paoliello's Hideous Laughter,Hideous Laughter,mechanically changed,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Pass without Trace,Pass without Trace,not changed,open,no,
+,,Passwall,Passwall,reworded,open,no,
+,,Pelham's Hovering Platter,Floating Disk,reworded,open,no,
+,,Perceive the Imperceptible,See Invisibility,mechanically changed,open,no,This spell may be changed due to replacing the Invisible condition with Imperceptible
+,,Phantasmal Killer,Phantasmal Killer,mechanically changed,open,no,
+,,Phantom Steed,Phantom Steed,reworded,open,no,
+,,Planar Ally,Planar Ally,reworded,open,no,
+,,Planar Binding,Planar Binding,reworded,open,no,
+,,Plane Shift,Plane Shift,reworded,open,no,
+,,Plant Growth,Plant Growth,reworded,open,no,
+,,Poison Spray,Poison Spray,not changed,open,no,
+,,Polymorph,Polymorph,mechanically changed,open,no,
+,,Power Word Kill,Power Word Kill,mechanically changed,open,no,
+,,Power Word Stun,Power Word Stun,reworded,open,no,
+,,Prayer of Healing,Prayer of Healing,reworded,open,no,
+,,Prestidigitation,Prestidigitation,reworded,open,no,
+,,Prismatic Spray,Prismatic Spray,reworded,open,no,
+,,Prismatic Wall,Prismatic Wall,reworded,open,no,
+,,Produce Flame,Produce Flame,reworded,open,no,
+,,Programmed Illusion,Programmed Illusion,reworded,open,no,
+,,Project Image,Project Image,reworded,open,no,
+,,Protection from Energy,Protection from Energy,not changed,open,no,
+,,Protection from Evil and Good,Protection from Evil and Good,reworded,open,no,
+,,Protection from Poison,Protection from Poison,reworded,open,no,
+,,Purify Food and Drink,Purify Food and Drink,not changed,open,no,
+,,Question the Dead,Speak with Dead,mechanically changed,open,no,"This spell was changed, so as not to be specific to verbal communication"
+,,Raise Dead,Raise Dead,reworded,open,no,
+,,Rantock's Telepathic Bond,Telepathic Bond,reworded,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It was therefore also renamed in Free5e.
+,,Ray of Enfeeblement,Ray of Enfeeblement,reworded,open,no,
+,,Ray of Frost,Ray of Frost,reworded,open,no,
+,,Regenerate,Regenerate,reworded,open,no,
+,,Reincarnate,Reincarnate,mechanically changed,open,no,
+,,Remove Curse,Remove Curse,mechanically changed,open,no,
+,,Resilient Sphere,Resilient Sphere,reworded,open,no,This spell has a different name in the WotC PHB than it does in the SRD. It could be renamed like some others were.
+,,Resistance,Resistance,reworded,open,no,
+,,Resurrection,Resurrection,not changed,open,no,
+,,Reverse Gravity,Reverse Gravity,mechanically changed,open,no,
+,,Revivify,Revivify,not changed,open,no,
+,,Rope Trick,Rope Trick,mechanically changed,open,no,
+,,Sacred Flame,Sacred Flame,reworded,open,no,
+,,Sanctuary,Sanctuary,mechanically changed,open,no,
+,,Scorching Ray,Scorching Ray,reworded,open,no,
+,,Scrying,Scrying,reworded,open,no,
+,,Seeming,Seeming,reworded,open,no,
+,,Sending,Sending,reworded,open,no,
+,,Sequester,Sequester,mechanically changed,open,no,
+,,Shapechange,Shapechange,reworded,open,no,
+,,Shatter,Shatter,reworded,open,no,
+,,Shield,Shield,not changed,open,no,
+,,Shield of Faith,Shield of Faith,reworded,open,no,
+,,Shillelagh,Shillelagh,reworded,open,no,
+,,Shocking Grasp,Shocking Grasp,reworded,open,no,
+,,Silence,Silence,reworded,open,no,
+,,Silent Image,Silent Image,reworded,open,no,
+,,Simulacrum,Simulacrum,mechanically changed,open,no,
+,,Sleep,Sleep,mechanically changed,open,no,
+,,Sleet Storm,Sleet Storm,reworded,open,no,
+,,Slow,Slow,not changed,open,no,
+,,Spare the Dying,Spare the Dying,mechanically changed,open,no,
+,,Spider Climb,Spider Climb,reworded,open,no,
+,,Spike Growth,Spike Growth,reworded,open,no,
+,,Spirit Guardians,Spirit Guardians,mechanically changed,open,no,
+,,Spiritual Weapon,Spiritual Weapon,reworded,open,no,
+,,Stinking Cloud,Stinking Cloud,not changed,open,no,
+,,Stone Shape,Stone Shape,mechanically changed,open,no,
+,,Stoneskin,Stoneskin,not changed,open,no,
+,,Storm of Vengeance,Storm of Vengeance,reworded,open,no,"In the English and German SRDs, this spell references the name of a rule that was removed after the original DnDNext playtest. In English the wording of this reference in the Round 5-10 rules is: ""The wind and rain count as a severe distraction for the purposes of maintaining concentration on spells."" The rule for ""severe distractions"" still exists, it just doesn't have a specific name. You can find it in the section on concentration, it's the last paragraph there."
+,,Suggestion,Suggestion,mechanically changed,open,no,
+,,Sunbeam,Sunbeam,mechanically changed,open,no,
+,,Sunburst,Sunburst,mechanically changed,open,no,
+,,Symbol,Symbol,mechanically changed,open,no,
+,,Telekinesis,Telekinesis,mechanically changed,open,no,
+,,Teleport,Teleport,reworded,open,no,
+,,Teleportation Circle,Teleportation Circle,reworded,open,no,
+,,Thaumaturgy,Thaumaturgy,reworded,open,no,
+,,Thunderwave,Thunderwave,reworded,open,no,
+,,Time Stop,Time Stop,reworded,open,no,
+,,Tongues,Tongues,mechanically changed,open,no,
+,,Transport via Plants,Transport via Plants,reworded,open,no,
+,,Tree Stride,Tree Stride,mechanically changed,open,no,
+,,True Polymorph,True Polymorph,reworded,open,no,
+,,True Resurrection,True Resurrection,not changed,open,no,
+,,True Seeing,True Seeing,reworded,open,no,
+,,True Strike,True Strike,mechanically changed,open,no,
+,,Unseen Servant,Unseen Servant,reworded,open,no,
+,,Vampiric Touch,Vampiric Touch,reworded,open,no,
+,,Vicious Mockery,Vicious Mockery,reworded,open,no,
+,,Wall of Fire,Wall of Fire,reworded,open,no,
+,,Wall of Force,Wall of Force,not changed,open,no,
+,,Wall of Ice,Wall of Ice,mechanically changed,open,no,
+,,Wall of Stone,Wall of Stone,reworded,open,no,
+,,Wall of Thorns,Wall of Thorns,reworded,open,no,
+,,Warding Bond,Warding Bond,not changed,open,no,
+,,Water Breathing,Water Breathing,reworded,open,no,
+,,Water Walk,Water Walk,reworded,open,no,
+,,Web,Web,reworded,open,no,
+,,Weird,Weird,reworded,open,no,
+,,Wind Walk,Wind Walk,reworded,open,no,
+,,Wind Wall,Wind Wall,mechanically changed,open,no,
+,,Wish,Wish,reworded,open,no,
+,,Word of Recall,Word of Recall,reworded,open,no,
+,,Zone of Truth,Zone of Truth,not changed,open,no,
