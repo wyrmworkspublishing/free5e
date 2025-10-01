@@ -118,7 +118,7 @@ This section describes items that have special rules or require further explanat
   Applying the poison takes an action.
   A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take `1d4` poison damage.
   Once applied, the poison retains potency for 1 minute before drying.
-- **Potion of Healing.**
+- **<span class="item item-Potion_of_Healing_potion_of_healing">Potion of Healing</span>.**
   A character who drinks the magical red fluid in this vial regains `2d4 + 2` hit points.
   Drinking or administering a potion takes an action.
 - **Pouch.**

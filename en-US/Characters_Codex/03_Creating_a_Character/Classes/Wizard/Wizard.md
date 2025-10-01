@@ -85,7 +85,7 @@ Your spellbook is the repository of the Wizard spells you know, except your cant
 > **Your Spellbook**
 > \
 > The spells you add to your spellbook reflect your arcane research and intellectual breakthroughs about the multiverse.
-> You might find other spells during adventures, like a scroll in an evil Wizard’s chest or a dusty tome in an ancient library.
+> You might find other spells during adventures, like a _<span class="item item-Spell_Scroll_spell_scroll">scroll</span>_ in an evil Wizard’s chest or a dusty tome in an ancient library.
 > \
 > **Copying a Spell into the Book.**
 > When you find a Wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.

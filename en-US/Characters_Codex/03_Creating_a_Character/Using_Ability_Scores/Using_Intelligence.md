@@ -8,7 +8,7 @@ An Intelligence check comes into play when you need to draw on logic, education,
 The Arcana, History, Investigation, Nature, and Religion skills reflect aptitude in certain kinds of Intelligence checks.
 
 **Arcana.**
-Your Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.
+Your Intelligence (Arcana) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the [planes of existence](#Planes_of_Existence_planes_of_existence), and the inhabitants of those planes.
 
 **History.**
 Your Intelligence (History) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost cultures.

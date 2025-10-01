@@ -30,7 +30,7 @@ When you cast a spell from the Cleric spell list, you gain temporary hit points 
 ###### Divine Revelation (10th Level)
 
 Your understanding of divine magic reaches complete comprehension.
-You can copy Cleric spells into your spellbook from scrolls or other written records of them.
+You can copy Cleric spells into your spellbook from _<span class="item item-Spell_Scroll_spell_scroll">scrolls</span>_ or other written records of them.
 Additionally, when you deal fire or lightning damage, you can replace half the damage dealt with radiant damage.
 When you deal cold or poison damage, you can replace half the damage dealt with necrotic damage.
 

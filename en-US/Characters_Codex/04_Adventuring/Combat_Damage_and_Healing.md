@@ -102,7 +102,7 @@ For example, a creature has bludgeoning and nonmagical damage resistance, so non
 
 Unless it results in death, damage isn’t permanent.
 Even death is reversible through powerful magic.
-Rest can restore a creature’s hit points, and magical methods such as a _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_ spell or a potion of healing can remove damage in an instant.
+Rest can restore a creature’s hit points, and magical methods such as a _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_ spell or a _<span class="item item-Potion_of_Healing_potion_of_healing">potion of healing</span>_ can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points.
 A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost.
