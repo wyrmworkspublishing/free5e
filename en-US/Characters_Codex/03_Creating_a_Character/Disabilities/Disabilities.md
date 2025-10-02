@@ -19,10 +19,10 @@ Here are three methods to achieve this:
 
 <!-- style:sidebar -->
 > **Disabilities and Senses** \
-> Creatures in Free5e experience the world by being able to [sense](#Exploration_Environment_sense), [pinpoint](#Exploration_Environment_pinpoint), and [observe](#Exploration_Environment_observe) it.
+> Creatures experience the world by being able to [sense](#Exploration_Environment_sense), [pinpoint](#Exploration_Environment_pinpoint), and [observe](#Exploration_Environment_observe) it.
 > This can happen using **precise** and **imprecise** senses.
 > Some creatures have senses beyond the mundane ones; these are called [parasenses](#Exploration_Environment_parasense).
-> You can find out more about how Free5e handles this in [the section "The Environment" of chapter 14: Exploration](#Exploration_Environment_exploration_environment).
+> Learn more in section ["The Environment" of chapter 14: Exploration](#Exploration_Environment_exploration_environment).
 
 ### Assistive Items
 
