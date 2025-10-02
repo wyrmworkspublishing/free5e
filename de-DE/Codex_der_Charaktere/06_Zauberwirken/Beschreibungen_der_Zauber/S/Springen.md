@@ -4,43 +4,36 @@
 <!-- spell-checker:words jump -->
 [_metadata_:spell_name]:- "Springen"
 [_metadata_:spell_name_english]:- "Jump"
-[_metadata_:spell_school]:- "???"
-[_metadata_:spell_level]:- "???"
-[_metadata_:casting_time_amount]:- "???"
+[_metadata_:spell_school]:- "Verwandlungszauber"
+[_metadata_:spell_level]:- "1"
+[_metadata_:casting_time_amount]:- "1"
 <!-- "action", "bonus action", "reaction", "minute", "minutes", "hour", "hours" -->
-[_metadata_:casting_time_unit]:- "???"
-[_metadata_:casting_time_reaction_trigger]:- "???"
+[_metadata_:casting_time_unit]:- "Aktion"
 <!-- "true" oder "false" -->
 [_metadata_:ritual]:- "false"
-[_metadata_:range]:- "???"
-[_metadata_:target]:- "???"
+[_metadata_:range]:- "Berührung"
+[_metadata_:target]:- "eine Kreatur"
 <!-- "true" oder "false" -->
-[_metadata_:components_verbal]:- "???"
+[_metadata_:components_verbal]:- "true"
 <!-- "true" oder "false" -->
-[_metadata_:components_somatic]:- "???"
+[_metadata_:components_somatic]:- "true"
 <!-- "true" oder "false" -->
-[_metadata_:components_material]:- "???"
-[_metadata_:components_material_description]:- "???"
-[_metadata_:components_material_cost]:- "???"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "das Hinterbein einer Heuschrecke"
 <!-- "true" oder "false" -->
-[_metadata_:concentration]:- "???"
-[_metadata_:duration]:- "???"
-[_metadata_:saving_throw]:- "???"
-<!-- "halves_damage", "avoids_effect", "ends_effect", "special"; falls mehrere wahr sind, kommagetrennt einfügen -->
-[_metadata_:saving_throw_success]:- "???"
-[_metadata_:damage_formula]:- "???d???"
-[_metadata_:damage_type]:- "???"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "1 Minute"
 <!-- "mechanics_same_wording_same", "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
-[_metadata_:compared_to_wotc_srd_5.1]:- "???"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 <!-- "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
 [_metadata_:compared_to_a5e_srd]:- "???"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-<mark>_X-zauber n. Grades (Ritual?)_ oder _Zaubertrick der X_</mark>
+_Verwandlungszauber 1. Grades_
 
-**Zeitaufwand:** ??? \
-**Reichweite:** ??? \
-**Komponenten:** ??? \
-**Wirkungsdauer:** ???
+**Zeitaufwand:** 1 Aktion \
+**Reichweite:** Berührung \
+**Komponenten:** V, G, M (das Hinterbein einer Heuschrecke) \
+**Wirkungsdauer:** 1 Minute
 
-> **Warning**
-> Dieser Zauber wird noch übersetzt.
+Du berührst eine Kreatur.
+Die Sprungdistanz der Kreatur wird bis zum Ende des Zaubers verdreifacht.
