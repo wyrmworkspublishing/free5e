@@ -4,43 +4,38 @@
 <!-- spell-checker:words revivify -->
 [_metadata_:spell_name]:- "Wiederbeleben"
 [_metadata_:spell_name_english]:- "Revivify"
-[_metadata_:spell_school]:- "???"
-[_metadata_:spell_level]:- "???"
-[_metadata_:casting_time_amount]:- "???"
+[_metadata_:spell_school]:- "Nekromantiezauber"
+[_metadata_:spell_level]:- "3"
+[_metadata_:casting_time_amount]:- "1"
 <!-- "action", "bonus action", "reaction", "minute", "minutes", "hour", "hours" -->
-[_metadata_:casting_time_unit]:- "???"
-[_metadata_:casting_time_reaction_trigger]:- "???"
+[_metadata_:casting_time_unit]:- "Aktion"
 <!-- "true" oder "false" -->
 [_metadata_:ritual]:- "false"
-[_metadata_:range]:- "???"
-[_metadata_:target]:- "???"
+[_metadata_:range]:- "Berührung"
+[_metadata_:target]:- "eine Kreatur, die innerhalb der letzten Minute gestorben ist"
 <!-- "true" oder "false" -->
-[_metadata_:components_verbal]:- "???"
+[_metadata_:components_verbal]:- "true"
 <!-- "true" oder "false" -->
-[_metadata_:components_somatic]:- "???"
+[_metadata_:components_somatic]:- "true"
 <!-- "true" oder "false" -->
-[_metadata_:components_material]:- "???"
-[_metadata_:components_material_description]:- "???"
-[_metadata_:components_material_cost]:- "???"
+[_metadata_:components_material]:- "true"
+[_metadata_:components_material_description]:- "Diamanten im Wert von 300 GM"
+[_metadata_:components_material_cost]:- "300 GM"
 <!-- "true" oder "false" -->
-[_metadata_:concentration]:- "???"
-[_metadata_:duration]:- "???"
-[_metadata_:saving_throw]:- "???"
-<!-- "halves_damage", "avoids_effect", "ends_effect", "special"; falls mehrere wahr sind, kommagetrennt einfügen -->
-[_metadata_:saving_throw_success]:- "???"
-[_metadata_:damage_formula]:- "???d???"
-[_metadata_:damage_type]:- "???"
+[_metadata_:concentration]:- "false"
+[_metadata_:duration]:- "Unmittelbar"
 <!-- "mechanics_same_wording_same", "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
-[_metadata_:compared_to_wotc_srd_5.1]:- "???"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 <!-- "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
 [_metadata_:compared_to_a5e_srd]:- "???"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-<mark>_X-zauber n. Grades (Ritual?)_ oder _Zaubertrick der X_</mark>
+_Nekromantiezauber 3. Grades_
 
-**Zeitaufwand:** ??? \
-**Reichweite:** ??? \
-**Komponenten:** ??? \
-**Wirkungsdauer:** ???
+**Zeitaufwand:** 1 Aktion \
+**Reichweite:** Berührung \
+**Komponenten:** V, G, M (Diamanten im Wert von 300 GM, die der Zauber verbraucht) \
+**Wirkungsdauer:** Unmittelbar
 
-> **Warning**
-> Dieser Zauber wird noch übersetzt.
+Du berührst eine Kreatur, die innerhalb der letzten Minute gestorben ist.
+Diese Kreatur wird mit 1 Trefferpunkt wieder lebendig.
+Dieser Zauber kann keine Kreatur wieder zum Leben erwecken, die an Altersschwäche gestorben ist, und auch keine fehlenden Körperteile wiederherstellen.

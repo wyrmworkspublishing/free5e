@@ -64,15 +64,15 @@ When you gain this condition, it applies to one or more specific senses (such as
 
 ### Imperceptible
 
-This condition always relates to a specific sense, which may be a specific form of [Parasense](#Exploration_Environment_parasense).
+This condition always relates to a specific sense, which may be a specific form of [parasense](#Exploration_Environment_parasense).
 Some common types of imperceptibility are:
 
 - _Imperceptible (sight)_, also called _invisible_
 - _Imperceptible (hearing)_, also called _inaudible_
 - _Imperceptible (smell)_, also called _odorless_
 
-When a something is _Imperceptible_ to a Parasense, it must always relate to a specific secondary sense.
-For example, a creature could have the condition _Imperceptible (parasense: electrical fields)_ and hide from a <span class="monster monster-Giant_Shark_giant_shark">giant sharks'</span> electric sense, or _Imperceptible (parasense: auditory echolocation)_ and thereby hide from a <span class="monster monster-Bat_bat">bat's</span> echolocation.
+When a something is _Imperceptible_ to a parasense, it must always relate to a specific secondary sense.
+For example, a creature could have the condition _Imperceptible (parasense: electrolocation)_ and hide from a <span class="monster monster-Giant_Shark_giant_shark">giant sharks'</span> electric sense, or _Imperceptible (parasense: auditory echolocation)_ and thereby hide from a <span class="monster monster-Bat_bat">bat's</span> echolocation.
 
 A creature can benefit from one or several forms of the _Imperceptible_ condition at the same time.
 The following rules are valid for each individual case:

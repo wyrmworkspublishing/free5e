@@ -17,6 +17,7 @@ Auran
 backstab
 balor*
 Barkskin
+baroreception
 behir*
 BFRD
 blindsense
@@ -44,6 +45,7 @@ dwarven
 Dwarvish
 Earthspeak
 efreet
+electrolocation
 elven
 Elvenkind
 enpowered
@@ -84,6 +86,7 @@ invisiblity
 Iz’zart*
 Keoghtom
 Kickstarter
+kinetoreception
 K’myla
 Leoj
 lich*
@@ -92,6 +95,7 @@ lizardfolk
 Longstrider
 longsword*
 MacDoogle
+magoreception
 multiclass
 Melestrua
 metamagic
@@ -152,6 +156,7 @@ teleporting
 Teos
 tiefling*
 themself
+thermoreception
 Theurge
 Thunderwave
 toclevels

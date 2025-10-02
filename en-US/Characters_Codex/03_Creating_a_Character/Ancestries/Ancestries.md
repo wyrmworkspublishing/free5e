@@ -28,6 +28,15 @@ Your speed determines how far you can move when traveling (["Adventuring"](#Adve
 \
 By virtue of your ancestry, your character can speak, read, and write certain languages.
 
+<!-- style:sidebar -->
+> **Senses** \
+> Most members of most ancestries (including all ancestries listed here) have _sight_ as a precise sense (as detailed in [the section "The Environment" in chapter 14: Exploration](Exploration_Environment_pinpoint)).
+> However this is not the case for every individual of that ancestry.
+>
+> Playing without a precise sense will make life more difficult, but it can be done.
+> If you're interested in playing a character who doesn't have such a sense due to a disability, you can find more information about that in [chapter 7: Variant Rule: Disabilities](#Disabilities_variant_rule_disabilities).
+> If you're interested in playing a character who either doesn't have precise sense for a different reason, or who has a precise sense other than sight, talk to your Conductor about what makes sense in your world.
+
 [**Dragonborn**](./Ancestries/Dragonborn.md)
 
 [**Dwarf**](./Ancestries/Dwarf.md)

@@ -25,18 +25,18 @@ With sentience comes awareness.
 A sentient item can perceive its surroundings out to a limited range.
 You can select its precise senses or roll on the following tables.
 
-|  1d100 | Sense                          |
-|:------:|:-------------------------------|
-| 01-17  | Normal Vision                  |
-| 18-32  | Hearing                        |
-| 33-42  | Smell                          |
-| 43-52  | Darkvision                     |
-| 53-60  | Parasense (echolocation)       |
-| 61-68  | Parasense (air pressure)       |
-| 69-76  | Parasense (heat)               |
-| 77-84  | Parasense (electrical fields)  |
-| 85-94  | Parasense (magical cues)       |
-| 95-100 | Truesight                      |
+|  1d100 | Sense                               |
+|:------:|:------------------------------------|
+| 01-17  | Normal Vision                       |
+| 18-32  | Hearing                             |
+| 33-42  | Smell                               |
+| 43-52  | Darkvision                          |
+| 53-60  | Parasense (auditory echolocation)   |
+| 61-68  | Parasense (baroreception)           |
+| 69-76  | Parasense (thermoreception)         |
+| 77-84  | Parasense (electrolocation)         |
+| 85-94  | Parasense (magoreception)           |
+| 95-100 | Truesight                           |
 
 | 1d10 | Distance       |
 |:-----|:---------------|

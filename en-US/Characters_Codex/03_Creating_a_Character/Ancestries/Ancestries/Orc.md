@@ -5,7 +5,7 @@ While often misunderstood, orcs are deeply loyal and value strength, community, 
 Their cultures are as varied as their environments, ranging from nomadic hunters to urban warriors.
 
 #### Orc Traits
-Characters with orc heritage share the following traits:
+Characters with orc ancestry share the following traits:
 \
 **Age.**
 Orcs reach adulthood around age 14.

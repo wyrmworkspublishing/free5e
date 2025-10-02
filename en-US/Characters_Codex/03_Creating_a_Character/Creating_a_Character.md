@@ -41,8 +41,6 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
 
 [**Inspiration**](./Inspiration_and_Luck/Inspiration.md)
 
-[**Variant Rule: Luck**](./Inspiration_and_Luck/Luck.md)
-
 [**Alignment**](./Alignment.md)
 
 [**Languages**](./Languages.md)
