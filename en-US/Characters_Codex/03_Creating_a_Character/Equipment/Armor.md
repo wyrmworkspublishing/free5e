@@ -10,6 +10,7 @@ Your class gives you proficiency with certain types of armor.
 If you wear armor that you lack proficiency with, you have disadvantage on any ability check, saving throw, or attack roll that involves Strength or Dexterity, and you can’t cast spells.
 \
 **Armor Class (AC).**
+Armor protects its wearer from attacks.
 Your base AC is either 10 + your Dexterity modifier or the AC given by the armor you wear (and shield you carry), unless your class provides another formula (such as Unarmored Defense).
 \
 Only one base Armor Class can apply at a time, choosing the highest.
