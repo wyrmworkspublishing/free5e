@@ -1,7 +1,7 @@
 ##### Hunter
 
 Emulating the Hunter archetype means accepting your place as a bulwark between society and the terrors of the wilderness.
-As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and packs of werewolves to towering giants and terrifying dragons.
 
 ###### Hunter’s Prey (3rd Level)
 
