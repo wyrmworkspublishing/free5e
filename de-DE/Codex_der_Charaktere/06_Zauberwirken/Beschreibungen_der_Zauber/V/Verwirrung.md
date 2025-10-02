@@ -54,4 +54,5 @@ Ein betroffenes Ziel kann nicht reagieren und muss zu Beginn jedes seiner Züge 
 Am Ende jedes seiner Züge kann ein betroffenes Ziel einen Weisheitsrettungswurf ausführen.
 Bei einem Erfolg endet der Effekt für dieses Ziel.
 
-**Auf höheren Graden:** Wirkst du diesen Zauber, indem du einen Zauberplatz des 5. Grades oder höher nutzt, erhöht sich der Radius der Sphäre für jeden Grad über dem 4. um 1,5 Meter.
+**Auf höheren Graden:**
+Wirkst du diesen Zauber, indem du einen Zauberplatz des 5. Grades oder höher nutzt, erhöht sich der Radius der Sphäre für jeden Grad über dem 4. um 1,5 Meter.
