@@ -25,7 +25,7 @@
 [_metadata_:duration]:- "1 Minute"
 [_metadata_:saving_throw]:- "Weisheit"
 <!-- "halves_damage", "avoids_effect", "ends_effect", "special"; falls mehrere wahr sind, kommagetrennt einfügen -->
-[_metadata_:saving_throw_success]:- "ends_effect"
+[_metadata_:saving_throw_success]:- "avoids_effect,ends_effect"
 <!-- "mechanics_same_wording_same", "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
 <!-- "mechanics_same_wording_different", "mechanics_different_wording_different" oder "added" -->
