@@ -1,9 +1,11 @@
 # Appendix
 
-[Appendix A: Random Generators](./A1_Random_Generators/Random_Generators.md)
+[Appendix A: Magic Items A-Z](./A1_Magic_Items_A_through_Z/Magic_Items_A_through_Z.md)
 
-[Appendix B: Sample Location](./A2_Sample_Location/Sample_Location.md)
+[Appendix B: Adventure Idea Generators](./A2_Adventure_Ideas_Generators/Adventure_Ideas_Generators.md)
 
-[Appendix C: Sample Adventure](./A3_Sample_Adventure/Sample_Adventure.md)
+[Appendix B: Sample Location](./A3_Sample_Location/Sample_Location.md)
 
-[Appendix D: Solo 5e](./A4_Solo_Free5e/Solo_Free5e.md)
+[Appendix C: Sample Adventure](./A4_Sample_Adventure/Sample_Adventure.md)
+
+[Appendix D: Solo 5e](./A5_Solo_Free5e/Solo_Free5e.md)

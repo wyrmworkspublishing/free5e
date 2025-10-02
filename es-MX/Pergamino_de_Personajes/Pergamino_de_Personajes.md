@@ -1,3 +1,11 @@
+---
+author: Wyrmworks Publishing
+copyright: licencia Creative Commons 4.0 Atribución/Reconocimiento (CC-BY-4.0)
+doctype: book
+lang: es
+toc: true
+toclevels: 2
+---
 # Free5e Pergamino de Personajes
 (<mark>Anticipo de trabajo en elaboración</mark>)
 

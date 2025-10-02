@@ -24,7 +24,7 @@ _5th-level evocation_
 **Components:** V, S, M (a pinch of powder made by crushing a clear gemstone) \
 **Duration:** Concentration, up to 10 minutes
 
-An [invisible](#Conditions_invisible) wall of force springs into existence at a point you choose within range.
+An [imperceptible (sight)](#Conditions_imperceptible) wall of force springs into existence at a point you choose within range.
 The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle.
 It can be free floating or resting on a solid surface.
 You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of ten 10-foot-by-10-foot panels.

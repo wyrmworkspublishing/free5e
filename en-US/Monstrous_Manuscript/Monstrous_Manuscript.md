@@ -1,3 +1,11 @@
+---
+author: Wyrmworks Publishing
+copyright: Creative Commons Attribution 4.0 International License (CC-BY-4.0)
+doctype: book
+lang: en
+toc: true
+toclevels: 2
+---
 # Free5e Monstrous Manuscript: Hundreds of Monsters and Creatures for Free5e
 
 (<mark>Preview Work-in-Progress</mark>)

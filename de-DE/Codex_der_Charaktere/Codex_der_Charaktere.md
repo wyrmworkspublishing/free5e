@@ -1,3 +1,11 @@
+---
+author: Wyrmworks Publishing
+copyright: Creative Commons Namensnennung 4.0 International Lizenz (CC-BY-4.0)
+doctype: book
+lang: de
+toc: true
+toclevels: 2
+---
 # Codex der Charaktere: Das Free5e Handbuch für Spielende
 (<mark>Vorschau - Inhalt in Bearbeitung</mark>)
 

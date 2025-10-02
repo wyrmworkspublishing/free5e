@@ -25,7 +25,7 @@ Choose one of the following:
 - **Gem Dragon’s Boon.**
   You know the [Message](#Message_message) cantrip.
   Once you reach 3rd level, you can cast [Illusory Script](#Illusory_Script_illusory_script) once per long rest.
-  At 5th level, you can cast [Invisibility](#Invisibility_invisibility) once per long rest.
+  At 5th level, you can cast [Imperceptibility](#Imperceptibility_imperceptibility) once per long rest.
   You don’t need material components for these spells, and when casting them your spellcasting ability is Intelligence or Charisma (whichever is highest).
 - **Metallic Dragon’s Boon.**
   You have expertise in one of the following skills: Arcana, History, Medicine, Nature, or Religion.

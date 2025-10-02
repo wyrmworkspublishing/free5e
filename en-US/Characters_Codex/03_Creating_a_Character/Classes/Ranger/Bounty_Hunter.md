@@ -17,13 +17,13 @@ ___
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Bounty Hunter Spells_
 
-| Ranger Level | Spell                                               |
-|:-------------|:----------------------------------------------------|
-|  3rd         | [Hunter’s Mark](#Hunters_Mark_hunters_mark)         |
-|  5th         | [Hold Person](#Hold_Person_hold_person)             |
-|  9th         | [Speak with Dead](#Speak_with_Dead_speak_with_dead) |
-| 13th         | [Arcane Eye](#Arcane_Eye_arcane_eye)                |
-| 17th         | [Hold Monster](#Hold_Monster_hold_monster)          |
+| Ranger Level | Spell                                                     |
+|:-------------|:----------------------------------------------------------|
+|  3rd         | [Hunter’s Mark](#Hunters_Mark_hunters_mark)               |
+|  5th         | [Hold Person](#Hold_Person_hold_person)                   |
+|  9th         | [Question the Dead](#Question_the_Dead_question_the_dead) |
+| 13th         | [Arcane Eye](#Arcane_Eye_arcane_eye)                      |
+| 17th         | [Hold Monster](#Hold_Monster_hold_monster)                |
 
 ___
 

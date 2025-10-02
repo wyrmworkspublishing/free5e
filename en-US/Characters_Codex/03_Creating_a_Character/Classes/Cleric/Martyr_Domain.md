@@ -27,7 +27,7 @@ You can use a shield and still gain this benefit.
 
 Starting at 1st level, when you cast a spell of 1st level or higher that restores hit points, you can expend some of your own hit points to increase the amount another creature that is healed by the spell regains, expending a number of hit points up to your Cleric level to increase the amount one creature is healed by an equivalent value.
 
-Additionally, you can touch a creature suffering a disease or the blinded, deafened, paralyzed or poisoned condition and transfer that disease or condition to yourself.
+Additionally, you can touch a creature suffering from a disease, a [nullified](#Conditions_nullified) sense, the [paralyzed](#Conditions_paralyzed), or the [poisoned](#Conditions_poisoned) condition and transfer that disease or condition to yourself.
 
 Starting at 9th level, the range of conditions you can take increases, including exhaustion (1 level at a time), petrified, stunned, the effect of a curse, or any reduction to their ability scores.
 You are afflicted by the effect in the same manner the creature you took it was, for the same duration and possible methods of ending the effect.

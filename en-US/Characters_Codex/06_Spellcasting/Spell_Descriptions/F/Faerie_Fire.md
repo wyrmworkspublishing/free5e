@@ -29,4 +29,4 @@ Each object in a 20-foot cube is outlined in light (your choice of color) and sh
 Any creature in the area when the spell is cast must succeed on a Dexterity saving throw or be outlined in light and shed light in the same way until the spell ends.
 
 Any attack roll against an affected object or creature has advantage.
-The spell also negates the benefits of [invisibility](#Conditions_invisible) on affected creatures and objects.
+The spell also negates the benefits of [invisibility](#Conditions_imperceptible) on affected creatures and objects.

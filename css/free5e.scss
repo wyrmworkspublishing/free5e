@@ -26,3 +26,12 @@ table {
   table-layout: auto;
   width: 100%;
 }
+
+.spell {
+  font-style: italic;
+  color: #152347;
+
+  &:after {
+    content: '\00a0🪄';
+  }
+}

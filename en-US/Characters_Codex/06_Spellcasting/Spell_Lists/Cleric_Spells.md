@@ -34,7 +34,6 @@
 
 - [Aid](#Aid_aid)
 - [Augury](#Augury_augury) (ritual)
-- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - [Continual Flame](#Continual_Flame_continual_flame)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
@@ -43,6 +42,7 @@
 - [Hold Person](#Hold_Person_hold_person) (concentration)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
+- [Nullify Sense](#Nullify_Sense_nullify_sense) <!-- previously "Blindness/Deafness" -->
 - [Prayer of Healing](#Prayer_of_Healing_prayer_of_healing)
 - [Protection from Poison](#Protection_from_Poison_protection_from_poison)
 - [Silence](#Silence_silence) (ritual)
@@ -64,10 +64,10 @@
 - [Mass Healing Word](#Mass_Healing_Word_mass_healing_word)
 - [Meld into Stone](#Meld_into_Stone_meld_into_stone) (ritual)
 - [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
+- [Question the Dead](#Question_the_Dead_question_the_dead) <!-- previously "Speak with Dead" -->
 - [Remove Curse](#Remove_Curse_remove_curse)
 - [Revivify](#Revivify_revivify)
 - [Sending](#Sending_sending)
-- [Speak with Dead](#Speak_with_Dead_speak_with_dead)
 - [Spirit Guardians](#Spirit_Guardians_spirit_guardians) (concentration)
 - [Tongues](#Tongues_tongues)
 - [Water Walk](#Water_Walk_water_walk) (ritual)

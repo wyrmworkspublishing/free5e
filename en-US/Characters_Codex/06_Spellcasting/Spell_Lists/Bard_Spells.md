@@ -22,6 +22,7 @@
 - [Color Spray](#Color_Spray_color_spray)
 - [Command](#Command_command)
 - [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
+- [Converse with Animals](#Converse_with_Animals_converse_with_animals) <!-- previously "Speak with Animals" --> (ritual)
 - [Cure Wounds](#Cure_Wounds_cure_wounds)
 - [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
 - [Disguise Self](#Disguise_Self_disguise_self)
@@ -35,7 +36,6 @@
 - [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
 - [Silent Image](#Silent_Image_silent_image) (concentration)
 - [Sleep](#Sleep_sleep)
-- [Speak with Animals](#Speak_with_Animals_speak_with_animals) (ritual)
 - [Thunderwave](#Thunderwave_thunderwave)
 - [Unseen Servant](#Unseen_Servant_unseen_servant) (ritual)
 
@@ -43,7 +43,6 @@
 
 - [Aid](#Aid_aid)
 - [Animal Messenger](#Animal_Messenger_animal_messenger) (ritual)
-- [Blindness/Deafness](#Blindness_Deafness_blindnessdeafness)
 - [Calm Emotions](#Calm_Emotions_calm_emotions) (concentration)
 - [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
 - [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
@@ -51,14 +50,15 @@
 - [Enthrall](#Enthrall_enthrall)
 - [Heat Metal](#Heat_Metal_heat_metal) (concentration)
 - [Hold Person](#Hold_Person_hold_person) (concentration)
-- [Invisibility](#Invisibility_invisibility) (concentration)
+- [Imperceptibility](#Imperceptibility_imperceptibility) <!-- previously "Invisibility" --> (concentration)
 - [Knock](#Knock_knock)
 - [Lesser Restoration](#Lesser_Restoration_lesser_restoration)
 - [Locate Animals or Plants](#Locate_Animals_or_Plants_locate_animals_or_plants) (ritual)
 - [Locate Object](#Locate_Object_locate_object) (concentration)
 - [Magic Mouth](#Magic_Mouth_magic_mouth) (ritual)
 - [Mirror Image](#Mirror_Image_mirror_image)
-- [See Invisibility](#See_Invisibility_see_invisibility)
+- [Nullify Sense](#Nullify_Sense_nullify_sense) <!-- previously "Blindness/Deafness" -->
+- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_imperceptible) <!-- previously "See Invisibility" -->
 - [Shatter](#Shatter_shatter)
 - [Silence](#Silence_silence) (ritual)
 - [Suggestion](#Suggestion_suggestion) (concentration)
@@ -68,6 +68,7 @@
 
 - [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
 - [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
+- [Converse with Plants](#Converse_with_Plants_converse_with_plants) <!-- previously "Speak with Plants" -->
 - [Dispel Magic](#Dispel_Magic_dispel_magic)
 - [Fear](#Fear_fear) (concentration)
 - [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
@@ -77,10 +78,9 @@
 - [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
 - [Nondetection](#Nondetection_nondetection)
 - [Plant Growth](#Plant_Growth_plant_growth)
+- [Question the Dead](#Question_the_Dead_question_the_dead) <!-- previously "Speak with Dead" -->
 - [Sending](#Sending_sending)
 - [Slow](#Slow_slow) (concentration)
-- [Speak with Dead](#Speak_with_Dead_speak_with_dead)
-- [Speak with Plants](#Speak_with_Plants_speak_with_plants)
 - [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
 - [Tongues](#Tongues_tongues)
 
@@ -91,7 +91,7 @@
 - [Confusion](#Confusion_confusion) (concentration)
 - [Dimension Door](#Dimension_Door_dimension_door)
 - [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement)
-- [Greater Invisibility](#Greater_Invisibility_greater_invisibility) (concentration)
+- [Greater Imperceptibility](#Greater_Imperceptibility_greater_imperceptibility) <!-- previously "Greater Invisibility" --> (concentration)
 - [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
 - [Locate Creature](#Locate_Creature_locate_creature) (concentration)
 - [Phantasmal Killer](#Phantasmal_Killer_phantasmal_killer) (concentration)

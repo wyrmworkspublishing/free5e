@@ -11,7 +11,7 @@ If you wear armor that you lack proficiency with, you have disadvantage on any a
 \
 **Armor Class (AC).**
 Armor protects its wearer from attacks.
-The armor (and shield) you wear determines your base Armor Class.
+Your base AC is either 10 + your Dexterity modifier or the AC given by the armor you wear (and shield you carry), unless your class provides another formula (such as Unarmored Defense).
 \
 Only one base Armor Class can apply at a time, choosing the highest.
 (e.g., A creature with natural armor (AC 15) and ring mail (AC 14) still has AC 15.)

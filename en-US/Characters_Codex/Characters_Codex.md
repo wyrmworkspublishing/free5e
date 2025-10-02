@@ -1,3 +1,11 @@
+---
+author: Wyrmworks Publishing
+copyright: Creative Commons Attribution 4.0 International License (CC-BY-4.0)
+doctype: book
+lang: en
+toc: true
+toclevels: 2
+---
 # Free5e Character's Codex: Player’s Guide to Free5e
 
 Sign up to receive email updates at [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard)

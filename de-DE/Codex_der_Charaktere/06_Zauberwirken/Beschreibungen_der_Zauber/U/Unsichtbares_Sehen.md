@@ -1,9 +1,9 @@
 #### Unsichtbares Sehen
 <!-- markdownlint-disable link-image-reference-definitions -->
 <!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
-<!-- spell-checker:words invisibility -->
+<!-- spell-checker:words imperceptible perceive -->
 [_metadata_:spell_name]:- "Unsichtbares Sehen"
-[_metadata_:spell_name_english]:- "See Invisibility"
+[_metadata_:spell_name_english]:- "Perceive the Imperceptible"
 [_metadata_:spell_school]:- "???"
 [_metadata_:spell_level]:- "???"
 [_metadata_:casting_time_amount]:- "???"

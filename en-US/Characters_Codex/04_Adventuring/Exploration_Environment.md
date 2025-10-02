@@ -25,12 +25,13 @@ The most fundamental tasks of adventuring—detecting danger, finding hidden obj
 Darkness and similar effects that obscure sensory cues can hinder these actions.
 
 A given area might be lightly or heavily obscured.
-In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage, creatures have disadvantage on Wisdom (Perception) checks that rely on sight.
+In a **lightly obscured** area, such as dim light, patchy fog, or moderate foliage.
+A creature effectively suffers from the [impaired (sight)](#Conditions_impaired) condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
 
 A **heavily obscured** area—such as darkness, opaque fog, or dense foliage—blocks vision entirely.
-A creature effectively suffers from the [blinded condition](#Conditions_blinded) (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
+A creature effectively suffers from the [nullified (sight)](#Conditions_nullified) condition (see ["Conditions"](#Conditions_conditions)) when trying to see something in that area.
 
-#### Pinpoint {#Exploration_Environment_pinpoint}
+#### <a id="Exploration_Environment_pinpoint"></a>Pinpoint
 
 A creature can pinpoint a target’s location only if the target provides a relevant sensory cue—visibility for sight, vibrations for tremorsense, odor for scent, and so on.
 
@@ -45,7 +46,7 @@ If an effect depends on a creature pinpointing you using an imprecise sense, use
 \
 \* See the chapter _Monster Information_ in the _Monstrous Manuscript_ for more information on tremorsense.
 
-#### Sense {#Exploration_Environment_sense}
+#### <a id="Exploration_Environment_sense"></a>Sense
 
 A creature that can sense another is at least aware of its presence without necessarily knowing its exact location, such as hearing or smelling something without pinpointing where it originates.
 
@@ -78,7 +79,8 @@ However, the creature can’t discern color in darkness, only shades of gray.
 #### Parasense
 
 A creature with parasense can pinpoint and observe its surroundings within a defined area (e.g., 60 ft. cone) without using sight.
-This sense relies on a supporting sense such as echolocation or sensitivity to air pressure, heat, electrical fields, or magical cues and may be disrupted by effects that interfere with that sense (e.g., [Silence](#Silence_silence) for echolocation, strong wind for air pressure).
+This sense depends on a supporting sense, like hearing, sensitivity to pressure, or specific magic or energy types.
+It may be disrupted by effects that interfere with that sense (e.g., [Silence](#Silence_silence) for auditory echolocation, strong wind for air pressure).
 Parasense reveals position and general features but not fine detail.
 
 #### Truesight

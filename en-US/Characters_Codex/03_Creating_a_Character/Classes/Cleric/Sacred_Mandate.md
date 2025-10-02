@@ -17,11 +17,11 @@ These spells count as cleric spells for you and are always prepared.
 
 | Domain        | 1 | 3 | 5 | 7 | 9 |
 |:--------------|:--|:--|:--|:--|:--|
-| **Knowledge** | [Identify](#Identify_identify), [Command](#Command_command) | [Augury](#Augury_augury), [Detect Thoughts](#Detect_Thoughts_detect_thoughts) | [Clairvoyance](#Clairvoyance_clairvoyance), [Speak with Dead](#Speak_with_Dead_speak_with_dead) | [Arcane Eye](#Arcane_Eye_arcane_eye), [Divination](#Divination_divination) | [Legend Lore](#Legend_Lore_legend_lore), [Scrying](#Scrying_scrying) |
+| **Knowledge** | [Identify](#Identify_identify), [Command](#Command_command) | [Augury](#Augury_augury), [Detect Thoughts](#Detect_Thoughts_detect_thoughts) | [Clairvoyance](#Clairvoyance_clairvoyance), [Question the Dead](#Question_the_Dead_question_the_dead) | [Arcane Eye](#Arcane_Eye_arcane_eye), [Divination](#Divination_divination) | [Legend Lore](#Legend_Lore_legend_lore), [Scrying](#Scrying_scrying) |
 | **Life**      | [Cure Wounds](#Cure_Wounds_cure_wounds), [Bless](#Bless_bless) | [Lesser Restoration](#Lesser_Restoration_lesser_restoration), [Spiritual Weapon](#Spiritual_Weapon_spiritual_weapon) | [Beacon of Hope](#Beacon_of_Hope_beacon_of_hope), [Revivify](#Revivify_revivify) | [Death Ward](#Death_Ward_death_ward), [Guardian of Faith](#Guardian_of_Faith_guardian_of_faith) | [Mass Cure Wounds](#Mass_Cure_Wounds_mass_cure_wounds), [Raise Dead](#Raise_Dead_raise_dead) |
 | **Light**     | [Color Spray](#Color_Spray_color_spray), [Guiding Bolt](#Guiding_Bolt_guiding_bolt) | [Continual Flame](#Continual_Flame_continual_flame), [Moonbeam](#Moonbeam_moonbeam) | [Daylight](#Daylight_daylight), [Spirit Guardians](#Spirit_Guardians_spirit_guardians) | [Arcane Eye](#Arcane_Eye_arcane_eye), [Divination](#Divination_divination) | [Dream](#Dream_dream), [Scrying](#Scrying_scrying) |
 | **Storm**     | [Thunderwave](#Thunderwave_thunderwave), [Fog Cloud](#Fog_Cloud_fog_cloud) | [Gust of Wind](#Gust_of_Wind_gust_of_wind), [Shatter](#Shatter_shatter) | [Call Lightning](#Call_Lightning_call_lightning), [Wind Wall](#Wind_Wall_wind_wall) | [Control Water](#Control_Water_control_water), [Ice Storm](#Ice_Storm_ice_storm) | [Control Weather](#Control_Weather_control_weather), [Flame Strike](#Flame_Strike_flame_strike) |
-| **Trickery**  | [Disguise Self](#Disguise_Self_disguise_self), [Charm Person](#Charm_Person_charm_person) | [Mirror Image](#Mirror_Image_mirror_image), [Pass without Trace](#Pass_without_Trace_pass_without_trace) | [Bestow Curse](#Bestow_Curse_bestow_curse), [Major Image](#Major_Image_major_image) | [Greater Invisibility](#Greater_Invisibility_greater_invisibility), [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain) | [Mislead](#Mislead_mislead), [Seeming](#Seeming_seeming) |
+| **Trickery**  | [Disguise Self](#Disguise_Self_disguise_self), [Charm Person](#Charm_Person_charm_person) | [Mirror Image](#Mirror_Image_mirror_image), [Pass without Trace](#Pass_without_Trace_pass_without_trace) | [Bestow Curse](#Bestow_Curse_bestow_curse), [Major Image](#Major_Image_major_image) | [Greater Imperceptibility](#Greater_Imperceptibility_greater_imperceptibility), [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain) | [Mislead](#Mislead_mislead), [Seeming](#Seeming_seeming) |
 | **War**       | [Divine Favor](#Divine_Favor_divine_favor), [Shield of Faith](#Shield_of_Faith_shield_of_faith) | [Magic Weapon](#Magic_Weapon_magic_weapon), [Spiritual Weapon](#Spiritual_Weapon_spiritual_weapon) | [Revivify](#Revivify_revivify), [Slow](#Slow_slow) | [Stoneskin](#Stoneskin_stoneskin), [Freedom of Movement](#Freedom_of_Movement_freedom_of_movement) | [Hold Monster](#Hold_Monster_hold_monster), [Flame Strike](#Flame_Strike_flame_strike) |
 
 **Damage Type Selection**
@@ -147,12 +147,12 @@ Choose one matching your mandate:
 
 - **Avatar of War** (War, Storm)
   \
-  When reduced to 0 hit points, you drop to 1 hit point instead and may use your reaction to make one weapon attack.
+  When reduced to `0` hit points, you drop to `1` hit point instead and may use your reaction to make one weapon attack.
   You also gain resistance to bludgeoning, piercing, and slashing damage for 1 minute.
 - **Illuminated Soul** (Light, Life)
   \
   As an action, you emit a 30-foot aura for 1 minute.
-  Allies in the area gain advantage on saving throws against being blinded, charmed, or frightened and regain 1d6 hit points at the start of their turns.
+  Allies in the area gain advantage on saving throws against being [nullified (sight)](#Conditions_nullified), [charmed](#Conditions_charmed), or [frightened](#Conditions_frightened) and regain `1d6` hit points at the start of their turns.
 - **Shifting Facade** (Trickery, Knowledge)
   \
   The locations of anyone within 30 feet of you become difficult for enemies to determine for one minute, as all creatures that you choose, including you, seem to switch places with each other.
