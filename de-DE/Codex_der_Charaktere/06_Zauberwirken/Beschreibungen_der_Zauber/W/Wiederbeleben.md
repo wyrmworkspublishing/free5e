@@ -20,7 +20,7 @@
 <!-- "true" oder "false" -->
 [_metadata_:components_material]:- "true"
 [_metadata_:components_material_description]:- "Diamanten im Wert von 300 GM"
-[_metadata_:components_material_cost]:- "true"
+[_metadata_:components_material_cost]:- "300 GM"
 <!-- "true" oder "false" -->
 [_metadata_:concentration]:- "false"
 [_metadata_:duration]:- "Unmittelbar"
