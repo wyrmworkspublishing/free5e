@@ -11,7 +11,7 @@
 <!-- "true" oder "false" -->
 [_metadata_:ritual]:- "false"
 [_metadata_:range]:- "Berührung"
-[_metadata_:target]:- "eine willige Kreatur"
+[_metadata_:target]:- "eine bereitwillige Kreatur"
 <!-- "true" oder "false" -->
 [_metadata_:components_verbal]:- "true"
 <!-- "true" oder "false" -->
