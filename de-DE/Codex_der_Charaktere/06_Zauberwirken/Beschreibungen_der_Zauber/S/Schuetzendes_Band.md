@@ -20,6 +20,7 @@
 <!-- "true" oder "false" -->
 [_metadata_:components_material]:- "true"
 [_metadata_:components_material_description]:- "ein Paar Platinringe im Wert von jeweils mindestens 50 GM, die du und das Ziel für die Wirkungsdauer tragen müsst"
+[_metadata_:components_material_cost]:- "100 GM"
 <!-- "true" oder "false" -->
 [_metadata_:concentration]:- "false"
 [_metadata_:duration]:- "1 Stunde"
