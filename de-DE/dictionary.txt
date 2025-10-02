@@ -95,7 +95,7 @@ TTRPG
 Unverwundbarkeit
 Verzauberungs*
 Weisheits*
-würfen*
++würfen
 Vampirgriff
 wurf*
 Wyrmworks
