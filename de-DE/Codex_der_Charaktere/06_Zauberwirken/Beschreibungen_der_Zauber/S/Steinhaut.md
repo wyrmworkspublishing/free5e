@@ -20,6 +20,7 @@
 <!-- "true" oder "false" -->
 [_metadata_:components_material]:- "true"
 [_metadata_:components_material_description]:- "Diamantstaub im Wert von 100 GM, den der Zauber verbraucht"
+[_metadata_:components_material_cost]:- "100 GM"
 <!-- "true" oder "false" -->
 [_metadata_:concentration]:- "true"
 [_metadata_:duration]:- "1 Stunde"
