@@ -1,6 +1,6 @@
 #### Stinkende Wolke
 <!-- markdownlint-disable link-image-reference-definitions -->
-<!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
+<!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell Stinkkohlblätter throw true wording wotc -->
 <!-- spell-checker:words stinking -->
 [_metadata_:spell_name]:- "Stinkende Wolke"
 [_metadata_:spell_name_english]:- "Stinking Cloud"
