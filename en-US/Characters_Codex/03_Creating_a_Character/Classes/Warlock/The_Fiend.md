@@ -2,7 +2,7 @@
 
 You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims.
 Such beings desire the corruption or destruction of all things, ultimately including you.
-Fiends powerful enough to forge a pact include <span class="monster">demon lords</span>, <span class="monster">archdevils</span>, <span class="monster monster-Pit_Fiend_pit_fiend">pit fiends</span>, and <span class="monster monster-Balor_balor">balors</span> that are especially mighty.
+Only the most formidable demons and devils, such as especially powerful <span class="monster monster-Pit_Fiend_pit_fiend">pit fiends</span> and <span class="monster monster-Balor_balor">balors</span> and the dark powers that even they serve possess the power to forge a pact.
 
 ###### Expanded Spell List
 

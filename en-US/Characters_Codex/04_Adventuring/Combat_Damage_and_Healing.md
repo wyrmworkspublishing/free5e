@@ -73,7 +73,7 @@ Puncturing and impaling attacks, including spears and monsters’ bites, deal pi
 Venomous stings and the toxic gas of a <span class="monster monster-Green_Dragon_green_dragon">green dragon’s</span> breath deal poison damage.
 
 **Psychic.**
-Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
+Mental abilities such as a <span class="monster monster-Chain_Devil_chain_devil">chain devil’s</span> unnerving mask deal psychic damage.
 
 **Radiant.**
 Radiant damage, dealt by a Cleric’s _[<span class="spell">Flame Strike</span>](#Flame_Strike_flame_strike)_ spell or an <span class="monster monster-Angels_angels">angel’s</span> smiting weapon, sears the flesh like fire and overloads the spirit with power.

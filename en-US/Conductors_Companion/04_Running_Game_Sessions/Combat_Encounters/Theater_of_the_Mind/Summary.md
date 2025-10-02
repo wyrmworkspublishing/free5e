@@ -41,7 +41,7 @@ A Conductor running a theater-of-the-mind game should keep the following points 
 - Adjudicate the number of targets in an area attack based on the situation, the assumed positions of the combatants, and the size of the area.
 - Use evocative in-world narration to describe the characters, the monsters, the action, and the high adventure of the story as it plays out.
 - Make bargains and deals with the players.
-  "You can hit three orcs with Fireball, or you can hit five orcs if one of your companions is willing to be hit as well."
+  "You can hit three werewolves with Fireball, or you can hit five werewolves if one of your companions is willing to be hit as well."
 - Describe the distances between combatants in feet to help players recognize what they can and can't do.
   Default to 25 feet if you don't really know.
 - Run simpler encounters with useful environmental features, such as flipped tables, cracked stalagmites, cliff edges, bottomless pits, roaring fires, and hanging chandeliers.
