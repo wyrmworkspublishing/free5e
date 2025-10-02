@@ -20,7 +20,7 @@
 <!-- "true" oder "false" -->
 [_metadata_:components_material]:- "true"
 [_metadata_:components_material_description]:- "ein Spritzer Weihwasser und Diamanten im Wert von mindestens 25.000 GM"
-[_metadata_:components_material_cost]:- "true"
+[_metadata_:components_material_cost]:- "25.000 GM"
 <!-- "true" oder "false" -->
 [_metadata_:concentration]:- "false"
 [_metadata_:duration]:- "Unmittelbar"
