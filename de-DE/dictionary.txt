@@ -61,7 +61,7 @@ Magierrüstung
 Martelo
 Melestrua*
 Meteoritenschwarm
-modifikator*
++modifikator
 Morscheck*
 Nachforschungen*
 Natalex
