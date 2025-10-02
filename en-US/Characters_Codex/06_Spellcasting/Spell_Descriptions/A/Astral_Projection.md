@@ -35,7 +35,7 @@ Otherwise, damage and other effects on a target’s astral form have no effect o
 An astral form can travel through the Astral Plane and can pass through interplanar portals on the Astral Plane leading to any other plane.
 When a target leaves the Astral Plane, their material body and possessions are transported along the tether, allowing them to return fully intact to their body, with all their gear, as they enter the new plane.
 
-The spell ends for all targets when you use an action to dismiss it, for an individual target when a successful [Dispel Magic](#Dispel_Magic_dispel_magic) is cast upon its astral form or material body, or when either its material body or its astral form drops to 0 hit points.
+The spell ends for all targets when you use an action to dismiss it, for an individual target when a successful _[<span class="spell">Dispel Magic</span>](#Dispel_Magic_dispel_magic)_ is cast upon its astral form or material body, or when either its material body or its astral form drops to 0 hit points.
 When the spell ends for a target and the tether is intact, the tether pulls the target’s astral form back to its material body, ending the suspended animation.
 
 If the spell ends for you early, other targets are stranded in their astral forms until they drop to 0 hit points or leave the plane.

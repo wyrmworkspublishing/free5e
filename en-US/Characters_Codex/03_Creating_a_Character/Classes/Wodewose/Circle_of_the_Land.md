@@ -62,7 +62,6 @@ _Desert (table)_
 | 9th            | [Insect Plague](#Insect_Plague_insect_plague), [Wall of Stone](#Wall_of_Stone_wall_of_stone)                                                    |
 
 ___
-
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Forest (table)_
 
@@ -85,7 +84,6 @@ _Grassland (table)_
 | 9th            | [Dream](#Dream_dream), [Insect Plague](#Insect_Plague_insect_plague)                                                                         |
 
 ___
-
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Mountain (table)_
 
@@ -114,11 +112,11 @@ ___
 Moving through nonmagical difficult terrain costs you no extra movement.
 You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the [Entangle](#Entangle_entangle) spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the _[<span class="spell">Entangle</span>](#Entangle_entangle)_ spell.
 
 ###### Nature’s Ward (10th Level)
 
-You can’t be charmed or frightened by elementals or fey, and you are immune to poison and disease.
+You can’t be _[<span class="condition">charmed</span>](#Conditions_charmed)_ or _[<span class="condition">frightened</span>](#Conditions_frightened)_ by elementals or fey, and you are immune to poison and disease.
 
 ###### Nature’s Sanctuary (14th Level)
 

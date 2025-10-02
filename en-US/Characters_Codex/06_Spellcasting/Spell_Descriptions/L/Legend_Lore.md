@@ -33,4 +33,4 @@ The spell will not return any information for items not of legendary renown.
 The knowledge you gain is always true, but may be obscured by metaphor, poetic language, or verse.
 
 **At Higher Levels.**
-Your intuition surrounding the target is enhanced and you gain advantage on one Intelligence (Investigation) check regarding it for each slot level above 6th.
+Your intuition surrounding the target is enhanced and you gain advantage on one Intelligence (_Investigation_) check regarding it for each slot level above 6th.

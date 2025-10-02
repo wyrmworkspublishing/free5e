@@ -1,6 +1,9 @@
 ##### Bounty Hunter
 
-Anyone that knows about adventurers will know that their legacy is equal parts heroics and burning drinking establishments to the ground. Equal parts dragons slain and merchants robbed. Everyone needs someone to fear, and Rangers that take the Bounty Hunter path are what those who bring fear to others must fear. Excelling at hunting down targets wherever they should hide, they bring them down dead or alive.
+Anyone that knows about adventurers will know that their legacy is equal parts heroics and burning drinking establishments to the ground.
+Equal parts dragons slain and merchants robbed.
+Everyone needs someone to fear, and Rangers that take the Bounty Hunter path are what those who bring fear to others must fear.
+Excelling at hunting down targets wherever they should hide, they bring them down dead or alive.
 
 > **Repairing Nets**
 > \
@@ -35,13 +38,13 @@ You can only gain this benefit if you are familiar with the target’s ancestry 
 
 ###### Fist of the Law (3rd Level)
 
-You gain proficiency in Intimidation.
-If you are already proficient in Intimidation, you gain expertise in Intimidation, allowing you to add double your proficiency bonus to Intimidation skill checks.
+You gain proficiency in _Intimidation_.
+If you are already proficient in _Intimidation_, you gain [expertise](#Proficiency_Bonus_expertise) in _Intimidation_, allowing you to add double your proficiency bonus to _Intimidation_ skill checks.
 
 ###### Dead or Alive (3rd Level) {#Bounty_Hunter_dead_or_alive}
 
 You can mark a target to bring them down dead or alive.
-You can place this mark on a creature you can pinpoint within 120 feet as a bonus action, or as part of placing a mark on the creature that requires a bonus action (such as [Hunter's Mark](#Hunters_Mark_hunters_mark)).
+You can place this mark on a creature you can pinpoint within 120 feet as a bonus action, or as part of placing a mark on the creature that requires a bonus action (such as _[<span class="spell">Hunter's Mark</span>](#Hunters_Mark_hunters_mark)_).
 This mark lasts for 1 minute, or until you use it again.
 Choose one of the following when you mark a creature:
 
@@ -63,7 +66,7 @@ Additionally, you have advantage on ability checks to tie knots or secure ropes.
 
 ###### Pin Down (11th Level)
 
-When a creature you have marked with [Dead or Alive](#Bounty_Hunter_dead_or_alive) moves 5 feet, stands up from being prone, or escapes from the [Restrained](#Conditions_restrained) condition while within 60 feet of you, you can use your reaction to make an opportunity attack against them if they are in range of a weapon you are wielding.
+When a creature you have marked with [Dead or Alive](#Bounty_Hunter_dead_or_alive) moves 5 feet, stands up from being prone, or escapes from the _[<span class="condition">restrained</span>](#Conditions_restrained)_ condition while within 60 feet of you, you can use your reaction to make an opportunity attack against them if they are in range of a weapon you are wielding.
 If you make this attack with a ranged weapon, you have disadvantage on the attack.
 
 ###### Unwavering Pursuit (15th Level)

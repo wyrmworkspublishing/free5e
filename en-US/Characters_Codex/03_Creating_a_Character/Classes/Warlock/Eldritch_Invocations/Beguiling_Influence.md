@@ -1,3 +1,3 @@
 ##### Beguiling Influence
 
-You gain proficiency in the Deception and Persuasion skills.
+You gain proficiency in the _Deception_ and _Persuasion_ skills.

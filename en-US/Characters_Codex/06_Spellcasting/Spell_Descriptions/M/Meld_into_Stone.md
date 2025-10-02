@@ -29,7 +29,7 @@ Until the spell ends, you meld yourself and your carried equipment into a stone 
 Using your movement, you may enter the stone from any point you can touch.
 No trace of your presence is visible or detectable by nonmagical senses.
 
-Within the stone, you can’t see outside it and have disadvantage on Wisdom (Perception) checks made to sense beyond it.
+Within the stone, you can’t see outside it and have disadvantage on Wisdom (_Perception_) checks made to sense beyond it.
 You are aware of time passing, and may cast spells upon yourself.
 You may use your movement only to step out of the target where you entered it, ending the spell.
 

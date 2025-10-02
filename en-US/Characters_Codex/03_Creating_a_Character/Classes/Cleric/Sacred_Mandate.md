@@ -39,11 +39,11 @@ You may choose a different damage type for each feature.
 
 Choose one from a list thematic to your mandate:
 
-- **Knowledge:** One language, Arcana or History
-- **Life:** Medicine or Herbalism Kit
-- **Light:** Performance or Persuasion
-- **Storm:** Athletics or Nature
-- **Trickery:** Deception or Sleight of Hand
+- **Knowledge:** One language, _Arcana_ or _History_
+- **Life:** _Medicine_ or _Herbalism Kit_
+- **Light:** _Performance_ or _Persuasion_
+- **Storm:** _Athletics_ or _Nature_
+- **Trickery:** _Deception_ or _Sleight of Hand_
 - **War:** Martial Weapons or Heavy Armor
 
 ###### Divine Gift (1st & 10th Level)
@@ -152,7 +152,7 @@ Choose one matching your mandate:
 - **Illuminated Soul** (Light, Life)
   \
   As an action, you emit a 30-foot aura for 1 minute.
-  Allies in the area gain advantage on saving throws against being [nullified (sight)](#Conditions_nullified), [charmed](#Conditions_charmed), or [frightened](#Conditions_frightened) and regain `1d6` hit points at the start of their turns.
+  Allies in the area gain advantage on saving throws against being _[<span class="condition">nullified (sight)</span>](#Conditions_nullified)_, _[<span class="condition">charmed</span>](#Conditions_charmed)_, or _[<span class="condition">frightened</span>](#Conditions_frightened)_ and regain `1d6` hit points at the start of their turns.
 - **Shifting Facade** (Trickery, Knowledge)
   \
   The locations of anyone within 30 feet of you become difficult for enemies to determine for one minute, as all creatures that you choose, including you, seem to switch places with each other.

@@ -12,14 +12,14 @@ You have proficiency with light and medium armor.
 \
 **Heart of the Forge.**
 You have resistance to fire damage.
-In addition, you have proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools.
+In addition, you have proficiency with the _Artisan’s Tools_ of your choice: _Smith’s Tools_, _Brewer’s Supplies_, or _Mason’s Tools_.
 \
 **Mountain Born.**
 You’re acclimated to high and low altitudes, including elevations above 20,000 feet or depths below 20,000 feet.
 You’re also naturally adapted to cold climates.
 \
 **Stonecunning.**
-Whenever you make a History check related to the origin of stonework, you are considered to have expertise in the History skill.
+Whenever you make a _History_ check related to the origin of stonework, you are considered to have [expertise](#Proficiency_Bonus_expertise) in the _History_ skill.
 \
 **Languages.**
 You can understand and communicate in Common, Dwarvish, and one other language.

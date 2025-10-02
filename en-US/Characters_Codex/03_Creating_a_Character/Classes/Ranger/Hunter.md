@@ -1,7 +1,7 @@
 ##### Hunter
 
 Emulating the Hunter archetype means accepting your place as a bulwark between society and the terrors of the wilderness.
-As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and packs of werewolves to towering giants and terrifying dragons.
+As you walk the Hunter’s path, you learn specialized techniques for fighting the threats you face, from rampaging <span class="monster monster-Ogre_ogre">ogres</span> and packs of <span class="monster monster-Werewolf_werewolf">werewolves</span> to towering giants and terrifying dragons.
 
 ###### Hunter’s Prey (3rd Level)
 
@@ -42,7 +42,7 @@ You gain one of the following features of your choice.
 You gain one of the following features of your choice.
 
 - **Evasion.**
-  When you are subjected to an effect, such as a red dragon’s fiery breath or a [Lightning Bolt](#Lightning_Bolt_lightning_bolt) spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+  When you are subjected to an effect, such as a red dragon’s fiery breath or a _[<span class="spell">Lightning Bolt</span>](#Lightning_Bolt_lightning_bolt)_ spell, that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 - **Stand Against the Tide.**
   When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
 - **Uncanny Dodge.**

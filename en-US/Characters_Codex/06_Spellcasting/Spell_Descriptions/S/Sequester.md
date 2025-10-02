@@ -26,7 +26,7 @@ _7th-level transmutation_
 **Duration:** Until dispelled
 
 You magically hide away a willing creature or object.
-The target becomes [imperceptible (all senses)](#Conditions_imperceptible), and it cannot be traced or detected by divination or [Scrying](#Scrying_scrying) sensors.
+The target becomes _[<span class="condition">imperceptible (all senses)</span>](#Conditions_imperceptible)_, and it cannot be traced or detected by divination or _[<span class="spell">Scrying</span>](#Scrying_scrying)_ sensors.
 If the target is a living creature, it falls into a state of suspended animation and stops aging.
 
 The spell ends when the target takes damage or when a condition you set occurs.

@@ -36,5 +36,5 @@ It does not remove any magical diseases, curses, or other magical effects; these
 The spell does not regrow limbs or organs, and it automatically fails if the target is missing any body parts necessary for life (like its heart or head).
 
 Being raised from the dead takes a toll on the body, mind, and spirit.
-The target suffers 3 levels of [exhaustion](#Conditions_exhaustion).
+The target suffers 3 levels of _[<span class="condition">exhaustion</span>](#Conditions_exhaustion)_.
 At the conclusion of each long rest, the target removes one level of exhaustion until the target completely recovers.

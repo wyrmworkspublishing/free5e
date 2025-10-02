@@ -33,4 +33,4 @@ You can alter the appearance of the target as you see fit, including but not lim
 You cannot disguise the target as a creature of a different size category, and its limb structure remains the same.
 
 The disguise does not hold up to touch.
-To see through your disguise without such an interaction, a creature must use its action to make an Intelligence (Investigation) check against your spell save DC.
+To see through your disguise without such an interaction, a creature must use its action to make an Intelligence (_Investigation_) check against your spell save DC.

@@ -32,7 +32,7 @@ You change into the average version of that creature, and do not gain any class 
 Until the spell ends or you are dropped to 0 hit points, your statistics (except your Charisma, Intelligence, and Wisdom scores) are replaced by those of the chosen creature.
 You also keep your skill and saving throw proficiencies as well as gaining the creature’s, though never reducing any bonuses compared to the creature’s for common proficiencies.
 You keep all of your features, skills, and traits gained from your class, ancestry, culture, background, or other sources, and can use them as long as the creature is physically able to do so.
-You do not keep any special senses, such as [Darkvision](#Exploration_Environment_darkvision), though you gain any senses the creature has.
+You do not keep any special senses, such as [darkvision](#Exploration_Environment_darkvision), though you gain any senses the creature has.
 You can only speak if the creature is typically capable of speech.
 You cannot use legendary actions or lair actions.
 When you transform, you choose whether your equipment merges into the new form, is dropped, or continues to be worn.

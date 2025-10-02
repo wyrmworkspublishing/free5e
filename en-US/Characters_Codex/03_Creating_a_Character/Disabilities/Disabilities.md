@@ -22,7 +22,7 @@ Here are three methods to achieve this:
 > Creatures experience the world by being able to [sense](#Exploration_Environment_sense), [pinpoint](#Exploration_Environment_pinpoint), and [observe](#Exploration_Environment_observe) it.
 > This can happen using **precise** and **imprecise** senses.
 > Some creatures have senses beyond the mundane ones; these are called [parasenses](#Exploration_Environment_parasense).
-> Learn more in section ["The Environment" of chapter 14: Exploration](#Exploration_Environment_exploration_environment).
+> Learn more in section ["The Environment" of chapter 14: Exploration](#Exploration_Environment_the_environment).
 
 ### Assistive Items
 

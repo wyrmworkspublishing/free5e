@@ -22,7 +22,7 @@ You must finish a long rest before you can use this feature again.
 ###### Tranquility (11th Level)
 
 You can enter a special meditation that surrounds you with an aura of peace.
-At the end of a long rest, you gain the effect of a [Sanctuary](#Sanctuary_sanctuary) spell that lasts until the start of your next long rest (the spell can end early as normal).
+At the end of a long rest, you gain the effect of a _[<span class="spell">Sanctuary</span>](#Sanctuary_sanctuary)_ spell that lasts until the start of your next long rest (the spell can end early as normal).
 The saving throw DC for the spell equals `8 + your Wisdom modifier + your proficiency bonus`.
 
 ###### Quivering Palm (17th level)

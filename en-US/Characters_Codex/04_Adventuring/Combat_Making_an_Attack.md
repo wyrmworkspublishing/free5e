@@ -111,13 +111,13 @@ When you want to grab a creature or wrestle with it, you can use the Attack acti
 If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 
 The target of your grapple must be no more than one size larger than you and must be within your reach.
-Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).
-If you succeed, you subject the target to the [grappled](#Conditions_grappled) condition (see [appendix A, "Conditions"](#Conditions_conditions)).
+Using at least one free hand, you try to seize the target by making a grapple check instead of an attack roll: a Strength (_Athletics_) check contested by the target’s Strength (_Athletics_) or Dexterity (_Acrobatics_) check (the target chooses the ability to use).
+If you succeed, you subject the target to the _[<span class="condition">grappled</span>](#Conditions_grappled)_ condition (see [appendix A, "Conditions"](#Conditions_conditions)).
 The condition specifies the things that end it, and you can release the target whenever you like (no action required).
 
 **Escaping a Grapple.**
 A grappled creature can use its action to escape.
-To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
+To do so, it must succeed on a Strength (_Athletics_) or Dexterity (_Acrobatics_) check contested by your Strength (_Athletics_) check.
 
 **Moving a Grappled Creature.**
 When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
@@ -135,5 +135,5 @@ Using the Attack action, you can make a special melee attack to shove a creature
 If you’re able to make multiple attacks with the Attack action, this attack replaces one of them.
 
 The target must be no more than one size larger than you and must be within your reach.
-Instead of making an attack roll, you make a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use).
+Instead of making an attack roll, you make a Strength (_Athletics_) check contested by the target’s Strength (_Athletics_) or Dexterity (_Acrobatics_) check (the target chooses the ability to use).
 If you win the contest, you either knock the target prone or push it 5 feet away from you.

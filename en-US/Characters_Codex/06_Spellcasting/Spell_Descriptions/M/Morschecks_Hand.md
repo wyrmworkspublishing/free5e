@@ -38,7 +38,7 @@ The spell ends early if it is dropped to 0 hit points.
 When you cast the spell and as a bonus action on subsequent turns, you can move the hand up to 60 feet and then choose one of the following.
 
 - **Shove:**
-  The hand makes a Strength check against a creature within 5 feet of it, contested by a Strength (Athletics) check.
+  The hand makes a Strength check against a creature within 5 feet of it, contested by a Strength (_Athletics_) check.
   The hand has advantage on the check if the creature is Medium or smaller.
   On a success, the hand pushes the creature in a direction of your choosing for up to 5 feet plus a number of feet equal to 5 times your spellcasting ability modifier, and remains within 5 feet of it.
 - **Smash:**

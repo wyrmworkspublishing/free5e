@@ -1,6 +1,6 @@
 ### Mounted Combat
 
-A knight charging into battle on a warhorse, a Wizard casting spells from the back of a griffon, or a Cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+A knight charging into battle on a <span class="monster monster-Warhorse_warhorse">warhorse</span>, a Wizard casting spells from the back of a <span class="monster monster-Griffon_griffon">griffon</span>, or a Cleric soaring through the sky on a <span class="monster monster-Pegasus_pegasus">pegasus</span> all enjoy the benefits of speed and mobility that a mount can provide.
 
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
 

@@ -24,7 +24,7 @@ _4th-level transmutation_
 **Duration:** Concentration, up to 10 minutes
 
 You transform insects and other vermin into monstrous versions of themselves.
-Until the spell ends, up to 3 spiders become giant spiders, 2 ants become giant ants, 2 crickets or mantises become ankhegs, a centipede becomes a giant centipede, or a scorpion becomes a giant scorpion.
+Until the spell ends, up to 3 spiders become <span class="monster monster-Giant_Spider_giant_spider">giant spiders</span>, 2 crickets or mantises become <span class="monster monster-Ankheg_ankheg">ankhegs</span>, a centipede becomes a <span class="monster monster-Giant_Centipede_giant_centipede">giant centipede</span>, or a scorpion becomes a <span class="monster monster-Giant_Scorpion_giant_scorpion">giant scorpion</span>.
 The spell ends for a creature when it dies or when you use an action to end the effect on it.
 
 While it is within 60 feet you can use a bonus action to mentally command the insects.

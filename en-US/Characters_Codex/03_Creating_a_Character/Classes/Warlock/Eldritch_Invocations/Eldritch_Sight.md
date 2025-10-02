@@ -1,3 +1,3 @@
 ##### Eldritch Sight
 
-You can cast [Detect Magic](#Detect_Magic_detect_magic) at will, without expending a spell slot.
+You can cast _[<span class="spell">Detect Magic</span>](#Detect_Magic_detect_magic)_ at will, without expending a spell slot.

@@ -13,8 +13,8 @@ As the Conductor, you'll earn this trust by favoring the players whenever possib
 Running theater-of-the-mind combat removes agency from the players.
 It takes away their ability to control every aspect of how their characters move and what they do.
 As the Conductor, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent.
-For example, a player who says "I move close to the orcs" potentially leaves too many possibilities open.
-So encourage the player to focus their intent more — perhaps along the lines of, "I want to position myself so that at least two orcs are within the reach of my glaive."
+For example, a player who says "I move close to the werewolf" potentially leaves too many possibilities open.
+So encourage the player to focus their intent more — perhaps along the lines of, "I want to position myself so that at least two werewolves are within the reach of my glaive."
 
 When playing in the theater of the mind, both you and the players must worry less about the mechanical details of the game.
 Instead, everyone will focus on the action and the story.

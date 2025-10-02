@@ -38,7 +38,7 @@ This is a DC 10 ability check, taking an hour, with tool proficiency aiding rest
 Failure results in disadvantage on checks relying on the prosthetic.
 \
 **Spectacles.**
-Corrective lenses reduce penalties to Perception checks or other visual tasks.
+Corrective lenses reduce penalties to Wisdom (_Perception_) checks or other visual tasks.
 \
 **Weighted Blanket.**
 Improves relaxation during rests, reducing the penalties to saving throws from some disabilities by +1 for `1d4` hours after a long rest.

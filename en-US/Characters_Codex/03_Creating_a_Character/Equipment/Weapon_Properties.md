@@ -52,7 +52,7 @@ A damage value in parentheses appears with the property—the damage when the we
 
 ##### Improvised Weapons
 
-Characters without weapons may attack with improvised weapons, such as broken glass, table legs, frying pans, wagon wheels, or dead goblins.
+Characters without weapons may attack with improvised weapons, such as broken glass, table legs, frying pans, wagon wheels, or dead <span class="monster monster-Goblin_goblin">goblins</span>.
 Often, improvised weapons resemble actual weapons and can be treated as such.
 For instance, a table leg is akin to a club.
 Proficient characters can use similar objects as weapons, utilizing their proficiency bonus.

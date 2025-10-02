@@ -19,7 +19,7 @@ Higher rolls are better!
 > **Grey (Conductor):**
 > The village elder has asked you to investigate a strange ruin in the nearby forest.
 > After hours of travel, you arrive at a crumbling stone structure covered in moss.
-> Inside, the air is damp, and faint echoes of scratching come from within the stony depths..
+> Inside, the air is damp, and faint echoes of scratching come from within the stony depths.
 > What do you do?
 > \
 > **Susan (playing Sylvana, a halfling Bard):**
@@ -27,11 +27,11 @@ Higher rolls are better!
 > Do I recognize any symbols or writing?
 > \
 > **Conductor:**
-> Make an Investigation check, using Intelligence.
+> Make an _Investigation_ check, using Intelligence.
 > \
 > **Susan:**
 > (Rolls d20)
-> That’s a 12, plus 1 for Intelligence and 2 from my Investigation proficiency, so 15 total.
+> That’s a 12, plus 1 for Intelligence and 2 from my _Investigation_ proficiency, so 15 total.
 > \
 > **Conductor:**
 > You recognize some faded symbols of an ancient order dedicated to protecting the forest.
@@ -39,7 +39,7 @@ Higher rolls are better!
 > \
 > **Owen (playing Osmus, a human Ranger):**
 > I listen closely to locate where the scratching is coming from.
-> Perception check?
+> _Perception_ check?
 > \
 > **Conductor:**
 > Go ahead.
@@ -79,7 +79,7 @@ Higher rolls are better!
 > 15!
 > I’m first!
 > I try to confuse it with a quick spell.
-> I cast Vicious Mockery, shouting, ‘You look like something the forest spit out!’
+> I cast _<span class="spell spell-Vicious_Mockery_vicious_mockery">Vicious Mockery</span>_, shouting, ‘You look like something the forest spit out!’
 > It needs to make a Wisdom saving throw.
 > \
 > **Conductor:**
@@ -134,7 +134,7 @@ Higher rolls are better!
 > What’s your next move?
 > \
 > **Sylvana:**
-> I step back and cast Command on the creature and shout “Flee!” to force it to flee!
+> I step back and cast _<span class="spell spell-Command_command">Command</span>_ on the creature and shout “Flee!” to force it to flee!
 > It needs to make a Wisdom saving throw, DC 13.
 > \
 > **Conductor:**

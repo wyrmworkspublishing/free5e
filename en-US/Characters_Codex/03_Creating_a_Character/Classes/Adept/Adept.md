@@ -26,13 +26,13 @@ None
 Simple weapons, shortswords
 \
 **Tools:**
-Choose one type of artisan’s tools or one musical instrument
+Choose one type of _Artisan’s Tools_ or one _Musical Instrument_
 \
 **Saving Throws:**
 Strength, Dexterity
 \
 **Skills:**
-Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+Choose two from _Acrobatics_, _Athletics_, _History_, _Insight_, _Religion_, and _Stealth_
 
 ##### Equipment
 
@@ -157,7 +157,7 @@ Your unarmed strikes count as magical for the purpose of overcoming resistance a
 
 ##### Evasion (7th Level) {#Adept_evasion}
 
-Your instinctive agility lets you dodge out of the way of certain area effects, such as a blue dragon’s lightning breath or a [Fireball](#Fireball_fireball) spell.
+Your instinctive agility lets you dodge out of the way of certain area effects, such as a <span class="monster monster-Blue_Dragon_blue_dragon">blue dragon’s</span> lightning breath or a _[<span class="spell">Fireball</span>](#Fireball_fireball)_ spell.
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ##### Stillness of Mind (7th Level) {#Adept_stillness_of_mind}
@@ -190,7 +190,7 @@ In addition, you no longer need food or water.
 You can use your action to spend 4 focus points to become invisible for 1 minute.
 During that time, you also have resistance to all damage but force damage.
 
-Additionally, you can spend 8 focus points to cast the [Astral Projection](#Astral_Projection_astral_projection) spell, without needing material components.
+Additionally, you can spend 8 focus points to cast the _[<span class="spell">Astral Projection</span>](#Astral_Projection_astral_projection)_ spell, without needing material components.
 When you do so, you can’t take any other creatures with you.
 
 ##### Perfect Self (20th Level) {#Adept_perfect_self}

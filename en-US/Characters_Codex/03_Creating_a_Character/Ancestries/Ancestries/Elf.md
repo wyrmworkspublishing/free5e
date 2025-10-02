@@ -21,7 +21,7 @@ Your base walking speed is 30 feet.
 You have darkvision to 60 feet.
 \
 **Keen Senses.**
-You have proficiency in the Perception skill.
+You have proficiency in the _Perception_ skill.
 \
 **Fey Ancestry.**
 You have advantage on saving throws against being charmed, and magic can’t put you to sleep.

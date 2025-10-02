@@ -1,7 +1,7 @@
 ### Damage and Healing
 
 Injury and the risk of death are constant companions of those who explore fantasy gaming worlds.
-The thrust of a sword, a well-placed arrow, or a blast of flame from a [Fireball](#Fireball_fireball) spell all have the potential to damage, or even kill, the hardiest of creatures.
+The thrust of a sword, a well-placed arrow, or a blast of flame from a _[<span class="spell">Fireball</span>](#Fireball_fireball)_ spell all have the potential to damage, or even kill, the hardiest of creatures.
 
 #### Hit Points
 
@@ -26,7 +26,7 @@ When attacking with a **weapon**, you add your ability modifier—the same modif
 A **spell** tells you which dice to roll for damage and whether to add any modifiers.
 
 If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them.
-For example, when a Wizard casts [Fireball](#Fireball_fireball) or a Cleric casts [Flame Strike](#Flame_Strike_flame_strike), the spell’s damage is rolled once for all creatures caught in the blast.
+For example, when a Wizard casts _[<span class="spell">Fireball</span>](#Fireball_fireball)_ or a Cleric casts _[<span class="spell">Flame Strike</span>](#Flame_Strike_flame_strike)_, the spell’s damage is rolled once for all creatures caught in the blast.
 
 ##### Critical Hits
 
@@ -45,44 +45,44 @@ Damage types have no rules of their own, but other rules, such as damage resista
 The damage types follow, with examples to help a Conductor assign a damage type to a new effect.
 
 **Acid.**
-The corrosive spray of a black dragon’s breath and the dissolving enzymes secreted by a black pudding deal acid damage.
+The corrosive spray of a <span class="monster monster-Black_Dragon_black_dragon">black dragon’s</span> breath and the dissolving enzymes secreted by a <span class="monster monster-Black_Pudding_black_pudding">black pudding</span> deal acid damage.
 
 **Bludgeoning.**
 Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
 
 **Cold.**
-The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
+The infernal chill radiating from an ice devil’s spear and the frigid blast of a <span class="monster monster-White_Dragon_white_dragon">white dragon’s</span> breath deal cold damage.
 
 **Fire.**
-Red dragons breathe fire, and many spells conjure flames to deal fire damage.
+<span class="monster monster-Red_Dragon_red_dragon">Red dragons</span> breathe fire, and many spells conjure flames to deal fire damage.
 
 **Force.**
 Force is pure magical energy focused into a damaging form.
-Most effects that deal force damage are spells, including [Magic Missile](#Magic_Missile_magic_missile) and spiritual weapon.
+Most effects that deal force damage are spells, including _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ and _[<span class="spell">Spiritual Weapon</span>](#Spiritual_Weapon_spiritual_weapon)_.
 
 **Lightning.**
-A [Lightning Bolt](#Lightning_Bolt_lightning_bolt) spell and a blue dragon’s breath deal lightning damage.
+A _[<span class="spell">Lightning Bolt</span>](#Lightning_Bolt_lightning_bolt)_ spell and a <span class="monster monster-Blue_Dragon_blue_dragon">blue dragon’s</span> breath deal lightning damage.
 
 **Necrotic.**
-Necrotic damage, dealt by certain undead and a spell such as [Chill Touch](#Chill_Touch_chill_touch), withers matter and even the soul.
+Necrotic damage, dealt by certain undead and a spell such as _[<span class="spell">Chill Touch</span>](#Chill_Touch_chill_touch)_, withers matter and even the soul.
 
 **Piercing.**
 Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
 
 **Poison.**
-Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
+Venomous stings and the toxic gas of a <span class="monster monster-Green_Dragon_green_dragon">green dragon’s</span> breath deal poison damage.
 
 **Psychic.**
-Mental abilities such as a mind flayer’s psionic blast deal psychic damage.
+Mental abilities such as a <span class="monster monster-Chain_Devil_chain_devil">chain devil’s</span> unnerving mask deal psychic damage.
 
 **Radiant.**
-Radiant damage, dealt by a Cleric’s [Flame Strike](#Flame_Strike_flame_strike) spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
+Radiant damage, dealt by a Cleric’s _[<span class="spell">Flame Strike</span>](#Flame_Strike_flame_strike)_ spell or an <span class="monster monster-Angels_angels">angel’s</span> smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 **Slashing.**
 Swords, axes, and monsters’ claws deal slashing damage.
 
 **Thunder.**
-A concussive burst of sound, such as the effect of the [Thunderwave](#Thunderwave_thunderwave) spell, deals thunder damage.
+A concussive burst of sound, such as the effect of the _[<span class="spell">Thunderwave</span>](#Thunderwave_thunderwave)_ spell, deals thunder damage.
 
 #### Damage Resistance and Vulnerability
 
@@ -102,14 +102,14 @@ For example, a creature has bludgeoning and nonmagical damage resistance, so non
 
 Unless it results in death, damage isn’t permanent.
 Even death is reversible through powerful magic.
-Rest can restore a creature’s hit points, and magical methods such as a [Cure Wounds](#Cure_Wounds_cure_wounds) spell or a potion of healing can remove damage in an instant.
+Rest can restore a creature’s hit points, and magical methods such as a _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_ spell or a _<span class="item item-Potion_of_Healing_potion_of_healing">potion of healing</span>_ can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points.
 A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost.
 For example, a Wodewose grants a Ranger 8 hit points of healing.
 If the Ranger has 14 current hit points and has a hit point maximum of 20, the Ranger regains 6 hit points from the Wodewose, not 8.
 
-A creature that has died can’t regain hit points until magic such as the [Revivify](#Revivify_revivify) spell has restored it to life.
+A creature that has died can’t regain hit points until magic such as the _[<span class="spell">Revivify</span>](#Revivify_revivify)_ spell has restored it to life.
 
 #### Dropping to 0 Hit Points
 
@@ -122,7 +122,7 @@ When damage reduces you to 0 hit points and there is damage remaining, you die i
 
 ##### Falling Unconscious
 
-If damage reduces you to 0 hit points and fails to kill you, you fall [unconscious](#Conditions_unconscious) (see [appendix A, "Conditions"](#Conditions_conditions)).
+If damage reduces you to 0 hit points and fails to kill you, you fall _[<span class="condition">unconscious</span>](#Conditions_unconscious)_ (see [appendix A, "Conditions"](#Conditions_conditions)).
 This unconsciousness ends if you regain any hit points.
 
 ##### Death Saving Throws
@@ -154,7 +154,7 @@ To save a creature with 0 hit points, heal it.
 If healing is unavailable, stabilize it to prevent a failed death saving throw.
 
 Use your action to administer first aid and attempt stabilization.
-This requires a successful DC 10 Wisdom (Medicine) check.
+This requires a successful DC 10 Wisdom (_Medicine_) check.
 
 A **stable** creature doesn’t make death saving throws but remains unconscious.
 It regains 1 hit point after 1d4 hours if not healed.

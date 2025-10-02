@@ -29,17 +29,18 @@ You perform a religious ceremony during the casting time of this spell.
 When you cast the spell, you choose one of the following effects on one or more corpses or creatures which must be within range during the entire casting.
 
 - **_Funeral._**
-  You bless one or more corpses, acknowledging their transition away from this world. For the next week, they cannot become undead by any means short of a [Wish](#Wish_wish) spell.
+  You bless one or more corpses, acknowledging their transition away from this world.
+  For the next week, they cannot become undead by any means short of a _[<span class="spell">Wish</span>](#Wish_wish)_ spell.
   This benefit lasts indefinitely regarding undead of CR 1/4 or less.
   A corpse can only benefit from this effect once.
 - **_Guide the Passing._**
   You bless one or more creatures for their passage into the next life.
-  For the next 7 days, their souls cannot be trapped or captured by any means short of a [Wish](#Wish_wish) spell.
+  For the next 7 days, their souls cannot be trapped or captured by any means short of a _[<span class="spell">Wish</span>](#Wish_wish)_ spell.
   Once a creature benefits from this effect, it can’t do so again until it has been restored to life.
 - **_Offering._**
   The gifts of the faithful are offered to the benefit of the gods and the community.
   Choose one skill or tool proficiency and target a number of creatures equal to your proficiency bonus.
-  When a target makes an ability check using the skill or tool within the next week, it can choose to use this benefit to gain expertise on the check.
+  When a target makes an ability check using the skill or tool within the next week, it can choose to use this benefit to gain [expertise](#Proficiency_Bonus_expertise) on the check.
   A creature can be targeted by this effect no more than once per week.
 - **_Purification._**
   A creature you touch is washed with your spiritual energy.

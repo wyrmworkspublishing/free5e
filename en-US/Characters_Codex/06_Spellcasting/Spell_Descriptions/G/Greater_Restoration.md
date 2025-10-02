@@ -28,7 +28,7 @@ _5th-level abjuration_
 Healing energy rejuvenates a creature you touch and undoes a negative effect.
 You can remove one of:
 
-- One effect that [charmed](#Conditions_charmed) or [petrified](#Conditions_petrified) the target
+- One effect that _[<span class="condition">charmed</span>](#Conditions_charmed)_ or _[<span class="condition">petrified</span>](#Conditions_petrified)_ the target
 - One curse, including the target’s attunement to a cursed magic item
 - Any reduction to one of the target’s ability scores
 - One effect reducing the target’s hit point maximum

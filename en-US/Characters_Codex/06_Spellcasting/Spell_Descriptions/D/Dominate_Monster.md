@@ -25,7 +25,7 @@ _8th-level enchantment_
 **Components:** V, S \
 **Duration:** Concentration, up to 1 hour
 
-As [Dominate Beast](#Dominate_Beast_dominate_beast) but you may target any creature.
+As _[<span class="spell">Dominate Beast</span>](#Dominate_Beast_dominate_beast)_ but you may target any creature.
 
 **At Higher Levels.**
 The duration is Concentration, up to 8 hours.

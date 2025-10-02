@@ -42,10 +42,10 @@ Roll a d8 for each target to determine the ray that affects it.
 5. **Blue:**
   The target takes `10d6` cold damage.
 6. **Indigo:**
-  The target is [restrained](#Conditions_restrained) and at the end of each of its turns it makes a Constitution saving throw.
+  The target is _[<span class="condition">restrained</span>](#Conditions_restrained)_ and at the end of each of its turns it makes a Constitution saving throw.
   Once it accumulates three failed saves it permanently turns to stone, or when it accumulates three successful saves the effect ends.
 7. **Violet:**
-  The target is [nullified (sight)](#Conditions_nullified).
+  The target is _[<span class="condition">nullified (sight)</span>](#Conditions_nullified)_.
   At the start of your next turn, the target makes a Wisdom saving throw, ending the effect on a success.
   On a failed save, the target is banished to another random [plane](#Planes_of_Existence_planes_of_existence) and is no longer nullified (sight).
   Typically if it originated from another plane it returns there, while other creatures are generally cast into the Astral Plane or Ethereal Plane.

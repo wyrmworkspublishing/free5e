@@ -34,7 +34,7 @@ When a magical effect protrudes into the sphere, that part of the effect’s are
 While within the sphere, any creatures or objects created or conjured by magic temporarily cease to exist while the space they occupy is within the sphere.
 \
 **Dispel Magic.**
-The sphere is immune to [Dispel Magic](#Dispel_Magic_dispel_magic) and similar magical effects, including other Antimagic Field spells.
+The sphere is immune to _[<span class="spell">Dispel Magic</span>](#Dispel_Magic_dispel_magic)_ and similar magical effects, including other _<span class="spell">Antimagic Field</span>_ spells.
 \
 **Magic Items.**
 While within the sphere, magic items function as if they were mundane objects.
@@ -42,7 +42,7 @@ Magic weapons and ammunition cease to be suppressed when they fully leave the sp
 \
 **Magical Travel.**
 Whether the sphere includes a destination or source, any planar travel or teleportation within it fails.
-Until the spell ends or the sphere moves, magical portals and extradimensional spaces (such as that created by a bag of holding) within the sphere are closed.
+Until the spell ends or the sphere moves, magical portals and extradimensional spaces (such as that created by a _<span class="item item-Bag_of_Holding_bag_of_holding">bag of holding</span>_) within the sphere are closed.
 \
 **Spells.**
 Any spell cast within the sphere or at a target within the sphere is suppressed and the spell slot is consumed.

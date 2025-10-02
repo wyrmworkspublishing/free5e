@@ -27,11 +27,19 @@ table {
   width: 100%;
 }
 
-.spell {
+.spell,.monster,.item {
   font-style: italic;
   color: #152347;
+}
 
-  &:after {
-    content: '\00a0🪄';
-  }
+.spell:after {
+  content: '\00a0🪄';
+}
+
+.monster:after {
+  content: '\00a0🧚';
+}
+
+.item:after {
+  content: '\00a0📦';
 }

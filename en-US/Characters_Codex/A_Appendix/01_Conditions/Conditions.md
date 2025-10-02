@@ -50,8 +50,8 @@ Finishing a long rest reduces a creature’s exhaustion level by 1, provided tha
 ### Grappled
 
 - A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
-- The condition ends if the grappler is [incapacitated](#Conditions_incapacitated) (see the condition).
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the [Thunderwave](#Thunderwave_thunderwave) spell.
+- The condition ends if the grappler is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition).
+- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the _[<span class="spell">Thunderwave</span>](#Thunderwave_thunderwave)_ spell.
 
 ### Impaired
 
@@ -72,16 +72,17 @@ Some common types of imperceptibility are:
 - _Imperceptible (smell)_, also called _odorless_
 
 When a something is _Imperceptible_ to a parasense, it must always relate to a specific secondary sense.
-For example, a creature could have the condition _Imperceptible (parasense: electrolocation)_ and hide from a sharks' electric sense, or _Imperceptible (parasense: auditory echolocation)_ and thereby hide from a bat's echolocation.
+For example, a creature could have the condition _Imperceptible (parasense: electrolocation)_ and hide from a <span class="monster monster-Giant_Shark_giant_shark">giant sharks'</span> electric sense, or _Imperceptible (parasense: auditory echolocation)_ and thereby hide from a <span class="monster monster-Bat_bat">bat's</span> echolocation.
 
 A creature can benefit from one or several forms of the _Imperceptible_ condition at the same time.
 The following rules are valid for each individual case:
 
-- An imperceptible creature is impossible to pinpoint by the sense in question without the aid of magic or a special sense. For the purpose of hiding, the creature is [heavily obscured](#Exploration_Environment_senses_and_awareness).
+- An imperceptible creature is impossible to pinpoint by the sense in question without the aid of magic or a special sense.
+  For the purpose of hiding, the creature is [heavily obscured](#Exploration_Environment_senses_and_awareness).
   The creature’s location can be detected by things detectable by other senses, e.g. noises an invisible creature makes or any tracks it leaves.
 - Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
 - A creature cannot benefit from this condition if it is perceived by any accurate sense.
-  So for example, a bat using echolocation could ignore the _Imperceptible (sight)_ condition of another creature.
+  So for example, a <span class="monster monster-Bat_bat">bat</span> using auditory echolocation could ignore the _Imperceptible (sight)_ condition of another creature.
 
 ### <a id="Conditions_incapacitated"></a>Incapacitated
 
@@ -104,7 +105,7 @@ When you gain this condition, it applies to one or more specific senses (such as
 > **Note:**
 > This condition is not the same as paralysis, the permanent disability, as paralysis has a spectrum of experiences, and people with this disability learn to adapt in creative ways to accomplish their goals.
 
-- A paralyzed creature is [incapacitated](#Conditions_incapacitated) (see the condition) and can’t move or speak.
+- A paralyzed creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition) and can’t move or speak.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
 - Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
@@ -113,7 +114,7 @@ When you gain this condition, it applies to one or more specific senses (such as
 
 - A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone).
   Its weight increases by a factor of ten, and it ceases aging.
-- The creature is [incapacitated](#Conditions_incapacitated) (see the condition), can’t move or speak, and is unaware of its surroundings.
+- The creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition), can’t move or speak, and is unaware of its surroundings.
 - Attack rolls against the creature have advantage.
 - The creature automatically fails Strength and Dexterity saving throws.
 - The creature has resistance to all damage.
@@ -138,13 +139,13 @@ When you gain this condition, it applies to one or more specific senses (such as
 
 ### Stunned
 
-- A stunned creature is [incapacitated](#Conditions_incapacitated) (see the condition), can’t move, and can speak only falteringly.
+- A stunned creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition), can’t move, and can speak only falteringly.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.
 
 ### Unconscious
 
-- An unconscious creature is [incapacitated](#Conditions_incapacitated) (see the condition), can’t move or speak, and is unaware of its surroundings
+- An unconscious creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition), can’t move or speak, and is unaware of its surroundings
 - The creature drops whatever it’s holding and falls prone.
 - The creature automatically fails Strength and Dexterity saving throws.
 - Attack rolls against the creature have advantage.

@@ -35,7 +35,7 @@ If you take the Disengage action, your movement doesn’t provoke opportunity at
 
 When you take the Dodge action, you focus entirely on avoiding attacks.
 Until the start of your next turn, any attack roll made against you has disadvantage if you can pinpoint the attacker, and you make Dexterity saving throws with advantage.
-You lose this benefit if you are [incapacitated](#Conditions_incapacitated) (as explained in [appendix A, "Conditions"](#Conditions_conditions)) or if your speed drops to 0.
+You lose this benefit if you are _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (as explained in [appendix A, "Conditions"](#Conditions_conditions)) or if your speed drops to 0.
 
 #### Help
 
@@ -48,7 +48,7 @@ If your ally attacks the target before your next turn, the first attack roll is 
 
 #### Hide
 
-When you take the Hide action, you make a Dexterity (Stealth) check in an attempt to hide, following the [rules for hiding](#Using_Dexterity_hiding).
+When you take the Hide action, you make a Dexterity (_Stealth_) check in an attempt to hide, following the [rules for hiding](#Using_Dexterity_hiding).
 If you succeed, you gain certain benefits, as described in the ["Targeting Without Exact Location" section](#Combat_Making_an_Attack_targeting_without_exact_location) later in this chapter.
 
 #### Ready
@@ -58,7 +58,7 @@ You can take the Ready action to do so.
 
 First, decide what perceivable circumstance will trigger your reaction.
 Then, choose the action you’ll take or move up to your speed.
-Examples include _"If the cultist steps on the trapdoor, I’ll pull the lever"_ and _"If the goblin steps next to me, I move away."_
+Examples include _"If the <span class="monster monster-Cultist_cultist">cultist</span> steps on the trapdoor, I’ll pull the lever"_ and _"If the <span class="monster monster-Goblin_goblin">goblin</span> steps next to me, I move away."_
 
 When the trigger occurs, you can take your reaction immediately or ignore it.
 Remember, you can only take one reaction per round.
@@ -67,12 +67,12 @@ To ready a spell, cast it normally but hold its energy.
 You release the energy with your reaction when the trigger occurs.
 The spell must have a casting time of 1 action and holding onto the spell's magic requires concentration.
 If your concentration breaks, the spell dissipates.
-For example, if you’re concentrating on the [Web](#Web_web) spell and ready [Magic Missile](#Magic_Missile_magic_missile), your Web spell ends if you take damage before releasing Magic Missile.
+For example, if you’re concentrating on the _[<span class="spell">Web</span>](#Web_web)_ spell and ready _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_, your _<span class="spell spell-Web_web">Web</span>_ spell ends if you take damage before releasing _<span class="spell spell-Magic_Missile_magic_missile">Magic Missile</span>_.
 
 #### Search
 
 When you take the Search action, you devote your attention to finding something.
-Depending on the nature of your search, the Conductor might have you make a Wisdom (Perception) check or an Intelligence (Investigation) check.
+Depending on the nature of your search, the Conductor might have you make a Wisdom (_Perception_) check or an Intelligence (_Investigation_) check.
 
 #### Use an Object
 

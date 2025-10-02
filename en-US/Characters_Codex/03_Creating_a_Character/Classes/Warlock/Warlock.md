@@ -32,7 +32,7 @@ None
 Wisdom, Charisma
 \
 **Skills:**
-Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+Choose two skills from _Arcana_, _Deception_, _History_, _Intimidation_, _Investigation_, _Nature_, and _Religion_
 
 ##### Equipment
 
@@ -90,7 +90,7 @@ To cast one of your Warlock spells of 1st level or higher, you must expend a spe
 You regain all expended spell slots when you finish a short or long rest.
 
 For example, when you are 5th level, you have two 3rd-level spell slots.
-To cast the 1st-level spell [Thunderwave](#Thunderwave_thunderwave), you must spend one of those slots, and you cast it as a 3rd-level spell.
+To cast the 1st-level spell _[<span class="spell">Thunderwave</span>](#Thunderwave_thunderwave)_, you must spend one of those slots, and you cast it as a 3rd-level spell.
 \
 **Spells Known of 1st Level and Higher**
 \
@@ -178,7 +178,7 @@ Each Pact Boon option produces a special creature or an object that reflects you
 \
 **Pact of the Chain.**
 Your familiar takes on a form reflecting your patron’s nature.
-If you serve the Fiend, your familiar might manifest as a cunning imp or a fiery quasit.
+If you serve the Fiend, your familiar might manifest as a cunning <span class="monster monster-Imp_imp">imp</span> or a fiery <span class="monster monster-Quasit_quasit">quasit</span>.
 Those bound to the Overseer summon familiars that evoke its omnipresent vigilance—creatures with multiple eyes, strange glowing features, or unnerving whispers, a constant reminder of its watchful gaze.
 \
 **Pact of the Blade.**

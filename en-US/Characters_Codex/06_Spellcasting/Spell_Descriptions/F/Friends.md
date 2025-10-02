@@ -23,5 +23,5 @@ _Enchantment cantrip_
 **Components:** S \
 **Duration:** 1 round
 
-Once before the start of your next turn, when you make a Charisma ability check against one nonhostile creature, you gain expertise.
+Once before the start of your next turn, when you make a Charisma ability check against one nonhostile creature, you gain [expertise](#Proficiency_Bonus_expertise).
 If you roll a 1 on the ability or skill check, the target realizes its judgment was influenced by magic and may become hostile.

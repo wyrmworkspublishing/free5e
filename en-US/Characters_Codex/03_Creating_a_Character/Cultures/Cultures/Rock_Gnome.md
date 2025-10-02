@@ -4,10 +4,10 @@ This curious and inventive culture thrives on experimentation and exploration, f
 \
 \
 **Artificer's Lore.**
-Whenever you make an Intelligence (History or Arcana) check related to magic items, alchemical objects, or technological devices, you have expertise.
+Whenever you make an Intelligence (_History_) or Intelligence (_Arcana_) check related to magic items, alchemical objects, or technological devices, you have [expertise](#Proficiency_Bonus_expertise).
 \
 **Tinker.**
-You have proficiency with artisan’s tools (tinker’s tools).
+You gain proficiency with _Tinker’s Tools_.
 Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp).
 The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it.
 You can have up to three such devices active at a time.

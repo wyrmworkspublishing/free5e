@@ -31,7 +31,7 @@ _7th-level abjuration_
 
 You inscribe a potent glyph on one object or a surface no larger than 10 feet in diameter, setting a magical trap for your enemies.
 If the glyph is moved more than 10 feet from its original position, or if it comes within 20 feet of another glyph that you have cast, the spell ends.
-Finding the Tiny glyph requires an Intelligence (Investigation) check against your spell save DC.
+Finding the Tiny glyph requires an Intelligence (_Investigation_) check against your spell save DC.
 
 Describe the actions a creature must perform to trigger the spell, such as approaching within a certain distance, opening or touching the object the glyph is inscribed on, or seeing or reading the glyph.
 The creature must have a clear path to the glyph to trigger it.
@@ -49,20 +49,20 @@ When you cast the spell, choose one of the following effects.
   Creatures in the area must succeed on a Constitution saving throw or bicker and squabble with other creatures for 1 minute.
   While bickering, a creature cannot meaningfully communicate and it has disadvantage on attack rolls and ability checks.
 - **Fear:**
-  Creatures in the area must succeed on a Wisdom saving throw or be [frightened](#Conditions_frightened) for 1 minute.
+  Creatures in the area must succeed on a Wisdom saving throw or be _[<span class="condition">frightened</span>](#Conditions_frightened)_ for 1 minute.
   While frightened, a creature drops anything it is holding and must try to move at least 30 feet away from the glyph on each of its turns.
 - **Hopelessness:**
   Creatures in the area must succeed on a Charisma saving throw or be filled with despair for 1 minute.
   While despairing, a creature can’t attack or target any creature with harmful effects.
 - **Overwhelm:**
   Each target must make an Intelligence save.
-  On a failed save, the target is [incapacitated](#Conditions_incapacitated) for 1 minute.
+  On a failed save, the target is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ for 1 minute.
   While incapacitated, the target can’t take actions, can’t understand what other creatures say, can’t read, and speaks only in gibberish.
   The Conductor controls its movement, which is erratic.
 - **Pain:**
-  Creatures in the area must succeed on a Constitution saving throw or become [incapacitated](#Conditions_incapacitated) for 1 minute.
+  Creatures in the area must succeed on a Constitution saving throw or become _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ for 1 minute.
 - **Sleep:**
-  Creatures in the area must succeed on a Wisdom saving throw or fall [unconscious](#Conditions_unconscious) for 10 minutes.
+  Creatures in the area must succeed on a Wisdom saving throw or fall _[<span class="condition">unconscious</span>](#Conditions_unconscious)_ for 10 minutes.
   A sleeping creature awakens if it takes damage or an action is used to wake it.
 - **Stunning:**
-  Creatures in the area must succeed on a Wisdom saving throw or become [stunned](#Conditions_stunned) for 1 minute.
+  Creatures in the area must succeed on a Wisdom saving throw or become _[<span class="condition">stunned</span>](#Conditions_stunned)_ for 1 minute.

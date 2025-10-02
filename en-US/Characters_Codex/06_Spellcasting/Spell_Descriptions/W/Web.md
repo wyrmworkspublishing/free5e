@@ -34,7 +34,7 @@ You must anchor the webs between two solid masses (such as walls or trees) or la
 If you don’t, the conjured webs collapse and at the start of your next turn the spell ends.
 Webs layered over a flat surface are 5 feet deep.
 
-Each creature that starts its turn in the webs or that enters them during its turn makes a Dexterity saving throw or it is [restrained](#Conditions_restrained) as long as it remains in the webs (or until the creature breaks free).
+Each creature that starts its turn in the webs or that enters them during its turn makes a Dexterity saving throw or it is _[<span class="condition">restrained</span>](#Conditions_restrained)_ as long as it remains in the webs (or until the creature breaks free).
 
 A creature restrained by the webs can escape by using its action to make a Strength check against your spell save DC.
 

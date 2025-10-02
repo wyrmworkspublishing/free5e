@@ -27,7 +27,7 @@ Consider how their background ties to their class skills and unique traits.
       - **Two languages**
 
     These should represent logical character abilities based on the background’s concept, e.g. a sailor would need climbing and swimming so would take athletics and would need to be able to stay upright on unstable surfaces so would take acrobatics.
-    It would also be sensible for the character to be proficient in using water vehicles and navigational tools.
+    It would also be sensible for the character to be proficient in using _Water Vehicles_ and _Navigator’s Tools_.
    [Chapter 6: Using Ability Scores](#Using_Ability_Scores_using_ability_scores) has more information on what each Skill does and how they are used with the ability scores.
    \
    \
@@ -85,11 +85,11 @@ You can choose one of these backgrounds for your character, or use them as inspi
 | Background | Skill Proficiencies | Tool Proficiency and/or Language | Equipment | Feature |
 |-----------:|:-------------------:|:--------------------------------:|:---------:|:-------:|
 | Artisan | Persuasion, Insight or History | One type of artisan’s tools or smith’s tools | Artisan’s tools, traveler’s clothes, keepsake (e.g., hammer, unfinished masterpiece) | **Trade Mark.** Access to a fully-stocked workshop in cities and get full price for crafted goods. |
-| Charlatan | Deception, Insight, or Sleight of Hand | Disguise kit, forgery kit | Disguise kit, forgery kit, common clothes, forgery materials | **Many Identities.** Carry forged documents for creating false identities. Advantage on Deception checks to impersonate. |
-| Cultist | Religion, Arcana or Deception | One language | Holy symbol, common clothes, robes, 5 torches, forbidden relic | **Forbidden Lore.** When you fail an Arcana or Religion check, you know where to find the knowledge you seek. |
+| Charlatan | Deception, Insight, or Sleight of Hand | Disguise kit, forgery kit | Disguise kit, forgery kit, common clothes, forgery materials | **Many Identities.** Carry forged documents for creating false identities. Advantage on _Deception_ checks to impersonate. |
+| Cultist | Religion, Arcana or Deception | One language | Holy symbol, common clothes, robes, 5 torches, forbidden relic | **Forbidden Lore.** When you fail an Intelligence (_Arcana_) or Intelligence (_Religion_) check, you know where to find the knowledge you seek. |
 | Entertainer | Performance, Acrobatics, or Persuasion | Gaming set, musical instrument | Musical instrument, costume, performance props (e.g., mask) | **Pay the Piper.** Performances can earn enough money to support a modest lifestyle for you and your companions. |
-| Exile | Survival, History or Performance | Two languages | Traveler’s clothes, 10 days rations, item from homeland (e.g., cultural artifact) | **Fellow Traveler.** Expertise die on Persuasion checks against others who are exiled or far from home. |
-| Farmer | Nature, Animal Handling or Survival | Land vehicles | Common clothes, shovel, mule with saddlebags, 5 rations, family heirloom | **(Bit and Bridle.** You and one animal under your care can carry additional rations equal to your proficiency bonus. |
+| Exile | Survival, History or Performance | Two languages | Traveler’s clothes, 10 days rations, item from homeland (e.g., cultural artifact) | **Fellow Traveler.** [Expertise](#Proficiency_Bonus_expertise) on Charisma (_Persuasion_) checks against others who are exiled or far from home. |
+| Farmer | Nature, Animal Handling or Survival | Land vehicles | Common clothes, shovel, mule with saddlebags, 5 rations, family heirloom | **Bit and Bridle.** You and one animal under your care can carry additional rations equal to your proficiency bonus. |
 | Folk Hero | Survival, Animal Handling or Nature | One artisan tool, one vehicle | Artisan’s tools, common clothes, trophy from deeds (e.g., weapon from monster) | **Local Fame.** Recognized and treated well within 100 miles of where you performed heroic deeds. |
 | Gambler | Deception, Insight or Sleight of Hand | Gaming set | Fine clothes, dice set, playing cards, lucky charm (e.g., lucky coin) | **Lady Luck.** Roll a d6 weekly to determine lifestyle based on gambling. On a 6, you gain enough to support a rich lifestyle. |
 | Guard | Intimidation, Athletics or Investigation | One language | Halberd, common clothes, uniform, badge of office | **Natural Authority.** Civilians and off-duty soldiers defer to you, assuming you're part of the local constabulary. |

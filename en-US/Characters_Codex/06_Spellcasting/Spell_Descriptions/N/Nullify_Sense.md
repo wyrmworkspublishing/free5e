@@ -26,7 +26,7 @@ _2nd-level necromancy_
 **Components:** V \
 **Duration:** 1 minute
 
-Until the spell ends, one creature you can pinpoint has one external sense—one form of sight, hearing, smell, or taste—[nullified](#Conditions_nullified) unless it succeeds on a Constitution saving throw.
+Until the spell ends, one creature you can pinpoint has one external sense—one form of sight, hearing, smell, or taste—_[<span class="condition">nullified</span>](#Conditions_nullified)_ unless it succeeds on a Constitution saving throw.
 Nullifying a sense also nullifies any parasense or ability that relies on it as a supporting sense (for example, auditory echolocation when hearing is nullified).
 At the end of each of its turns the target can repeat its saving throw, ending the spell on a success.
 

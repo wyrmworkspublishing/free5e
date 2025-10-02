@@ -41,7 +41,7 @@ Creatures make a Charisma saving throw when the spell is cast, when they enter t
 On a successful save, a creature is immune to the effect until it leaves the area.
 
 - **Courage.**
-  Creatures cannot be [frightened](#Conditions_frightened) while inside the area.
+  Creatures cannot be _[<span class="condition">frightened</span>](#Conditions_frightened)_ while inside the area.
 - **Darkness.**
   The area is filled by darkness, and normal light sources, or light sources created by a lower level spell slot than the one used to cast Hallow, are smothered within it.
 - **Daylight.**
@@ -55,7 +55,7 @@ On a successful save, a creature is immune to the effect until it leaves the are
 - **Extradimensional Interference.**
   Extradimensional movement or travel is blocked to and from the area, including all teleportation effects.
 - **Fear.**
-  Creatures are [frightened](#Conditions_frightened) while within the area.
+  Creatures are _[<span class="condition">frightened</span>](#Conditions_frightened)_ while within the area.
 - **Silence.**
   No sound can pass into or out of the area.
 - **Tongues.**

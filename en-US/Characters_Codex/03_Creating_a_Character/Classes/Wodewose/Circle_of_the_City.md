@@ -1,7 +1,7 @@
 ##### Circle of the City
 
 The circle of the city is about adaption — the adaption of nature to cities and cities to nature.
-Wodewoses of this circle recognize the teeming life of the city as just another ecosystem, one adapted to a special type of life, feeling kinship with the creatures that thrive in such an environment, particularly that which remains wild in the heart of the city, such as rats, pigeons, and cats.
+Wodewoses of this circle recognize the teeming life of the city as just another ecosystem, one adapted to a special type of life, feeling kinship with the creatures that thrive in such an environment, particularly that which remains wild in the heart of the city, such as <span class="monster monster-Rat_rat">rats</span> and <span class="monster monster-Cat_cat">cats</span>.
 While more primeval Wodewoses may view them as scarcely different to other city-dwellers, they are no less in tune with nature than other Wodewoses, simply tuning into a different, more subtle and pervasive, frequency.
 
 ###### Circle Spells (2nd & 3rd & 5th & 7th & 9th Level)
@@ -25,18 +25,18 @@ _Circle of City Spells_
 
 ###### Living Eyes of the City (2nd Level)
 
-When you cast [Animal Friendship](#Animal_Friendship_animal_friendship), you can target up to a dozen animals of the same type when targeting tiny creatures (such as cats, rats, pigeons, or similar).
-When a tiny animal is charmed in this way, they can understand you in a limited capacity (such as where something you can describe in terms they would understand is), you can understand them in a limited capacity (such as which direction something is), and will lend you aid in simple tasks as long as it does not place them in danger.
+When you cast _[<span class="spell">Animal Friendship</span>](#Animal_Friendship_animal_friendship)_, you can target up to a dozen animals of the same type when targeting Tiny creatures (such as <span class="monster monster-Cat_cat">cats</span>, <span class="monster monster-Rat_rat">rats</span>, or similar).
+When a Tiny animal is charmed in this way, they can understand you in a limited capacity (such as where something you can describe in terms they would understand is), you can understand them in a limited capacity (such as which direction something is), and will lend you aid in simple tasks as long as it does not place them in danger.
 They can be convinced to take on greater risks with an appropriate _Animal Handling_ check with the DC determined by the Conductor.
 
-Additionally, any familiar you summon with [Find Familiar](#Find_Familiar_find_familiar) gains the ability to communicate with creatures of a type resembling the form it takes, and has advantage on all _Animal Handling_ checks while interacting with beasts it can communicate with.
+Additionally, any familiar you summon with _[<span class="spell">Find Familiar</span>](#Find_Familiar_find_familiar)_ gains the ability to communicate with creatures of a type resembling the form it takes, and has advantage on all _Animal Handling_ checks while interacting with beasts it can communicate with.
 You can expend a use of your [Wild Shape](#Wodewose_wild_shape) feature to shift your familiar from one form it can take to another without having to resummon it as a bonus action.
 
 ###### Controlled Magic (2nd Level)
 
 From operating within the confines of a city, you have managed to tame your magic to more freely operate within the limitations of tight urban environments.
 When you cast a spell that targets an area of effect, you can exclude a 10-foot cube from the area of effect (the cube does not have to be entirely within the area of effect).
-Alternatively, you can reduce the area of effect of any spell down to any value between its area of effect and a 5-foot radius, and can cast spells that would otherwise not be able to manifest in the environment (such as casting [Call Lightning](#Call_Lightning_call_lightning) in a room less than 60 feet tall), with your spells adapting to fit within your environment.
+Alternatively, you can reduce the area of effect of any spell down to any value between its area of effect and a 5-foot radius, and can cast spells that would otherwise not be able to manifest in the environment (such as casting _[<span class="spell">Call Lightning</span>](#Call_Lightning_call_lightning)_ in a room less than 60 feet tall), with your spells adapting to fit within your environment.
 
 ###### Civilized Beasts (6th Level)
 
@@ -49,13 +49,13 @@ The civilized beasts feature means that you would be able to cast spells (perfor
 
 ###### Urban Adaptation (10th Level)
 
-You become immune to poison and disease, and gain one skill of your choice from Insight, Perception, Persuasion, Sleight of Hand, or Stealth.
+You become immune to poison and disease, and gain one skill of your choice from _Insight_, _Perception_, _Persuasion_, _Sleight of Hand_, or _Stealth_.
 If you have all the listed skills, you can select any skill of your choice instead.
 
 ###### Keen Skills (14th Level)
 
 You gain proficiency in an additional skill from the list in Urban Adaptation.
-Additionally, if a beast you assume the form of is proficient in a skill you are normally proficient in, you gain expertise in that skill while transformed into that beast.
+Additionally, if a beast you assume the form of is proficient in a skill you are normally proficient in, you gain [expertise](#Proficiency_Bonus_expertise) in that skill while transformed into that beast.
 
 ###### Tiny Tributes (14th Level)
 

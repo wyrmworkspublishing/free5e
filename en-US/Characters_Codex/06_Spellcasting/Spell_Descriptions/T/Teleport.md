@@ -45,7 +45,7 @@ When you teleport, the Conductor rolls 1d100 and consults the following table:
 Familiarity is determined as follows:
 
 - **Permanent Circle:**
-  A permanent teleportation circle whose sigil sequence you know (see [Teleportation Circle](#Teleportation_Circle_teleportation_circle)).
+  A permanent teleportation circle whose sigil sequence you know (see _[<span class="spell">Teleportation Circle</span>](#Teleportation_Circle_teleportation_circle)_).
 - **Associated Object:**
   You have an object taken from the target location within the last 6 months.
 - **Very Familiar:**

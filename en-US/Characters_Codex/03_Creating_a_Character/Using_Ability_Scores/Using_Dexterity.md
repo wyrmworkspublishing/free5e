@@ -4,18 +4,18 @@ Dexterity measures agility, reflexes, and balance.
 ##### Dexterity Checks
 
 A Dexterity check can model any attempt to move nimbly, quickly, or quietly, or to keep from falling on tricky footing.
-The Acrobatics, Sleight of Hand, and Stealth skills reflect aptitude in certain kinds of Dexterity checks.
+The _Acrobatics_, _Sleight of Hand_, and _Stealth_ skills reflect aptitude in certain kinds of Dexterity checks.
 
 **Acrobatics.**
-Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck.
-The Conductor might also call for a Dexterity (Acrobatics) check to determine whether you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
+Your Dexterity (_Acrobatics_) check covers your attempt to stay on your feet in a tricky situation, such as when you’re trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship’s deck.
+The Conductor might also call for a Dexterity (_Acrobatics_) check to determine whether you can perform acrobatic stunts, including dives, rolls, somersaults, and flips.
 
 **Sleight of Hand.**
-Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check.
-The Conductor might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person’s pocket.
+Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (_Sleight of Hand_) check.
+The Conductor might also call for a Dexterity (_Sleight of Hand_) check to determine whether you can lift a coin purse off another person or slip something out of another person’s pocket.
 
 **Stealth.**
-Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being observed.
+Make a Dexterity (_Stealth_) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being observed.
 
 **Other Dexterity Checks.**
 The Conductor might call for a Dexterity check when you try to accomplish tasks like the following:
@@ -44,8 +44,8 @@ Initiative determines the order of creatures’ turns in combat.
 ##### Hiding
 
 The Conductor decides when hiding is appropriate.
-Make a Dexterity (Stealth) check to hide.
-Until discovered or stopped hiding, that check’s total is contested by the Wisdom (Perception) check of any actively searching creature.
+Make a Dexterity (_Stealth_) check to hide.
+Until discovered or stopped hiding, that check’s total is contested by the Wisdom (_Perception_) check of any actively searching creature.
 
 You can’t hide from clear sight or make noise, which gives away your position.
 Invisible creatures can hide, but signs of their passage may be noticed, and they must stay quiet.
@@ -55,7 +55,7 @@ If you approach a creature while hidden, it usually notices you.
 However, the Conductor may allow you to stay hidden if the creature is distracted, giving you an advantage on an attack roll before being noticed.
 
 There is a chance that when one creature is hidden another creature might notice them even if not searching.
-To determine whether that happens, the Conductor compares the [Dexterity (Stealth)](#Using_Dexterity_dexterity_checks) check of the hiding creature with the passive [Wisdom (Perception)](#Using_Wisdom_wisdom_checks) score of any creature which has a chance of noticing.
+To determine whether that happens, the Conductor compares the [Dexterity (_Stealth_)](#Using_Dexterity_dexterity_checks) check of the hiding creature with the passive [Wisdom (_Perception_)](#Using_Wisdom_wisdom_checks) score of any creature which has a chance of noticing.
 Check the section on [Passive Checks](#Ability_Checks_passive_checks) under [section 6.4, "Ability Checks"](#Ability_Checks_ability_checks) for more details.
 
 > **What Can You Perceive?**

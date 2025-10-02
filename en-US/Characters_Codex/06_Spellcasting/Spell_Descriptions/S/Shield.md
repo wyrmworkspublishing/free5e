@@ -19,10 +19,10 @@
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _1st-level abjuration_
 
-**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the [Magic Missile](#Magic_Missile_magic_missile) spell \
+**Casting Time:** 1 reaction, which you take when you are hit by an attack or targeted by the _<span class="spell">Magic Missile</span>_ spell \
 **Range:** Self \
 **Components:** V, S \
 **Duration:** 1 round
 
 An invisible barrier of magical force appears and protects you.
-Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from [Magic Missile](#Magic_Missile_magic_missile).
+Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_.

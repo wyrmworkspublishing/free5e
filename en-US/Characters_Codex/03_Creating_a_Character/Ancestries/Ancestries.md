@@ -30,7 +30,7 @@ By virtue of your ancestry, your character can speak, read, and write certain la
 
 <!-- style:sidebar -->
 > **Senses** \
-> Most members of most ancestries (including all ancestries listed here) have _sight_ as a precise sense (as detailed in [the section "The Environment" in chapter 14: Exploration](Exploration_Environment_pinpoint)).
+> Most members of most ancestries (including all ancestries listed here) have _sight_ as a precise sense (as detailed in [the section "The Environment" in chapter 14: Exploration](#Exploration_Environment_pinpoint)).
 > However this is not the case for every individual of that ancestry.
 >
 > Playing without a precise sense will make life more difficult, but it can be done.

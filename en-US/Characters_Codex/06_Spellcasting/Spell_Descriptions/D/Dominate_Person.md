@@ -25,7 +25,7 @@ _5th-level enchantment_
 **Components:** V, S \
 **Duration:** Concentration, up to 1 minute
 
-As [Dominate Beast](#Dominate_Beast_dominate_beast) but you may target any humanoid.
+As _[<span class="spell">Dominate Beast</span>](#Dominate_Beast_dominate_beast)_ but you may target any humanoid.
 
 **At Higher Levels.**
 The spell’s duration is extended:

@@ -72,7 +72,7 @@ Starting at 7th level, you and friendly creatures within 10 feet of you can’t 
 At 18th level, the range of this aura increases to 30 feet.
 
 ###### Purity of Spirit (15th Level)
-You are always under the effects of a [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) spell.
+You are always under the effects of a _[<span class="spell">Protection from Evil and Good</span>](#Protection_from_Evil_and_Good_protection_from_evil_and_good)_ spell.
 
 ###### Holy Nimbus (20th Level)
 

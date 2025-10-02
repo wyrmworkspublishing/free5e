@@ -62,7 +62,7 @@ For example, if you are a Fighter 3/Rogue 2, you have the proficiency bonus of a
 | Class       | Proficiencies Gained                                                                                       |
 |:------------|:-----------------------------------------------------------------------------------------------------------|
 | Dreadnought | Shields, simple weapons, martial weapons                                                                   |
-| Bard        | Light armor, one skill of your choice, one musical instrument of your choice                               |
+| Bard        | Light armor, one skill of your choice, one _Musical Instrument_ of your choice                             |
 | Cleric      | Light armor, medium armor, shields                                                                         |
 | Wodewose    | Light armor, medium armor, shields (Wodewoses will not wear armor or use shields made of metal)            |
 | Fighter     | Light armor, medium armor, shields, simple weapons, martial weapons                                        |
@@ -118,7 +118,7 @@ Use this total to determine your spell slots by consulting the Multiclass Spellc
 
 If you have more than one spellcasting class, this table might give you spell slots of a level that is higher than the spells you know or can prepare.
 You can use those slots, but only to cast your lower-level spells.
-If a lower-level spell that you cast, like [Burning Hands](#Burning_Hands_burning_hands), has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any spells of that higher level.
+If a lower-level spell that you cast, like _[<span class="spell">Burning Hands</span>](#Burning_Hands_burning_hands)_, has an enhanced effect when cast using a higher-level slot, you can use the enhanced effect, even though you don’t have any spells of that higher level.
 
 For example, if you are the aforementioned Ranger 4/Wizard 3, you count as a 5th-level character when determining your spell slots: you have four 1st-level slots, three 2nd-level slots, and two 3rd-level slots.
 However, you don’t know any 3rd-level spells, nor do you know any 2nd-level Ranger spells.

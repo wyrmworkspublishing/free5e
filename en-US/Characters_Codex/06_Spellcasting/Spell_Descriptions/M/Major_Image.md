@@ -32,7 +32,7 @@ While within range you can use an action to move the illusion elsewhere within r
 As the image moves you may also change its appearance to make the movement seem natural (like a roc moving its wings to fly) and also change the nonvisual elements of the illusion for the same reason (like the sound of beating wings as the roc flies).
 
 Any physical interaction allows a creature to recognize the image is an illusion.
-An Intelligence (Investigation) check against your spell save DC also reveals the image is an illusion.
+An Intelligence (_Investigation_) check against your spell save DC also reveals the image is an illusion.
 When a creature realizes the image is an illusion, the effects become fainter for that creature.
 
 **At Higher Levels.**

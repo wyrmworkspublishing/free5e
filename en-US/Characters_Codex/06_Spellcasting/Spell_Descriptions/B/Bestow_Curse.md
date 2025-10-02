@@ -36,7 +36,7 @@ On a failed save, choose one of the following:
 A curse lasts until the spell ends.
 At the Conductor’s discretion you may create a different curse effect with this spell so long as it is weaker than the options above.
 
-A [Remove Curse](#Remove_Curse_remove_curse) spell ends the effect if the spell slot used to cast it is equal to or greater than the spell slot used to cast Bestow Curse.
+A _[<span class="spell">Remove Curse</span>](#Remove_Curse_remove_curse)_ spell ends the effect if the spell slot used to cast it is equal to or greater than the spell slot used to cast _<span class="spell">Bestow Curse</span>_.
 
 **At Higher Levels.**
 When using a 4th-level spell slot the duration increases to 10 minutes.

@@ -32,7 +32,7 @@ None
 Strength, Dexterity
 \
 **Skills:**
-Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+Choose three from _Animal Handling_, _Athletics_, _Insight_, _Investigation_, _Nature_, _Perception_, _Stealth_, and _Survival_
 
 ##### Equipment
 
@@ -73,9 +73,9 @@ You start with the following equipment, in addition to the equipment granted by 
 Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
 
 Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead.
-Alternatively, you can select two ancestries of humanoid (such as gnolls and werewolves) as favored enemies.
+Alternatively, you can select two ancestries of humanoid (such as <span class="monster monster-Gnoll_gnoll">gnolls</span> and <span class="monster monster-Werewolf_werewolf">werewolves</span>) as favored enemies.
 
-You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+You have advantage on Wisdom (_Survival_) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
 
 When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
 
@@ -134,7 +134,7 @@ The following table shows how many spell slots you have to cast your spells.
 
 To cast one of these spells, you must expend a slot of the spell’s level or higher.
 You regain all expended spell slots when you finish a long rest.
-For example, if you know the 1st-level spell [Animal Friendship](#Animal_Friendship_animal_friendship) and have a 1st-level and a 2nd-level spell slot available, you can cast Animal Friendship using either slot.
+For example, if you know the 1st-level spell _[<span class="spell">Animal Friendship</span>](#Animal_Friendship_animal_friendship)_ and have a 1st-level and a 2nd-level spell slot available, you can cast Animal Friendship using either slot.
 
 **Spells Known of 1st Level and Higher**
 \
@@ -180,7 +180,7 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 Moving through nonmagical difficult terrain costs you no extra movement.
 You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
 
-In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the [Entangle](#Entangle_entangle) spell.
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the _[<span class="spell">Entangle</span>](#Entangle_entangle)_ spell.
 
 ##### Hide in Plain Sight (10th Level) {#Ranger_hide_in_plain_sight}
 
@@ -188,7 +188,7 @@ You can spend 1 minute creating camouflage for yourself.
 You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
 
 Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are.
-You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions.
+You gain a +10 bonus to Dexterity (_Stealth_) checks as long as you remain there without moving or taking actions.
 Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
 
 ##### Vanish (14th Level) {#Ranger_vanish}
@@ -199,7 +199,7 @@ Also, you can’t be tracked by nonmagical means, unless you choose to leave a t
 ##### Feral Senses (18th Level) {#Ranger_feral_senses}
 
 At 18th level, you gain preternatural senses that help you fight creatures you couldn’t usually sense.
-You can pinpoint any creature within 30 feet of you, provided that the creature isn’t hidden from you, and you aren’t [nullified (sight or hearing)](#Conditions_nullified).
+You can pinpoint any creature within 30 feet of you, provided that the creature isn’t hidden from you, and you aren’t _[<span class="condition">nullified (sight or hearing)</span>](#Conditions_nullified)_.
 
 ##### Foe Slayer (20th Level) {#Ranger_foe_slayer}
 

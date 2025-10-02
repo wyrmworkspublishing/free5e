@@ -8,7 +8,7 @@ Its members value clarity of mind, spiritual insight, and a deep connection to t
 You have advantage on saving throws made to resist being charmed or frightened.
 \
 **Stoic Traditions.**
-You gain proficiency in one of the following skills: Arcana, History, Insight, Medicine, Nature, or Religion.
+You gain proficiency in one of the following skills: _Arcana_, _History_, _Insight_, _Medicine_, _Nature_, or _Religion_.
 \
 **Ritualistic Focus.**
 You know two 1st-level spells of your choice.

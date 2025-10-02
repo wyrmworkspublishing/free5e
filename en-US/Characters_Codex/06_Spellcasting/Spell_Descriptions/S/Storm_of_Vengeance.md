@@ -28,7 +28,7 @@ _9th-level conjuration_
 **Duration:** Concentration, up to 1 minute
 
 You conjure a storm cloud that covers a 360-foot radius area that is up to 5,000 feet in the air.
-As it forms, lightning and thunder mix with howling winds, and each creature beneath the cloud must succeed on a Constitution saving throw or take `2d6` thunder damage and become [nullified (hearing)](#Conditions_nullified) for 5 minutes.
+As it forms, lightning and thunder mix with howling winds, and each creature beneath the cloud must succeed on a Constitution saving throw or take `2d6` thunder damage and become _[<span class="condition">nullified (hearing)</span>](#Conditions_nullified)_ for 5 minutes.
 
 Until the spell ends, at the start of your turn the cloud produces additional effects:
 

@@ -32,7 +32,7 @@ None
 Intelligence, Wisdom
 \
 **Skills:**
-Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+Choose two from _Arcana_, _History_, _Insight_, _Investigation_, _Medicine_, and _Religion_
 
 ##### Equipment
 
@@ -85,7 +85,7 @@ Your spellbook is the repository of the Wizard spells you know, except your cant
 > **Your Spellbook**
 > \
 > The spells you add to your spellbook reflect your arcane research and intellectual breakthroughs about the multiverse.
-> You might find other spells during adventures, like a scroll in an evil Wizard’s chest or a dusty tome in an ancient library.
+> You might find other spells during adventures, like a _<span class="item item-Spell_Scroll_spell_scroll">scroll</span>_ in an evil Wizard’s chest or a dusty tome in an ancient library.
 > \
 > **Copying a Spell into the Book.**
 > When you find a Wizard spell of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
@@ -125,7 +125,7 @@ The spells must be of a level for which you have spell slots.
 
 For example, if you’re a 3rd-level Wizard, you have four 1st-level and two 2nd-level spell slots.
 With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook.
-If you prepare the 1st-level spell [Magic Missile](#Magic_Missile_magic_missile), you can cast it using a 1st-level or a 2nd-level slot.
+If you prepare the 1st-level spell _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_, you can cast it using a 1st-level or a 2nd-level slot.
 Casting the spell doesn’t remove it from your list of prepared spells.
 
 You can change your list of prepared spells when you finish a long rest.

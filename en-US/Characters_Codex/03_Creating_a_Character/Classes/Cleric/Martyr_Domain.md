@@ -27,7 +27,7 @@ You can use a shield and still gain this benefit.
 
 Starting at 1st level, when you cast a spell of 1st level or higher that restores hit points, you can expend some of your own hit points to increase the amount another creature that is healed by the spell regains, expending a number of hit points up to your Cleric level to increase the amount one creature is healed by an equivalent value.
 
-Additionally, you can touch a creature suffering from a disease, a [nullified](#Conditions_nullified) sense, the [paralyzed](#Conditions_paralyzed), or the [poisoned](#Conditions_poisoned) condition and transfer that disease or condition to yourself.
+Additionally, you can touch a creature suffering from a disease, a _[<span class="condition">nullified</span>](#Conditions_nullified)_ sense, the _[<span class="condition">paralyzed</span>](#Conditions_paralyzed)_, or the _[<span class="condition">poisoned</span>](#Conditions_poisoned)_ condition and transfer that disease or condition to yourself.
 
 Starting at 9th level, the range of conditions you can take increases, including exhaustion (1 level at a time), petrified, stunned, the effect of a curse, or any reduction to their ability scores.
 You are afflicted by the effect in the same manner the creature you took it was, for the same duration and possible methods of ending the effect.
@@ -47,7 +47,7 @@ Any time an allied creature within 30 feet of you takes damage, they have resist
 When you use your [Relieve Suffering](#Martyr_Domain_relieve_suffering) to take the condition affecting a creature, you can repeat the original saving throw against the feature if it had one.
 On success, the condition ends instead of being transferred.
 
-Additionally, when you take damage as a result of the [Warding Bond](#Warding_Bond_warding_bond) spell, you have resistance to that damage.
+Additionally, when you take damage as a result of the _[<span class="spell">Warding Bond</span>](#Warding_Bond_warding_bond)_ spell, you have resistance to that damage.
 
 ###### Divine Empowerment (8th & 11th & 17th Level Level)
 

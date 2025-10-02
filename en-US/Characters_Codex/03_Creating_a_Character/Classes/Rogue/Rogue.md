@@ -23,13 +23,13 @@ Light armor
 Simple weapons, hand crossbows, longswords, rapiers, shortswords
 \
 **Tools:**
-Thieves’ tools
+_Thieves’ Tools_
 \
 **Saving Throws:**
 Dexterity, Intelligence
 \
 **Skills:**
-Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+Choose four from _Acrobatics_, _Athletics_, _Deception_, _Insight_, _Intimidation_, _Investigation_, _Perception_, _Performance_, _Persuasion_, _Sleight of Hand_, and _Stealth_
 
 ##### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -66,10 +66,10 @@ You start with the following equipment, in addition to the equipment granted by 
 
 ##### Expertise (1st & 6th Level) {#Rogue_expertise}
 
-At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with thieves’ tools.
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your proficiency with _Thieves’ Tools_.
 You gain [expertise](#Proficiency_Bonus_expertise) with the chosen proficiencies.
 
-At 6th level, you can choose two more of your proficiencies (in skills or with thieves’ tools) to gain this benefit.
+At 6th level, you can choose two more of your proficiencies (in skills or with _Thieves’ Tools_) to gain this benefit.
 
 ##### Sneak Attack (1st Level) {#Rogue_sneak_attack}
 
@@ -111,7 +111,7 @@ When an attacker that you can pinpoint hits you with an attack, you can use your
 
 ##### Evasion (7th Level) {#Rogue_evasion}
 
-You can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an [Ice Storm](#Ice_Storm_ice_storm) spell.
+You can nimbly dodge out of the way of certain area effects, such as a <span class="monster monster-Red_Dragon_red_dragon">red dragon’s</span> fiery breath or an _[<span class="spell">Ice Storm</span>](#Ice_Storm_ice_storm)_ spell.
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ##### Reliable Talent (11th Level) {#Rogue_reliable_talent}
@@ -121,7 +121,7 @@ Whenever you make an ability check that lets you add your proficiency bonus, you
 
 ##### Blindsense (14th Level) {#Rogue_blindsense}
 
-If you are able to hear and not [impaired (hearing)](#Conditions_impaired), you are aware of the location of any hidden or [imperceptible (sight)](#Conditions_imperceptible) creature within 10 feet of you.
+If you are able to hear and not _[<span class="condition">impaired (hearing)</span>](#Conditions_impaired)_, you are aware of the location of any hidden or _[<span class="condition">imperceptible (sight)</span>](#Conditions_imperceptible)_ creature within 10 feet of you.
 
 ##### Slippery Mind (15th Level) {#Rogue_slippery_mind}
 

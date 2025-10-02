@@ -34,4 +34,4 @@ Instead, the spell grants you the knowledge of who possesses it and a general id
 
 Each time you cast this spell, you must use a different precious stone.
 
-[Dispel Magic](#Dispel_Magic_dispel_magic) or a similar effect targeting the stone ends the spell.
+_[<span class="spell">Dispel Magic</span>](#Dispel_Magic_dispel_magic)_ or a similar effect targeting the stone ends the spell.

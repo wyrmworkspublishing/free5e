@@ -58,7 +58,7 @@ ___
 **Artisan’s Tools.**
 These special tools include the items needed to pursue a craft or trade.
 The table shows examples of the most common types of tools, each providing items related to a single craft.
-Proficiency with a set of artisan’s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft.
+Proficiency with a set of _Artisan’s Tools_ lets you add your proficiency bonus to any ability checks you make using the tools in your craft.
 Each type of artisan’s tools requires a separate proficiency.
 \
 **Disguise Kit.**
@@ -78,11 +78,11 @@ Each type of gaming set requires a separate proficiency.
 **Herbalism Kit.**
 This kit contains a variety of instruments such as clippers, mortar and pestle, and pouches and vials used by herbalists to create remedies and potions.
 Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to identify or apply herbs.
-Also, proficiency with this kit is required to create antitoxin and potions of healing.
+Also, proficiency with this kit is required to create antitoxin and _<span class="item item-Potion_of_Healing_potion_of_healing">potions of healing</span>_.
 \
 **Musical Instrument.**
 Several of the most common types of musical instruments are shown on the table as examples.
-If you have proficiency with a given musical instrument, you can add your proficiency bonus to any ability checks you make to play music with the instrument.
+If you have proficiency with a given _Musical Instrument_, you can add your proficiency bonus to any ability checks you make to play music with the instrument.
 A Bard can use a musical instrument as a spellcasting focus.
 Each type of musical instrument requires a separate proficiency.
 \

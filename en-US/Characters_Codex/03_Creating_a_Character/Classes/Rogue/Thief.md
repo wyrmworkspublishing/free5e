@@ -6,7 +6,7 @@ In addition to improving your agility and stealth, you learn skills useful for d
 
 ###### Fast Hands (3rd Level) {#Thief_fast_hands}
 
-You can use the bonus action granted by your [Cunning Action](#Rogue_cunning_action) to make a Dexterity (Sleight of Hand) check, use your [thieves’ tools](#Tools_tools) to disarm a trap or open a lock, or take the [Use an Object](#Combat_Actions_use_an_object) action.
+You can use the bonus action granted by your [Cunning Action](#Rogue_cunning_action) to make a Dexterity (_Sleight of Hand_) check, use your [thieves’ tools](#Tools_tools) to disarm a trap or open a lock, or take the [Use an Object](#Combat_Actions_use_an_object) action.
 
 ###### Second-Story Work (3rd Level) {#Thief_second_story_work}
 
@@ -15,7 +15,7 @@ In addition, when you make a [running jump](#Exploration_Movement_jumping), the 
 
 ###### Supreme Sneak (9th Level) {#Thief_supreme_sneak}
 
-You have advantage on a Dexterity (Stealth) check if you move no more than half your speed on the same turn.
+You have advantage on a Dexterity (_Stealth_) check if you move no more than half your speed on the same turn.
 
 ###### Use Magic Device (13th Level) {#Thief_use_magic_device}
 

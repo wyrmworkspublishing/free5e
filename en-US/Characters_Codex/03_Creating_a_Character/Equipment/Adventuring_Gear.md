@@ -49,14 +49,14 @@ This section describes items that have special rules or require further explanat
 - **Crowbar.**
   Using a crowbar grants advantage to Strength checks where the crowbar’s leverage can be applied.
 - **Earplugs.**
-  When the wearer chooses to use their earplugs they can add the result of a d4 to saving throws against attacks that depend on the target’s hearing (e.g. [Vicious Mockery](#Vicious_Mockery_vicious_mockery)).
-  However while they are wearing these, they have disadvantage on all hearing-related Wisdom (Perception) checks.
+  When the wearer chooses to use their earplugs they can add the result of a d4 to saving throws against attacks that depend on the target’s hearing (e.g. _[<span class="spell">Vicious Mockery</span>](#Vicious_Mockery_vicious_mockery)_).
+  However while they are wearing these, they have disadvantage on all hearing-related Wisdom (_Perception_) checks.
 - **Fishing Tackle.**
   This kit includes a wooden rod, silken line, corkwood bobbers, steel hooks, lead sinkers, velvet lures, and narrow netting.
 - **Healer’s Kit.**
   This kit is a leather pouch containing bandages, salves, and splints.
   The kit has ten uses.
-  As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+  As an action, you can expend one use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (_Medicine_) check.
 - **Holy Symbol.**
   A holy symbol is a representation of a god or pantheon.
   It might be an amulet depicting a symbol representing a deity, the same symbol carefully engraved or inlaid as an emblem on a shield, or a tiny box holding a fragment of a sacred relic.
@@ -87,7 +87,7 @@ This section describes items that have special rules or require further explanat
   As an action, you can lower the hood, reducing the light to dim light in a 5-foot radius.
 - **Lock.**
   A key is provided with the lock.
-  Without the key, a creature proficient with thieves’ tools can pick this lock with a successful DC 15 Dexterity check.
+  Without the key, a creature proficient with _Thieves’ Tools_ can pick this lock with a successful DC 15 Dexterity check.
   Your Conductor may decide that better locks are available for higher prices.
 - **Magnifying Glass.**
   This lens allows a closer look at small objects.
@@ -99,7 +99,7 @@ This section describes items that have special rules or require further explanat
   Escaping the manacles requires a successful DC 20 Dexterity check.
   Breaking them requires a successful DC 20 Strength check.
   Each set of manacles comes with one key.
-  Without the key, a creature proficient with thieves’ tools can pick the manacles’ lock with a successful DC 15 Dexterity check.
+  Without the key, a creature proficient with _Thieves’ Tools_ can pick the manacles’ lock with a successful DC 15 Dexterity check.
   Manacles have 15 hit points.
 - **Mess Kit.**
   This tin box contains a cup and simple cutlery.
@@ -118,7 +118,7 @@ This section describes items that have special rules or require further explanat
   Applying the poison takes an action.
   A creature hit by the poisoned weapon or ammunition must make a DC 10 Constitution saving throw or take `1d4` poison damage.
   Once applied, the poison retains potency for 1 minute before drying.
-- **Potion of Healing.**
+- **<span class="item item-Potion_of_Healing_potion_of_healing">Potion of Healing</span>.**
   A character who drinks the magical red fluid in this vial regains `2d4 + 2` hit points.
   Drinking or administering a potion takes an action.
 - **Pouch.**

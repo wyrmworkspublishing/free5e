@@ -16,7 +16,7 @@ Some might be recorded in ancient spellbooks or trapped in the minds of dead god
 ### Spell Level
 
 Spells have levels from 0 to 9, indicating their power.
-[Magic missile](#Magic_Missile_magic_missile) is 1st level, while [Wish](#Wish_wish) is 9th.
+_[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ is 1st level, while _[<span class="spell">Wish</span>](#Wish_wish)_ is 9th.
 Cantrips are simple but powerful spells cast almost by rote, level 0.
 Higher level spells require higher character level.
 Spell level and character level don’t directly correspond.
@@ -39,7 +39,7 @@ For instance, the 3rd-level Wizard Umara has four 1st-level and two 2nd-level sl
 
 When casting a spell, a character expends a slot of that level or higher, effectively filling it.
 A spell slot is a groove of a specific size, with 1st-level slots being the smallest and 9th-level slots being the largest.
-So, when Umara casts [Magic Missile](#Magic_Missile_magic_missile), a 1st-level spell, she spends one slot and has three remaining.
+So, when Umara casts _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_, a 1st-level spell, she spends one slot and has three remaining.
 
 Finishing a long rest restores expended spell slots.
 Some characters and monsters have special abilities that allow them to cast spells without using spell slots, such as Warlocks choosing certain eldritch invocations and pit fiends from the Nine Hells.
@@ -47,8 +47,8 @@ Some characters and monsters have special abilities that allow them to cast spel
 #### Casting a Spell at a Higher Level
 
 When a spellcaster casts a spell with a higher-level slot, the spell assumes that level.
-For example, if Umara casts [Magic Missile](#Magic_Missile_magic_missile) with a 2nd-level slot, it’s 2nd level.
-Some spells, like Magic Missile and [Cure Wounds](#Cure_Wounds_cure_wounds), have more powerful effects at higher levels, as detailed in the spell’s description.
+For example, if Umara casts _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ with a 2nd-level slot, it’s 2nd level.
+Some spells, like Magic Missile and _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_, have more powerful effects at higher levels, as detailed in the spell’s description.
 
 ### Casting in Armor <!-- In the WotC SRD, this is an info box. -->
 
@@ -99,7 +99,7 @@ To try again, start over.
 ### Range
 
 The target of a spell must be within its range.
-For example, [Magic Missile](#Magic_Missile_magic_missile) targets a creature, while [Fireball](#Fireball_fireball) targets the point of fire’s eruption.
+For example, _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ targets a creature, while _[<span class="spell">Fireball</span>](#Fireball_fireball)_ targets the point of fire’s eruption.
 
 Spell ranges are usually expressed in feet.
 Some spells target only a creature you touch, while others affect only you (self range).
@@ -183,7 +183,7 @@ If you’re in the spell’s area of effect, you can target yourself.
 
 ### Areas of Effect
 
-Spells like [Burning Hands](#Burning_Hands_burning_hands) and [Cone of Cold](#Cone_of_Cold_cone_of_cold) cover an area, affecting multiple creatures.
+Spells like _[<span class="spell">Burning Hands</span>](#Burning_Hands_burning_hands)_ and _[<span class="spell">Cone of Cold</span>](#Cone_of_Cold_cone_of_cold)_ cover an area, affecting multiple creatures.
 The spell’s description specifies its area of effect, which can be a cone, cube, cylinder, line, or sphere.
 Each shape has a point of origin, from which the spell’s energy erupts.
 The rules specify how to position the point of origin.
@@ -263,7 +263,7 @@ Some create phantom images, while others plant images directly in minds.
 
 **Necromancy** spells manipulate life and death energies.
 They grant life force reserves, drain life, create undead, or resurrect the dead.
-Creating undead through [Animate Dead](#Animate_Dead_animate_dead) is evil and rarely used.
+Creating undead through _[<span class="spell">Animate Dead</span>](#Animate_Dead_animate_dead)_ is evil and rarely used.
 
 **Transmutation** spells change properties, turning enemies into harmless creatures, bolstering allies, making objects move at will, or enhancing healing.
 
@@ -271,7 +271,7 @@ Creating undead through [Animate Dead](#Animate_Dead_animate_dead) is evil and r
 
 The effects of different spells combine while their durations overlap.
 However, the most potent effect from multiple castings applies while their durations overlap.
-For instance, if two Clerics cast [Bless](#Bless_bless) on the same target, the character gains the spell’s benefit only once, not twice.
+For instance, if two Clerics cast _[<span class="spell">Bless</span>](#Bless_bless)_ on the same target, the character gains the spell’s benefit only once, not twice.
 
 ## Spell Lists
 

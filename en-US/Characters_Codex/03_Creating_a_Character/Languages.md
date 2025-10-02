@@ -23,11 +23,11 @@ _Languages (table)_
 | Common            | Humans           | Common   | \| | Abyssal         | Demons              | Infernal  |
 | Dwarvish          | Dwarves          | Dwarvish | \| | Celestial       | Celestials          | Celestial |
 | Elvish            | Elves            | Elvish   | \| | Draconic        | Dragons, dragonborn | Draconic  |
-| Giant             | Ogres, Giants    | Dwarvish | \| | Deep Speech     | Aboleths, cloakers  | –         |
+| Giant             | <span class="monster monster-Ogre_ogre">Ogres</span>, <span class="monster monster-Giants_giants">Giants</span>    | Dwarvish | \| | Deep Speech     | <span class="monster monster-Aboleth_aboleth">Aboleths</span>, <span class="monster monster-Cloaker_cloaker">cloakers</span>  | –         |
 | Gnomish           | Gnomes           | Dwarvish | \| | Infernal        | Devils              | Infernal  |
 | Goblin            | Goblinoids       | Dwarvish | \| | Primordial      | Elementals          | Dwarvish  |
 | Halfling          | Halflings        | Common   | \| | Sylvan          | Fey creatures       | Elvish    |
-| Orc               | Orcs             | Dwarvish | \| | Undercommon     | Underworld traders  | Elvish    |
+| Orc               | <span class="monster monster-Orc_orc">Orcs</span>             | Dwarvish | \| | Undercommon     | Underworld traders  | Elvish    |
 
 ___
 
@@ -36,4 +36,4 @@ ___
 Sign languages are independent languages with their own grammars and vocabularies.
 If your character knows a sign language, they must learn it separately from a spoken or written language unless the campaign setting includes a signed form of that language.
 You must have at least one hand free to communicate by sign, and the creature you are communicating with must be able to see you.
-When attempting to make subtle signs to remain unnoticed, you must succeed on a Sleight of Hand check against the [passive Perception](#Ability_Checks_passive_checks) of observers.
+When attempting to make subtle signs to remain unnoticed, you must succeed on a Dexterity (_Sleight of Hand_) check against the [passive Wisdom (_Perception_)](#Ability_Checks_passive_checks) of observers.

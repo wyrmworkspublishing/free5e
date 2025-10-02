@@ -25,9 +25,9 @@ _2nd-level illusion_
 **Components:** V, S, M (an eyelash encased in gum arabic) \
 **Duration:** Concentration, up to 1 hour
 
-You wreathe a creature in an illusory veil, making it [imperceptible](#Conditions_imperceptible) to a sense of your choice (e.g., sight, hearing, one type of parasense).
-Anything the target is carrying or wearing is also imperceptible so long as it remains in the target’s possession.
+You wreathe a creature in an illusory veil, making it _[<span class="condition">imperceptible</span>](#Conditions_imperceptible)_ to a sense of your choice (e.g., sight, hearing, one type of parasense).
+Anything the target is carrying or wearing is also _<span class="condition">imperceptible</span>_ so long as it remains in the target’s possession.
 The spell’s effects end for a target that attacks or casts a spell.
 
 **At Higher Levels.**
-When you cast this spell using a spell slot of 3rd level or higher, you can either target one additional creature or cause one targeted creature to be imperceptible to an additional sense for each slot level above 2nd.
+When you cast this spell using a spell slot of 3rd level or higher, you can either target one additional creature or cause one targeted creature to be _<span class="condition">imperceptible</span>_ to an additional sense for each slot level above 2nd.

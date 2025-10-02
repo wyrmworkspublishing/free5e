@@ -1,3 +1,3 @@
 ##### Armor of Shadows
 
-You can cast [Mage Armor](#Mage_Armor_mage_armor) on yourself at will, without expending a spell slot or material components.
+You can cast _[<span class="spell">Mage Armor</span>](#Mage_Armor_mage_armor)_ on yourself at will, without expending a spell slot or material components.

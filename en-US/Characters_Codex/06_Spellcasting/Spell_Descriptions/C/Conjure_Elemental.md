@@ -26,7 +26,7 @@ _5th-level conjuration_
 You call forth an elemental servant.
 Choose an area of air, earth, fire, or water that fills a 10-foot cube.
 An elemental of challenge rating 5 or lower appropriate to the area you chose appears in an unoccupied space within 10 feet of it.
-For example, a fire elemental emerges from a bonfire, and an earth elemental rises up from the ground.
+For example, a <span class="monster monster-Fire_Elemental_fire_elemental">fire elemental</span> emerges from a bonfire, and an <span class="monster monster-Earth_Elemental_earth_elemental">earth elemental</span> rises up from the ground.
 The elemental disappears when it drops to 0 hit points or when the spell ends.
 
 The elemental is friendly to you and your companions for the duration.

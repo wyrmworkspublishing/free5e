@@ -11,10 +11,10 @@ In addition, the first time a hidden creature enters the fortified area, it make
 On a failed save, the creature inadvertently makes loud noises and is no longer hidden.
 \
 **Frontier Survival.**
-You are proficient in the Insight and Survival skills.
+You are proficient in the _Insight_ and _Survival_ skills.
 \
 **Strange Forager.**
-You gain expertise on any check made to determine whether something is poisonous.
+You gain [expertise](#Proficiency_Bonus_expertise) on any check made to determine whether something is poisonous.
 \
 **Languages.**
 You can understand and communicate in Common and two additional languages.
