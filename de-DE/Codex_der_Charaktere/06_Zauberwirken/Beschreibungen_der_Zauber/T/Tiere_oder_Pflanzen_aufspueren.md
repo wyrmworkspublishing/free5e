@@ -2,7 +2,7 @@
 <!-- markdownlint-disable link-image-reference-definitions -->
 <!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
 <!-- spell-checker:words animals locate plants -->
-[_metadata_:spell_name]:- "Tier oder Pflanze aufspüren"
+[_metadata_:spell_name]:- "Tiere oder Pflanzen aufspüren"
 [_metadata_:spell_name_english]:- "Locate Animals or Plants"
 [_metadata_:spell_school]:- "Erkenntniszauber"
 [_metadata_:spell_level]:- "2"

@@ -536,7 +536,7 @@
 
 [**Tier beherrschen**](./T/Tier_beherrschen.md)
 
-[**Tier oder Pflanze aufspüren**](./T/Tier_oder_Pflanze_aufspueren.md)
+[**Tier oder Pflanze aufspüren**](./T/Tiere_oder_Pflanzen_aufspueren.md)
 
 [**Tierbote**](./T/Tierbote.md)
 
