@@ -8,8 +8,6 @@ toclevels: 2
 ---
 # Free5e Character's Codex: Player’s Guide to Free5e
 
-Sign up to receive email updates at [https://wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard)
-
 [**Introduction**](./01_Introduction/Introduction.md)
 
 [**How to Play**](./02_How_to_Play/How_to_Play.md)
