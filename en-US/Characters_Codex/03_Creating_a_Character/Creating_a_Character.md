@@ -1,6 +1,6 @@
 # Creating a Character
 
-As a player, begin by creating a character on the character sheet in the back of this book or a color-coded one at <mark>[LINK]</mark>. <!-- Link to be determined -->
+As a player, begin by creating a character on the character sheet in the back of this book or a color-coded one at [Free5e.com](https://free5e.com).
 If you're using a paper copy, we recommend writing in an erasable medium like pencil.
 
 1. Think of a fantasy character concept that you'd like to play

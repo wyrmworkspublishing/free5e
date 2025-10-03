@@ -10,7 +10,7 @@ A level prerequisite refers to your level in this class.
 
 [**Ascendant Step**](./Eldritch_Invocations/Ascendant_Step.md)
 
-[**Beast Speech**](./Eldritch_Invocations/Beast_Speech.md)
+[**Beastial Accord**](./Eldritch_Invocations/Beastial_Accord.md)
 
 [**Beguiling Influence**](./Eldritch_Invocations/Beguiling_Influence.md)
 
