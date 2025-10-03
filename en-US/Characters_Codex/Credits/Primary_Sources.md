@@ -5,4 +5,6 @@ This project was made possible by [Sly Flourish](https://slyflourish.com/), [EN 
 We are deeply grateful for their contributions.
 
 It also includes original material from Wyrmworks Publishing.
-To keep up with new releases and updates, sign up at [wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard)
+To keep up with new releases and updates, sign up at [wyrmworkspublishing.com/hoard](https://wyrmworkspublishing.com/hoard).
+
+![Free5e.com](../../../assets/images/free5e.com-qr-code/free5e-hoard-qr-code-300px.png)

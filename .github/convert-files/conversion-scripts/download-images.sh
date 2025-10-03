@@ -20,9 +20,13 @@ function find_and_download_images {
         IMAGE_URL="${BASH_REMATCH[1]}"
         ALT_TEXT="${BASH_REMATCH[2]}"
         printf "${GREEN}Found URL ${IMAGE_URL} and alt text \"${ALT_TEXT}\" in inline image.${ENDCOLOR}\n"
-        curl --create-dirs -O --output-dir "${DOWNLOADED_IMAGES_DIR}" "${IMAGE_URL}"
-
         FILE_NAME="${IMAGE_URL##*/}"
+        if [ -f "${DOWNLOADED_IMAGES_DIR}/${FILE_NAME}" ]; then
+          echo "Image ${FILE_NAME} already exists, skipping download."
+        else
+          curl --create-dirs -O --output-dir "${DOWNLOADED_IMAGES_DIR}" "${IMAGE_URL}"
+        fi
+
         echo "Replacing ${IMAGE_URL} with ${DOWNLOADED_IMAGES_DIR}/${FILE_NAME} for inline images."
         sed -i'.imagepath.bak' -e "s|${IMAGE_URL}|${DOWNLOADED_IMAGES_DIR}/${FILE_NAME}|g" $adoc
       else
