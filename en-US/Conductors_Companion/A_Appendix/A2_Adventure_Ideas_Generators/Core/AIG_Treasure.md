@@ -18,7 +18,7 @@ Roll a `d10` to determine monetary treasure, or a `d20` for monetary and magical
 |     11     | Potion of Healing      |
 |     12     | Other potion           |
 |     13     | Scroll or spell scroll |
-|     14     | Bag of Holding         |
+|     14     | _<span class="item item-Bag_of_Holding_bag_of_holding">bag of holding</span>_ |
 |     15     | Wondrous item          |
 |     16     | Wand or rod            |
 |     17     | Magic light weapon     |
