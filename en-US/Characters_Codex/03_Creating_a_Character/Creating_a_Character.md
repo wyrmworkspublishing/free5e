@@ -18,7 +18,6 @@ If you're using a paper copy, we recommend writing in an erasable medium like pe
    (If you'd like to commission a professional portrait of your character, check the credits of this book for some great artists who love illustrating characters!)
 
 <!-- spell-checker:words flamberge -->
-<!-- This should be a sidebar -->
 > **Reflavor, Don't Rewrite**
 > \
 > Want your _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ to look like flying fish or your fighter to wield a wavy flamberge sword?
