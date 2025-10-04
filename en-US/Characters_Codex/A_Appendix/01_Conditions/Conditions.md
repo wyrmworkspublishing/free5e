@@ -91,7 +91,7 @@ The following rules are valid for each individual case:
 ### Nullified
 
 > **Note:**
-> This condition is not the same as being blind or deaf, the permanent disabilities, as most of the disadvantage is due to a sudden changes without time to adapt to them.
+> This condition is not the same as being blind or deaf, the permanent disabilities, as most of the disadvantage is due to sudden changes without time to adapt to them.
 > Blind and deaf creatures are more accustomed to using their other senses, and these disabilities each have a spectrum of experiences.
 
 When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of [parasense](#Exploration_Environment_parasense)).
