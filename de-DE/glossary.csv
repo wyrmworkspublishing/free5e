@@ -1,4 +1,5 @@
 Term,Usage & Notes,de-DE
+a grapple,,Haltegriff
 aberration,monster type,Aberration
 ability check,,Attributswurf
 ability checks,,Attributswürfe
@@ -46,7 +47,6 @@ bard,,Bard:in
 bard college,,Bardische Schule
 bard spells,spell list,Zauber der Bard:innen
 beast,,Tier
-blinded,condition,Geblendet
 bloodied,,angeschlagen
 bludgeoning damage,,Wuchtschaden
 bonus,,Bonus
@@ -111,7 +111,6 @@ darkness,,Dunkelheit
 darkvision,,Dunkelsicht
 dash,,Spurt / spurten
 dead,,tot
-deafened,condition,taub
 deal damage,,Schaden verursachen
 death saving throw,,Todesrettungswurf
 deception,skill,Täuschung
@@ -190,7 +189,6 @@ gnome,,Gnom:in
 gnomish,language,Gnomisch
 goblinoid,monster type,Goblinoid
 grab,verb,packen
-a grapple,,Haltegriff
 grappled,,gepackt
 grappling,,Ringen
 halfling,,Halbling
@@ -212,6 +210,8 @@ hunter,,Jäger:in
 illusion,,Illusion
 illusions,,Illusionen
 immunity,,Immunität
+impaired,condition,eingeschränkt
+imperceptible,condition,unbemerkbar
 improvised weapons,,Improvisierte Waffen
 incapacitated,,kampfunfähig
 increase,an ability score,"erhöhen, steigern"
@@ -225,7 +225,6 @@ interacting with objects around you,,mit Gegenständen interagieren
 intimidation,skill,Einschüchtern
 investigation,skill,Nachforschungen
 invisibility,,Unsichtbarkeit
-invisible,,unsichtbar
 jump,,springen
 large,,groß
 level advancement,,Stufenaufstieg
@@ -242,6 +241,7 @@ make,a check,einen Wurf ablegen
 making an attack,,"einen Angriff ausführen, angreifen"
 martial archetypes,,Kampfarchetypen
 martial disciplines,,Kampftraditionen
+martial ranged weapon,,Fernkampf-Kriegswaffe
 martial weapon,,Kriegswaffen
 martyr domain,,Domäne des Martyriums
 material,,Material
@@ -263,9 +263,10 @@ necromancy,,Nekromantie
 necrotic damage,damage,nekrotischer Schaden
 non-player character,,Nichtspielercharakter
 nonmagical,,nichtmagisch
+nullified,condition,unterdrückt
 oath of devotion,,Schwur der Hingabe
-oath of the exemplar,,Schwur des Exempels
 oath of duty,,Schwur der Pflicht
+oath of the exemplar,,Schwur des Exempels
 object,,Gegenstand
 observe,,beobachten
 occupied space,,besetzter Bereich
@@ -304,11 +305,10 @@ psychic damage,,Psychischer Schaden
 radiant damage,,gleißender Schaden
 rage,,Kampfrausch
 range,,Reichweite
-ranged weapon,,Fernkampfwaffe
-martial ranged weapon,,Fernkampf-Kriegswaffe
 ranged attack,,Fernkampfangriff
-ranged weapon attack,,Fernkampf-Waffenangriff
 ranged spell attack,,Fernkampf-Zauberangriff
+ranged weapon,,Fernkampfwaffe
+ranged weapon attack,,Fernkampf-Waffenangriff
 ranger,,Waldläufer:in
 ranger archetypes,,Archtypen der Wildnis
 ranger spells,spell list,Zauber der Waldläufer:innen
