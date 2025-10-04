@@ -12,7 +12,7 @@
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
 [_metadata_:components_material_description]:- "ruby dust worth 1,500 gp"
-[_metadata_:components_material_cost]:- "1,500 pg"
+[_metadata_:components_material_cost]:- "1,500 gp"
 [_metadata_:duration]:- "1 hour"
 [_metadata_:concentration]:- "false"
 [_metadata_:saving_throw]:- "Dexterity"
