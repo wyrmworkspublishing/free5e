@@ -43,6 +43,8 @@ The following tags are supported by the item_extractor python script:
 [_metadata_:charges]:- "Number of charges"
 [_metadata_:charge_reset]:- "When do charges reset?"
 [_metadata_:has_stat_block]:- "false"
+[_metadata_:adds_flying_speed]:- "false"
+[_metadata_:added_flying_speed]:- "equal to walking speed"
 
 If one item has multiple versions, these are numbered by adding a counter followed by a colon between `_metadata_:` and the specific information, e.g.
 
