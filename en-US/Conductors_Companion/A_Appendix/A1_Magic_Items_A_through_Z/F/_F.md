@@ -1,4 +1,12 @@
 ### F
+<!-- spell-checker:words Flamewell -->
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+[Figurine of Wondrous Power](./Figurine_of_Wondrous_Power.md)
+
+[Flame Tongue](./Flame_Tongue.md)
+
+[Flamewell’s Eye of Pairs](./Flamewells_Eye_of_Pairs.md)
+
+[Folding Boat](./Folding_Boat.md)
+
+[Frost Brand](./Frost_Brand.md)
