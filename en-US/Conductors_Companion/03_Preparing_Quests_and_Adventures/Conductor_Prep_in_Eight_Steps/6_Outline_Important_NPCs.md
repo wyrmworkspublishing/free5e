@@ -44,13 +44,13 @@ To really bring the NPC to life, you can then model their personality and rolepl
 ___
 Use the following table to choose a random ancestry for your NPC.
 
-| 1d10 | Ancestry | \| | 1d10 | Ancestry                         |
-|:----:|:---------|:--:|:----:|:---------------------------------|
-|   1  | Human    | \| |   6  | Mixed (Roll twice on this table) |
-|   2  | Elf      | \| |   7  | Gnome                            |
-|   3  | Dwarf    | \| |   8  | Orc                              |
-|   4  | Halfling | \| |   9  | Dragonborn                       |
-|   5  | Goblin   | \| |  10  | Tiefling                         |
+|  1d10 | Ancestry |  1d10  | Ancestry                         |
+|:-----:|:---------|:------:|:---------------------------------|
+| **1** | Human    |  **6** | Mixed (Roll twice on this table) |
+| **2** | Elf      |  **7** | Gnome                            |
+| **3** | Dwarf    |  **8** | Orc                              |
+| **4** | Halfling |  **9** | Dragonborn                       |
+| **5** | Goblin   | **10** | Tiefling                         |
 
 > **Tip:**
 > If you want a weighted distribution rather than an even one, you can always use the table for the spell _<span class="spell spell-Reincarnate_reincarnate">Reincarnate</span>_.
@@ -60,51 +60,51 @@ An NPC's worldview can help determine how they initially react to the characters
 Improvise DCs for social interaction ability checks based on that approach, with checks usually ranging between DC 10 (easy) and DC 20 (very hard).
 A default of DC 12 is usually a good choice.
 
-| 1d20 | Worldview     | \| | 1d20 | Worldview  |
-|:----:|:--------------|:--:|:----:|:-----------|
-|   1  | Surly         | \| |  11  | Cautious   |
-|   2  | Friendly      | \| |  12  | Roisterous |
-|   3  | Brash         | \| |  13  | Optimistic |
-|   4  | Elitist       | \| |  14  | Ignorant   |
-|   5  | Suspicious    | \| |  15  | Selfless   |
-|   6  | Carefree      | \| |  16  | Brazen     |
-|   7  | Loyal         | \| |  17  | Loving     |
-|   8  | Opportunistic | \| |  18  | Ambitious  |
-|   9  | Wide-eyed     | \| |  19  | Greedy     |
-|  10  | Humorous      | \| |  20  | Outgoing   |
+|  1d20  | Worldview     |  1d20  | Worldview  |
+|:------:|:--------------|:------:|:-----------|
+|  **1** | Surly         | **11** | Cautious   |
+|  **2** | Friendly      | **12** | Roisterous |
+|  **3** | Brash         | **13** | Optimistic |
+|  **4** | Elitist       | **14** | Ignorant   |
+|  **5** | Suspicious    | **15** | Selfless   |
+|  **6** | Carefree      | **16** | Brazen     |
+|  **7** | Loyal         | **17** | Loving     |
+|  **8** | Opportunistic | **18** | Ambitious  |
+|  **9** | Wide-eyed     | **19** | Greedy     |
+| **10** | Humorous      | **20** | Outgoing   |
 
 ___
 NPCs will often be most easily remembered by the players based on some unique aspect of their appearance or manners.
 
-| 1d20 | Appearance and Mannerisms           | \| | 1d20 | Appearance and Mannerisms                |
-|:----:|:------------------------------------|:--:|:----:|:-----------------------------------------|
-|   1  | Wild hair                           | \| |  11  | Feathered earring                        |
-|   2  | Scarred cheek                       | \| |  12  | Hands always tucked into flowing sleeves |
-|   3  | Body tattoos                        | \| |  13  | Spits a lot                              |
-|   4  | Smokes a pipe                       | \| |  14  | Shifty eyes                              |
-|   5  | Golden teeth                        | \| |  15  | Intense stare                            |
-|   6  | Clanking metal-soled boots          | \| |  16  | Snorts often                             |
-|   7  | Dashing clothes                     | \| |  17  | Facial tattoos                           |
-|   8  | Picks teeth                         | \| |  18  | Heavy beard                              |
-|   9  | Always veils one side of their face | \| |  19  | Long claw-like nails                     |
-|  10  | Multicolored eyes                   | \| |  20  | Half-shaved head                         |
+|  1d20  | Appearance and Mannerisms           |  1d20  | Appearance and Mannerisms                |
+|:------:|:------------------------------------|:------:|:-----------------------------------------|
+|  **1** | Wild hair                           | **11** | Feathered earring                        |
+|  **2** | Scarred cheek                       | **12** | Hands always tucked into flowing sleeves |
+|  **3** | Body tattoos                        | **13** | Spits a lot                              |
+|  **4** | Smokes a pipe                       | **14** | Shifty eyes                              |
+|  **5** | Golden teeth                        | **15** | Intense stare                            |
+|  **6** | Clanking metal-soled boots          | **16** | Snorts often                             |
+|  **7** | Dashing clothes                     | **17** | Facial tattoos                           |
+|  **8** | Picks teeth                         | **18** | Heavy beard                              |
+|  **9** | Always veils one side of their face | **19** | Long claw-like nails                     |
+| **10** | Multicolored eyes                   | **20** | Half-shaved head                         |
 
 ___
 Assign a profession to your NPC to add color to their stat block.
 The _<span class="monster monster-Commoner_commoner">commoner</span>_ is the default stat block for NPCs of this type.
 
-| 1d20 | Profession  | \| | 1d20 | Profession |
-|:----:|:------------|:--:|:----:|:-----------|
-|   1  | Farmer      | \| |  11  | Acolyte    |
-|   2  | Blacksmith  | \| |  12  | Sailor     |
-|   3  | Clerk       | \| |  13  | Mercenary  |
-|   4  | Merchant    | \| |  14  | Sage       |
-|   5  | Apothecary  | \| |  15  | Noble      |
-|   6  | Bandit      | \| |  16  | Artisan    |
-|   7  | Guide       | \| |  17  | Priest     |
-|   8  | Entertainer | \| |  18  | Veteran    |
-|   9  | Guard       | \| |  19  | Knight     |
-|  10  | Soldier     | \| |  20  | Mage       |
+|  1d20  | Profession  |  1d20  | Profession |
+|:------:|:------------|:------:|:-----------|
+|  **1** | Farmer      | **11** | Acolyte    |
+|  **2** | Blacksmith  | **12** | Sailor     |
+|  **3** | Clerk       | **13** | Mercenary  |
+|  **4** | Merchant    | **14** | Sage       |
+|  **5** | Apothecary  | **15** | Noble      |
+|  **6** | Bandit      | **16** | Artisan    |
+|  **7** | Guide       | **17** | Priest     |
+|  **8** | Entertainer | **18** | Veteran    |
+|  **9** | Guard       | **19** | Knight     |
+| **10** | Soldier     | **20** | Mage       |
 
 > **Tip:**
 > **Including Disabled NPCs** \
