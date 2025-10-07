@@ -19,8 +19,6 @@
 
 [Bjørn’s Extensive Crutches](./Bjorns_Extensive_Crutches.md)
 
-[Bolts of Slaying](./Bolts_of_Slaying.md)
-
 [Boots of Elvenkind](./Boots_of_Elvenkind.md)
 
 [Boots of Levitation](./Boots_of_Levitation.md)
