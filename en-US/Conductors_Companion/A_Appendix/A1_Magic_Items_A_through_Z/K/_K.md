@@ -1,4 +1,3 @@
 ### K
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+[K’myla’s Playful Fingerpaints](./Kmylas_Playful_Fingerpaints.md)
