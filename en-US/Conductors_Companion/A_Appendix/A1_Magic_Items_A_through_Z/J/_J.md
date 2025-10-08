@@ -1,4 +1,3 @@
 ### J
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+[Javelin of Lightning](./Javelin_of_Lightning.md)
