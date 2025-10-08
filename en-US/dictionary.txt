@@ -122,12 +122,14 @@ parasense*
 Passwall
 pegasi
 Polearm
+prepublished
 pseudodragon*
 psionic
 quarterstaff*
 quasit*
 Rantock
 reflavor
+reskin
 respirate
 reskin
 Restauration
@@ -174,6 +176,7 @@ unseelie
 warhammer*
 warhordling
 waterskin*
+werebear*
 wererat*
 Wizarding
 wodewose*
