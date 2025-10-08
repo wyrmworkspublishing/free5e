@@ -4,6 +4,8 @@
 
 [Ammunition, +1, +2, or +3](./Ammunition_plus.md)
 
+[Ammunition of Slaying](./Ammunition_of_Slaying.md)
+
 [Amulet of Health](./Amulet_of_Health.md)
 
 [Amulet of Proof against Detection and Location](./Amulet_of_Proof_against_Detection_and_Location.md)
@@ -23,5 +25,3 @@
 [Armor of Vulnerability](./Armor_of_Vulnerability.md)
 
 [Arrow-Catching Shield](./Arrow-Catching_Shield.md)
-
-[Arrow of Slaying](./Arrow_of_Slaying.md)
