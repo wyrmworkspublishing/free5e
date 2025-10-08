@@ -1,4 +1,5 @@
 ### L
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+[Lantern of Revealing](./Lantern_of_Revealing.md)
+
+[Luck Blade](./Luck_Blade.md)
