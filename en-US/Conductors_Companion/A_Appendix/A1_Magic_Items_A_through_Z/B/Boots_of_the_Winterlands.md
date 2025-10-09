@@ -1,3 +1,4 @@
+<!-- spell-checker:words Winterlands -->
 #### Boots of the Winterlands
 
 > **Warning**
