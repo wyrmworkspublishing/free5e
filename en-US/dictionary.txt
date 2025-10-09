@@ -45,6 +45,7 @@ dwarven
 Dwarvish
 Earthspeak
 efreet
+efreeti
 electrolocation
 elven
 Elvenkind

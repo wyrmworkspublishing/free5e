@@ -13,7 +13,10 @@ function find_and_download_images {
   mkdir -p "${DOWNLOADED_IMAGES_DIR}"
   echo "Images will be downloaded to $(pwd)/${DOWNLOADED_IMAGES_DIR}"
 
+  fileCounter=0;
   for adoc in $(find . -name '*.adoc'); do
+  fileCounter=$((fileCounter+1))
+    #echo "${fileCounter}. Processing images in ${adoc}..."
     while read -r inlineImageMacro ; do
       echo "Processing inline image ${inlineImageMacro}..."
       if [[ "${inlineImageMacro}" =~ ^image:(https?://[a-zA-Z0-9\._\/-]+)\[(.*)\]$ ]]; then
@@ -28,11 +31,11 @@ function find_and_download_images {
         fi
 
         echo "Replacing ${IMAGE_URL} with ${DOWNLOADED_IMAGES_DIR}/${FILE_NAME} for inline images."
-        sed -i'.imagepath.bak' -e "s|${IMAGE_URL}|${DOWNLOADED_IMAGES_DIR}/${FILE_NAME}|g" $adoc
+        sed -i'.imagepath.bak' -e "s|${IMAGE_URL}|${DOWNLOADED_IMAGES_DIR}/${FILE_NAME}|g" "$adoc"
       else
         printf "${RED}No URL found for inline image ${inlineImageMacro}${ENDCOLOR}\n"
       fi
-    done < <(grep '^image:http' $adoc)
+    done < <(grep '^image:http' "$adoc")
     while read -r blockImageMacro ; do
       echo "Processing block image ${blockImageMacro}..."
       if [[ "${blockImageMacro}" =~ ^image::(https?://[a-zA-Z0-9\._\/-]+)\[(.*)\]$ ]]; then
@@ -43,10 +46,14 @@ function find_and_download_images {
 
         FILE_NAME="${IMAGE_URL##*/}"
         echo "Replacing ${IMAGE_URL} with ${DOWNLOADED_IMAGES_DIR}/${FILE_NAME} for block images."
-        sed -i'.imagepath.bak' -e "s|${IMAGE_URL}|${DOWNLOADED_IMAGES_DIR}/${FILE_NAME}|g" $adoc
+        sed -i'.imagepath.bak' -e "s|${IMAGE_URL}|${DOWNLOADED_IMAGES_DIR}/${FILE_NAME}|g" "$adoc"
       else
         printf "${RED}No URL found for block image ${blockImageMacro}${ENDCOLOR}\n"
       fi
-    done < <(grep '^image::http' $adoc)
+    done < <(grep '^image::http' "$adoc")
+    if (( fileCounter % 50 == 0 )); then
+      # This seems to prevent errors that sometimes occur with grep after a certain number of scanned files.
+      sleep 0.01;
+    fi
   done
 }

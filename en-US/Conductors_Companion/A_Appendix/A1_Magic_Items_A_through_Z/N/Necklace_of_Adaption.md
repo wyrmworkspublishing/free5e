@@ -1,5 +1,4 @@
-<!-- spell-checker:words Winterlands -->
-#### Boots of the Winterlands
+#### Necklace of Adaption
 
 > **Warning**
 > This item has not yet been transferred from the Google Doc.
