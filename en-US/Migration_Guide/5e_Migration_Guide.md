@@ -299,7 +299,7 @@ It makes encounters more tactical, adding new ways for players and Conductors to
 
 _This is a modified version of the article [A New Look at Blindsight in DnD](https://wyrmworkspublishing.com/a-new-look-at-blindsight-in-dnd/?utm_source=migration-doc&utm_medium=document&utm_campaign=Free5e), published by Wyrmworks Publishing on August 19th 2025 and used with permission._
 
-### <a id="muteness-deafness"></a>Deaf and Nonverbal Characters
+### <a id="deaf-nonverbal"></a>Deaf and Nonverbal Characters
 
 Historically speaking, 5e has mostly assumed that player characters can speak by producing sounds with their mouths and understand language by hearing those sounds with their ears.
 While this will likely continue to be true for many characters, Free5e strives to be inclusive and thus make it not only possible but seamless to play characters who communicate in other ways.
