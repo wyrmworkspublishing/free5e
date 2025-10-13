@@ -57,7 +57,7 @@ When you cast the spell, choose one of the following effects.
 - **Overwhelm:**
   Each target must make an Intelligence save.
   On a failed save, the target is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ for 1 minute.
-  While incapacitated, the target can’t take actions, can’t understand what other creatures say, can’t read, and speaks only in gibberish.
+  While incapacitated, the target can’t take actions, can’t understand what other creatures say, can’t read, and communicates only in gibberish.
   The Conductor controls its movement, which is erratic.
 - **Pain:**
   Creatures in the area must succeed on a Constitution saving throw or become _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ for 1 minute.
