@@ -31,5 +31,5 @@ If the creature’s soul is free and willing, the creature is restored to life w
 This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died.
 The spell replaces damaged or missing organs and limbs.
 
-The spell can even provide a new body if the original no longer exists, in which case you must speak the creature’s name.
+The spell can even provide a new body if the original no longer exists, in which case you must speak or sign the creature’s name.
 The creature then appears in an unoccupied space you choose within 10 feet of you.
