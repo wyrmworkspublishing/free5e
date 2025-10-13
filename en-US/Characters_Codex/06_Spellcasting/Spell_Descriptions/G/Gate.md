@@ -29,6 +29,6 @@ Each portal is a one-sided circular opening from 5 to 25 feet in diameter.
 Entering either portal transports you to the portal on the other plane.
 Deities and other planar rulers can prevent portals from opening in their domains.
 
-When you cast this spell, you can speak the chosen name of a specific creature (not its nickname or title).
+When you cast this spell, you can speak or sign the chosen name of a specific creature (not its nickname or title).
 If that creature is on another plane, the portal opens next to it and draws it through to your side of the portal.
 This spell gives you no power over the creature, and it might choose to attack you, leave, or listen to you.
