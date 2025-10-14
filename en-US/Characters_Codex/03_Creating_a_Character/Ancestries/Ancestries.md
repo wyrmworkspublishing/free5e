@@ -24,10 +24,6 @@ Small characters may struggle with heavy weapons, as explained in ["Equipment"](
 \
 Your speed determines how far you can move when traveling (["Adventuring"](#Adventuring_adventuring)) and fighting ([“Combat”](#Combat_combat)).
 
-**Languages**
-\
-By virtue of your ancestry, your character can speak, read, and write certain languages.
-
 <!-- style:sidebar -->
 > **Senses** \
 > Most members of most ancestries (including all ancestries listed here) have _sight_ as a precise sense (as detailed in [the section "The Environment" in chapter 14: Exploration](#Exploration_Environment_pinpoint)).
