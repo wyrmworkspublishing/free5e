@@ -35,7 +35,7 @@ The spell damages specific types of trespassing creatures.
 Choose either radiant or necrotic damage and one or more of celestials, elementals, fey, fiends, and undead.
 When such a creature first enters the area on a turn or starts its turn there, it takes `5d10` damage of the type you chose.
 You may also designate a password.
-A creature speaking this password as it enters takes no damage from the spell.
+A creature speaking or signing this password as it enters takes no damage from the spell.
 
 After casting this spell on the same area for 30 consecutive days it becomes permanent until dispelled.
 This final casting to make the spell permanent consumes its material components.
