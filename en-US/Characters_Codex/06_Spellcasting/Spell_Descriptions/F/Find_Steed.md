@@ -30,7 +30,7 @@ Its statistics change in the following ways:
 - Its size is your choice of Medium or Large.
 - Its Intelligence is 6.
 - You can communicate with it telepathically while it’s within 1 mile.
-- It understands one language that you speak.
+- It understands one language that you speak or sign.
 
 While mounted on your steed, when you cast a spell that targets only yourself, you may also target the steed.
 
