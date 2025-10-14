@@ -29,13 +29,13 @@ You attempt to reshape another creature's memories.
 One creature that you can pinpoint must make a Wisdom saving throw.
 If you are fighting the creature, it has advantage on the saving throw.
 On a failed save, the target becomes charmed by you for the duration.
-The charmed target is incapacitated and unaware of its surroundings, though it can still hear you.
+The charmed target is incapacitated and unaware of its surroundings, though it can still see or hear you.
 If it takes any damage or is targeted by another spell while charmed, this spell ends, and the target's memories are unchanged.
 
 While this charm lasts, you can affect the target’s memory of an event within the last 24 hours that lasted no more than 10 minutes.
 You can permanently erase it, make it recall it perfectly, change its details, or create a new memory.
 
-You speak to the target to describe how its memories are affected.
+You speak or sign to the target to describe how its memories are affected.
 It must understand your language for the modified memories to take root.
 Its mind fills in any gaps in your description.
 If the spell ends before you finish, the creature’s memory remains unchanged.
