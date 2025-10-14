@@ -147,7 +147,7 @@ When you finish a short or long rest, you regain your expended uses.
 
 ###### Channel Divinity: Turn Undead
 
-As an action, you present your holy symbol and speak a prayer censuring the undead.
+As an action, you present your holy symbol and speak or sign a prayer censuring the undead.
 Each undead that can pinpoint you within 30 feet of you must make a Wisdom saving throw.
 If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
 
