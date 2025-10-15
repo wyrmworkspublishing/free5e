@@ -12,7 +12,7 @@ Once you reach 3rd level, you can cast _[<span class="spell">Blur</span>](#Blur_
 At 5th level, you can cast _[<span class="spell">Major Image</span>](#Major_Image_major_image)_ once per long rest.
 You don’t need material components for these spells, and when casting them your spellcasting ability is Intelligence or Wisdom (whichever is higher).
 \
-**Small Beast Speech.**
+**Friend of Fur and Feather.**
 You have an innate ability to communicate simple thoughts and ideas with beasts of size Small or smaller.
 \
 **Languages.**
