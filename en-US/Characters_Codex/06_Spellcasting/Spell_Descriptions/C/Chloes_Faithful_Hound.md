@@ -33,6 +33,6 @@ The hound persists at that point until the spell ends, you spend an action to di
 
 The hound is _[<span class="condition">imperceptible (sight)</span>](#Conditions_imperceptible)_ except to you and invulnerable to all harm.
 When a Small or larger creature enters the area without speaking or signing a password you have chosen, the hound starts barking.
-The hound sees _[<span class="condition">imperceptible</span>](#Conditions_imperceptible)_ creatures, can see into the [Ethereal Plane](#Planes_of_Existence_planes_of_existence), and is immune to illusions.
+The hound sees _[<span class="condition">imperceptible (sight)</span>](#Conditions_imperceptible)_ creatures, can see into the [Ethereal Plane](#Planes_of_Existence_planes_of_existence), and is immune to illusions.
 
 At the start of each of your turns, the hound makes a bite attack against a hostile creature of your choice that is within the area, using your spell attack bonus and dealing `4d8` piercing damage on a hit.
