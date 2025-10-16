@@ -15,7 +15,7 @@
 [_metadata_:concentration]:- "false"
 [_metadata_:saving_throw]:- "Charisma"
 [_metadata_:saving_throw_success]:- "avoids_effect"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level enchantment_
