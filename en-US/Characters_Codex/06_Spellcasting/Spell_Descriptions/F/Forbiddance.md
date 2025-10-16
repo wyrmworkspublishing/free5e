@@ -18,7 +18,8 @@
 [_metadata_:damage_formula]:- "5d10"
 [_metadata_:damage_type]:- "radiant or necrotic"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _6th-level abjuration (ritual)_
 
