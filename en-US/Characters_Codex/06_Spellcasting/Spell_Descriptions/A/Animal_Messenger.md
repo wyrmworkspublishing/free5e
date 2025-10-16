@@ -24,7 +24,7 @@ _2nd-level enchantment (ritual)_
 **Components:** V, S, M (tightly rolled strip of paper) \
 **Duration:** 24 hours
 
-You whisper or sign a message of 25 words or less to a tiny beast, along with directions to a location you have visited and a brief description of the message’s recipient.
+You whisper or discretely sign a message of 25 words or less to a tiny beast, along with directions to a location you have visited and a brief description of the message’s recipient.
 
 For the duration of the spell, the messenger travels towards the location at a rate of 50 miles per day for a messenger with a flying speed, or else 25 miles without.
 
