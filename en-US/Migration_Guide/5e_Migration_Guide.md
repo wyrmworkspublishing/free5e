@@ -261,7 +261,7 @@ Here’s the key difference:
 If that sense is disrupted, parasense is disrupted.
 
 - A bat’s parasense (auditory echolocation) fails in a _Silence_ spell.
-- A shark’s parasense (electrical) is scrambled by electrical or magnetic interference.
+- A shark’s parasense (electrolocation) is scrambled by electrical or magnetic interference.
 - A shrieker’s spore detection is blown away by a _Gust of Wind_.
 
 This small change solves the problems blindsight could never handle:
@@ -282,8 +282,8 @@ Here’s how we wrote it:
 
 - A **worg** in total darkness can still stalk prey using its parasense (scent + hearing), but strong winds may throw it off.
 - A **water elemental** can detect movement of fluids, like blood in nearby creatures, but gargoyles are invisible to them.
-- An **ooze** with chemical parasense knows when prey is nearby, but alchemical neutralizers can hide a target.
-- A **shark** can track adventurers in murky water using electrical parasense, but a lightning ward or magnetic interference could block it.
+- An **ooze** with parasense (chemoreception) knows when prey is nearby, but alchemical neutralizers can hide a target.
+- A **shark** can track adventurers in murky water using parasense (electroreception), but a lightning ward or magnetic interference could block it.
 
 Parasense doesn’t just add detail.
 It makes encounters more tactical, adding new ways for players and Conductors to interact with creatures.
