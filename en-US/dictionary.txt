@@ -26,6 +26,7 @@ Bragolbeleg
 Carceri
 celestial*
 Cerilsen
+chemoreception
 cloaker*
 Cloudkill
 Coreador
@@ -77,6 +78,7 @@ headwear
 hightened
 hippogriff*
 humanlike
+hydroreception
 Hyperlegible
 inclusivity
 Ignan
