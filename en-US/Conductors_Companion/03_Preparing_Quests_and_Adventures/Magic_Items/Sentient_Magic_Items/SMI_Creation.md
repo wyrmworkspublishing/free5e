@@ -31,11 +31,11 @@ You can select its precise senses or roll on the following tables.
 | 18-32  | Hearing                             |
 | 33-42  | Smell                               |
 | 43-52  | Darkvision                          |
-| 53-60  | Parasense (auditory echolocation)   |
-| 61-68  | Parasense (baroreception)           |
-| 69-76  | Parasense (thermoreception)         |
-| 77-84  | Parasense (electrolocation)         |
-| 85-94  | Parasense (magoreception)           |
+| 53-60  | Parasense: auditory echolocation    |
+| 61-68  | Parasense: baroreception            |
+| 69-76  | Parasense: thermoreception          |
+| 77-84  | Parasense: electrolocation          |
+| 85-94  | Parasense: magoreception            |
 | 95-100 | Truesight                           |
 
 | 1d10 | Distance       |
