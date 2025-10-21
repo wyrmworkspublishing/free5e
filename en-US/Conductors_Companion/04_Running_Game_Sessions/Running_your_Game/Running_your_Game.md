@@ -1,7 +1,8 @@
 ## Running your Game
 
-> **Warning**
-> We probably want some kind of introduction to the topic here.
+Once your campaign is ready, you bring it to life at the table.
+You guide the story, manage the play’s rhythm, and respond to players’ choices while keeping the world consistent and alive.
+These reminders help you stay focused and flexible.
 
 - Relax
 - Focus on your strong start
@@ -24,12 +25,13 @@
 >
 > You don’t need a VTT to play online—some groups just use voice, video, or text chat, sometimes with shared whiteboard, documents, or dice rollers.
 > Choose whatever gives your players a clear, accessible, shared game experience.
-<!-- blank line -->
-> **Warning**
-> This section has not yet been fully transferred from the Google Doc.
+
+[Prepare Your Mind](./Prepare_Your_Mind.md)
+
+[Embrace the Conductor's Truths](./Conductors_Truths.md)
+
+[RPG Tricks](./RPG_Tricks.md)
 
 [Variant Rule: Doom](./Variant_Doom.md)
 
 [Stars and Wishes](./Stars_and_Wishes.md)
-
-[Other Quick Tricks](./Other_Quick_Tricks.md)
