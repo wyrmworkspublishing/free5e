@@ -86,7 +86,7 @@ However, the creature can’t discern color in darkness, only shades of gray.
 
 A creature with parasense can pinpoint and observe its surroundings within a defined area (e.g., 60 ft. cone) without using sight.
 This sense depends on a supporting sense, like hearing, sensitivity to pressure, or specific magic or energy types.
-It may be disrupted by effects that interfere with that sense (e.g., _[<span class="spell">Silence</span>](#Silence_silence)_ for auditory echolocation, strong wind for air pressure).
+It may be disrupted by effects that interfere with that sense (e.g., _[<span class="spell">Silence</span>](#Silence_silence)_ for auditory echolocation, strong wind for baroreception).
 Parasense reveals position and general features but not fine detail.
 
 #### Truesight
