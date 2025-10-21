@@ -283,7 +283,7 @@ Here’s how we wrote it:
 - A **worg** in total darkness can still stalk prey using its parasense: scent + hearing, but strong winds may throw it off.
 - A **water elemental** can detect movement of fluids, like blood in nearby creatures, but gargoyles are invisible to them.
 - An **ooze** with parasense: chemoreception knows when prey is nearby, but alchemical neutralizers can hide a target.
-- A **shark** can track adventurers in murky water using parasense: electroreception, but a lightning ward or magnetic interference could block it.
+- A **shark** can track adventurers in murky water using parasense: electrolocation, but a lightning ward or magnetic interference could block it.
 
 Parasense doesn’t just add detail.
 It makes encounters more tactical, adding new ways for players and Conductors to interact with creatures.
