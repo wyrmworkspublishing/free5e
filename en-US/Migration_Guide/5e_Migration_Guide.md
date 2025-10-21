@@ -260,8 +260,8 @@ Here’s the key difference:
 **parasense is always tied to its supporting sense.**
 If that sense is disrupted, parasense is disrupted.
 
-- A bat’s parasense (auditory echolocation) fails in a _Silence_ spell.
-- A shark’s parasense (electrical) is scrambled by electrical or magnetic interference.
+- A bat’s parasense: auditory echolocation fails in a _Silence_ spell.
+- A shark’s parasense: electrolocation is scrambled by electrical or magnetic interference.
 - A shrieker’s spore detection is blown away by a _Gust of Wind_.
 
 This small change solves the problems blindsight could never handle:
@@ -280,10 +280,10 @@ Here’s how we wrote it:
 
 #### <a id="examples-in-play"></a>Examples in Play
 
-- A **worg** in total darkness can still stalk prey using its parasense (scent + hearing), but strong winds may throw it off.
+- A **worg** in total darkness can still stalk prey using its parasense: scent + hearing, but strong winds may throw it off.
 - A **water elemental** can detect movement of fluids, like blood in nearby creatures, but gargoyles are invisible to them.
-- An **ooze** with chemical parasense knows when prey is nearby, but alchemical neutralizers can hide a target.
-- A **shark** can track adventurers in murky water using electrical parasense, but a lightning ward or magnetic interference could block it.
+- An **ooze** with parasense: chemoreception knows when prey is nearby, but alchemical neutralizers can hide a target.
+- A **shark** can track adventurers in murky water using parasense: electroreception, but a lightning ward or magnetic interference could block it.
 
 Parasense doesn’t just add detail.
 It makes encounters more tactical, adding new ways for players and Conductors to interact with creatures.
@@ -510,11 +510,11 @@ So using the new [parasense](#parasense) mechanic and the new _nullified_ condit
 > |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 > |  2 (-4) | 15 (+2) |  8 (-1) |  2 (-4) | 12 (+1) |  3 (-3) |
 >
-> **Senses** <mark>parasense (auditory echolocation) 60 ft.</mark>, passive Perception 11 \
+> **Senses** <mark>parasense: auditory echolocation 60 ft.</mark>, passive Perception 11 \
 > **Languages** — \
 > **Challenge** 0 (10 XP)
 >
-> **_Echolocation._** The bat can't use its <mark>parasense (auditory echolocation)</mark> while <mark>nullified (hearing) or nullified (parasense: auditory echolocation)</mark>. \
+> **_Echolocation._** The bat can't use its <mark>parasense: auditory echolocation</mark> while <mark>nullified (hearing) or nullified (parasense: auditory echolocation)</mark>. \
 > **_Keen Hearing._** The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 >
 > **Actions** \
@@ -522,7 +522,7 @@ So using the new [parasense](#parasense) mechanic and the new _nullified_ condit
 > _Melee Weapon Attack:_ +0 to hit, reach 5 t., one creature.
 > _Hit:_ 1 piercing damage.
 
-If such a bat were under the _impaired (hearing)_ or _impaired (parasense, auditory echolocation)_ condition, its passive Perception would be reduced by 5, and even with its **_Keen Hearing_** feature, it would suffer a numeric penalty between -1 and -5 (-2 unless stated otherwise) on any perception check that relies on hearing.
+If such a bat were under the _impaired (hearing)_ or _impaired (parasense: auditory echolocation)_ condition, its passive Perception would be reduced by 5, and even with its **_Keen Hearing_** feature, it would suffer a numeric penalty between -1 and -5 (-2 unless stated otherwise) on any perception check that relies on hearing.
 
 <!-- TODO Add examples for the imperceptible condition -->
 
