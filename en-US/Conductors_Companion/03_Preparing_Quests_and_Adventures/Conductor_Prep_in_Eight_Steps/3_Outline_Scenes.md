@@ -6,6 +6,28 @@ However, as Conductors, all of us must always be ready to throw our potential sc
 Usually, it's enough to come up with only a few words per scene, and to expect one or two scenes per hour of play.
 At other times, you might skip this step completely if you don't think you need it.
 
+<!-- style:sidebar -->
+> **Tiers of Play** \
+> Adventuring changes as characters grow in power.
+> Each tier marks a shift in scope, tone, and challenge, guiding the kinds of stories and threats that make sense for that stage of play.
+>
+> - **Tier 0 (Level 1).**
+>   New adventurers test their skills and survive their first real dangers.
+>   The focus is local—villages, training, and personal motivation.
+> - **Tier 1 (Levels 2–4).**
+>   Characters begin to make a name for themselves.
+>   Challenges threaten towns or small regions, and rewards often come from gratitude and modest treasure.
+> - **Tier 2 (Levels 5–10).**
+>   Adventurers shape events across kingdoms.
+>   They face legendary monsters and gain access to greater magic, resources, and recognition.
+> - **Tier 3 (Levels 11–16).**
+>   The adventurers become legendary.
+>   They confront threats that endanger nations or planes.
+>   Their actions shift political powers and cosmic balances.
+> - **Tier 4 (Levels 17–20).**
+>   Few mortals reach this height.
+>   Their deeds alter worlds, challenge gods, and decide the fate of existence itself.
+
 #### Quest Templates
 
 Quest templates are general-purpose designs around which you can build specific quests for your own game, using adventure archetypes that have been standard for more than forty years in RPGs.
