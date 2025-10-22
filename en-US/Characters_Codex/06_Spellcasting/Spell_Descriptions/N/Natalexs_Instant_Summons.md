@@ -28,7 +28,7 @@ _6th-level conjuration (ritual)_
 **Duration:** Until dispelled
 
 Until the spell ends, a mystical bond connects one object weighing no more than 10 pounds and the precious stone used to cast this spell.
-Any time after, you may crush the stone and speak the name of the item, summoning it instantly into your hand no matter the physical, metaphysical, or planar distance, at which point the spell ends.
+Any time after, you may crush the stone and speak or sign the name of the item, summoning it instantly into your hand no matter the physical, metaphysical, or planar distance, at which point the spell ends.
 If another creature is holding the item when the stone is crushed, the item is not summoned to you.
 Instead, the spell grants you the knowledge of who possesses it and a general idea of the creature’s location.
 

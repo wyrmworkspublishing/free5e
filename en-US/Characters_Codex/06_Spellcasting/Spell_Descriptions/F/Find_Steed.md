@@ -13,7 +13,7 @@
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
+[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _2nd-level conjuration_
 
@@ -30,7 +30,7 @@ Its statistics change in the following ways:
 - Its size is your choice of Medium or Large.
 - Its Intelligence is 6.
 - You can communicate with it telepathically while it’s within 1 mile.
-- It understands one language that you speak.
+- It understands one language that you speak or sign.
 
 While mounted on your steed, when you cast a spell that targets only yourself, you may also target the steed.
 

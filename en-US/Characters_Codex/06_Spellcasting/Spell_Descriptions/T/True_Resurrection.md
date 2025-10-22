@@ -15,7 +15,7 @@
 [_metadata_:components_material_cost]:- "25,000 gp"
 [_metadata_:duration]:- "Instantaneous"
 [_metadata_:concentration]:- "false"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_same"
+[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
 [_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _9th-level necromancy_
@@ -31,5 +31,5 @@ If the creature’s soul is free and willing, the creature is restored to life w
 This spell closes all wounds, neutralizes any poison, cures all diseases, and lifts any curses affecting the creature when it died.
 The spell replaces damaged or missing organs and limbs.
 
-The spell can even provide a new body if the original no longer exists, in which case you must speak the creature’s name.
+The spell can even provide a new body if the original no longer exists, in which case you must speak or sign the creature’s name.
 The creature then appears in an unoccupied space you choose within 10 feet of you.

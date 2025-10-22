@@ -29,7 +29,7 @@ _Draconic Ancestry (table)_
 
 ___
 
-You can speak, read, and write Draconic.
+You can understand and communicate in Draconic.
 Additionally, whenever you make a Charisma check when interacting with dragons, your proficiency bonus is doubled if it applies to the check.
 
 ###### Draconic Resilience (every Level)

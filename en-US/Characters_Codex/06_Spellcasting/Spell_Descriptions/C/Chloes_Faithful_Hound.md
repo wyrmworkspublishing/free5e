@@ -31,8 +31,8 @@ _4th-level conjuration_
 You conjure a phantasmal hound in an unoccupied space you can pinpoint.
 The hound persists at that point until the spell ends, you spend an action to dismiss it, or you move more than 100 feet away from it.
 
-The hound is invisible except to you and invulnerable to all harm.
-When a Small or larger creature enters the area without speaking a password you have chosen, the hound starts barking.
-The hound sees invisible creatures, can see into the [Ethereal Plane](#Planes_of_Existence_planes_of_existence), and is immune to illusions.
+The hound is _[<span class="condition">imperceptible (sight)</span>](#Conditions_imperceptible)_ except to you and invulnerable to all harm.
+When a Small or larger creature enters the area without speaking or signing a password you have chosen, the hound starts barking.
+The hound sees _[<span class="condition">imperceptible (sight)</span>](#Conditions_imperceptible)_ creatures, can see into the [Ethereal Plane](#Planes_of_Existence_planes_of_existence), and is immune to illusions.
 
 At the start of each of your turns, the hound makes a bite attack against a hostile creature of your choice that is within the area, using your spell attack bonus and dealing `4d8` piercing damage on a hit.

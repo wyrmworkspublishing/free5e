@@ -56,7 +56,7 @@ You can end this effect on your turn as part of any other action.
 If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 \
 **Turn the Unholy.**
-As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using your Channel Divinity.
+As an action, you present your holy symbol and speak or sign a prayer censuring fiends and undead, using your Channel Divinity.
 Each fiend or undead that can sense you within 30 feet of you must make a Wisdom saving throw.
 If the creature fails its saving throw, it is turned for 1 minute or until it takes damage.
 
