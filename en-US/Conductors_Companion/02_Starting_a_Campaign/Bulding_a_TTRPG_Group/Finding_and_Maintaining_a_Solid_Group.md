@@ -6,5 +6,3 @@ This section offers suggestions for finding players that fit well with your grou
 [Finding Players](./Finding_Players.md)
 
 [Selecting Players](./Selecting_Players.md)
-
-[Flexible Numbers of Players and On-Call Players](./Flexible_Numbers_of_Players_and_On-Call_Players.md)
