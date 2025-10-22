@@ -16,6 +16,8 @@ A level prerequisite refers to your level in this class.
 
 [**Bewitching Whispers**](./Eldritch_Invocations/Bewitching_Whispers.md)
 
+[**Bond of the Chain Master**](./Eldritch_Invocations/Bond_of_the_Chain_Master.md)
+
 [**Book of Ancient Secrets**](./Eldritch_Invocations/Book_of_Ancient_Secrets.md)
 
 [**Chains of Carceri**](./Eldritch_Invocations/Chains_of_Carceri.md)
@@ -61,8 +63,6 @@ A level prerequisite refers to your level in this class.
 [**Thirsting Blade**](./Eldritch_Invocations/Thirsting_Blade.md)
 
 [**Visions of Distant Realms**](./Eldritch_Invocations/Visions_of_Distant_Realms.md)
-
-[**Voice of the Chain Master**](./Eldritch_Invocations/Voice_of_the_Chain_Master.md)
 
 [**Whispers of the Grave**](./Eldritch_Invocations/Whispers_of_the_Grave.md)
 

@@ -1,4 +1,4 @@
-##### Voice of the Chain Master
+##### Bond of the Chain Master
 
 **Prerequisite:**
 [Pact of the Chain](#Pact_of_the_Chain_pact_of_the_chain) feature
