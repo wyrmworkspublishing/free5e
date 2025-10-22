@@ -17,4 +17,4 @@ A village always works well as a starting location, but there are many alternati
 |   9  | Planar hub city      |
 |  10  | Crumbling fortress   |
 
-The Village of Whitesparrow from [Appendix C](#Sample_Location_sample_location) could be a great starting location, or inspiration for one of your own making.
+The Village of Whitesparrow from [Appendix C](#Sample_Location_sample_location) could be a great starting location or inspiration for one of your own making.
