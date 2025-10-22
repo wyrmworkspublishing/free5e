@@ -79,7 +79,7 @@ If your Strength drops below 13, you can’t use the Grappler feat until it’s 
 
 [Primordial Caster](./Feats/Primordial_Caster.md)
 
-[Rallying Speaker](./Feats/Rallying_Speaker.md)
+[Rallying Call](./Feats/Rallying_Call.md)
 
 [Resonant Bond](./Feats/Resonant_Bond.md)
 
