@@ -10,38 +10,152 @@ You can use the generator in this section to quickly build NPCs to drop into you
 To really bring the NPC to life, you can then model their personality and roleplaying off characters from your favorite books, TV shows, or movies, switching up gender and other traits to make them feel fresh.
 
 <!-- style:sidebar -->
-> **Sample Names** \
-> There are many ways to name your NPCs.
-> For example, you can take names of people you know and spelling them backwards.
-> Alternatively, you can use an online name generator, a book of names, or one of the following names:
-> <!-- spell-checker:disable -->
+> **NPC Name Generator** \
+> When you need a name fast, roll or pick from these tables.
+> Between sessions, use them to create a list so you can instantly answer when your players ask for the name of an unplanned NPC.
+> _Quick Steps_
 >
-> |            |       |          |               |        |         |           |
-> |:-----------|:------|:---------|:--------------|:-------|:--------|:----------|
-> | Hollyfang  | Ryan  | Cunovin  | Emeraldstorm  | Sanche | Pulmia  | Samantha  |
-> | Lawknocker | Poine | Aegipan  | Sharpwhisker  | Taran  | Nireus  | Icebrood  |
-> | Anvilcloud | Sabra | Parnell  | Rainsoother   | Lowell | Clifton | Lionfall  |
-> | Somerhild  | Halia | Leofwen  | Earthdancer   | Boyle  | Margry  | Bellinda  |
-> | Eupalamos  | Cared | Godebert | Wynefreede    | Peter  | Derkos  | Savannah  |
-> | Heromaker  | Toril | Osborne  | Goosewalker   | Arnald | Claudia | Lapithes  |
-> | Dragonknee | Paul  | Redspur  | Shadowblood   | Neale  | Timothy | Halisera  |
-> | Macebound  | Hilda | Denston  | Brightwhisper | Hailey | Bayard  | Goldbane  |
-> | Moongazer  | Drew  | Caroline | Shieldrazor   | Vesta  | Turstin | Fireheart |
-> | Hildegard  | Jeger | Goddard  | Glasscleaver  | Roger  | Judithe | Mudteeth  |
-> | Wyrmriver  | Maya  | Beneger  | Anthonette    | Symond | Radolf  | Nicholas  |
-> | Guinevere  | Dauid | Chulisa  | Swiftcaller   | Meryll | Avelin  | Reothine  |
-> | Lightblade | Chase | Jocelyn  | Goblinchaser  | Kaylee | Hudson  | Halstein  |
-> | Catfinger  | Sadie | Sybaris  | Angelbright   | Josiah | Latisha | Thornhelm |
-> | Ebondazer  | Tansa | Rycheld  | Spiderhunter  | Franny | Stella  | Randwulf  |
-> | Flamestar  | Jayce | Cullive  | Cloudlover    | Albin  | Gerland | Tantalos  |
-> | Nicholina  | Bryde | Madison  | Swordbuckle   | Edmund | Sysley  | Johannes  |
-> | Graywillow | Aisa  | Annabel  | Bronzestone   | Sydnee | Lausus  | Isemeine  |
-> | Thelexion  | Sulen | Teukros  | Monsterthumb  | Colton | Florens | Millhand  |
-> | Whitetail  | Levi  | Maronne  | Doombrissle   | Raffe  | Sighard | Sebastian |
+> 1. Roll 1d20 on the Name Order Table (or pick).
+> 2. Roll or choose from the Sound, Word, and Particle tables as the structure suggests.
+>    - Each Sound or Word may use one or more rolls from its table to lengthen or shorten names.
+>    - Combine freely — add Particles for connection and apply a Tone for regional flavor.
+> 3. Apply a Tone (optional) for sound and style.
+> 4. Combine, tweak, and you’re done.
+>
+> <!-- spell-checker:disable -->
+> **Examples:** Aelrion Brightflood, MacEmberbloom, Zhalumyn Ironpath, Ben’Torvenson, Shae called Thornvale
+>
+> ___
+> <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+> _Name Order (table)_
+>
+> | d20 | Structure                      | Example                   |
+> |:---:|:-------------------------------|:--------------------------|
+> |  1  | Sound                          | Aelrion                   |
+> |  2  | Word                           | Ironheart                 |
+> |  3  | Sound + Word                   | Torven Brightthorn        |
+> |  4  | Word + Sound                   | Ember Aelrin              |
+> |  5  | Prefix + Sound                 | Al’Renis                  |
+> |  6  | Prefix + Word                  | MacEmberthorn             |
+> |  7  | Sound + Suffix                 | Zhalumynson               |
+> |  8  | Word + Suffix                  | Brightthornvale           |
+> |  9  | Prefix + Sound + Suffix        | Ibn’Torvenenson           |
+> | 10  | Prefix + Word + Suffix         | VanStarbloomhaven         |
+> | 11  | Sound + Linker + Word          | Aelrion called Stoneheart |
+> | 12  | Word + Linker + Word           | Ember of the Crag         |
+> | 13  | Prefix + Sound + Word          | Al’Aelrion Thorn          |
+> | 14  | Sound + Linker + Sound         | Vei sworn to Toren        |
+> | 15  | Word + Linker + Sound          | Flame of Aelrin           |
+> | 16  | Prefix + Sound + Linker + Word | MacAelren the Ironpath    |
+> | 17  | Sound + Word + Suffix          | Torven Emberthornkin      |
+> | 18  | Prefix + Word + Linker + Word  | Ben’Iron over Riverstone  |
+> | 19  | Word + Sound + Suffix          | Storm Aelvenholt          |
+> | 20  | Prefix + Sound + Word + Suffix | Ibn’Zhalumyn Thornvale    |
+>
+> ___
+> <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+> _Sound (table)_
+>
+> | d20 | Prefix | Core | Suffix |
+> |:---:|:-------|:-----|:-------|
+> |  1  | Ael    | dra  | na     |
+> |  2  | Ka     | lin  | en     |
+> |  3  | Ri     | vel  | is     |
+> |  4  | Su     | mar  | or     |
+> |  5  | Tor    | nos  | an     |
+> |  6  | Vyn    | shi  | el     |
+> |  7  | Zha    | kor  | yn     |
+> |  8  | Do     | ren  | uth    |
+> |  9  | Elu    | thel | ai     |
+> | 10  | Ma     | var  | ir     |
+> | 11  | Nor    | sil  | os     |
+> | 12  | Tha    | vash | eth    |
+> | 13  | Lio    | tari | iel    |
+> | 14  | Shae   | zev  | ar     |
+> | 15  | Uro    | miri | ium    |
+> | 16  | Vei    | jor  | un     |
+> | 17  | Nia    | keth | oth    |
+> | 18  | Sho    | luma | di     |
+> | 19  | Qir    | sai  | ys     |
+> | 20  | Isa    | rion | une    |
+>
+> ___
+> <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+> _Word (table)_
+>
+> Each cell lists four related, unique examples. Pick, roll 1d20 then 1d12, or use it for inspiration.
+>
+> | d20 | Column 1                      | Column 2                         | Column 3                        |
+> |:---:|:------------------------------|:---------------------------------|:--------------------------------|
+> |  1  | Ash, Cinder, Burn, Char       | Blade, Fang, Edge, Scythe        | Ruby, Opal, Pearl, Garnet       |
+> |  2  | Bright, Glint, Gleam, Glare   | Flower, Blossom, Petal, Rose     | Meadow, Field, Garden, Grove    |
+> |  3  | Cold, Frost, Glaze, Rime      | Cloud, Mist, Fog, Vapor          | Trail, Road, Way, Path          |
+> |  4  | Dawn, Morning, Sunrise, East  | Step, Dance, Leap, Glide         | Red, Yellow, Green, Blue        |
+> |  5  | Dream, Vision, Thought, Muse  | Tusk, Horn, Antler, Tooth        | Bold, Brave, Strong, Gallant    |
+> |  6  | Gold, Silver, Copper, Bronze  | Hearth, Blaze, Scorch, Coal      | Life, Soul, Spirit, Core        |
+> |  7  | Iron, Steel, Lead, Brass      | Gem, Nugget, Flint, Boulder      | Hammer, Anvil, Forge, Chisel    |
+> |  8  | Night, Dusk, Twilight, Shadow | Song, Hymn, Verse, Chant         | Torrent, Wave, Current, Surge   |
+> |  9  | Star, Nova, Comet, Meteor     | River, Flood, Rill, Flow         | Flash, Flare, Beacon, Ray       |
+> | 10  | Storm, Tempest, Gale, Thunder | Whisper, Murmur, Breath, Echo    | Guard, Shield, Wall, Helm       |
+> | 11  | Wild, Feral, Untamed, Fierce  | Track, Trace, Hunt, Chase        | Maul, Sledge, Mallet, Club      |
+> | 12  | Runnel, Brook, Creek, Stream  | Wing, Feather, Pinion, Plume     | Herb, Stem, Frond, Bloom        |
+> | 13  | Stone, Pebble, Ore, Crystal   | Veil, Curtain, Shroud, Haze      | Fragment, Splinter, Shard, Chip |
+> | 14  | Oak, Elm, Birch, Willow       | Hill, Ridge, Rise, Tor           | Talon, Claw, Hook, Spike        |
+> | 15  | Tinder, Torch, Pyre, Spark    | Bellows, Crucible, Kiln, Smelter | Summit, Crest, Crown, Peak      |
+> | 16  | Tide, Surf, Ripple, Foam      | Cliff, Crag, Cavern, Rock        | Pulse, Beat, Rhythm, Heart      |
+> | 17  | Wind, Breeze, Zephyr, Gust    | Bay, Harbor, Cove, Port          | Grip, Hand, Palm, Fist          |
+> | 18  | Snow, Ice, Hail, Flake        | Rider, Runner, Strider, Walker   | Spine, Spur, Barb, Thorn        |
+> | 19  | Sky, Heaven, Welkin, Ether    | Rune, Glyph, Sigil, Mark         | Fruit, Grain, Pod, Kernel       |
+> | 20  | Light, Radiance, Glow, Beam   | Born, Forged, Crafted, Made      | Fire, Ember, Flame, Smolder     |
+>
+> ___
+> <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+> _Particle (table)_
+>
+> Use these elements to add relationship connections to names.
+> Sounds can also serve as fantasy particles by adding apostrophes, spaces, or other separators.
+>
+> | d20 | Prefix | Linker         | Suffix  |
+> |:---:|:-------|:---------------|:--------|
+> |  1  | Al     | of             | -son    |
+> |  2  | Ben    | called         | -dottir |
+> |  3  | Mac    | the            | -kin    |
+> |  4  | Van    | named          | -sen    |
+> |  5  | Ibn    | sworn to       | -child  |
+> |  6  | El     | by             | -line   |
+> |  7  | O      | known as       | -ton    |
+> |  8  | Ir     | beyond         | -burg   |
+> |  9  | La     | of the         | -stead  |
+> | 10  | Sa     | from           | -ham    |
+> | 11  | Va     | under          | -wick   |
+> | 12  | De     | near           | -ford   |
+> | 13  | Di     | beside         | -mere   |
+> | 14  | Ar     | before         | -vale   |
+> | 15  | Ka     | between        | -crest  |
+> | 16  | Pa     | amid           | -holt   |
+> | 17  | Ra     | in the name of | -shire  |
+> | 18  | Ze     | called by      | -heim   |
+> | 19  | Ja     | over           | -haven  |
+> | 20  | Fa     | with           | -stead  |
+>
+> ___
+> <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+> _Tone (table)_
+>
+> Use tone to guide letter choices and rhythm.
+> It changes how names sound across regions or cultures.
+>
+> | d6 | Tone    | Adjustment                                          |
+> |:--:|:--------|:----------------------------------------------------|
+> |  1 | Harsh   | Add hard consonants (k, t, r, g). Krathen, Torgrak. |
+> |  2 | Fluid   | Add soft consonants (l, s, th, y). Lethen, Ysira.   |
+> |  3 | Compact | Shorten or merge syllables. Tor, Vren.              |
+> |  4 | Melodic | Add vowels or double letters. Aelia, Meera.         |
+> |  5 | Blended | Mix smooth and sharp sounds. Valthor, Kalisar.      |
+> |  6 | Breathy | Insert h or airy vowels. Shaelhir, Thelan.          |
+>
+> <!-- spell-checker:enable -->
 
-<!-- spell-checker:enable -->
-
-___
 Use the following table to choose a random ancestry for your NPC.
 
 |  1d10 | Ancestry |  1d10  | Ancestry                         |
