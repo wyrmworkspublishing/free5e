@@ -7,7 +7,7 @@ This section offers suggestions and inspiration for building a spiral campaign.
 
 [Six Truths](./Spiral_Six_Truths.md)
 
-[Starting Location](./Spiral_Staring_Location.md)
+[Starting Location](./Spiral_Starting_Location.md)
 
 [Campaign Fronts](./Spiral_Campaign_Fronts.md)
 
