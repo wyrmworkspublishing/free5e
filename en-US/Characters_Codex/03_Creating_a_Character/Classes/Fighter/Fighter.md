@@ -97,7 +97,7 @@ You can’t take a Fighting Style option more than once, even if you later get t
 
 [**Two-Weapon Fighting**](../_Fighting_Styles/Two-Weapon_Fighting.md)
 
-##### Second Wind (2nd Level) {#Fighter_second_wind}
+##### Second Wind (1st Level) {#Fighter_second_wind}
 
 You have a limited well of stamina that you can draw on to protect yourself from harm.
 On your turn, you can use a bonus action to regain hit points equal to `1d10 + your Fighter level`.
