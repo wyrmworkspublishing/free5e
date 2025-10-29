@@ -20,6 +20,7 @@ Barkskin
 baroreception
 behir*
 BFRD
+bioluminescent
 blindsense
 bloodlust
 Bragolbeleg
@@ -175,6 +176,7 @@ twentyfold
 ultroloth*
 Umara
 Undercommon
+Underland*
 unplaceable
 unseelie
 warhammer*

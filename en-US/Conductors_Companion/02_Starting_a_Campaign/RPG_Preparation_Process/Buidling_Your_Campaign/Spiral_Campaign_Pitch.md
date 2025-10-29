@@ -19,3 +19,29 @@ Use the following campaign pitches as a starting point for a campaign, or as ins
   (e.g. _Uncover the truth of the coming Black Moon_, or _Investigate the assassination of King Trex’s greatest rival_)
 - Face the consequences of a real or falsely accused [past crime, broken vow, experiment, night of partying, past failure, past success with unintended consequences, collateral damage]. \
   (e.g. _Face the consequences of a broken vow to Karthyn the archdevil_, or _Manage the fallout of unleashing the ancient <span class="monster monster-Behir_behir">behir</span> Vrothrak during a past victory_)
+
+If you’re looking for inspiration, roll or choose a fantastic event to shift your campaign’s tone or raise the stakes.
+It can be a world-shaking omen, a turning point, or the start of a new spiral.
+
+| 1d20 | Fantastic Event                                         |
+|:----:|:--------------------------------------------------------|
+|   1  | The stars have disappeared from the sky                 |
+|   2  | An unexpected solar eclipse                             |
+|   3  | The blood moon rises                                    |
+|   4  | Swarms of stinging insects descend                      |
+|   5  | Acidic fog rolls in                                     |
+|   6  | A second sun appears in the sky                         |
+|   7  | A storm of arcane energy                                |
+|   8  | The arrival of a servant of a god                       |
+|   9  | Meteor shower                                           |
+|  10  | A cyclopean behemoth rises                              |
+|  11  | Swarms of mischievous devils                            |
+|  12  | Tentacles appear in the sky                             |
+|  13  | The dancing dead come to life                           |
+|  14  | Volcanic eruption                                       |
+|  15  | Collapsing sinkhole reveals ancient ruins below         |
+|  16  | The sun does not rise                                   |
+|  17  | A great floating tower appears                          |
+|  18  | The lord's castle disappears                            |
+|  19  | The border to the fey realm grows thin                  |
+|  20  | The world of shadow bleeds over into the material realm |
