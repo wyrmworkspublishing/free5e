@@ -1,7 +1,8 @@
 ## Building a TTRPG Group
 
-> **Warning**
-> We probably want some kind of introduction here, which hasn't yet been written.
+The group of adventurers is called a party for a reason—it’s supposed to be fun.
+The right mix of people turns close saves into lasting memories and disasters into legend.
+A truly successful game is determined by who's with you even when the dice are against you.
 
 [Decide Your Play Style](./Decide_Your_Play_Style.md)
 
