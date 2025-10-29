@@ -1,7 +1,8 @@
 ### Wilderness Travel
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+As the characters travel overland, they undertake specific activities related to the journey.
+Select appropriate DCs for those activities, with checks usually ranging between DC 10 (easy) and DC 20 (very hard).
+A default of DC 12 is usually a good choice.
 
 [Character Roles](./Character_Roles.md)
 
