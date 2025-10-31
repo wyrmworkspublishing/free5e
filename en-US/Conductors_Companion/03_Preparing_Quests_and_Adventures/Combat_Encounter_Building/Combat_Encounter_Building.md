@@ -1,4 +1,23 @@
 ## Combat Encounter Building
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+This section helps you build and improvise dynamic combat encounters based on the fiction of the game.
+
+[Start with the Story](./Start_with_the_Story.md)
+
+[Average Character Hit Points](./Average_Character_Hit_Points.md)
+
+[Potential Deadliness](./Potential_Deadliness.md)
+
+[Character Capabilities Vary](./Character_Capabilities_Vary.md)
+
+[Scaling for Higher Levels](./Scaling_for_Higher_Levels.md)
+
+[Failure in a Combat Encounter](./Failure_in_a_Combat_Encounter.md)
+
+[Encounter Elements](./Encounter_Elements.md)
+
+[Quick Encounter Building](./Quick_Encounter_Building.md)
+
+[Running Hordes](./Running_Hordes.md)
+
+[Zone-Based Combat](./Zone-Based_Combat.md)
