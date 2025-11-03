@@ -21,7 +21,7 @@ However, any amount of cold damage instantly destroys a patch of brown mold.
 
 #### Crowd
 
-Throngs of humanoids are difficult terrain, and a creature surrounded by a crowd has disadvantage on hearing- and sight-based checks to perceive outside of it.
+Throngs of humanoids are difficult terrain, and a creature surrounded by a crowd is <span class="condition condition-Conditions_impaired">_impaired (sight, hearing)_</span> when trying to perceive things outside of it.
 
 In addition, making attacks in a crowd risks collateral damage and the wrath of the throng.
 When a creature attacks from within a crowd or attacks a target within a crowd, on a miss by 10 or more, the attack hits a crowd member, and the creature makes a _Charisma (Deception)_, _Charisma (Intimidation)_, or _Charisma (Persuasion)_ check (DC `13 + 2 per previous check`) to convince the crowd not to attack it.
