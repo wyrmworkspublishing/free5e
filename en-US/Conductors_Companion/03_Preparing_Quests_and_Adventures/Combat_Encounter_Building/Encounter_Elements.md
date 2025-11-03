@@ -3,10 +3,17 @@
 The world can be a dangerous place, and the environment might pose a deadly threat all by itself.
 In addition to their inherent danger, encounter elements offer ways to enhance the perils of exploration challenges or combat to make both more satisfying.
 
+> **Note:**
+> The suggested damage and other values can be changed by the Conductor, depending on circumstances.
+> Use the _Trap Difficulty and Damage by Level_ table in <mark>chapter XX</mark> for guidelines.
+
 #### Acid
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+A creature that touches acid takes `5` (`2d4`) acid damage.
+When a creature first enters into an area of acid or starts its turn there, it takes `10` (`4d4`) [ongoing acid damage](#Dealing_Damage_ongoing_damage).
+A creature submerged in acid takes `25` (`10d4`) ongoing acid damage.
+This damage persists for 3 rounds after the creature leaves the acid.
+A creature ends all ongoing damage from mundane acid by using its action to wipe away the corrosive liquid.
 
 #### Brown Mold
 
@@ -34,8 +41,10 @@ On a failure, the crowd transforms into a  <span class="monster monster-Commoner
 
 #### Dense Smoke
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+Creatures and objects in an area of dense smoke are heavily obscured and thus have the _<span class="condition condition-Conditions_nullified">nullified (sight)</span>_ condition.
+When a creature that needs to breathe starts its turn in an area of dense smoke, it gains the _<span class="condition condition-Conditions_impaired">impaired (smell)</span>_ condition, and if it is not holding its breath, it makes a Constitution saving throw (DC `10 + 1 per round previous turn in the dense smoke`, maximum DC `20`) or it begins to suffocate.
+A creature that covers its mouth and nose with a damp cloth has advantage on this save.
+Creatures not in the smoke and that don’t smell of it have advantage on smell-based checks to perceive or track creatures that have spent more than 1 round in dense smoke until the target creatures finish a long rest or spend at least 10 minutes cleaning the smoke from themselves.
 
 #### Extreme Cold
 
@@ -63,8 +72,10 @@ A creature that falls into water takes half damage, or no damage if it dives wit
 
 #### Fire
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+An area of fire sheds bright light to 10 feet beyond its edges and dim light an additional 10 feet.
+A creature that touches fire takes `7` (`2d6`) [ongoing fire damage](#Dealing_Damage_ongoing_damage).
+A creature may end ongoing damage from mundane fire by spending an action to extinguish the flames.
+Smoke and heat shimmer lightly obscure anything within or on the other side of an area of fire.
 
 #### Frigid Water
 
@@ -74,23 +85,37 @@ Creatures native to an extreme cold environment also automatically succeed on th
 
 #### Green Slime
 
+This sticky, vibrantly green, slopping slime clings to and mercilessly eats away at flesh, plants, and even metal.
+
 > **Warning**
-> This section has not yet been transferred from the Google Doc.
+> This section has not yet been fully transferred from the Google Doc.
+
+A slimed creature takes `5` (`1d10`) [ongoing acid damage](#Dealing_Damage_ongoing_damage) until the green slime is scraped off with an action.
+Green slime is destroyed by sunlight, any feature, spell, or trait that cures disease, or any amount of cold, fire, or radiant damage.
+Wood or metal exposed to green slime instead takes `11` (`2d10`) acid damage.
 
 #### Heavy Precipitation
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+**Heavy snowfall** makes an area lightly obscured, giving creatures the _<span class="condition condition-Conditions_impaired">impaired (sight)</span>_ condition.
+**Heavy rain** has the same effect and also imposes the _<span class="condition condition-Conditions_impaired">impaired (hearing)</span>_ condition.
+It extinguishes unprotected flames.
 
 #### High Gravity
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+The ranges of ranged weapons are halved, as are all jump distances.
+When a creature makes its first attack in a round using a weapon that does not have the _dual-wielding_ property, it makes a DC `10` Strength saving throw or subtracts `1d4` from its attack rolls for 1 round.
+Falling damage is treated as twice the distance in the area and there is no maximum amount of damage that can be taken from a fall.
+For every hour spent in the area, a creature not acclimated to it makes a Constitution saving throw (DC `8 + the number of hours spent in the area`).
+On a failure, the creature’s speed is reduced by 5 feet and jump distance halved again until it finishes a long rest.
+These penalties stack, up to half the creature’s normal speed.
 
 #### Lava
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+A creature that touches lava takes `16` (`3d10`) [ongoing fire damage](#Dealing_Damage_ongoing_damage).
+When a creature first enters into an area of lava or starts its turn there, it takes `33` (`6d10`) ongoing fire damage.
+A creature submerged in lava takes `55` (`10d10`) ongoing fire damage.
+This damage persists for 4 rounds after the creature leaves the lava.
+A creature ends all ongoing damage from lava by using its action to wipe away the molten rock.
 
 #### Low Gravity
 
@@ -100,8 +125,9 @@ In addition, damage from bludgeoning weapons is reduced by half.
 
 #### Magnetized Ore
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+Magnetized ore wreaks havoc on navigation and electrical senses.
+Within 500 feet, compasses and parasense: electrolocation are disrupted, giving affected creatures the _<span class="condition condition-Conditions_nullified">nullified (parasense: electrolocation)</span>_ condition.
+Within 50 feet, creatures wearing heavy metal armor or wielding metal weapons have disadvantage on attack rolls, Strength and Dexterity checks, and Strength saving throws, as the magnetic pull distorts movement and balance.
 
 #### Memory Crystals
 
@@ -115,8 +141,15 @@ An area filled with memory crystals requires a creature to succeed on a DC `8` _
 
 #### Miring Ground
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+Sludge, tar, or sufficiently deep and sticky mud can provide real danger to creatures caught in them.
+
+Miring ground is difficult terrain.
+In addition, when a creature starts its turn in miring ground, it begins to sink and makes a _Strength (Athletics)_ check (DC `12 + 2 per round spent in the area`) to continue moving.
+On a failure, its Speed is reduced by 10 feet.
+When this reduces a creature’s Speed to 5 feet or less it begins sinking 1 foot deeper into the miring ground at the end of each of its turns.
+A sinking creature can be freed with a _Strength (Athletics)_ check equal to the DC of its last failed check against the miring ground.
+A sinking creature that becomes submerged begins suffocating if it is unable to hold its breath.
+Any creature trying to aid a sinking creature must have a solid surface to stand on or a fly speed, but can use ropes or similar means to do so at a distance.
 
 #### Poisonous Plants
 <!-- spell-checker:words groundcover -->
@@ -128,13 +161,20 @@ When a creature starts its turn within the area or enters the area for the first
 
 #### Rushing Liquid
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+Standing in rushing liquid halves the speed of a creature moving against the current and doubles the speed of creatures moving with it.
+At the start of each of its turns, a creature in knee-high rushing liquid makes a Strength saving throw to keep its footing.
+On a failure, it is knocked prone and moves a number of feet in the direction of the current equal to the amount it failed the check by (rounded up to the nearest 5 feet).
+The check is DC `11` if the rushing liquid is knee-high, DC `14` if waist-high, DC `17` if chest-high, and DC `20` if the creature’s feet cannot touch the bottom.
+A creature moving with the current has disadvantage on this check.
+
+A creature driven into a solid object by the current (such as a rock) takes damage as if it had fallen a number of feet equal to the distance it was moved by the current (minimum `1d6` bludgeoning, piercing, or slashing damage).
+Standing up from prone in rushing liquid requires a _Dexterity (Acrobatics)_ or _Strength (Athletics)_ check with a DC equal to the DC to keep footing.
+A creature that loses its footing is considered [underwater](#Encounter_Elements_underwater) (see below) until it regains its footing.
 
 #### Strong Winds
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+High winds impose the _<span class="condition condition-Conditions_impaired">impaired (hearing, parasense: baroreception)</span>_ conditions and cause ranged weapon attacks to be made at disadvantage.
+They extinguish unprotected flames, disperse fog and smoke, and force flying creatures to land before the end of their turn or fall.
 
 #### Underwater
 
@@ -156,8 +196,14 @@ A 10-foot cube of webs has AC 10, 15 hit points, vulnerability to fire, and immu
 
 #### Yellow Mold
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+This sickeningly yellow mold only grows in dark places and is extremely sensitive to movement nearby.
+
+Yellow mold covers a 10-foot radius area.
+When a creature moves within 30 feet of a patch of yellow mold, at the start of its turn spores are released and it makes a DC `15` Constitution saving throw.
+On a failure, the creature takes `11` (`2d10`) [ongoing poison damage](#Dealing_Damage_ongoing_damage) and becomes poisoned for 1 minute, continuing to take ongoing damage until it is no longer poisoned.
+At the end of each of its turns, the poisoned creature can repeat the saving throw, ending the effect on itself on a success.
+
+Yellow mold is destroyed by sunlight or any amount of fire damage.
 
 #### Challenge Rating Increase
 
