@@ -153,7 +153,7 @@ When you roll a **natural** (or **“nat”**) 20 or 1 on an ability check—the
 **Critical Success (natural 20).**
 You perform the task in the best possible way.
 The Conductor decides what that means, which may include an extra benefit or flourish.
-For example, a critical success on Persuasion might earn genuine trust rather than simple agreement.
+For example, a critical success on a _Charisma (Persuasion)_ check might earn genuine trust rather than simple agreement.
 
 **Critical Failure (natural 1).** You automatically fail, usually in a way that adds tension or fun to the story, for example, a critical failure on History might recall a false but convincing detail.
 
