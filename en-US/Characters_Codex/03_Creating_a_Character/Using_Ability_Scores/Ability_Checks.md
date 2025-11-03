@@ -145,3 +145,21 @@ Group checks are rare and most useful when all characters succeed or fail as a g
 For instance, when adventurers navigate a swamp, the Conductor may call for a group Wisdom (_Survival_) check to avoid hazards.
 If at least half succeed, they guide their companions out of danger.
 Otherwise, they stumble into hazards.
+
+#### Critical Success and Failure
+
+When you roll a **natural** (or **“nat”**) 20 or 1 on an ability check—the number showing on the die before adding modifiers—it may mark an extraordinary result.
+
+**Critical Success (natural 20).**
+You perform the task in the best possible way.
+The Conductor decides what that means, which may include an extra benefit or flourish.
+For example, a critical success on a _Charisma (Persuasion)_ check might earn genuine trust rather than simple agreement.
+
+**Critical Failure (natural 1).**
+You automatically fail, usually in a way that adds tension or fun to the story.
+For example, a critical failure on an _Intelligence (History)_ check might recall a false but convincing detail.
+
+**Automatic Results.**
+Only make a check if the Conductor asks for one.
+If your bonuses make success certain, the roll may be skipped.
+Likewise, if success is clearly impossible (for example, the DC is too high), no roll may be attempted unless it’s to reduce or respond to the consequences of failure.

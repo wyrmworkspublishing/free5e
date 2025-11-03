@@ -84,6 +84,13 @@ Swords, axes, and monsters’ claws deal slashing damage.
 **Thunder.**
 A concussive burst of sound, such as the effect of the _[<span class="spell">Thunderwave</span>](#Thunderwave_thunderwave)_ spell, deals thunder damage.
 
+#### Ongoing Damage
+
+Some attacks and effects deal ongoing damage.
+This hit point loss happens at the end of each of your turns.
+Unless the effect states a damage type, the hit point loss is unaffected by damage resistance or vulnerability (see below).
+An effect that deals ongoing damage specifies the circumstance that ends the damage.
+
 #### Damage Resistance and Vulnerability
 
 Some creatures and objects are exceedingly difficult or unusually easy to hurt with certain types of damage.
