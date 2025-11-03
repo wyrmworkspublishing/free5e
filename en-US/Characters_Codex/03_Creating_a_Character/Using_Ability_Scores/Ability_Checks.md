@@ -155,7 +155,9 @@ You perform the task in the best possible way.
 The Conductor decides what that means, which may include an extra benefit or flourish.
 For example, a critical success on a _Charisma (Persuasion)_ check might earn genuine trust rather than simple agreement.
 
-**Critical Failure (natural 1).** You automatically fail, usually in a way that adds tension or fun to the story, for example, a critical failure on History might recall a false but convincing detail.
+**Critical Failure (natural 1).**
+You automatically fail, usually in a way that adds tension or fun to the story.
+For example, a critical failure on an _Intelligence (History)_ check might recall a false but convincing detail.
 
 **Automatic Results.**
 Only make a check if the Conductor asks for one.
