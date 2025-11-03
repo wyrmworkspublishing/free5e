@@ -7,7 +7,7 @@ Each option offers both a location and a focus—an object, relic, or goal tied 
 > **Example:**
 > Rolling an 8 (Temple) and 6 (Bell) might suggest a hook like “Recover the sacred bell stolen from the mountain temple before the eclipse.”
 
-If you roll or choose _Monument_ as the location, use the _Monuments tables_ (<mark>chapter X</mark> “Exploration”, <mark>section Y</mark> “Monuments”) for details.
+If you roll or choose _Monument_ as the location, use the _Monuments tables_ (<mark>chapter XX</mark> “Exploration”, <mark>section XX</mark> “Monuments”) for details.
 
 | 1d20 | Location | Item or Goal |
 |:----:|:---------|:-------------|
@@ -32,4 +32,4 @@ If you roll or choose _Monument_ as the location, use the _Monuments tables_ (<m
 |  19  | Cove     | Mask         |
 |  20  | Castle   | Necklace     |
 
-Combine this table with other random tables such as Monuments (<mark>chapter X</mark> “Exploration”, <mark>section Y</mark> “Monuments”), Mundane Events (<mark>chapter X</mark> “Exploration”, <mark>section Y</mark> “Urban Adventures”), or environmental tables in Urban Adventures (<mark>chapter X</mark> “Exploration”, section <mark>Y</mark>), Underlands Expeditions (<mark>chapter X</mark> “Exploration”, <mark>section Y</mark>), and Dungeon Crawling (<mark>chapter X</mark> “Exploration”, <mark>section Y</mark>)—to create a full adventure seed.
+Combine this table with other random tables such as Monuments (<mark>chapter XX</mark> “Exploration”, <mark>section XX</mark> “Monuments”), Mundane Events (<mark>chapter XX</mark> “Exploration”, <mark>section XX</mark> “Urban Adventures”), or environmental tables in Urban Adventures (<mark>chapter XX</mark> “Exploration”, <mark>section XX</mark>), Underlands Expeditions (<mark>chapter XX</mark> “Exploration”, <mark>section XX</mark>), and Dungeon Crawling (<mark>chapter XX</mark> “Exploration”, <mark>section XX</mark>)—to create a full adventure seed.
