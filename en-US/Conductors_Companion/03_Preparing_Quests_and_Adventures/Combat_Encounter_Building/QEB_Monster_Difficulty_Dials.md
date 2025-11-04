@@ -10,8 +10,17 @@ By turning these "difficulty dials" for monsters, you can easily shift the tone 
 Hit points given for monsters are the average of their Hit Dice.
 This means you can adjust hit points within the minimum and maximum of a monster's Hit Dice formula based on the individual story for that particular monster, the current pacing of the battle, or both.
 
-> **Warning**
-> This section has not yet been fully transferred from the Google Doc.
+<!-- style:sidebar -->
+> **Average Hit Points & Damage** \
+> To find averages from a formula like `5d8 + 10`, use the die’s midpoint (½ the die’s value + 0.5, e.g., 4.5 for a d8).
+> Multiply dice × midpoint, then add modifiers: `5 × 4.5 + 10 = 32.5 → 32 HP` (or damage).
+>
+> **Formula:** (dice × average die value) + modifier, round down.
+
+For example, an average ogre has `59` hit points from `7d10 + 21` Hit Dice.
+This means a weak ogre might have as few as `28` hit points, while a particularly strong ogre might have `91`.
+This lets you easily set up fights in which minion ogres might have fewer hit points while boss ogres have more.
+(As an even easier rule of thumb, you can halve or double a monster's average hit points to give you a weaker or stronger version of that monster.
 
 You can turn this dial before a battle begins or even during the battle itself.
 If a battle drags, reduce the hit points of a monster to get it out of the fight earlier.
@@ -33,8 +42,15 @@ When developing a combat encounter in which you think you might turn this dial, 
 Increasing the amount of damage a monster deals on each attack increases the monster's threat and can make a dull fight more fun.
 In the same way, decreasing monster damage can help prevent a fight from becoming overwhelming if the characters are having trouble.
 
-> **Warning**
-> This section has not yet been fully transferred from the Google Doc.
+The static damage value noted in a monster's stat block represents the average of the damage formula for the monster's attack.
+If you use average damage, you can adjust the damage based on that formula.
+For example, an ogre deals `13` (`2d8 + 4`) bludgeoning damage with their greatclub attack, so you can set this damage at anywhere from `6` to `20` and still be within the range of what you might roll.
+
+If you're a Conductor who rolls for damage, you can also turn the damage dial up by adding one or more additional damage dice.
+If you like, you can have an in-game reason for this increase.
+Perhaps an ogre sets its club on fire to deal an additional `4` (`1d8`) or `7` (`2d6`) fire damage.
+Or a particularly dangerous vampire with an unholy sword might deal an extra `27` (`6d8`) necrotic damage if you so choose.
+Adding these kinds of effects to a monster's attack is an excellent way of increasing a monster's threat in a way the players can clearly understand — and it has no upper limit.
 
 ##### "Number of Attacks" Dial
 

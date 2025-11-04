@@ -14,6 +14,14 @@ This section helps you build and improvise dynamic combat encounters based on th
 
 [Failure in a Combat Encounter](./Failure_in_a_Combat_Encounter.md)
 
+[Advantageous Positions](./Advantageous_Positions.md)
+
+[Interactive Objects](./Interactive_Objects.md)
+
+[Cover](./Cover.md)
+
+[Difficult or Fantastic Terrain](./Difficult_or_Fantastic_Terrain.md)
+
 [Encounter Elements](./Encounter_Elements.md)
 
 [Quick Encounter Building](./Quick_Encounter_Building.md)
