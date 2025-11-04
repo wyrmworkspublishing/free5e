@@ -1,4 +1,5 @@
 #### Concluding the Adventure
+<!-- spell-checker:words Gardren Ralavaz Whitesparrow -->
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+This adventure concludes when the characters have removed Gardren and decided what to do with Ralavaz.
+Still wracked by guilt over his previous life and feeling responsible for the behavior of his brother, Ralavaz is willing to accept whatever punishment the characters or the folk of Whitesparrow seek for him.
