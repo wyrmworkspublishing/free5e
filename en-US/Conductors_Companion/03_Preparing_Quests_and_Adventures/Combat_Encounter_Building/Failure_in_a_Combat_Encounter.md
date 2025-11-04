@@ -1,9 +1,8 @@
 ### Failure in a Combat Encounter
 
 When preparing a combat encounter—especially a challenging one—it helps to consider what failure might look like.
-
-> **Warning**
-> This section has not yet been fully transferred from the Google Doc.
+Not all battles must be to the death.
+Failure can lead to consequences and new challenges, but it doesn't have to be a negative player experience.
 
 The Conductor probably has an idea of what will occur if the adventurers are triumphant in a battle.
 But if the adventurers lose, what happens next?

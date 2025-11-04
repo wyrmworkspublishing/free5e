@@ -15,6 +15,7 @@ archmage*
 Aquan
 Auran
 backstab
+ballista*
 balor*
 Barkskin
 baroreception

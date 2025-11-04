@@ -6,6 +6,16 @@ To accommodate running horde combat, we change the rules for running monsters in
 You can use these approaches individually or together when running large numbers of monsters.
 (See <span class="monster monster-Squad_Template_squad_template">Squad Template</span> in the Monstrous Manuscript for an alternate method.)
 
+#### Determining Hordes and Handling Initiative
+
+Group multiple monsters into one or several hordes, each containing only one type.
+Group monsters of the same role together, but different roles may be assigned to different monsters of the same type.
+For example, one group of Ogres could block a tunnel, while another hides behind stalagmites to ambush the party.
+These should be separate hordes.
+
+At the start of combat, roll initiative once for each horde using the average initiative modifier of all members.
+All horde members act simultaneously.
+
 #### Pooling Damage
 
 Pooling damage means that instead of tracking the damage dealt to individual monsters, you track damage dealt to the horde as a whole.
