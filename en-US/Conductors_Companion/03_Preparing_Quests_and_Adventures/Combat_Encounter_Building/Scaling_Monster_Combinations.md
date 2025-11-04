@@ -21,7 +21,7 @@ Adjust encounters on the fly as needed.
 
 |  | Monsters of the Same CR |  |  |  |  |  | Boss Scenarios |  |  |  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Character Level | 1 | 2 | 4 | 6 | 8 | 12 | 1 Boss \+ 2 Monsters | 1 Boss \+ 3 Monsters | 1 Boss \+ 4 Underlings | 1 Boss \+ 2 Lieutenants \+ 8 Minions |
+| **Character Level** | **1** | **2** | **4** | **6** | **8** | **12** | **1 Boss \+ 2 Monsters** | **1 Boss \+ 3 Monsters** | **1 Boss \+ 4 Underlings** | **1 Boss \+ 2 Lieutenants \+ 8 Minions** |
 | 1 | 1 | 1/2 | 1/8 | 1/8 | 0 | \- | 1/2 \+ 1/8 (x2) | 1/2 \+ 1/8 (x3) | 1/4 \+ 1/8 (x4) | \- |
 | 2 | 3 | 1 | 1/2 | 1/4 | 1/8 | 0 | 1 \+ 1/4 (x2) | 1 \+ 1/4 (x3) | 1 \+ 1/8 (x4) | 1/2 \+ 1/4 (x2) \+ 0 (x8) |
 | 3 | 4 | 2 | 1/2 | 1/2 | 1/4 | 1/8 | 2 \+ 1/2 (x2) | 2 \+ 1/4 (x3) | 2 \+ 1/4 (x4) | 1 \+ 1/4 (x2) \+ 0 (x8) |
@@ -46,12 +46,12 @@ Adjust encounters on the fly as needed.
 #### **Step 1: Find the Average Level**
 
 Add all characters’ levels and divide by the number of players, rounding down.
-**Example:** 6 \+ 7 \+ 8 \+ 8 \= 29 → 29 ÷ 4 \= **7.25** Use the row for **level 7**.
+**Example:** 6 \+ 7 \+ 8 \+ 8 \= 29 → 29 ÷ 4 \= **7.25** Use the row for **Level 7**.
 
 #### **Step 2: Pick an Encounter Concept**
 
 Choose from the columns above: a single boss, or a **Boss \+ Allies** combination.
-Example for level 7 (4 characters):
+Example for Level 7 (4 characters):
 **1 Boss \+ 3 Monsters:** one CR 5 boss \+ three CR 2 monsters.
 
 #### **Step 3: Adjust for Party Size**
@@ -76,4 +76,4 @@ You can also change difficulty by pretending the party is a different level:
 * **Medium:** use −2 levels
 * **Easy:** use −4 levels
 
-*Example:* A 7th-level party using the 5th-level row gives a medium fight; using the 9th-level row makes it deadly.
+*Example:* A 7th Level party using the 5th Level row gives a medium fight; using the 9th Level row makes it deadly.
