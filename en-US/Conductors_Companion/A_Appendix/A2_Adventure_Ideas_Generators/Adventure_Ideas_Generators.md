@@ -4,31 +4,29 @@ The tables in this section can help you generate a core fantasy adventure based 
 Often these adventures take place in small settlements surrounded by ancient ruins and monstrous lairs on the edge of civilization.
 
 Use these tables together to generate and inspire full adventures, or use individual tables to fill in the details of other adventures you create or play.
-This generator (and specifically, the Dungeon Monsters table and the Treasure table) is set up for characters of 1st to 4th level, but can be easily modified for higher-level adventures.
+This generator (./and specifically, the Dungeon Monsters table and the Treasure table) is set up for characters of 1st to 4th level, but can be easily modified for higher-level adventures.
 
-[Patrons and NPCs](./Core/AIG_Patrons_and_NPCs.md)
 
-[Quests](./Core/AIG_Quests.md)
+[Quests](./Quests.md)
 
-[Travel Scenery](./Core/AIG_Travel_Scenery.md)
+[Travel Scenery](./Travel_Scenery.md)
 
-[Locations, Monuments, and Items](./Core/AIG_Locations_Monuments_and_Items.md)
+[Locations, Monuments, and Items](./Locations_Monuments_and_Items.md)
 
-[Condition, Description, and Origin](./Core/AIG_Conditions_Descriptions_and_Origin.md)
+[Condition, Description, and Origin](./Conditions_Descriptions_and_Origin.md)
 
-[Chambers](./Core/AIG_Chambers.md)
+[Chambers](./Chambers.md)
 
-[Dungeon Discoveries](./Core/AIG_Dungeon_Discoveries.md)
+[Dungeon Discoveries](./Dungeon_Discoveries.md)
 
-[Dungeon Wall Decorations](./Core/AIG_Dungeon_Wall_Decorations.md)
+[Dungeon Wall Decorations](./Dungeon_Wall_Decorations.md)
 
-[Dungeon Monsters](./Core/AIG_Dungeon_Monsters.md)
+[Dungeon Monsters](./Dungeon_Monsters.md)
 
-[Traps and Hazards](./Core/AIG_Traps_and_Hazards.md)
+[Traps and Hazards](./Traps_and_Hazards.md)
 
-[Treasure](./Core/AIG_Treasure.md)
 
-[Spells](./Core/AIG_Spells.md)
+[Spells](./Spells.md)
 
 [Random Items](./Items/Random_Items.md)
 

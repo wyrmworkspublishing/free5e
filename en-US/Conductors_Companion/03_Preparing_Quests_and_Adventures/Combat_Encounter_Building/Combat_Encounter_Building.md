@@ -10,7 +10,7 @@ This section helps you build and improvise dynamic combat encounters based on th
 
 [Character Capabilities Vary](./Character_Capabilities_Vary.md)
 
-[Scaling for Higher Levels](./Scaling_for_Higher_Levels.md)
+[Scaling for High Levels](./Scaling_for_Higher_Levels.md)
 
 [Failure in a Combat Encounter](./Failure_in_a_Combat_Encounter.md)
 
