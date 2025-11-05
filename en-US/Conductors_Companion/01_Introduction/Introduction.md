@@ -17,3 +17,5 @@ The best games come from teamwork, creativity, and a little bit of chaos.
 
 This guide will help you run a great game, whether you’ve been playing for years or are just starting out.
 **So grab some dice, gather your players, and get ready to bring your world to life!**
+
+[How to Use This Book](./How_to_Use_This_Book.md)
