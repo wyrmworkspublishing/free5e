@@ -8,3 +8,5 @@ If desired, you can connect the characters together with individual relationship
 Allow the players to roll on the following list, or to use it as inspiration for a unique relationship of their own devising.
 
 [Connecting Characters](./Characters_Connecting.md)
+
+[Adapting External Ancestries](./Adapting_Ancestries.md)
