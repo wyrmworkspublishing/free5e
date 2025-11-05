@@ -5,6 +5,8 @@
 
 [Quick Trick: Use Passive Scores](./Passive_Scores.md)
 
+[Exploration Encounter Descriptions](./Exploration_Encounter_Descriptions.md)
+
 [Objects](./Objects.md)
 
 [Poisons](./Poisons.md)
