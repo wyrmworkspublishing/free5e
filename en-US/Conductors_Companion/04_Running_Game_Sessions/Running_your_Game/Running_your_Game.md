@@ -32,6 +32,8 @@ These reminders help you stay focused and flexible.
 
 [RPG Tricks](./RPG_Tricks.md)
 
+[Calling for Checks](./Calling_for_Checks.md)
+
 [Variant Rule: Doom](./Variant_Doom.md)
 
 [Stars and Wishes](./Stars_and_Wishes.md)
