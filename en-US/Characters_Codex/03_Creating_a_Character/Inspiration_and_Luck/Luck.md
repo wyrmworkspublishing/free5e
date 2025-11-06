@@ -9,8 +9,8 @@ When you create your character, start with 0 Luck.
 You gain Luck in the following ways:
 
 - Once per turn, when you fail to hit with an attack roll or fail a save, gain 1 Luck.
-- The GM can award 1 Luck as a reward for a clever idea, excellent roleplaying, or pursuing an interesting—rather than optimal—choice.
-- The GM can award any amount of Luck to one or more PCs for surviving difficult encounters or achieving story goals (in addition to XP or other rewards).
+- The Conductor can award 1 Luck as a reward for a clever idea, excellent roleplaying, or pursuing an interesting—rather than optimal—choice.
+- The Conductor can award any amount of Luck to one or more PCs for surviving difficult encounters or achieving story goals (in addition to XP or other rewards).
 
 **Losing Luck**
 \
