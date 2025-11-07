@@ -27,8 +27,8 @@ Consider how their background ties to their class skills and unique traits.
       - **Two languages**
 
     These should represent logical character abilities based on the background’s concept, e.g. a sailor would need climbing and swimming so would take athletics and would need to be able to stay upright on unstable surfaces so would take acrobatics.
-    It would also be sensible for the character to be proficient in using _Water Vehicles_ and _Navigator’s Tools_.
-   [Chapter 6: Using Ability Scores](#Using_Ability_Scores_using_ability_scores) has more information on what each Skill does and how they are used with the ability scores.
+    The character should also be proficient in using _Water Vehicles_ and _Navigator’s Tools_.
+   [Chapter 6: Using Ability Scores](#Using_Ability_Scores_using_ability_scores) has more details on what each Skill does and how they are used with the ability scores.
    \
    \
    _Table of Ability Scores and Proficiencies commonly associated with them_
@@ -77,6 +77,9 @@ Consider how their background ties to their class skills and unique traits.
     - **Career skill.**
       You have experience in a trade (e.g. farmer, baker, weaver, cobbler, etc.) and get benefits to skill checks related to that specific profession.
 <!-- markdownlint-enable blanks-around-lists ul-indent -->
+
+The Acolyte example shows how a background combines features, proficiencies, and roleplaying details.
+One way to create your own is modifying the acolyte, or adapting an existing entry from the table below—choose fitting skills, tools or languages, and a feature, then describe how those experiences led to adventuring.
 
 [**Acolyte**](./Backgrounds/Acolyte.md)
 
