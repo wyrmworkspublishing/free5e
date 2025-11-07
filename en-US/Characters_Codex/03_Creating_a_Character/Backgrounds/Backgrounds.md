@@ -78,6 +78,12 @@ This sample background offers concrete benefits (features, proficiencies, and la
 
 [**Acolyte**](./Backgrounds/Acolyte.md)
 
+To build a background like the Acolyte example, start with the table below or use one as a model.
+Choose the skills, tools or languages, and feature that fit your character’s past, then describe how those experiences led them to adventure.
+Add equipment and gold totaling about 30 gp (roughly 15 gp in items and 15 gp in coin), adjusting for the background’s theme.
+You can exchange listed items for equal value in gold or different gear.
+Discuss your choices with your Conductor to keep the story and balance consistent.
+
 ### Other sample backgrounds
 
 You can choose one of these backgrounds for your character, or use them as inspiration to design your own using the instructions and Acolyte example.
