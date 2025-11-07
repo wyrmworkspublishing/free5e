@@ -41,14 +41,11 @@ Consider how their background ties to their class skills and unique traits.
 |       Wisdom | Herbalism Kit                                   |
 |     Charisma | Musical Instruments                             |
 
-The Acolyte example shows how a background combines features, proficiencies, and roleplaying details.
-To create your own, use the table below or adapt an existing entry—choose fitting skills, tools or languages, and a feature, then describe how those experiences led to adventuring.
-Include about 30 gp total value in gear and gold (around 15 gp each), adjusting for the concept.
-You can swap items for equal-value gold or other equipment.
-Discuss your choices with your Conductor to ensure story and balance fit the game.
-
-
-3. **Feature**
+3. **Starting Equipment**
+    Include about 30 gp total value in gear and gold (around 15 gp each), adjusting for the concept.
+    You can swap items for equal-value gold or other equipment.
+    Discuss your choices with your Conductor to ensure story and balance fit the game.
+4. **Feature**
   - Create a unique, narrative-focused ability that helps the character interact with the world through storytelling opportunities, such as connections, advantages in specific situations, or access to resources.
   A larger feature’s range implies less specificity, so a local expert knows more specific details than a national expert.
   A local militia member receives more aid from fellow members than an empire soldier.
