@@ -27,8 +27,8 @@ Consider how their background ties to their class skills and unique traits.
       - **Two languages**
 
     These should represent logical character abilities based on the background’s concept, e.g. a sailor would need climbing and swimming so would take athletics and would need to be able to stay upright on unstable surfaces so would take acrobatics.
-    It would also be sensible for the character to be proficient in using _Water Vehicles_ and _Navigator’s Tools_.
-   [Chapter 6: Using Ability Scores](#Using_Ability_Scores_using_ability_scores) has more information on what each Skill does and how they are used with the ability scores.
+    The character should also be proficient in using _Water Vehicles_ and _Navigator’s Tools_.
+   [Chapter 6: Using Ability Scores](#Using_Ability_Scores_using_ability_scores) has more details on what each Skill does and how they are used with the ability scores.
    \
    \
    _Table of Ability Scores and Proficiencies commonly associated with them_
@@ -41,7 +41,11 @@ Consider how their background ties to their class skills and unique traits.
 |       Wisdom | Herbalism Kit                                   |
 |     Charisma | Musical Instruments                             |
 
-3. **Feature**
+3. **Starting Equipment**
+    Include about 30 gp total value in gear and gold (around 15 gp each), adjusting for the concept.
+    You can swap items for equal-value gold or other equipment.
+    Discuss your choices with your Conductor to ensure story and balance fit the game.
+4. **Feature**
   - Create a unique, narrative-focused ability that helps the character interact with the world through storytelling opportunities, such as connections, advantages in specific situations, or access to resources.
   A larger feature’s range implies less specificity, so a local expert knows more specific details than a national expert.
   A local militia member receives more aid from fellow members than an empire soldier.
@@ -74,7 +78,8 @@ Consider how their background ties to their class skills and unique traits.
       You have experience in a trade (e.g. farmer, baker, weaver, cobbler, etc.) and get benefits to skill checks related to that specific profession.
 <!-- markdownlint-enable blanks-around-lists ul-indent -->
 
-This sample background offers concrete benefits (features, proficiencies, and languages) and roleplaying suggestions.
+The Acolyte example shows how a background combines features, proficiencies, and roleplaying details.
+One way to create your own is modifying the acolyte, or adapting an existing entry from the table below—choose fitting skills, tools or languages, and a feature, then describe how those experiences led to adventuring.
 
 [**Acolyte**](./Backgrounds/Acolyte.md)
 
@@ -84,20 +89,20 @@ You can choose one of these backgrounds for your character, or use them as inspi
 
 | Background | Skill Proficiencies | Tool Proficiency and/or Language | Equipment | Feature |
 |-----------:|:-------------------:|:--------------------------------:|:---------:|:-------:|
-| Artisan | Persuasion, Insight or History | One type of artisan’s tools or smith’s tools | Artisan’s tools, traveler’s clothes, keepsake (e.g., hammer, unfinished masterpiece) | **Trade Mark.** Access to a fully-stocked workshop in cities and get full price for crafted goods. |
-| Charlatan | Deception, Insight, or Sleight of Hand | Disguise kit, forgery kit | Disguise kit, forgery kit, common clothes, forgery materials | **Many Identities.** Carry forged documents for creating false identities. Advantage on _Deception_ checks to impersonate. |
-| Cultist | Religion, Arcana or Deception | One language | Holy symbol, common clothes, robes, 5 torches, forbidden relic | **Forbidden Lore.** When you fail an Intelligence (_Arcana_) or Intelligence (_Religion_) check, you know where to find the knowledge you seek. |
-| Entertainer | Performance, Acrobatics, or Persuasion | Gaming set, musical instrument | Musical instrument, costume, performance props (e.g., mask) | **Pay the Piper.** Performances can earn enough money to support a modest lifestyle for you and your companions. |
-| Exile | Survival, History or Performance | Two languages | Traveler’s clothes, 10 days rations, item from homeland (e.g., cultural artifact) | **Fellow Traveler.** [Expertise](#Proficiency_Bonus_expertise) on Charisma (_Persuasion_) checks against others who are exiled or far from home. |
-| Farmer | Nature, Animal Handling or Survival | Land vehicles | Common clothes, shovel, mule with saddlebags, 5 rations, family heirloom | **Bit and Bridle.** You and one animal under your care can carry additional rations equal to your proficiency bonus. |
-| Folk Hero | Survival, Animal Handling or Nature | One artisan tool, one vehicle | Artisan’s tools, common clothes, trophy from deeds (e.g., weapon from monster) | **Local Fame.** Recognized and treated well within 100 miles of where you performed heroic deeds. |
-| Gambler | Deception, Insight or Sleight of Hand | Gaming set | Fine clothes, dice set, playing cards, lucky charm (e.g., lucky coin) | **Lady Luck.** Roll a d6 weekly to determine lifestyle based on gambling. On a 6, you gain enough to support a rich lifestyle. |
-| Guard | Intimidation, Athletics or Investigation | One language | Halberd, common clothes, uniform, badge of office | **Natural Authority.** Civilians and off-duty soldiers defer to you, assuming you're part of the local constabulary. |
-| Hermit | Religion, Medicine or Survival | Herbalism kit | Herbalism kit, healer’s satchel, common clothes, prayer book, personal relic (e.g., beetle companion) | **Inner Voice.** You occasionally hear a voice guiding you to your destiny, which may influence your decisions. |
-| Marauder | Survival, Intimidation or Stealth | One artisan tool or vehicle | Traveler’s clothes, signal whistle, tent, mark of betrayal (e.g., mask) | **Secret Ways.** Pursuers have disadvantage on checks to track you, and you can travel stealthily at a normal pace. |
-| Noble | History, Animal Handling or Persuasion | Gaming set, one language | Common clothes, signet ring, writ of lineage, token from family (e.g., coat of arms) | **High Society.** You know most noble families within hundreds of miles and can expect hospitality from them. |
-| Sage | History, and Arcana, Engineering, or Religion | Two languages | Ink, pen, parchment, common clothes, research notes (e.g., forbidden book) | **Library Privileges.** You have access to many great libraries, allowing you to research and find information with a DC 20 check in certain knowledge areas. |
-| Sailor | Athletics, Acrobatics or Perception | Navigator’s tools, water vehicles | Navigator’s tools, rope, common clothes, maritime relic (e.g., harpoon) | **Sea Salt.** You can easily enter into sailor talk and recognize large ships, recalling their most recent captain and allegiance. |
-| Soldier | Athletics, Animal Handling or Intimidation | Gaming set, one language | Uniform, common clothes, 7 days rations, military memento (e.g., medal, broken weapon) | **Military Bearing.** Off-duty soldiers and veterans respect you and may offer helpful information. |
-| Trader | Persuasion, Deception, or Insight | One vehicle, one language | Traveler’s clothes, abacus, merchant’s scale, trade record (e.g., journal) | **Supply and Demand.** Sell trade goods for a 10% bonus to their sale price for every 100 miles traveled (max 50%). |
-| Urchin | Sleight of Hand, Deception or Stealth | Disguise kit, thieves’ tools | Disguise kit, common clothes, street item (e.g., locket, trained animal) | **Guttersnipe.** You can live a poor lifestyle and avoid detection by gangs, gossips, and guard patrols in cities. |
+| Artisan | Persuasion, Insight or History | One type of artisan’s tools or smith’s tools | Artisan’s tools, traveler’s clothes, keepsake (e.g., hammer, unfinished masterpiece), 15 gp | **Trade Mark.** Access to a fully-stocked workshop in cities and get full price for crafted goods. |
+| Charlatan | Deception, Insight, or Sleight of Hand | Disguise kit, forgery kit | Disguise kit, forgery kit, common clothes, forgery materials, 10 gp | **Many Identities.** Carry forged documents for creating false identities. Advantage on _Deception_ checks to impersonate. |
+| Cultist | Religion, Arcana or Deception | One language | Holy symbol, common clothes, robes, 5 torches, forbidden relic, 5 gp | **Forbidden Lore.** When you fail an Intelligence (_Arcana_) or Intelligence (_Religion_) check, you know where to find the knowledge you seek. |
+| Entertainer | Performance, Acrobatics, or Persuasion | Gaming set, musical instrument | Musical instrument, costume, performance props (e.g., mask), 20 gp | **Pay the Piper.** Performances can earn enough money to support a modest lifestyle for you and your companions. |
+| Exile | Survival, History or Performance | Two languages | Traveler’s clothes, 10 days rations, item from homeland (e.g., cultural artifact), 5 gp | **Fellow Traveler.** [Expertise](#Proficiency_Bonus_expertise) on Charisma (_Persuasion_) checks against others who are exiled or far from home. |
+| Farmer | Nature, Animal Handling or Survival | Land vehicles | Common clothes, shovel, mule with saddlebags, 5 rations, family heirloom, 10 gp | **Bit and Bridle.** You and one animal under your care can carry additional rations equal to your proficiency bonus. |
+| Folk Hero | Survival, Animal Handling or Nature | One artisan tool, one vehicle | Artisan’s tools, common clothes, trophy from deeds (e.g., weapon from monster), 15 gp | **Local Fame.** Recognized and treated well within 100 miles of where you performed heroic deeds. |
+| Gambler | Deception, Insight or Sleight of Hand | Gaming set | Fine clothes, dice set, playing cards, lucky charm (e.g., lucky coin), 20 gp | **Lady Luck.** Roll a d6 weekly to determine lifestyle based on gambling. On a 6, you gain enough to support a rich lifestyle. |
+| Guard | Intimidation, Athletics or Investigation | One language | Halberd, common clothes, uniform, badge of office, 20 gp | **Natural Authority.** Civilians and off-duty soldiers defer to you, assuming you're part of the local constabulary. |
+| Hermit | Religion, Medicine or Survival | Herbalism kit | Herbalism kit, healer’s satchel, common clothes, prayer book, personal relic (e.g., beetle companion), 5 gp | **Inner Voice.** You occasionally hear a voice guiding you to your destiny, which may influence your decisions. |
+| Marauder | Survival, Intimidation or Stealth | One artisan tool or vehicle | Traveler’s clothes, signal whistle, tent, mark of betrayal (e.g., mask), 10 gp | **Secret Ways.** Pursuers have disadvantage on checks to track you, and you can travel stealthily at a normal pace. |
+| Noble | History, Animal Handling or Persuasion | Gaming set, one language | Common clothes, signet ring, writ of lineage, token from family (e.g., coat of arms), 50 gp | **High Society.** You know most noble families within hundreds of miles and can expect hospitality from them. |
+| Sage | History, and Arcana, Engineering, or Religion | Two languages | Ink, pen, parchment, common clothes, research notes (e.g., forbidden book), 10 gp | **Library Privileges.** You have access to many great libraries, allowing you to research and find information with a DC 20 check in certain knowledge areas. |
+| Sailor | Athletics, Acrobatics or Perception | Navigator’s tools, water vehicles | Navigator’s tools, rope, common clothes, maritime relic (e.g., harpoon), 15 gp | **Sea Salt.** You can easily enter into sailor talk and recognize large ships, recalling their most recent captain and allegiance. |
+| Soldier | Athletics, Animal Handling or Intimidation | Gaming set, one language | Uniform, common clothes, 7 days rations, military memento (e.g., medal, broken weapon), 20 gp | **Military Bearing.** Off-duty soldiers and veterans respect you and may offer helpful information. |
+| Trader | Persuasion, Deception, or Insight | One vehicle, one language | Traveler’s clothes, abacus, merchant’s scale, trade record (e.g., journal), 25 gp | **Supply and Demand.** Sell trade goods for a 10% bonus to their sale price for every 100 miles traveled (max 50%). |
+| Urchin | Sleight of Hand, Deception or Stealth | Disguise kit, thieves’ tools | Disguise kit, common clothes, street item (e.g., locket, trained animal), 2 gp | **Guttersnipe.** You can live a poor lifestyle and avoid detection by gangs, gossips, and guard patrols in cities. |
