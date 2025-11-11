@@ -4,7 +4,7 @@
 This adventure is built for four or five 2nd-level characters.
 
 **[Ralavaz the Night Blade](#Night_Blade_NPCs_ralavaz_the_night_blade)**, a notorious bandit chieftain, has been released from prison.
-Rumors mark him as having returned to the hideout from which he and his band once operated—a ruined watchtower where a new group of bandits now preys upon the folk of **[Whitesparrow](#Whitesparrow_the_village_of_whitesparrow)** and the surrounding vale.
+Rumors mark him as having returned to the hideout from which he and his band once operated—a **[ruined watchtower](#Night_Blade_Locations_the_lonely_torch)** where a new group of bandits now preys upon the folk of **[Whitesparrow](#Whitesparrow_the_village_of_whitesparrow)** and the surrounding vale.
 
 When Ralavaz and his younger brother, **[Gardren](#Night_Blade_NPCs_gardren_the_night_lord)**, led the **Night Blade bandits**, they were well known in the village of Whitesparrow for their dastardly deeds, including a murder for which Ralavaz was never convicted.
 Gardren and the rest of the Night Blades were killed when Ralavaz was captured and imprisoned.

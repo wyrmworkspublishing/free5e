@@ -6,7 +6,7 @@ After the fight, the characters investigate the scene of battle to learn more ab
 **[Sheriff Willowmane](#Night_Blade_NPCs_sheriff_ruth_willowmane)** then recruits the characters to hunt down the new Night Blades and bring **[Ralavaz](#Night_Blade_NPCs_ralavaz_the_night_blade)** to justice.
 
 In **[Whitesparrow](#Whitesparrow_the_village_of_whitesparrow)**, the characters communicate with the villagers to learn more of the history of Ralavaz and the Night Blades.
-They then make their way through a huge expanse of **[tangleweed](#Night_Blade_Locations_the_tangles)** to reach the **Lonely Torch**—the ruined watchtower that once served the Night Blades as their headquarters.
+They then make their way through a huge expanse of **[tangleweed](#Night_Blade_Locations_the_tangles)** to reach the **[Lonely Torch](#Night_Blade_Locations_the_lonely_torch)**—the ruined watchtower that once served the Night Blades as their headquarters.
 But as they explore the ruins of the tower and face off against the new group of bandits dwelling there, the characters discover that Ralavaz has been imprisoned by his brother **[Gardren](#Night_Blade_NPCs_gardren_the_night_lord)**, scarred but still alive.
 Learning that Ralavaz has changed his ways and is now trying to turn his brother away from a life of evil, the characters must make a choice about whom to save, whom to kill, and whom to bring back to Whitesparrow to face justice.
 
