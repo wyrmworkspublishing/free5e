@@ -22,3 +22,7 @@ As your character gains power, you might walk on solid fire streets or test your
 [Reflective Planes: Feywild and Shadowfell](./Reflective_Planes.md)
 
 [Demiplanes](./Demiplanes.md)
+
+<<<
+
+[Sensations of the Planes](./Sensations_of_the_Planes.md)
