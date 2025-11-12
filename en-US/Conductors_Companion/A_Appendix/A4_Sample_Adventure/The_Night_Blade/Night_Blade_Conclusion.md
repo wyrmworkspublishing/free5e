@@ -1,8 +1,13 @@
 #### Concluding the Adventure
-<!-- spell-checker:words Gardren Ralavaz Summerspring Whitesparrow -->
+<!-- spell-checker:words Gardren Ralavaz Summerspring Whitesparrow Willowmane -->
 
+When the Night Blades are defeated or brought to justice, Sheriff Ruth Willowmane thanks the party publicly, and Lord Marlin Whitesparrow discreetly pays them 100 gp total (about 25 gp each) for ending the threat.
+The sheriff also offers continuing work and regard as trusted friends of Whitesparrow.
+
+<!--
 This adventure concludes when the characters have removed Gardren and decided what to do with Ralavaz.
 Still wracked by guilt over his previous life and feeling responsible for the behavior of his brother, Ralavaz is willing to accept whatever punishment the characters or the folk of Whitesparrow seek for him.
+-->
 
 ##### Advancement
 

@@ -212,6 +212,7 @@ Replace the captain’s saber attack with the following:
 He also gains the following ability from Nightculler:
 
 > **Night’s Veil (1/Day).**
+> <mark>Gardren can cast darkness centered on a point he can pinpoint within 30 feet.</mark>
 
 Gardren fights strategically, using his darkness ability to divide enemies or retreat.
 He commands from the battle’s edge, relying on lieutenants to engage first.
@@ -241,6 +242,7 @@ A silvered shortsword with a draconic pommel and a thin inlay of black onyx that
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 \
 **Night’s Veil (1/Day).**
+<mark>You can cast darkness centered on a point you can pinpoint within 30 feet.</mark>
 Once used, this property can’t be used again until the next dawn.
 \
 **Shadow Bite.**
@@ -253,6 +255,7 @@ While within magical darkness created by Nightculler, the sword deals an extra `
 >
 > - The _Magic Weapon_ feature means that both attack and damage rolls gain a +1 bonus.
 >   Since the weapon also has the _Finesse_ property, the damage on a hit when wielded by a player character will thereby be `1d6 + 1 + Strength or Dexterity modifier` (since _Finesse_ weapons can be used with either Strength or Dexterity).
+> - <mark>**TODO** The _Night's Veil_ property allows the wielder of the weapon to summon magical darkness.</mark>
 > - The _Shadow Bite_ property lets the weapon deal more damage while in the darkness created by _Night's Veil_.
 >   Note that darkness from any other source (e.g. using the sword at night) does not have the same effect.
 
