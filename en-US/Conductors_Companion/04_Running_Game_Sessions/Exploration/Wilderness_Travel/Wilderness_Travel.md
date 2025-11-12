@@ -10,4 +10,6 @@ A default of DC 12 is usually a good choice.
 
 [Creating the Wilderness](./Creating_the_Wilderness.md)
 
+[Travel Scenery](./Travel_Scenery.md)
+
 [Vehicles](./Vehicles.md)
