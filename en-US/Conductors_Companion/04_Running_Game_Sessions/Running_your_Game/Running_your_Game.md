@@ -30,9 +30,9 @@ These reminders help you stay focused and flexible.
 
 [Embrace the Conductor's Truths](./Conductors_Truths.md)
 
-[RPG Tricks](./RPG_Tricks.md)
-
 [Calling for Checks](./Calling_for_Checks.md)
+
+[RPG Tricks](./RPG_Tricks.md)
 
 [Variant Rule: Doom](./Variant_Doom.md)
 
