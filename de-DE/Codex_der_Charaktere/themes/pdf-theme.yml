@@ -44,6 +44,8 @@ title-page:
     font-color: #29326a
     font-family: Helvetica
     font-size: 20
+heading:
+  font-color: #b77a2b
 footer:
   border-style: dashed
   height: 0.5in
