@@ -56,7 +56,7 @@ A character with a medical background can spend 10 minutes to aid the victim and
 On a success, the afflicted character is no longer _<span class="condition condition-Conditions_poisoned">poisoned</span>_.
 Covering one’s boots in urine repels the tangleweed and negates the need for a saving throw.
 
-A _<span class="monster monster-Shambling_Mound_shambling_mound">Shambling Mound</span>_ (known as **Strangleberries** by the Night Blades) might be seen wandering through the tangleweed, but this creature is generally not aggressive.
+A _<span class="monster monster-Awakened_Tree_awakened_tree">Awakened Tree</span>_ (known as **Strangleberries** by the Night Blades) might be seen wandering through the tangleweed, but this creature is generally not aggressive.
 Like the tangleweed, it can be repelled by vinegar or another acidic liquid.
 
 ##### Shattered Door
@@ -212,7 +212,7 @@ Replace the captain’s saber attack with the following:
 He also gains the following ability from Nightculler:
 
 > **Night’s Veil (1/Day).**
-> <mark>Gardren can cast darkness centered on a point he can pinpoint within 30 feet.</mark>
+> Gardren can cast _<span class="spell spell-Darkness_darkness">Darkness</span>_ (as the spell) centered on a point he can pinpoint within 30 feet.
 
 Gardren fights strategically, using his darkness ability to divide enemies or retreat.
 He commands from the battle’s edge, relying on lieutenants to engage first.
@@ -242,7 +242,7 @@ A silvered shortsword with a draconic pommel and a thin inlay of black onyx that
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 \
 **Night’s Veil (1/Day).**
-<mark>You can cast darkness centered on a point you can pinpoint within 30 feet.</mark>
+You can cast _<span class="spell spell-Darkness_darkness">Darkness</span>_ (as the spell) centered on a point you can pinpoint within 30 feet.
 Once used, this property can’t be used again until the next dawn.
 \
 **Shadow Bite.**
@@ -255,11 +255,8 @@ While within magical darkness created by Nightculler, the sword deals an extra `
 >
 > - The _Magic Weapon_ feature means that both attack and damage rolls gain a +1 bonus.
 >   Since the weapon also has the _Finesse_ property, the damage on a hit when wielded by a player character will thereby be `1d6 + 1 + Strength or Dexterity modifier` (since _Finesse_ weapons can be used with either Strength or Dexterity).
-> - <mark>**TODO** The _Night's Veil_ property allows the wielder of the weapon to summon magical darkness.</mark>
+> - The _Night's Veil_ property allows the wielder of the weapon to use the _<span class="spell spell-Darkness_darkness">Darkness</span>_ spell, though it has a reach of 30 ft. rather than the usual 60 ft. as stated in the spell.
+>   Note that Gardren himself is also unable to see within, into or out of the magical darkness and will therefore be _<span class="condition condition-Conditions_nullified">nullified (sight)</span>_.
+>   Creatures with regular vision or darkvision suffer from the same condition, since darkvision does not work in magical darkness.
 > - The _Shadow Bite_ property lets the weapon deal more damage while in the darkness created by _Night's Veil_.
 >   Note that darkness from any other source (e.g. using the sword at night) does not have the same effect.
-
-<!-- -->
-
-> **Warning**
-> This section has not yet been fully transferred from the Google Doc.
