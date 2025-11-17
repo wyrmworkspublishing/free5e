@@ -32,7 +32,7 @@ At other times, you might skip this step completely if you don't think you need 
 
 Quest templates are general-purpose designs around which you can build specific quests for your own game, using adventure archetypes that have been standard for more than forty years in RPGs.
 This section offers ten quest templates you can customize for your own adventures.
-If generating a random adventure, just roll a `d10` to determine which quest template to use, then fill in the details of the quest with your own ideas or by making use of the adventure generators in [appendix B](#Adventure_Ideas_Generators_adventure_ideas_generators).
+If generating a random adventure, just roll a `d10` to determine which quest template to use, then fill in the details of the quest with your own ideas or by making use of the adventure generators below.
 
 | 1d10 | Quest Template       |
 |:----:|:---------------------|
