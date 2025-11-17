@@ -8,7 +8,7 @@ For example, the event horizon of a portal to the _Astral Plane_ may show the im
 
 > **Tip:**
 > Depending on the object, creature, or phenomenon in question you can use just one or several of the listed sensations.
-> Which sensations are present may also depend on external factors, such as how long it has / they have been outside of its / their plane of origin or astrological events.
+> Which sensations are present may also depend on external factors, such as how long they have been outside of their plane of origin or astrological events.
 
 | Plane                                          | Characteristic Sensation                                                                         |
 |:-----------------------------------------------|:-------------------------------------------------------------------------------------------------|
