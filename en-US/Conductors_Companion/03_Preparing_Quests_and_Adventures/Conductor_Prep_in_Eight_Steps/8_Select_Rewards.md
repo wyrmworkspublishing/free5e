@@ -8,3 +8,7 @@
 [Treasure](./8.2_Treasure.md)
 
 [Spells](./Spells.md)
+
+[Random Items](./Random_Items.md)
+
+[Premade Magic Items](./Random_Items.md)
