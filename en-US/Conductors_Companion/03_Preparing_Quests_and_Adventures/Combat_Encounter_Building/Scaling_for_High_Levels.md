@@ -1,4 +1,4 @@
-### Scaling for Higher Levels
+### Scaling for High Levels
 
 > **Warning**
 > This section has not yet been fully transferred from the Google Doc.
