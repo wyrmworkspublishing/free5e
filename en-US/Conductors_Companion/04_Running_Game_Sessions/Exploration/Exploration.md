@@ -24,6 +24,6 @@ Most exploration roleplay happens between other types of encounters as the party
 [Dungeon Crawling](./Dungeon_Crawling/Dungeon_Crawling.md)
 
 <!-- TODO This section is currently not named, and the contents may have to be changed -->
-[Environmental Details](./Environmental_Details/Environmental_Details.md)
+[Environmental Design](./Environmental_Design/Environmental_Design.md)
 
 [The Planes of Existence](./Planes_of_Existence/Planes_of_Existence.md)
