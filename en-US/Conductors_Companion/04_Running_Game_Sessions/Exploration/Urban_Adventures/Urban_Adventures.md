@@ -15,7 +15,3 @@ A critical failure on a _Strength_ or _Dexterity_ check might shatter a window, 
 Consequences should ripple outward in the story, not just on the dice.
 
 [Designing a Settlement](./Designing_a_Settlement.md)
-
-[Notable Urban Interiors](./Notable_Urban_Interiors.md)
-
-[Urban Encounter Tables by Tier](./Urban_Encounter_Tables_by_Tier.md)
