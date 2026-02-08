@@ -18,6 +18,7 @@ function convert_asciidoc_to_html {
 
   asciidoctor \
       -b html \
+      -a favicon="assets/images/favicon.png" \
       -a fontsdir="${FONTS_BASE_DIR}" \
       -a stylesdir="${CSS_DIR}" \
       -a stylesheet=free5e.css \
@@ -36,7 +37,7 @@ mkdir -p "${HTML_TARGET_DIR}"
 
 # Create a symbolic link to the assets directory, so that we can include all assets in future generated files
 ASSETS_DIR="$(pwd)/assets"
-ln -s "${ASSETS_DIR}" "${HTML_TARGET_DIR}" || echo "assets link already exists"
+cp -r "${ASSETS_DIR}" "${HTML_TARGET_DIR}" || echo "assets directory already exists"
 
 FONTS_BASE_DIR="${HTML_TARGET_DIR}/fonts"
 

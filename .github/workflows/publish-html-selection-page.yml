@@ -1,0 +1,30 @@
+name: Deploy the HTML selection page
+run-name: HTML selection page deployment on branch ${{ github.ref }} triggered by ${{ github.actor }}...
+on: push
+jobs:
+  publish:
+    name: Publish the HTML selection page to GitHub Pages
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload the artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          name: selection-page
+          path: '${{ github.workspace }}/html-selection-page'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          artifact_name: selection-page
+      - run: echo "🐉 This job's status is ${{ job.status }}."

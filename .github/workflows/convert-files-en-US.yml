@@ -7,6 +7,11 @@ on:
       - 'translation/**'
       - 'translations/**'
       - 'convert/**'
+      - 'gh-pages/**'
+
+permissions:
+  pages: write
+  id-token: write
 
 jobs:
   convert-characters-codes-en-us:
