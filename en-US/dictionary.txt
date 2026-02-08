@@ -25,6 +25,7 @@ bioluminescent
 blindsense
 bloodlust
 Bragolbeleg
+bulette*
 Carceri
 celestial*
 Cerilsen
@@ -102,6 +103,8 @@ Longstrider
 longsword*
 MacDoogle
 magoreception
+malcubus*
+mephit*
 multiclass
 Melestrua
 metamagic
@@ -185,6 +188,7 @@ warhammer*
 warhordling
 waterskin*
 werebear*
+wereboar*
 wererat*
 Wizarding
 wodewose*
