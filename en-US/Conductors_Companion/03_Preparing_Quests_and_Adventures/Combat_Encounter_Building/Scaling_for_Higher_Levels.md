@@ -1,11 +1,11 @@
-### Scaling for Higher Levels
+### Scaling for High Levels {#scaling-for-high-levels}
 
 > **Warning**
 > This section has not yet been fully transferred from the Google Doc.
 
-___
+***
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_Encounter Benchmark for Potentially Deadly Encounters_
+*Encounter Benchmark for Potentially Deadly Encounters*
 
 | Char Lvl / Num Chars |   3   |   4   |    5   |    6   | Max Single Monster CR |
 |:--------------------:|:-----:|:-----:|:------:|:------:|:---------------------:|
@@ -30,7 +30,7 @@ _Encounter Benchmark for Potentially Deadly Encounters_
 |          19          | 29-57 | 38-76 | 48-95  | 57-114 |         29            |
 |          20          | 30-60 | 40-80 | 50-100 | 60-120 |         30            |
 
-___
+***
 
 [Monster Combinations](./Scaling_Monster_Combinations.md)
 
