@@ -36,8 +36,10 @@ On a failure, the crowd transforms into a  <span class="monster monster-Commoner
 
 #### Darkness
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+Darkness comes in two varieties: magical and nonmagical.
+In nonmagical darkness, creatures with darkvision can see within their darkvision range as if it were dim light, which counts as a lightly obscured area—such creatures there are **[.condition.condition-Conditions_impaired]#impaired (sight)#**.
+In magical darkness, all vision is blocked.
+It functions as a heavily obscured area, where creatures are **[.condition.condition-Conditions_nullified]#nullified (sight)#**.
 
 #### Dense Smoke
 
@@ -86,9 +88,13 @@ Creatures native to an extreme cold environment also automatically succeed on th
 #### Green Slime
 
 This sticky, vibrantly green, slopping slime clings to and mercilessly eats away at flesh, plants, and even metal.
-
-> **Warning**
-> This section has not yet been fully transferred from the Google Doc.
+Green slime covers a 5-foot square area or larger, though rarely greater in size than a 20-foot radius.
+Although it is alive and able to sense with parasense: kinetoreception to a range of 30 feet, green slime has no Intelligence or other ability scores.
+When green slime senses movement underneath it, it drops towards the ground.
+A creature in the green slime’s area makes a DC 10 Dexterity saving throw, becoming slimed on a failure.
+A slimed creature takes 5 (1d10) ongoing acid damage until the green slime is scraped off with an action.
+Green slime is destroyed by sunlight, any feature, spell, or trait that cures disease, or any amount of cold, fire, or radiant damage.
+Wood or metal exposed to green slime instead takes 11 (2d10) acid damage.
 
 A slimed creature takes `5` (`1d10`) [ongoing acid damage](#Dealing_Damage_ongoing_damage) until the green slime is scraped off with an action.
 Green slime is destroyed by sunlight, any feature, spell, or trait that cures disease, or any amount of cold, fire, or radiant damage.
@@ -178,13 +184,20 @@ They extinguish unprotected flames, disperse fog and smoke, and force flying cre
 
 #### Underwater
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+A creature that cannot breathe water begins to suffocate underwater once it cannot hold its breath.
+In addition, creatures without swim speeds have disadvantage on attacks made using any weapon other than a dagger, javelin, shortsword, spear, or trident.
+Ranged weapon attacks automatically miss beyond their normal range underwater, and bludgeoning and fire damage are halved.
+A creature that takes damage while holding its breath underwater must succeed on a concentration check or immediately begin suffocating as if its breath had run out.
+See Character Codex, Chapter XX: Casting a Spell.
 
 #### Vacuum
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
+An airless area prevents breathing and carries no sound.
+Creatures that need air must have an alternate source or begin to suffocate once they can’t hold their breath.
+The area imposes nullified (hearing, parasense: baroreception), preventing perception through sound or pressure, and spells with verbal components cannot be cast.
+Unprotected creatures suffer decompression as fluids boil and vessels rupture, taking 11 (3d6) bludgeoning and 11 (3d6) cold damage at the start of each turn.
+Sealed protective gear or magic prevents these effects but not suffocation or nullified senses.
+Certain force-based magic, such as Resilient Sphere, can also provide temporary airtight protection.
 
 #### Webs
 
