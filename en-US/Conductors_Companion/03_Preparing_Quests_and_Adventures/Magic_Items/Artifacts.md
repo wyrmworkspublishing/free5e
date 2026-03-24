@@ -76,8 +76,8 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | :---- | :---- |
 | **1** | **Withering Aura.** Plants within 10 ft. wither; creatures finishing a long rest within 10 ft. regain half normal hit points. |
 | **2** | **Cosmic Alignment.** Each dawn roll 1d4; until next dawn, Protection from Evil and Good treats you as a random creature type (Celestial, Fiend, Fey, Aberration). |
-| **3** | **Quest Giver.** On first attunement, you are compelled to complete a quest as if under *Geas*. |
-| **4** | **Possessive.** When you use the artifact, 50% chance an entity attempts to possess you (DC 20 Charisma save). Failure: it controls you until banished by *Dispel Evil and Good*. |
+| **3** | **Quest Giver.** On first attunement, you are compelled to complete a quest as if under _Geas_. |
+| **4** | **Possessive.** When you use the artifact, 50% chance an entity attempts to possess you (DC 20 Charisma save). Failure: it controls you until banished by _Dispel Evil and Good_. |
 | **5** | **Deadly Aura.** Plants and CR 0 creatures within 10 ft. drop to 0 hp. |
 | **6** | **Eldritch Prison.** When you use the artifact, 10% chance a forgotten god breaks free and attacks. |
 | **7** | **Bearer of Hatred.** Choose a creature type (not humanoid). Creatures of that type are hostile. |
@@ -88,7 +88,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **13** | **Psychic Scream.** When you attune, take 4d10 psychic damage. |
 | **14** | **Path of Filth.** A trail of slime or ash follows you; creatures gain advantage to track you. |
 | **15** | **Fickle Fate.** When you attune, an enemy of the Conductor’s choice gains a benefit. |
-| **16** | **Ability Drain.** One ability score (randomly chosen) is reduced by 2. Restored only by *Greater Restoration*. |
+| **16** | **Ability Drain.** One ability score (randomly chosen) is reduced by 2. Restored only by _Greater Restoration_. |
 | **17** | **Double Trouble.** A duplicate of you appears with the goal of killing you. |
 | **18** | **Astral Beacon.** Extraplanar creatures can sense your location within 1 mile. Hostile ones are drawn to you. |
 | **19** | **Weakness.** You are vulnerable to all damage types. |
@@ -108,7 +108,7 @@ While the Conductor decides how a particular artifact can be destroyed, here are
 - If sentient, it may desire a ritual or location to create a body, leaving the artifact to dust.
 
 ### Orb of Dragonkind
-*Wondrous item*, *artifact (requires attunement)* Elves and humans fought a terrible war against evil dragons.
+_Wondrous item_, _artifact (requires attunement)_ Elves and humans fought a terrible war against evil dragons.
 When the world seemed doomed, powerful wizards forged five Orbs of Dragonkind to defeat them.
 Each orb was placed in a wizard tower, where it sped the war to victory.
 The wizards used the orbs to lure dragons and destroy them with magic.
@@ -125,7 +125,7 @@ On a failed check, you become charmed for as long as you remain attuned.
 While charmed, you can’t end your attunement voluntarily.
 The orb casts Suggestion on you at will, urging you to work toward its evil ends.
 The dragon essence within the orb might want to destroy a people, free itself, spread suffering, or something else the Conductor decides.
-**Random Properties.** An *Orb of Dragonkind* has the following random properties:
+**Random Properties.** An _Orb of Dragonkind_ has the following random properties:
 
 - 2 minor beneficial properties
 - 1 minor detrimental property
@@ -136,9 +136,9 @@ You can control it to cast spells from it (save DC 18): Cure Wounds (5th-level v
 You can also cast Detect Magic without expending charges.
 **Call Dragons.** While controlling the orb, you can use an action to issue a telepathic call for 40 miles in all directions.
 Evil dragons in range are compelled to reach the orb directly.
-Dragon deities are unaffected.
+Dragon deities like Tiamat are unaffected.
 Dragons drawn to the orb may be hostile for compelling them against their will.
 This property can’t be used again for 1 hour.
 
-**Destroying an Orb.** An *Orb of Dragonkind* appears fragile but is impervious to most damage, including dragon attacks and breath weapons.
+**Destroying an Orb.** An _Orb of Dragonkind_ appears fragile but is impervious to most damage, including dragon attacks and breath weapons.
 A Disintegrate spell or a good hit from a +3 magic weapon is enough to destroy it.
