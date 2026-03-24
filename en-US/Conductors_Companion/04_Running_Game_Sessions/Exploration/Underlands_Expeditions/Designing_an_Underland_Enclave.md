@@ -16,18 +16,18 @@ Begin with motion and tension—a collapse, a flood, a swarm burst, or a standof
 
 Plan three moments that show both wonder and peril:
 
-- **Traversal:** climbs, rope bridges, or glowing rivers.  
-- **Threat:** ambushes, collapsing ledges, or mysterious echoes.  
-- **Social:** tense negotiations, guarded gates, or trade at a fungus bazaar.  
+- **Traversal:** climbs, rope bridges, or glowing rivers.
+- **Threat:** ambushes, collapsing ledges, or mysterious echoes.
+- **Social:** tense negotiations, guarded gates, or trade at a fungus bazaar.
 Use quest templates from the **Campaign and Session Preparation** for pacing.
 
 ## 4. Define Secrets and Clues
 
 Scatter mysteries the players can uncover anywhere:
 
-- Markings that hint at forgotten routes.  
-- Traces of planar bleed or strange gravity.  
-- Sentient fungi carrying whispered messages.  
+- Markings that hint at forgotten routes.
+- Traces of planar bleed or strange gravity.
+- Sentient fungi carrying whispered messages.
 - Sealed vents or forges humming with buried power.
 
 ## 5. Develop Fantastic Locations
@@ -36,11 +36,11 @@ The Underlands are filled with strange places—chambers of singing crystal, end
 Each should offer both a challenge and a choice.
 Use **Fantastic Locations** and **Monuments** tables for inspiration.
 
-### Caverns
+#### Caverns
 Natural chambers shaped by water, heat, and time—now home to the unnatural.
 Use this table to dress key nodes on your route or to spark side passages.
 
-##### 1d20 Cavern Features
+#### 1d20 Cavern Features
 
 | d20 | Feature |
 | :---: | :---- |
@@ -69,9 +69,9 @@ Use this table to dress key nodes on your route or to spark side passages.
 
 Create **three ordinary**, **three powerful**, and **one unpredictable** NPC.
 
-- **Local folk:** miners, fungus-tenders, ferriers, traders; moods vary from wary to reverent.  
-- **Rulers:** guild circles, faith councils, or deep clans; motives may be secrecy, survival, or profit.  
-- **Wardens:** tunnel guards, spies, or oathbound sentinels; often overworked or territorial.  
+- **Local folk:** miners, fungus-tenders, ferriers, traders; moods vary from wary to reverent.
+- **Rulers:** guild circles, faith councils, or deep clans; motives may be secrecy, survival, or profit.
+- **Wardens:** tunnel guards, spies, or oathbound sentinels; often overworked or territorial.
 Give each a short goal and their stance toward outsiders.
 
 ## 7. Choose Relevant Monsters
@@ -79,5 +79,5 @@ Give each a short goal and their stance toward outsiders.
 Underland creatures prefer ambush, confinement, and corrosion over open combat.
 Their presence often reshapes the terrain.
 
-- **Tier 2:** oozes, burrowers, fungal swarms, and small aberrations.  
+- **Tier 2:** oozes, burrowers, fungal swarms, and small aberrations.
 - **Tier 3–4:** ancient horrors, planar intruders, vast elementals, and sentient machines.
