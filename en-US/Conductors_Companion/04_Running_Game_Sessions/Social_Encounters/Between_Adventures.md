@@ -5,14 +5,14 @@ Time passes without fanfare or description when starting a new adventure.
 The Conductor may simply declare the time and let you describe your character’s activities.
 Alternatively, the Conductor may track time to keep track of events beyond your perception.
 
-### Downtime Activities
+## Downtime Activities
 Between adventures, prompt players for their characters’ downtime plans.
 Downtime requires full days (at least 8 hours each) spent on an activity to gain benefits.
 Days don’t need to be consecutive.
 Players may repeat or switch activities with extra days.
 Encourage players to discuss any downtime not listed here to determine suitability.
 
-#### Crafting
+### Crafting
 Characters can craft nonmagical items like equipment or art, requiring tool proficiency and access to necessary materials or facilities (e.g., a forge for smithing).
 Each downtime day produces items worth up to 5 gp, consuming raw materials costing half the market price.
 For items valued above 5 gp, progress is tracked in 5 gp increments daily.
@@ -23,7 +23,7 @@ For instance, three skilled characters working together can complete plate armor
 For larger groups on smaller projects, require players to clarify each contribution.
 Consumables cost half as much to create.
 
-#### Research
+### Research
 Research uncovers obscure information about individuals, events, organizations, or other things in recorded history.
 Alternatively, it finds facts in bureaucratic records.
 To conduct research, a character must access libraries with the information they seek.
@@ -41,10 +41,10 @@ At the Conductor’s discretion, a character may dispense with these costs if th
 | Hidden | 20 | 3 weeks | 100 gp | The true history of the founding of a dynasty, the real lineage of the local ruler |
 | Secret | 25 | 5 weeks | 500+ gp | The name of a fiend, the location of a city destroyed by the gods in the last age |
 
-#### Recuperate
+### Recuperate
 A character that chooses to recuperate doesn’t do much of anything beyond eating, sleeping and light activities.
 However, doing so allows them to regain all hit dice expended, and grants advantage on rolls made to regain maximum hit points from an ill-effect.
 
-#### Prepare
+### Prepare
 A character prepares for their next adventure by visiting loved ones, catching up on news, gathering information, performing essential maintenance on their equipment and so forth.
 A character that undertakes this activity gains advantage on an exploration ability check, such as climbing or maintenance and reveals how they prepared for it.
