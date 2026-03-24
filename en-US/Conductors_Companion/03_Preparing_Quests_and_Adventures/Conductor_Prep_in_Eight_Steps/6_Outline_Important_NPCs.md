@@ -1,4 +1,4 @@
-### Outline Important NPCs
+### 6. Outline Important NPCs
 During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction.
 Many other NPCs — maybe even most of them — can be improvised right at the table.
 
@@ -11,7 +11,7 @@ To really bring the NPC to life, you can then model their personality and rolepl
 > **NPC Name Generator** \
 > When you need a name fast, roll or pick from these tables.
 > Between sessions, use them to create a list so you can instantly answer when your players ask for the name of an unplanned NPC.
-> *Quick Steps*
+> _Quick Steps_
 >
 > 1. Roll 1d20 on the Name Order Table (or pick).
 > 2. Roll or choose from the Sound, Word, and Particle tables as the structure suggests.
@@ -25,7 +25,7 @@ To really bring the NPC to life, you can then model their personality and rolepl
 >
 > ***
 > <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-> *Name Order (table)*
+> _Name Order (table)_
 >
 > | d20 | Structure                      | Example                   |
 > |:---:|:-------------------------------|:--------------------------|
@@ -52,7 +52,7 @@ To really bring the NPC to life, you can then model their personality and rolepl
 >
 > ***
 > <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-> *Sound (table)*
+> _Sound (table)_
 >
 > | d20 | Prefix | Core | Suffix |
 > |:---:|:-------|:-----|:-------|
@@ -79,7 +79,7 @@ To really bring the NPC to life, you can then model their personality and rolepl
 >
 > ***
 > <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-> *Word (table)*
+> _Word (table)_
 >
 > Each cell lists four related, unique examples. Pick, roll 1d20 then 1d12, or use it for inspiration.
 >
@@ -108,7 +108,7 @@ To really bring the NPC to life, you can then model their personality and rolepl
 >
 > ***
 > <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-> *Particle (table)*
+> _Particle (table)_
 >
 > Use these elements to add relationship connections to names.
 > Sounds can also serve as fantasy particles by adding apostrophes, spaces, or other separators.
@@ -138,7 +138,7 @@ To really bring the NPC to life, you can then model their personality and rolepl
 >
 > ***
 > <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-> *Tone (table)*
+> _Tone (table)_
 >
 > Use tone to guide letter choices and rhythm.
 > It changes how names sound across regions or cultures.
@@ -165,9 +165,9 @@ Use the following table to choose a random ancestry for your NPC.
 | **5** | Goblin   | **10** | Tiefling                         |
 
 > **Tip:**
-> If you want a weighted distribution rather than an even one, you can always use the table for the spell *<span class="spell spell-Reincarnate_reincarnate">Reincarnate</span>*.
+> If you want a weighted distribution rather than an even one, you can always use the table for the spell _<span class="spell spell-Reincarnate_reincarnate">Reincarnate</span>_.
 
-***
+___
 An NPC's worldview can help determine how they initially react to the characters, adjusted by how the characters approach them.
 Improvise DCs for social interaction ability checks based on that approach, with checks usually ranging between DC 10 (easy) and DC 20 (very hard).
 A default of DC 12 is usually a good choice.
@@ -185,7 +185,7 @@ A default of DC 12 is usually a good choice.
 |  **9** | Wide-eyed     | **19** | Greedy     |
 | **10** | Humorous      | **20** | Outgoing   |
 
-***
+___
 NPCs will often be most easily remembered by the players based on some unique aspect of their appearance or manners.
 
 |  1d20  | Appearance and Mannerisms           |  1d20  | Appearance and Mannerisms                |
@@ -201,9 +201,9 @@ NPCs will often be most easily remembered by the players based on some unique as
 |  **9** | Always veils one side of their face | **19** | Long claw-like nails                     |
 | **10** | Multicolored eyes                   | **20** | Half-shaved head                         |
 
-***
+___
 Assign a profession to your NPC to add color to their stat block.
-The *<span class="monster monster-Commoner_commoner">commoner</span>* is the default stat block for NPCs of this type.
+The _<span class="monster monster-Commoner_commoner">commoner</span>_ is the default stat block for NPCs of this type.
 
 |  1d20  | Profession  |  1d20  | Profession |
 |:------:|:------------|:------:|:-----------|
