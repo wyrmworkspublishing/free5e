@@ -18,7 +18,8 @@ Holding one’s breath is ineffective against inhaled poisons, as they affect na
 **Injury.** Injury poison can be applied to weapons, ammunition, trap components, and other objects that deal piercing or slashing damage and remains potent until delivered through a wound or washed off. 
 A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its effects.
 
-#### Sample Poisons
+#### Poisons
+
 | Poison | Type | Price/Dose | Con Save, Poison Damage & Conditions |
 | ----- | ----- | ----- | ----- |
 | Assassin’s Blood | Ingested | 150 gp | DC 10; 6 (1d12), poisoned 24h |
