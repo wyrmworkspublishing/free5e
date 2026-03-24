@@ -131,20 +131,8 @@ It is otherwise identical to a normal _Sphere of Annihilation._ Some versions of
 This effect is otherwise like the _Sympathy_ aspect of the _Antipathy/Sympathy_ spell.
 A successful _Dispel Magic_ (DC 18) removes this enchantment.
 
-[Diseases](./Diseases.md)
-
-[Environmental Design](./Environmental_Details.md)
-
-[Objects](./Objects.md)
-
-[Use Passive Scores](./Passive_Scores.md)
-
-[Poisons](./Poisons.md)
-
-[Stress Effects](./Stress.md)
+[Traps in Play](./Traps_in_Play.md)
 
 [Random Traps](./Traps_Random.md)
 
-[Traps in Play](./Traps_Samples.md)
-
-[Traps in Play](./Traps_in_Play.md)
+[Sample Traps](./Traps_Samples.md)
