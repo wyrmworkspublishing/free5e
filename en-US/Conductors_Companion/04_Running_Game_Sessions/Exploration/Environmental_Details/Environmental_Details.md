@@ -1,9 +1,6 @@
 ### Environmental Details
 
-> **Warning**
-> This section has not yet been transferred from the Google Doc.
-
-[Quick Trick: Use Passive Scores](./Passive_Scores.md)
+[Environmental_Design.md](./Environmental_Design.md)
 
 [Objects](./Objects.md)
 
