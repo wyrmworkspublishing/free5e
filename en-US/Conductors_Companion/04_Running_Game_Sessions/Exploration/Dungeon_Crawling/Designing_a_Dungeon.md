@@ -24,9 +24,9 @@ Plan three key beats to define the adventure:
 Every dungeon has history.
 Scatter evidence of it through objects, writing, or remains:
 
-4. Wall carvings or murals that show the builder’s purpose.  
-5. Journals or inscriptions that hint at prior expeditions.  
-6. Objects out of place—proof of intrusion or corruption.
+1. Wall carvings or murals that show the builder’s purpose.  
+2. Journals or inscriptions that hint at prior expeditions.  
+3. Objects out of place—proof of intrusion or corruption.
 
 ## 5. Consider the Dungeon’s Purpose
 
@@ -41,7 +41,7 @@ A believable ecosystem doesn’t need complexity—just internal logic.
 
 Use these tables to define chambers, details, and upward beats of hope or revelation.
 
-##### 1d20 Chambers
+### 1d20 Chambers
 
 | d20 | Chamber |
 | :---: | :---- |
@@ -66,7 +66,7 @@ Use these tables to define chambers, details, and upward beats of hope or revela
 | 19 | Bone yard |
 | 20 | Scrying chamber |
 
-##### 1d20 Discoveries
+### 1d20 Discoveries
 
 | d20 | Discovery |
 | :---: | :---- |
@@ -91,7 +91,7 @@ Use these tables to define chambers, details, and upward beats of hope or revela
 | 19 | Useful machinery |
 | 20 | Historical library |
 
-##### 1d10 Wall Decorations
+### 1d10 Wall Decorations
 
 | d10 | Decoration |
 | :---: | :---- |
@@ -114,9 +114,9 @@ Not every inhabitant is an enemy.
 Some are prisoners, caretakers, scavengers, or explorers who arrived earlier.
 Ask:
 
-7. How did they get here?  
-8. Why do they stay?  
-9. What were they doing before the party arrived?  
+1. How did they get here?  
+2. Why do they stay?  
+3. What were they doing before the party arrived?  
 Their answers shape both encounter tone and pacing.
 
 ## 8. Choose Relevant Monsters

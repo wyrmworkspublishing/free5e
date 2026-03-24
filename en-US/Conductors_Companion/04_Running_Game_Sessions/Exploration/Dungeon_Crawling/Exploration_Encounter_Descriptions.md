@@ -6,7 +6,7 @@
 > * **Acid Field.** Pools emit caustic fumes. _Dexterity saving throw (DC 14)_ or take 2d6 acid damage; a successful _Intelligence (Nature)_ check _(DC 13)_ locates safe footing.  
 > * **Bridge of Sorrow / Stones.** A crumbling bridge spans a void. Make a _Dexterity (Acrobatics)_ check (DC 14) to cross and/or a _Strength (Athletics)_ check (DC 12) to assist others.  
 > * **Caught in the Crossfire.** Rival factions clash nearby. A successful _Dexterity saving throw (DC 15)_ avoids stray attacks; a successful _Charisma (Persuasion)_ check _(DC 13)_ may de-escalate or negotiate passage.  
-> * **Choking Smoke.** Burning debris fills the air. Make a _Constitution saving throw (DC 14)_ each minute or gain one level of exhaustion. The area is lightly obscured within 10 ft. and heavily obscured beyond that.   
+> * **Choking Smoke.** Burning debris fills the air. Make a _Constitution saving throw (DC 14)_ each minute or gain one level of exhaustion. The area is lightly obscured within 10 ft. and heavily obscured beyond that.  
 > * **Collapsing Roof.** A structure gives way above. Make a _Dexterity saving throw (DC 14)_ to avoid 2d6 bludgeoning damage and/or a _Strength (Athletics)_ check (DC 10) to rescue trapped victims.  
 > * **Counterfeit Goods.** Merchants sell falsified or stolen wares to the party. A successful _Intelligence (Investigation)_ or _Wisdom (Insight)_ check (DC 12–15) reveals the deception; failure leads to the item breaking when used.  
 > * **Cursed Temple.** Defiled ground radiates magical corruption. Make a _Wisdom saving throw (DC 15)_ or become _frightened_ for 1 minute; a successful _Intelligence (Religion) (DC 13)_ identifies the curse’s origin.  
