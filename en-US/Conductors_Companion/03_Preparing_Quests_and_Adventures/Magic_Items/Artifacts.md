@@ -136,7 +136,7 @@ You can control it to cast spells from it (save DC 18): Cure Wounds (5th-level v
 You can also cast Detect Magic without expending charges.
 **Call Dragons.** While controlling the orb, you can use an action to issue a telepathic call for 40 miles in all directions.
 Evil dragons in range are compelled to reach the orb directly.
-Dragon deities like Tiamat are unaffected.
+Dragon deities are unaffected.
 Dragons drawn to the orb may be hostile for compelling them against their will.
 This property can’t be used again for 1 hour.
 
