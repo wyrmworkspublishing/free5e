@@ -1,5 +1,4 @@
-## Artifacts {#artifacts}
-
+## Artifacts
 In a world of flaming swords and cursed axes, some magical items surpass the capabilities of wizards or demons.
 These potent relics are legendary, leaving marks on history and spawning tales.
 Finding one can signal major changes.
@@ -7,13 +6,11 @@ Finding one can signal major changes.
 Artifacts are not ordinary items; they are plot points as much as equipment.
 Their search can be the goal of an entire adventure or long-term quest: to reclaim them from villains, traverse dangerous demiplanes, or prevent factions from war.
 
-### Recognizing Artifacts {#recognizing-artifacts}
-
+### Recognizing Artifacts
 Artifacts can often be recognized without knowing everything about them due to their historical significance and numerous tales.
 Success on an ability check reveals information from its Legends and Lore, but not what a typical check to identify a magic item would reveal.
 
-### Artifact Properties {#artifact-properties}
-
+### Artifact Properties
 Artifacts, like magical items, have unique properties that can be chosen by the Conductor or randomly.
 These properties shift upon appearance and are not permanent.
 Conductors are encouraged to create new properties.
@@ -22,7 +19,7 @@ An artifact can have a maximum of four lesser benefits and two greater benefits,
 Unless otherwise noted, the following properties apply when attuned to an artifact and wielding or possessing it.
 Any cantrips or spells granted by an artifact are chosen by the Conductor.
 
-**Table: Lesser Artifact Benefits**
+#### Table: Lesser Artifact Benefits
 
 | d20 | Effect |
 | :---- | :---- |
@@ -36,7 +33,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **17–18** | **Spell Weaver (Mastery).** As above, but a 3rd-level spell. |
 | **19–20** | **Aegis.** +1 AC. |
 
-**Table: Greater Artifact Benefits**
+##### Table: Greater Artifact Benefits
 
 | d20 | Effect |
 | :---- | :---- |
@@ -50,7 +47,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **17–18** | **Magus Magic (Epic).** As above, but a 7th-level spell. |
 | **19–20** | **Pure Body.** Immune to Nullified, Petrified, and Stunned. |
 
-**Table: Lesser Artifact Detriments**
+###### Table: Lesser Artifact Detriments
 
 | d20 | Effect |
 | :---- | :---- |
@@ -73,7 +70,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **19** | **Flickerform.** Your body shimmers; attack rolls against you have advantage until you start your next turn after taking damage. |
 | **20** | **Flawed.** Your flaws are magnified (Conductor decides details). |
 
-**Table: Greater Artifact Detriments**
+###### Table: Greater Artifact Detriments
 
 | d20 | Effect |
 | :---- | :---- |
@@ -97,16 +94,20 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **19** | **Weakness.** You are vulnerable to all damage types. |
 | **20** | **Divine Reclamation.** On attunement, 10% chance a divine avatar arrives to reclaim the artifact. |
 
-### Destroying an Artifact {#destroying-an-artifact}
-
+### Destroying an Artifact
 Legends are in the hands of adventurers, but they could destroy them—a necessary task.
 Destroying a powerful magical item is part of a campaign’s plot, and artifacts are indestructible otherwise.
 Every artifact has a weakness, but finding and using it may be a quest in itself, as can stopping a villain from destroying it.
 
-While the Conductor decides how a particular artifact can be destroyed, here are some suggestions: •      	Fulfill an ancient prophecy...or defy one. •      	Return it to its place of origin or creator to make it vulnerable to damage. •      	Ritual that takes place at a sacred site in an opposite aligned plane. •      	Thrown into a specific volcano tied to its power. •      	If sentient, it may desire a ritual or location to create a body, leaving the artifact to dust.
+While the Conductor decides how a particular artifact can be destroyed, here are some suggestions:
 
-### Orb of Dragonkind {#orb-of-dragonkind}
+- Fulfill an ancient prophecy...or defy one.
+- Return it to its place of origin or creator to make it vulnerable to damage.
+- Ritual that takes place at a sacred site in an opposite aligned plane.
+- Thrown into a specific volcano tied to its power.
+- If sentient, it may desire a ritual or location to create a body, leaving the artifact to dust.
 
+### Orb of Dragonkind
 *Wondrous item*, *artifact (requires attunement)* Elves and humans fought a terrible war against evil dragons.
 When the world seemed doomed, powerful wizards forged five Orbs of Dragonkind to defeat them.
 Each orb was placed in a wizard tower, where it sped the war to victory.
@@ -124,7 +125,13 @@ On a failed check, you become charmed for as long as you remain attuned.
 While charmed, you can’t end your attunement voluntarily.
 The orb casts Suggestion on you at will, urging you to work toward its evil ends.
 The dragon essence within the orb might want to destroy a people, free itself, spread suffering, or something else the Conductor decides.
-**Random Properties.** An *Orb of Dragonkind* has the following random properties: •2 minor beneficial properties •1 minor detrimental property •1 major detrimental property **Spells.** The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn.
+**Random Properties.** An *Orb of Dragonkind* has the following random properties:
+
+- 2 minor beneficial properties
+- 1 minor detrimental property
+- 1 major detrimental property
+
+**Spells.** The orb has 7 charges and regains 1d4 + 3 expended charges daily at dawn.
 You can control it to cast spells from it (save DC 18): Cure Wounds (5th-level version, 3 charges), Daylight (1 charge), Death Ward (2 charges), or Scrying (3 charges).
 You can also cast Detect Magic without expending charges.
 **Call Dragons.** While controlling the orb, you can use an action to issue a telepathic call for 40 miles in all directions.
