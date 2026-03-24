@@ -89,9 +89,9 @@ Use notable landmarks to mark key points along the characters' journey.
 Such landmarks can serve as a backdrop for random encounters or as places to rest.
 They might also serve as a source of secrets and clues that the characters can discover.
 
-##### 1d100 Travel Scenery
+##### Travel Scenery
 
-###### Travel Scenery
+###### 1d100 Travel Scenery
 
 1. A flock of birds wheels and dives in the air, staying noticeable for most of the day.  
 2. The ground shakes as some kind of burrowing creature passes beneath.  
@@ -182,7 +182,7 @@ They might also serve as a source of secrets and clues that the characters can d
 87. An abandoned carriage gutted of everything that might have value.  
 88. A luxurious inn purporting pleasurable company, though no other customers seem to have been enticed inside.  
 89. A talking and interactive figment that flamboyantly points the way to a magical shop.  
-90. A shrubbery.  
+90. A large tree with a herring skeleton at its base.  
 91. A fortified bridge that spans a chasm over a river of lava.  
 92. An empty cart firmly stuck in a pothole. Removing the cart breaks its axle.  
 93. The ground nearby is littered with scores of small holes the size of a person's fist.  
