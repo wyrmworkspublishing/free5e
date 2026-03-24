@@ -36,7 +36,8 @@ The Underlands are filled with strange places—chambers of singing crystal, end
 Each should offer both a challenge and a choice.
 Use **Fantastic Locations** and **Monuments** tables for inspiration.
 
-#### Caverns
+### Caverns
+
 Natural chambers shaped by water, heat, and time—now home to the unnatural.
 Use this table to dress key nodes on your route or to spark side passages.
 
