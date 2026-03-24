@@ -11,7 +11,7 @@ You can also give it immunities, resistances, and vulnerabilities to specific ty
 **Armor Class.** An object’s Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way).
 The Object Armor Class table provides suggested AC values for various substances.
 
-##### Object Armor Class
+#### Object Armor Class
 
 | Substance | AC |
 | :---- | :---- |
@@ -28,7 +28,7 @@ Resilient objects have more hit points than fragile ones.
 Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing.
 The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-##### Object Hit Points
+#### Object Hit Points
 
 | Size | Fragile | Resilient |
 | :---- | :---- | :---- |
@@ -53,7 +53,7 @@ As always, use your best judgment.
 An object with a damage threshold has immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes damage as normal.
 Any damage that fails to meet or exceed the object’s damage threshold is considered superficial and doesn’t reduce the object’s hit points.
 
-##### Large Objects and Structures Damage Thresholds
+#### Large Objects and Structures Damage Thresholds
 
 | Object / Structure | DT |
 | :---- | :---- |

@@ -50,8 +50,6 @@ Use the Trap Difficulty and Damage by Level table for suggestions based on three
 
 ##### Trap Difficulty and Damage by Level
 
- 
-
 | Category | Setback | Dangerous | Deadly |
 | ----- | ----: | ----: | ----: |
 | **Save DC** | 10–11 | 12–15 | 16–20 |
@@ -60,8 +58,6 @@ Use the Trap Difficulty and Damage by Level table for suggestions based on three
 | **Character Level 5–10** | 2d10 | 4d10 | 10d10 |
 | **Character Level 11–16** | 4d10 | 10d10 | 18d10 |
 | **Character Level 17–20** | 10d10 | 18d10 | 24d10 |
-
- 
 
 ##### Complex Traps
 
