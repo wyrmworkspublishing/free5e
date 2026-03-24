@@ -7,3 +7,5 @@
 [Average Handfuls of Dice](./Average_Handfuls_of_Dice.md)
 
 [Cinematic Advantage](./Cinematic_Advantage.md)
+
+[Other Quick Tricks](./Other_Quick_Tricks.md)
