@@ -89,7 +89,7 @@ Creatures native to an extreme cold environment also automatically succeed on th
 
 This sticky, vibrantly green, slopping slime clings to and mercilessly eats away at flesh, plants, and even metal.
 Green slime covers a 5-foot square area or larger, though rarely greater in size than a 20-foot radius.
-Although it is alive and able to sense with parasense: kinetoreception to a range of 30 feet, green slime has no Intelligence or other ability scores.
+Although it is alive and able to sense with _parasense: kinetoreception_ to a range of 30 feet, green slime has no Intelligence or other ability scores.
 When green slime senses movement underneath it, it drops towards the ground.
 A creature in the green slime’s area makes a DC 10 Dexterity saving throw, becoming slimed on a failure.
 A slimed creature takes 5 (1d10) ongoing acid damage until the green slime is scraped off with an action.
