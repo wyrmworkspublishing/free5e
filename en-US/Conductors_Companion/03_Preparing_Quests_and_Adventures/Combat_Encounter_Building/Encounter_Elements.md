@@ -188,7 +188,7 @@ A creature that cannot breathe water begins to suffocate underwater once it cann
 In addition, creatures without swim speeds have disadvantage on attacks made using any weapon other than a dagger, javelin, shortsword, spear, or trident.
 Ranged weapon attacks automatically miss beyond their normal range underwater, and bludgeoning and fire damage are halved.
 A creature that takes damage while holding its breath underwater must succeed on a concentration check or immediately begin suffocating as if its breath had run out.
-See Character Codex, Chapter XX: Casting a Spell.
+See Character Codex, <mark>Chapter XX</mark>: Casting a Spell.
 
 #### Vacuum
 
