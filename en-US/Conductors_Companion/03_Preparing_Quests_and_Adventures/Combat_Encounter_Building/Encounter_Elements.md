@@ -194,7 +194,7 @@ See Character Codex, <mark>Chapter XX</mark>: Casting a Spell.
 
 An airless area prevents breathing and carries no sound.
 Creatures that need air must have an alternate source or begin to suffocate once they can’t hold their breath.
-The area imposes nullified (hearing, parasense: baroreception), preventing perception through sound or pressure, and spells with verbal components cannot be cast.
+The area imposes **[.condition.condition-Conditions_nullified]#nullified (hearing, parasense: baroreception)#**, preventing perception through sound or pressure, and spells with verbal components cannot be cast.
 Unprotected creatures suffer decompression as fluids boil and vessels rupture, taking 11 (3d6) bludgeoning and 11 (3d6) cold damage at the start of each turn.
 Sealed protective gear or magic prevents these effects but not suffocation or nullified senses.
 Certain force-based magic, such as Resilient Sphere, can also provide temporary airtight protection.
