@@ -8,7 +8,7 @@ Be cautious with scaling.
 Encounters of certain types and levels will be harder or easier than expected.
 Adjust encounters on the fly as needed.
 
-#### **Creature Roles**
+#### Creature Roles
 
 | Role | Description |
 | :---- | :---- |
