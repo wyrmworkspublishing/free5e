@@ -18,7 +18,10 @@ Adjust encounters on the fly as needed.
 | **Minion**     | A small or low-level creature that adds flavor and motion to the scene. |
 
 #### **Hard Encounter Table (for Four Characters)**
+#### Hard Encounter Table
 
+> **Note:** This table assumes **4 characters**.
+> Check [step 3](#Scaling_Monster_Combinations_step_3_adjust_for_party_size) for details on how to scale it for different numbers of characters.
 |  | Monsters of the Same CR |  |  |  |  |  | Boss Scenarios |  |  |  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Character Level** | **1** | **2** | **4** | **6** | **8** | **12** | **1 Boss \+ 2 Monsters** | **1 Boss \+ 3 Monsters** | **1 Boss \+ 4 Underlings** | **1 Boss \+ 2 Lieutenants \+ 8 Minions** |
