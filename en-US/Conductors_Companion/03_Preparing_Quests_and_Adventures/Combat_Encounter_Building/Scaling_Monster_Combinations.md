@@ -86,4 +86,5 @@ You can also change difficulty by pretending the party is a different level:
 - **Medium:** use −2 levels
 - **Easy:** use −4 levels
 
-*Example:* A 7th Level party using the 5th Level row gives a medium fight; using the 9th Level row makes it deadly.
+> **Example:**
+> A 7th Level party using the 5th Level row gives a medium fight; using the 9th Level row makes it deadly.
