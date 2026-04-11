@@ -43,7 +43,7 @@ Adjust encounters on the fly as needed.
 | 19 | 27 | 19 | 11 | 9 | 7 | 5 | 15 \+ 12 (x2) | 14 \+ 10 (x3) | 13 \+ 9 (x4) | 13 \+ 8 (x2) \+ 4 (x8) |
 | 20 | 29 | 19 | 12 | 9 | 7 | 5 | 15 \+ 13 (x2) | 14 \+ 11 (x3) | 13 \+ 10 (x4) | 14 \+ 8 (x2) \+ 5 (x8) |
 
-#### **Step 1: Find the Average Level**
+#### Step 1: Find the Average Level
 
 Add all characters’ levels and divide by the number of players, rounding down.
 **Example:** 6 \+ 7 \+ 8 \+ 8 \= 29 → 29 ÷ 4 \= **7.25** Use the row for **Level 7**.
