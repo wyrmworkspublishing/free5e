@@ -63,7 +63,7 @@ Example for Level 7 (4 characters):
 > **Example for Level 7 (4 characters):**
 > **1 Boss \+ 3 Monsters:** one CR 5 boss \+ three CR 2 monsters.
 
-#### **Step 3: Adjust for Party Size**
+#### Step 3: Adjust for Party Size
 
 The table assumes **4 characters**.
 Use the math below to fit any group:
