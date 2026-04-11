@@ -52,7 +52,7 @@ Add all characters’ levels and divide by the number of players, rounding down.
 >
 > Use the row for **Level 7**.
 
-#### **Step 2: Pick an Encounter Concept**
+#### Step 2: Pick an Encounter Concept
 
 Choose from the columns above: a single boss, or a **Boss \+ Allies** combination.
 Example for Level 7 (4 characters):
