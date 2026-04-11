@@ -78,7 +78,7 @@ Use the math below to fit any group:
 > **Tip**
 > **Rounding Tip:** When you get a decimal, round down for a safer fight, up for a riskier one.
 
-#### **Step 4: Scale Difficulty**
+#### Step 4: Scale Difficulty
 
 You can also change difficulty by pretending the party is a different level:
 
