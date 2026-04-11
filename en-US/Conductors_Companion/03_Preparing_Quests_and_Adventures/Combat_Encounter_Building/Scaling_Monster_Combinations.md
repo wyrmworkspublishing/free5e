@@ -10,12 +10,12 @@ Adjust encounters on the fly as needed.
 
 #### Creature Roles
 
-| Role | Description |
-| :---- | :---- |
-| **Boss** | The leader or main threat — the biggest, toughest foe. |
-| **Lieutenant** | A strong ally or second-in-command. |
-| **Underling** | A capable follower, weaker than a lieutenant but still a threat. |
-| **Minion** | A small or low-level creature that adds flavor and motion to the scene. |
+| Role           | Description                                                             |
+|:---------------|:------------------------------------------------------------------------|
+| **Boss**       | The leader or main threat — the biggest, toughest foe.                  |
+| **Lieutenant** | A strong ally or second-in-command.                                     |
+| **Underling**  | A capable follower, weaker than a lieutenant but still a threat.        |
+| **Minion**     | A small or low-level creature that adds flavor and motion to the scene. |
 
 #### **Hard Encounter Table (for Four Characters)**
 
