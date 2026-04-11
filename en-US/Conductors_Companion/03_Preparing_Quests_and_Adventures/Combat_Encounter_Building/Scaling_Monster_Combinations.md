@@ -73,7 +73,7 @@ Use the math below to fit any group:
 | **3 characters** | −25 % | 10 × 0.75 \= 7.5 → **7** | Lower the boss by 1 CR (→ 4\) or remove 1 monster. |
 | **5 characters** | \+25 % | 10 × 1.25 \= 12.5 → **13** | Raise boss to CR 6 or add 1 more CR 2 monster. |
 | **6 characters** | \+50 % | 10 × 1.5 \= 15 → **15** | Raise boss to CR 7 or add 2 more CR 2 monsters. |
-| **7 \+ characters** | \+75 % or more | 10 × 1.75 \= 17.5 → **18** | Raise boss to CR 8–9 and add extra minions. |
+| **7 or more characters** | \+75 % or more | 10 × 1.75 \= 17.5 → **18** | Raise boss to CR 8–9 and add extra minions. |
 
 **Rounding Tip:** When you get a decimal, round down for a safer fight, up for a riskier one.
 
