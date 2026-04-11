@@ -65,7 +65,7 @@ Example for Level 7 (4 characters):
 
 #### Step 3: Adjust for Party Size
 
-The table assumes **4 characters**.
+The [hard encounter table](#Scaling_Monster_Combinations_hard_encounter_table) assumes **4 characters**.
 Use the math below to fit any group:
 
 | Party Size | Total CR Adjustment | Example: Level 7 (Boss 5 \+ 2s × 3 \= CR ≈ 10\) | How to Adjust the Boss \+ Allies |
