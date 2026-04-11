@@ -82,8 +82,8 @@ Use the math below to fit any group:
 
 You can also change difficulty by pretending the party is a different level:
 
-* **Deadly:** use \+1 to \+2 levels higher (Use the Potential Deadliness benchmark in Chapter XX)
-* **Medium:** use −2 levels
-* **Easy:** use −4 levels
+- **Deadly:** use \+1 to \+2 levels higher (Use the Potential Deadliness benchmark in <mark>Chapter XX</mark>)
+- **Medium:** use −2 levels
+- **Easy:** use −4 levels
 
 *Example:* A 7th Level party using the 5th Level row gives a medium fight; using the 9th Level row makes it deadly.
