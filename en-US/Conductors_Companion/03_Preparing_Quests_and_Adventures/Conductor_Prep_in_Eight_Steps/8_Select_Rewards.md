@@ -11,4 +11,4 @@
 
 [Random Items](./Random_Items.md)
 
-[Premade Magic Items](./Random_Items.md)
+[Premade Magic Items](./Magic_Item_Tables.md)
