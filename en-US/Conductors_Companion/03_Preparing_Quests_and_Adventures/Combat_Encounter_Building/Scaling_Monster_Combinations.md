@@ -59,7 +59,9 @@ Add all characters’ levels and divide by the number of players, rounding down.
 
 Choose from the columns above: a single boss, or a **Boss \+ Allies** combination.
 Example for Level 7 (4 characters):
-**1 Boss \+ 3 Monsters:** one CR 5 boss \+ three CR 2 monsters.
+
+> **Example for Level 7 (4 characters):**
+> **1 Boss \+ 3 Monsters:** one CR 5 boss \+ three CR 2 monsters.
 
 #### **Step 3: Adjust for Party Size**
 
