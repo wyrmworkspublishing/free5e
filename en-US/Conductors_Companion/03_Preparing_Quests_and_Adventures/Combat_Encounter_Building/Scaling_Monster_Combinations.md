@@ -17,7 +17,6 @@ Adjust encounters on the fly as needed.
 | **Underling**  | A capable follower, weaker than a lieutenant but still a threat.        |
 | **Minion**     | A small or low-level creature that adds flavor and motion to the scene. |
 
-#### **Hard Encounter Table (for Four Characters)**
 #### Hard Encounter Table
 
 > **Note:** This table assumes **4 characters**.
@@ -68,12 +67,12 @@ Example for Level 7 (4 characters):
 The [hard encounter table](#Scaling_Monster_Combinations_hard_encounter_table) assumes **4 characters**.
 Use the math below to fit any group:
 
-| Party Size | Total CR Adjustment | Example: Level 7 (Boss 5 \+ 2s × 3 \= CR ≈ 10\) | How to Adjust the Boss \+ Allies |
-| :---- | :---- | :---- | :---- |
-| **3 characters** | −25 % | 10 × 0.75 \= 7.5 → **7** | Lower the boss by 1 CR (→ 4\) or remove 1 monster. |
-| **5 characters** | \+25 % | 10 × 1.25 \= 12.5 → **13** | Raise boss to CR 6 or add 1 more CR 2 monster. |
-| **6 characters** | \+50 % | 10 × 1.5 \= 15 → **15** | Raise boss to CR 7 or add 2 more CR 2 monsters. |
-| **7 or more characters** | \+75 % or more | 10 × 1.75 \= 17.5 → **18** | Raise boss to CR 8–9 and add extra minions. |
+| Party Size              | Total CR Adjustment | Example: Level 7 (Boss 5 + 2s × 3 = CR ≈ 10) | How to Adjust the Boss + Allies              |
+| :---------------------- | :------------------ | :------------------------------------------- | :------------------------------------------- |
+| **3 characters**        | -25%                | 10 × 0.75 = 7.5 → **7**                      | Lower the boss by 1 CR or remove 1 monster.  |
+| **5 characters**        | +25%                | 10 × 1.25 = 12.5 → **13**                    | Raise the boss by 1 CR or add 1 CR 2 ally.   |
+| **6 characters**        | +50%                | 10 × 1.5 = 15 → **15**                       | Raise the boss by 2 CR or add 2 CR 2 allies. |
+| **7 or more characters**| +75% or more        | 10 × 1.75 = 17.5 → **18**                    | Raise the boss by 3–4 CR or add 4 minions.   |
 
 > **Tip**
 > **Rounding Tip:** When you get a decimal, round down for a safer fight, up for a riskier one.
@@ -82,9 +81,9 @@ Use the math below to fit any group:
 
 You can also change difficulty by pretending the party is a different level:
 
-- **Deadly:** use \+1 to \+2 levels higher (Use the Potential Deadliness benchmark in <mark>Chapter XX</mark>)
-- **Medium:** use −2 levels
-- **Easy:** use −4 levels
+- **Deadly:** use +1 to +2 levels higher (see **Potential Deadliness** above)
+- **Medium:** use -2 levels
+- **Easy:** use -4 levels
 
 > **Example:**
-> A 7th Level party using the 5th Level row gives a medium fight; using the 9th Level row makes it deadly.
+> A 7th-level party using the 5th-level row gives a medium fight; using the 9th-level row makes it deadly.
