@@ -46,7 +46,11 @@ Adjust encounters on the fly as needed.
 #### Step 1: Find the Average Level
 
 Add all characters’ levels and divide by the number of players, rounding down.
-**Example:** 6 \+ 7 \+ 8 \+ 8 \= 29 → 29 ÷ 4 \= **7.25** Use the row for **Level 7**.
+
+> **Example:**
+> 6 \+ 7 \+ 8 \+ 8 \= 29 → 29 ÷ 4 \= **7.25**
+>
+> Use the row for **Level 7**.
 
 #### **Step 2: Pick an Encounter Concept**
 
