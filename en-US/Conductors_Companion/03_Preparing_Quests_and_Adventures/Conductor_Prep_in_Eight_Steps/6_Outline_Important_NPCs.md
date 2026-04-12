@@ -5,6 +5,10 @@ Many other NPCs, possibly most, can be improvised at the table.
 
 #### NPC Generator
 
+#### Step 1: Generate the Name
+
+Roll 1d20 on the Name Order Table, then follow the structure it gives using the Sound, Word, and Particle tables below.
+
 NPCs bring the setting to life.
 Use these tables to build NPCs quickly, then add mannerisms, priorities, and roleplaying details as needed.
 For **major NPCs**, choose or roll on most steps.
