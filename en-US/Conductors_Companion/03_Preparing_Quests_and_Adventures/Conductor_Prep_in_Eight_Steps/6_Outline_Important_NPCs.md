@@ -9,8 +9,10 @@ NPCs bring the setting to life.
 Use these tables to build NPCs quickly, then add mannerisms, priorities, and roleplaying details as needed.
 For **major NPCs**, choose or roll on most steps.
 For **minor NPCs**, one physical detail, one motivation, and one behavior cue are usually enough.
-Ancestry adds context, not destiny.
-Worldview guides decisions; behavior shows how those decisions appear.
+Keep in mind though, that:
+
+- ancestry adds context, not destiny
+- worldview guides decisions; behavior shows how those decisions appear
 
 <!-- style:sidebar -->
 > **NPC Name Generator** \
