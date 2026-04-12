@@ -1,12 +1,12 @@
 ### 6. Outline Important NPCs
 
-During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure.
-Many other NPCs — maybe even most of them — can be improvised right at the table.
+During preparation, we’ll outline the most crucial NPCs (nonplayer characters) to the adventure, focusing on a name and connection.
+Many other NPCs, possibly most, can be improvised at the table.
 
 #### NPC Generator
 
 NPCs bring the setting to life.
-Use these tables to build NPCs quickly, then add voice, priorities, and roleplaying detail as needed.
+Use these tables to build NPCs quickly, then add mannerisms, priorities, and roleplaying details as needed.
 For major NPCs, choose or roll on most steps.
 For minor NPCs, one physical detail, one motivation, and one behavior cue are usually enough.
 Ancestry adds context, not destiny.
