@@ -182,12 +182,14 @@ They extinguish unprotected flames, disperse fog and smoke, and force flying cre
 #### Underwater
 
 A creature that cannot breathe water begins to suffocate underwater once it cannot hold its breath.
-See Character's Codex: The Environment: Suffocating.
+See Character’s Codex: The Environment: Suffocating.
 Creatures without swim speeds have disadvantage on attacks made using any weapon other than a dagger, javelin, shortsword, spear, or trident.
-A ranged weapon attack automatically misses a target beyond the weapon's normal range.
+A ranged weapon attack automatically misses a target beyond the weapon’s normal range.
 Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin, such as a spear, trident, or dart.
 A creature or object fully immersed in water has resistance to fire damage.
-A creature that takes damage while holding its breath underwater must succeed on a concentration check or immediately begin suffocating as if its breath had run out. See Character's Codex: Casting a Spell.
+This does not further reduce fire damage for a creature or object that already has fire resistance.
+A creature that takes damage while holding its breath underwater must succeed on a concentration check or immediately begin suffocating as if its breath had run out.
+See Character’s Codex: Spellcasting: Duration.
 
 #### Vacuum
 
