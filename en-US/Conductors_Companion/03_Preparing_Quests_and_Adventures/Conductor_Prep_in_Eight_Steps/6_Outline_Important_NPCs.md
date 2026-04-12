@@ -173,28 +173,28 @@ Roll once for a quick visual anchor or twice for a more distinct look.
 Use the result as the first thing players notice.
 Physical traits make NPCs memorable but do not define competence, worldview, or role.
 
-| d20 | Result |
-|:---:|:-------|
-| 01  | **Face** — unusual coloration, patterned scarring, striking bone structure |
-| 02  | **Face** — weathered lines, ceremonial paint, careful grooming |
-| 03  | **Eyes** — milky, sharp, mismatched, or overly still |
-| 04  | **Eyes** — dark lenses, tattooed lids, narrowed focus |
-| 05  | **Mouth & Teeth** — gold teeth, broken tusk, precise smile |
-| 06  | **Mouth & Teeth** — stained teeth, ritual filing, chewed lip |
-| 07  | **Hands** — ink-stained fingers, callused palms, missing finger |
-| 08  | **Hands** — prosthetic grip, elegant gloves, restless motion |
-| 09  | **Hair or Head** — shaved patterns, elaborate braids, horn caps |
-| 10  | **Hair or Head** — wind-tangled hair, polished scalp, singed curls |
-| 11  | **Clothing** — meticulously repaired, ceremonial layers, travel-worn |
-| 12  | **Clothing** — too fine for the street, practical patches, spotless hems |
-| 13  | **Feet & Footwear** — metal-soled boots, silent steps, one raised heel |
-| 14  | **Feet & Footwear** — mud-caked sandals, wrapped feet, careful tread |
-| 15  | **Whole Body** — towering height, compact build, uneven posture |
-| 16  | **Whole Body** — scarred silhouette, fluid grace, rigid bearing |
-| 17  | **Mobility Aid** — cane, crutch, chair, brace, adapted saddle |
-| 18  | **Assistive Tool** — hearing trumpet, tactile tokens, writing slate |
-| 19  | **Service Animal** — guide beast, messenger bird, trained companion |
-| 20  | **Signature Feature** — noticeable jewelry, scent, emblem, or relic |
+| d20 | Affected area     | Notable feature(s)                                              |
+|:---:|:------------------|:----------------------------------------------------------------|
+|  1  | Face              | unusual coloration, patterned scarring, striking bone structure |
+|  2  | Face              | weathered lines, ceremonial paint, careful grooming             |
+|  3  | Eyes              | milky, sharp, mismatched, or overly still                       |
+|  4  | Eyes              | dark lenses, tattooed lids, narrowed focus                      |
+|  5  | Mouth & Teeth     | gold teeth, broken tusk, precise smile                          |
+|  6  | Mouth & Teeth     | stained teeth, ritual filing, chewed lip                        |
+|  7  | Hands             | ink-stained fingers, callused palms, missing finger             |
+|  8  | Hands             | prosthetic grip, elegant gloves, restless motion                |
+|  9  | Hair or Head      | shaved patterns, elaborate braids, horn caps                    |
+| 10  | Hair or Head      | wind-tangled hair, polished scalp, singed curls                 |
+| 11  | Clothing          | meticulously repaired, ceremonial layers, travel-worn           |
+| 12  | Clothing          | too fine for the street, practical patches, spotless hems       |
+| 13  | Feet & Footwear   | metal-soled boots, silent steps, one raised heel                |
+| 14  | Feet & Footwear   | mud-caked sandals, wrapped feet, careful tread                  |
+| 15  | Whole Body        | towering height, compact build, uneven posture                  |
+| 16  | Whole Body        | scarred silhouette, fluid grace, rigid bearing                  |
+| 17  | Mobility Aid      | cane, crutch, chair, brace, adapted saddle                      |
+| 18  | Assistive Tool    | hearing trumpet, tactile tokens, writing slate                  |
+| 19  | Service Animal    | guide beast, messenger bird, trained companion                  |
+| 20  | Signature Feature | noticeable jewelry, scent, emblem, or relic                     |
 
 ___
 
