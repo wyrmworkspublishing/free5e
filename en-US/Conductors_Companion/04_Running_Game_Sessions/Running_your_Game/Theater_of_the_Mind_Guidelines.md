@@ -1,6 +1,5 @@
 ### Theater of the Mind Guidelines
-
-The following guidelines can help Conductors run combat in the “theater of the mind,” without the need for a gridded battle map or miniatures.
+The following guidelines can help Conductors run combat in the "theater of the mind," without the need for a gridded battle map or miniatures.
 This style of combat takes the emphasis away from tactical features such as distance, range, and the specific size of areas of effect.
 Instead, it focuses on the in-game action, the intent of the characters, and what happens in the story.
 This style of combat works just like any other scene in your game.
@@ -10,8 +9,8 @@ As the Conductor, you'll earn this trust by favoring the players whenever possib
 Running theater-of-the-mind combat removes agency from the players.
 It takes away their ability to control every aspect of how their characters move and what they do.
 As the Conductor, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent.
-For example, a player who says, “I move close to the <span class="monster monster-Orc_orc">orcs</span>,” potentially leaves too many possibilities open.
-So encourage the player to focus their intent more, perhaps along the lines of, “I want to position myself so that at least two <span class="monster monster-Orc_orc">orcs</span> are within the reach of my glaive.”
+For example, a player who says "I move close to the orcs" potentially leaves too many possibilities open.
+So encourage the player to focus their intent more — perhaps along the lines of, "I want to position myself so that at least two orcs are within the reach of my glaive."
 When playing in the theater of the mind, both you and the players must worry less about the mechanical details of the game.
 Instead, everyone will focus on the action and the story.
 

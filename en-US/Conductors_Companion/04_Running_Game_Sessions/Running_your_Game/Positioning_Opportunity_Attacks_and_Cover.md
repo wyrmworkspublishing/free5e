@@ -1,5 +1,4 @@
 #### Positioning, Opportunity Attacks, and Cover
-
 On each player's turn, they describe how they intend to position themselves.
 Examples of movement in the theater of the mind might include moving next to an ally, moving next to two enemies, or staying out of reach while attacking with a polearm.
 If a creature is within an enemy's reach, it will likely provoke an opportunity attack if it tries to move away from that enemy.

@@ -13,13 +13,8 @@ ___
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Doom by Encounter Tier_
 
-| Encounter CR   | Doom   |
-| :------------: | :----: |
-| 0–4            | 1      |
-| 5–8            | 2      |
-| 9–12           | 3      |
-| 13–16          | 4      |
-| 17–20          | 5      |
-| 20+            | 6      |
+
+[Variant Rule: Doom Table](./Variant_Doom_Table.md)
+
 
 ___

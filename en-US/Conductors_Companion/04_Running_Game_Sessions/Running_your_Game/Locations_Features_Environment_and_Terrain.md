@@ -1,5 +1,4 @@
 #### Locations, Features, Environment, and Terrain
-
 When first describing the combat encounter, describe notable locations, objects, environmental features, and terrain features.
 Write these down and keep them in front of the players if it helps them visualize the battlefield.
 Let the players know that they can interact with these environmental features, through such actions as swinging from magical chandeliers, climbing up obsidian cliffs to advantageous positions, or hiding behind ruined statues.
