@@ -1,4 +1,4 @@
-## Running your Game
+## Conducting Game Sessions
 
 Once your campaign is ready, you bring it to life at the table.
 You guide the story, manage the play’s rhythm, and respond to players’ choices while keeping the world consistent and alive.
@@ -18,10 +18,12 @@ These reminders help you stay focused and flexible.
 - Use specific hopeful or fearful beats to send the action in a specific direction
 
 <!-- style:sidebar -->
-> **Virtual Tabletops (VTTs)** \
+> **Virtual Tabletops (VTTs)**
+>
 > A VTT is an online play space that provides a shared table for remote groups.
 > Common features include maps, tokens, handouts, dice rollers, online books, and character sheet management.
-> Many of them automate and record encounter mechanics. Some groups use them in person to take advantage of these features.
+> Many of them automate and record encounter mechanics.
+> Some groups use them in person to take advantage of these features.
 >
 > You don’t need a VTT to play online—some groups just use voice, video, or text chat, sometimes with shared whiteboard, documents, or dice rollers.
 > Choose whatever gives your players a clear, accessible, shared game experience.
@@ -33,6 +35,10 @@ These reminders help you stay focused and flexible.
 [Calling for Checks](./Calling_for_Checks.md)
 
 [RPG Tricks](./RPG_Tricks.md)
+
+[Lingering Effects](./Lingering_Effects.md)
+
+[Acquired Disabilities](./Acquired_Disabilities.md)
 
 [Variant Rule: Doom](./Variant_Doom.md)
 
