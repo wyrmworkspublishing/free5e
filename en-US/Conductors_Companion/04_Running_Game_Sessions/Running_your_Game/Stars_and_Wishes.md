@@ -1,8 +1,6 @@
-### Stars and Wishes
-
-Every few games, take time to ask each player for their "stars and wishes" — a concept described on the Gauntlet RPG blog at [https://www.gauntlet-rpg.com/blog/stars-and-wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes).
-
-Ask each player two questions:
+## Stars and Wishes
+Every few games, take time to ask each player for their "stars and wishes" — a concept described on the Gauntlet RPG blog.
+[https://www.gauntlet-rpg.com/blog/stars-and-wishes](https://www.gauntlet-rpg.com/blog/stars-and-wishes) Ask each player two questions:
 
 - What have they enjoyed about the game so far?
 - What do they want to see more of in future games?

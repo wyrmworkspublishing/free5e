@@ -9,6 +9,7 @@ Alphastream
 ankheg*
 antilife
 antimagic
+aphantasia
 Arcanist
 archdevil*
 archmage*
@@ -139,9 +140,9 @@ reflavor
 reskin
 respirate
 reskin
-Restauration
 roleplay
 sahuagin
+sanist
 scrying
 Shadowfell
 shapechange

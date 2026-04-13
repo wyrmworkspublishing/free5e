@@ -1,5 +1,4 @@
 ### Prepare Your Mind
-
 Good preparation isn’t just about notes—it’s about perspective.
 Before each session, take a few moments to focus your creativity and reconnect with your world and players.
 
