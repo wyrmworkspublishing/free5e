@@ -1,5 +1,4 @@
 ### Calling for Checks
-
 Call for an ability check only when the outcome is uncertain and the result matters.
 
 - Ask for a roll when both success and failure impact the story.
@@ -9,7 +8,6 @@ Call for an ability check only when the outcome is uncertain and the result matt
 - Never bury useful or vital information behind an ability check.
 
 #### Interpreting Critical Results
-
 When a player rolls a **natural 20** or **natural 1**, that is the d20 shows the 20 or 1 faces respectively, it can become a **critical success** or **critical failure** if it adds to the moment.
 
 - A **critical success** might bring precision, speed, or an impressive extra result.
