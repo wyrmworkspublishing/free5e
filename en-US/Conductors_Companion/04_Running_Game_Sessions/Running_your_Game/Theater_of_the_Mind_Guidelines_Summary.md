@@ -1,6 +1,8 @@
 #### Theater of the Mind Guidelines (Summary)
-This section offers abbreviated guidelines for running "theater of the mind" combat — no maps or miniatures, making use only of narrative and your players' imaginations.
-Share these guidelines with your players so that everyone has a common understanding of how this style of playing out combat works at the table.
+
+This section provides simplified guidelines for “theater of the mind” combat using only narrative and players’ imaginations, without maps or miniatures.
+
+Share these guidelines with your players to ensure everyone understands how this combat style works at the table.
 
 ##### Core Principles
 
@@ -24,8 +26,8 @@ A Conductor running a theater-of-the-mind game should keep the following points 
 Players in a theater-of-the-mind game should keep the following points in mind:
 
 - Describe your intent. Tell the Conductor what you want your character to do in the story that the combat encounter is building. Avoid a back-and-forth series of tactical questions.
-- Tell the Conductor what special features your character has that you want to highlight. If you have crunchy tactical abilities you want to use, describe how you want them to work for the situation. For example: "I want to stay close to the cleric so I can use my Protection Fighting Style, but I'll keep 10 feet away from the orcs so I can use my Polearm Mastery feat to hit them on their way in."
-- Describe specifically what you want to do. "I want to stay within the vanguard's aura but still attack the hobgoblin ravager."
+- Tell the Conductor what special features your character has that you want to highlight. If you have crunchy tactical abilities you want to use, describe how you want them to work for the situation. For example: "I want to stay close to the cleric so I can use my Protection Fighting Style, but I'll keep 10 feet away from the <span class="monster monster-Orc_orc">orcs</span> so I can use my Polearm Mastery feat to hit them on their way in."
+- Describe specifically what you want to do. "I want to stay within the vanguard's aura but still attack the <span class="monster monster-Hobgoblin_Ravager_hobgoblin_ravager">hobgoblin ravager</span>."
 - Look for fun ways to use the environment described by the Conductor. If the Conductor didn’t mention a detail that would help you, ask!
 - Worry less about the mechanical details of the game and more on the high action and adventure of the story. One good way to do that is to imagine combat as a high-action battle in one of your favorite movies.
 
@@ -37,7 +39,7 @@ A Conductor running a theater-of-the-mind game should keep the following points 
 - Each turn, describe the situation surrounding the acting character.
 - Adjudicate the number of targets in an area attack based on the situation, the assumed positions of the combatants, and the size of the area.
 - Use evocative in-world narration to describe the characters, the monsters, the action, and the high adventure of the story as it plays out.
-_ Make bargains and deals with the players. "You can hit three orcs with _Fireball*, or you can hit five orcs if one of your companions is willing to be hit as well."
+- Make bargains and deals with the players. "You can hit three <span class="monster monster-Orc_orc">orcs</span> with _<span class="spell spell-Fireball_fireball">Fireball</span>_, or you can hit five <span class="monster monster-Orc_orc">orcs</span> if one of your companions is willing to be hit as well."
 - Describe the distances between combatants in feet to help players recognize what they can and can't do. Default to 25 feet if you don't really know.
 - Run simpler encounters with useful environmental features, such as flipped tables, cracked stalagmites, cliff edges, bottomless pits, roaring fires, and hanging chandeliers.
 - Ask the players to identify monsters by describing interesting physical characteristics.
@@ -47,7 +49,9 @@ _ Make bargains and deals with the players. "You can hit three orcs with _Fireba
 ##### One Tool of Many
 
 Add theater of the mind to your collection of ways to run combat, including abstract maps, zone-based combat, gridded combat, or 3D terrain.
+
 Choose the right style of combat for the pace and complexity of the scene.
+
 Keep each approach as a tool in your Conductor's toolbox to help you share exciting tales of action and high adventure.
 
 [Calling for Checks](./Calling_for_Checks.md)
