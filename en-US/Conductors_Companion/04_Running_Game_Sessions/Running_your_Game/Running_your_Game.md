@@ -19,7 +19,6 @@ These reminders help you stay focused and flexible.
 
 <!-- style:sidebar -->
 > **Virtual Tabletops (VTTs)** \
->
 > A VTT is an online play space that provides a shared table for remote groups.
 > Common features include maps, tokens, handouts, dice rollers, online books, and character sheet management.
 > Many of them automate and record encounter mechanics.
