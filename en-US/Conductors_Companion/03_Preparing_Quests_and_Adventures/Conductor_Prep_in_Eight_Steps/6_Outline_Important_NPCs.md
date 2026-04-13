@@ -1,7 +1,7 @@
 ### 6. Outline Important NPCs
 
-During our preparation, we'll outline those NPCs (nonplayer characters) most critical to the adventure, focusing on a name and a connection to the adventure, then wrapping the NPC in a character archetype from popular fiction.
-Many other NPCs — maybe even most of them — can be improvised right at the table.
+During preparation, identify the NPCs most critical to the adventure. Give each a **name**, a **connection to the adventure**, and a **clear role**.
+Most other NPCs can be improvised at the table using the tools below.
 
 #### NPC Generator
 
@@ -56,7 +56,7 @@ To really bring the NPC to life, you can then model their personality and rolepl
 > <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 > _Sound (table)_
 >
-> | d20 | Prefix | Core | Suffix |
+> | d20 | Start  | Middle | End  |
 > |:---:|:-------|:-----|:-------|
 > |  1  | Ael    | dra  | na     |
 > |  2  | Ka     | lin  | en     |
