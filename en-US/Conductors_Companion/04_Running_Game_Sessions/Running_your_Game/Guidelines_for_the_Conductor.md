@@ -1,4 +1,5 @@
 #### Guidelines for the Conductor
+
 - Each turn, describe the situation surrounding the characters.
 - Ask for the players' intent and help them achieve it.
 - Be generous. Give players the benefit of the doubt.
