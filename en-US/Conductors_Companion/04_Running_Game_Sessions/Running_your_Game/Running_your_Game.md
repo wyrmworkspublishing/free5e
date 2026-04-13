@@ -18,7 +18,7 @@ These reminders help you stay focused and flexible.
 - Use specific hopeful or fearful beats to send the action in a specific direction
 
 <!-- style:sidebar -->
-> **Virtual Tabletops (VTTs)** /
+> **Virtual Tabletops (VTTs)** \
 >
 > A VTT is an online play space that provides a shared table for remote groups.
 > Common features include maps, tokens, handouts, dice rollers, online books, and character sheet management.
