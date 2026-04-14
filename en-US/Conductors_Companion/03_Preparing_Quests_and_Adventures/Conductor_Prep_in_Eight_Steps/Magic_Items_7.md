@@ -1,0 +1,53 @@
+##### Magic Items #7
+
+| D100  | Magic Item                                     |
+| :----- | :---------------------------------------------- |
+| 1–2   | _<span class="item item-Amulet_Of_Health_amulet_of_health">Amulet of Health</span>_ |
+| 3–4   | _<span class="item item-Amulet_Of_Proof_Against_Detection_And_Location_amulet_of_proof_against_detection_and_location">Amulet of Proof Against Detection And Location</span>_ |
+| 5–6   | _<span class="item item-Animated_Shield_animated_shield">Animated Shield</span>_ |
+| 7     | _<span class="item item-Arrow_Catching_Shield_arrow_catching_shield">Arrow-Catching Shield</span>_ |
+| 8     | _<span class="item item-Belt_Of_Dwarvenkind_belt_of_dwarvenkind">Belt of Dwarvenkind</span>_ |
+| 9     | _<span class="item item-Cloak_Of_Displacement_cloak_of_displacement">Cloak of Displacement</span>_ |
+| 10    | _<span class="item item-Cloak_Of_The_Bat_cloak_of_the_bat">Cloak of The Bat</span>_ |
+| 11    | _<span class="item item-Chaoss_Orca_Chair_chaoss_orca_chair">Chaos's Orca Chair</span>_ |
+| 12    | _<span class="item item-Cube_Of_Force_cube_of_force">Cube of Force</span>_ |
+| 13    | _<span class="item item-Demon_Armor_Cursed_demon_armor_cursed">Demon Armor ☾</span>_ |
+| 14–16 | _<span class="item item-Elven_Chain_elven_chain">Elven Chain</span>_ |
+| 17    | _<span class="item item-Figurine_Of_Wondrous_Power_Bronze_Griffin_figurine_of_wondrous_power_bronze_griffin">Figurine of Wondrous Power (Bronze Griffin)</span>_ |
+| 18    | _<span class="item item-Figurine_Of_Wondrous_Power_Ebony_Fly_figurine_of_wondrous_power_ebony_fly">Figurine of Wondrous Power (Ebony Fly)</span>_ |
+| 19    | _<span class="item item-Figurine_Of_Wondrous_Power_Golden_Lions_figurine_of_wondrous_power_golden_lions">Figurine of Wondrous Power (Golden Lions)</span>_ |
+| 20    | _<span class="item item-Figurine_Of_Wondrous_Power_Ivory_Goats_figurine_of_wondrous_power_ivory_goats">Figurine of Wondrous Power (Ivory Goats)</span>_ |
+| 21    | _<span class="item item-Figurine_Of_Wondrous_Power_Marble_Elephant_figurine_of_wondrous_power_marble_elephant">Figurine of Wondrous Power (Marble Elephant)</span>_ |
+| 22    | _<span class="item item-Figurine_Of_Wondrous_Power_Onyx_Dog_figurine_of_wondrous_power_onyx_dog">Figurine of Wondrous Power (Onyx Dog)</span>_ |
+| 23    | _<span class="item item-Figurine_Of_Wondrous_Power_Serpentine_Owl_figurine_of_wondrous_power_serpentine_owl">Figurine of Wondrous Power (Serpentine Owl)</span>_ |
+| 24–27 | _<span class="item item-Flame_Tongue_flame_tongue">Flame Tongue</span>_ |
+| 28    | _<span class="item item-Folding_Boat_folding_boat">Folding Boat</span>_ |
+| 29–31 | _<span class="item item-Plus_1_Full_Plate_plus_1_full_plate">+1 Full Plate</span>_ |
+| 32    | _<span class="item item-Gem_Of_Seeing_gem_of_seeing">Gem of Seeing</span>_ |
+| 33–35 | _<span class="item item-Giant_Slayer_giant_slayer">Giant Slayer</span>_ |
+| 36    | _<span class="item item-Horn_Of_Blasting_horn_of_blasting">Horn of Blasting</span>_ |
+| 37    | _<span class="item item-Trumpet_Of_Leoj_Brass_trumpet_of_leoj_brass">Trumpet of Leoj (Brass)</span>_ |
+| 38–39 | _<span class="item item-Horseshoes_Of_Speed_horseshoes_of_speed">Horseshoes of Speed</span>_ |
+| 40    | _<span class="item item-Mace_Of_Disruption_mace_of_disruption">Mace of Disruption</span>_ |
+| 41    | _<span class="item item-Mace_Of_Smiting_mace_of_smiting">Mace of Smiting</span>_ |
+| 42    | _<span class="item item-Mace_Of_Terror_mace_of_terror">Mace of Terror</span>_ |
+| 43    | _<span class="item item-Mantle_Of_Spell_Resistance_mantle_of_spell_resistance">Mantle of Spell Resistance</span>_ |
+| 44–47 | _<span class="item item-Oathbow_oathbow">Oathbow</span>_ |
+| 48–61 | _<span class="item item-Portable_Hole_portable_hole">Portable Hole</span>_ |
+| 62–66 | _<span class="item item-Ring_Of_Spell_Storing_ring_of_spell_storing">Ring of Spell Storing</span>_ |
+| 67    | _<span class="item item-Rod_Of_Rulership_rod_of_rulership">Rod of Rulership</span>_ |
+| 68–70 | _<span class="item item-Saber_Of_Speed_saber_of_speed">Saber of Speed</span>_ |
+| 71–76 | _<span class="item item-Plus_2_Shield_plus_2_shield">+2 Shield</span>_ |
+| 77    | _<span class="item item-Shield_Of_Missile_Attraction_Cursed_shield_of_missile_attraction_cursed">Shield of Missile Attraction ☾</span>_ |
+| 78–80 | _<span class="item item-Plus_2_Splint_plus_2_splint">+2 Splint</span>_ |
+| 81    | _<span class="item item-Staff_Of_Charming_staff_of_charming">Staff of Charming</span>_ |
+| 82–83 | _<span class="item item-Staff_Of_Healing_staff_of_healing">Staff of Healing</span>_ |
+| 84    | _<span class="item item-Staff_Of_Swarming_Insects_staff_of_swarming_insects">Staff of Swarming Insects</span>_ |
+| 85    | _<span class="item item-Staff_Of_The_Woodlands_staff_of_the_woodlands">Staff of the Woodlands</span>_ |
+| 86–91 | _<span class="item item-Sun_Blade_sun_blade">Sun Blade</span>_ |
+| 92    | _<span class="item item-Sword_Of_Wounding_sword_of_wounding">Sword of Wounding</span>_ |
+| 93    | _<span class="item item-Wand_Of_Binding_wand_of_binding">Wand of Binding</span>_ |
+| 94    | _<span class="item item-Wand_Of_Fear_wand_of_fear">Wand of Fear</span>_ |
+| 95–97 | _<span class="item item-Wand_Of_Fireballs_wand_of_fireballs">Wand of Fireballs</span>_ |
+| 98–99 | _<span class="item item-Wand_Of_Lightning_Bolts_wand_of_lightning_bolts">Wand of Lightning Bolts</span>_ |
+| 100   | _<span class="item item-Wand_Of_Wonder_wand_of_wonder">Wand of Wonder</span>_ |

@@ -1,0 +1,52 @@
+##### Magic Items #4
+
+| D100  | Magic Item                         |
+| :----- | :---------------------------------- |
+| 30–33 | _<span class="item item-Plus_1_Breastplate_plus_1_breastplate">+1 Breastplate</span>_ |
+| 36–40 | _<span class="item item-Plus_1_Chain_Shirt_plus_1_chain_shirt">+1 Chain Shirt</span>_ |
+| 64–65 | _<span class="item item-Plus_1_Hide_Armor_plus_1_hide_armor">+1 Hide armor</span>_ |
+| 74–77 | _<span class="item item-Plus_1_Leather_Armor_plus_1_leather_armor">+1 Leather armor</span>_ |
+| 71–73 | _<span class="item item-Plus_1_Padded_Armor_plus_1_padded_armor">+1 Padded armor</span>_ |
+| 87–89 | _<span class="item item-Plus_1_Scale_Mail_Armor_plus_1_scale_mail_armor">+1 Scale Mail armor</span>_ |
+| 1–15  | _<span class="item item-Bag_Of_Holding_bag_of_holding">Bag of Holding</span>_ |
+| 16    | _<span class="item item-Bag_Of_Tricks_Blue_bag_of_tricks_blue">Bag of Tricks (Blue)</span>_ |
+| 17    | _<span class="item item-Bag_Of_Tricks_Gray_bag_of_tricks_gray">Bag of Tricks (Gray)</span>_ |
+| 18    | _<span class="item item-Bag_Of_Tricks_Green_bag_of_tricks_green">Bag of Tricks (Green)</span>_ |
+| 19    | _<span class="item item-Bag_Of_Tricks_Rust_bag_of_tricks_rust">Bag of Tricks (Rust)</span>_ |
+| 20    | _<span class="item item-Bag_Of_Tricks_Tan_bag_of_tricks_tan">Bag of Tricks (Tan)</span>_ |
+| 21–23 | _<span class="item item-Boots_Of_Elvenkind_boots_of_elvenkind">Boots of Elvenkind</span>_ |
+| 24–26 | _<span class="item item-Boots_Of_Striding_And_Springing_boots_of_striding_and_springing">Boots of Striding and Springing</span>_ |
+| 27    | _<span class="item item-Boots_Of_The_Winterlands_boots_of_the_winterlands">Boots of the Winterlands</span>_ |
+| 28–29 | _<span class="item item-Bracers_Of_Archery_bracers_of_archery">Bracers of Archery</span>_ |
+| 34    | _<span class="item item-Brooch_Of_Shielding_brooch_of_shielding">Brooch of Shielding</span>_ |
+| 35    | _<span class="item item-Cantrip_Wand_cantrip_wand">Cantrip Wand</span>_ |
+| 41    | _<span class="item item-Circlet_Of_Blasting_circlet_of_blasting">Circlet of Blasting</span>_ |
+| 42    | _<span class="item item-Cloak_Of_The_Manta_Ray_cloak_of_the_manta_ray">Cloak of the Manta Ray</span>_ |
+| 43    | _<span class="item item-Decanter_Of_Endless_Water_decanter_of_endless_water">Decanter of Endless Water</span>_ |
+| 46    | _<span class="item item-Eversmoking_Bottle_eversmoking_bottle">Eversmoking Bottle</span>_ |
+| 47    | _<span class="item item-Eyes_Of_Charming_eyes_of_charming">Eyes of Charming</span>_ |
+| 48    | _<span class="item item-Eyes_Of_Minute_Seeing_eyes_of_minute_seeing">Eyes of Minute Seeing</span>_ |
+| 49    | _<span class="item item-Eyes_Of_The_Eagle_eyes_of_the_eagle">Eyes of the Eagle</span>_ |
+| 50–52 | _<span class="item item-Gauntlets_Of_Ogre_Power_gauntlets_of_ogre_power">Gauntlets of Ogre Power</span>_ |
+| 44–45 | _<span class="item item-Gesas_Impossible_Quiver_gesas_impossible_quiver">Gesa's Impossible Quiver</span>_ |
+| 53–54 | _<span class="item item-Glamoured_Studded_Leather_glamoured_studded_leather">Glamoured Studded Leather</span>_ |
+| 55–56 | _<span class="item item-Gloves_Of_Missile_Snaring_gloves_of_missile_snaring">Gloves of Missile Snaring</span>_ |
+| 57–58 | _<span class="item item-Gloves_Of_Swimming_And_Climbing_gloves_of_swimming_and_climbing">Gloves of Swimming and Climbing</span>_ |
+| 59–61 | _<span class="item item-Hat_Of_Disguise_hat_of_disguise">Hat of Disguise</span>_ |
+| 62–63 | _<span class="item item-Helm_Of_Comprehending_Languages_helm_of_comprehending_languages">Helm of Comprehending Languages</span>_ |
+| 66    | _<span class="item item-Immovable_Rod_immovable_rod">Immovable Rod</span>_ |
+| 67    | _<span class="item item-Medallion_Of_Thoughts_medallion_of_thoughts">Medallion of Thoughts</span>_ |
+| 68–70 | _<span class="item item-Orrelious_Quill_Of_Relief_Writing_orrelious_quill_of_relief_writing">Orrelious' Quill of Relief Writing</span>_ |
+| 78–80 | _<span class="item item-Pearl_Of_Power_pearl_of_power">Pearl of Power</span>_ |
+| 81    | _<span class="item item-Periapt_Of_Health_periapt_of_health">Periapt of Health</span>_ |
+| 82    | _<span class="item item-Periapt_Of_Wound_Closure_periapt_of_wound_closure">Periapt of Wound Closure</span>_ |
+| 83    | _<span class="item item-Pipes_Of_The_Sewers_pipes_of_the_sewers">Pipes of the Sewers</span>_ |
+| 84    | _<span class="item item-Ring_Of_Jumping_ring_of_jumping">Ring of Jumping</span>_ |
+| 85    | _<span class="item item-Ring_Of_Swimming_ring_of_swimming">Ring of Swimming</span>_ |
+| 86    | _<span class="item item-Robe_Of_Useful_Items_robe_of_useful_items">Robe of Useful Items</span>_ |
+| 90    | _<span class="item item-Stone_Of_Good_Luck_Luckstone_stone_of_good_luck_luckstone">Stone of Good Luck (Luckstone)</span>_ |
+| 91    | _<span class="item item-Vicious_Weapon_vicious_weapon">Vicious Weapon</span>_ |
+| 92    | _<span class="item item-Wand_Of_Magic_Detection_wand_of_magic_detection">Wand of Magic Detection</span>_ |
+| 93    | _<span class="item item-Wand_Of_Secrets_wand_of_secrets">Wand of Secrets</span>_ |
+| 94–99 | _<span class="item item-Wand_Of_The_War_Mage_Plus_1_wand_of_the_war_mage_plus_1">Wand of the War Mage +1</span>_ |
+| 100   | _<span class="item item-Wind_Fan_wind_fan">Wind Fan</span>_ |
