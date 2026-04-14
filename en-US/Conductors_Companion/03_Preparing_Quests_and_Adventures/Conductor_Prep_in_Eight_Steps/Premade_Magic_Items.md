@@ -1,7 +1,6 @@
 #### Premade Magic Items
 <!-- spell-checker:words Premade -->
 
-
 Permanent magic items can be included with treasure as desired.
 Choose items that fit the characters’ needs or roll randomly.
 Use the [Item Components](./Item_Components.md) table to add flavor, history, or distinctive presentation.
