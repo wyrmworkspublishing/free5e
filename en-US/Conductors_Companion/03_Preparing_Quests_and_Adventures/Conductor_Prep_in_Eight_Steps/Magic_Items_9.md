@@ -1,5 +1,6 @@
 ##### Magic Items #9
 
+<!-- spell-checker:disable -->
 | D100  | Magic Item                       |
 | :----- | :-------------------------------- |
 | 1     | _<span class="item item-Amulet_Of_The_Planes_amulet_of_the_planes">Amulet of the Planes</span>_ |
@@ -52,3 +53,4 @@
 | 98    | _<span class="item item-Trumpet_Of_Leoj_Iron_trumpet_of_leoj_iron">Trumpet of Leoj (Iron)</span>_ |
 | 99    | _<span class="item item-Vorpal_Sword_vorpal_sword">Vorpal Sword</span>_ |
 | 100   | _<span class="item item-Well_Of_Many_Worlds_well_of_many_worlds">Well of Many Worlds</span>_ |
+<!-- spell-checker:enable -->

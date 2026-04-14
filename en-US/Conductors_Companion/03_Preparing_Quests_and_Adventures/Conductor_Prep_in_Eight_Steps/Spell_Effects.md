@@ -1,5 +1,6 @@
 ##### Spell Effects
 
+<!-- spell-checker:disable -->
 | d100  | Spell Effect               |
 | :----- | :-------------------------- |
 | 01–04 | _<span class="spell spell-Acid_Splash_acid_splash">Acid Splash</span>_ |
@@ -45,3 +46,4 @@
 | 98    | _<span class="spell spell-Cone_Of_Cold_cone_of_cold">Cone of Cold</span>_ |
 | 99    | _<span class="spell spell-Banishment_banishment">Banishment</span>_ |
 | 00    | _<span class="spell spell-Disintegrate_disintegrate">Disintegrate</span>_ |
+<!-- spell-checker:enable -->

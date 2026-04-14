@@ -1,5 +1,6 @@
 ##### Magic Items #6
 
+<!-- spell-checker:disable -->
 | D100  | Magic Item                                 |
 | :----- | :------------------------------------------ |
 | 1     | _<span class="item item-Armor_Of_Vulnerability_Cursed_armor_of_vulnerability_cursed">Armor of Vulnerability ☾</span>_ |
@@ -36,3 +37,4 @@
 | 79–97 | _<span class="item item-Plus_2_Weapon_plus_2_weapon">+2 Weapon</span>_ |
 | 98    | _<span class="item item-Winged_Boots_winged_boots">Winged Boots</span>_ |
 | 99–100 | _<span class="item item-Wings_Of_Flying_wings_of_flying">Wings of Flying</span>_ |
+<!-- spell-checker:enable -->

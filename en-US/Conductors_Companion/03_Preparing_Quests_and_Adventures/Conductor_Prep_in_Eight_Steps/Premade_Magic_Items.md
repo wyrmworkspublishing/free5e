@@ -1,4 +1,6 @@
 #### Premade Magic Items
+<!-- spell-checker:words Premade -->
+
 
 Permanent magic items can be included with treasure as desired.
 Choose items that fit the characters’ needs or roll randomly.
@@ -8,8 +10,10 @@ Use the [Item Components](./Item_Components.md) table to add flavor, history, or
 > **Make Magic Mysterious** \
 > Familiar magic items become exciting when you reskin them.
 > Change the description, and it's all new!
+<!-- spell-checker:disable -->
 > _<span class="item item-Winged_Boots_winged_boots">Winged Boots</span>_ could have fairy wings.
 > The _<span class="item item-Deck_Of_Many_Things_deck_of_many_things">Deck of Many Things</span>_ could be a Bag of Many Tokens.
+<!-- spell-checker:enable -->
 > Potions could instead be lollipops or purple burritos full of mysterious ingredients.
 > Keep the stats, change the story.
 > Encourage players to reimagine their character elements, and adapt your world to their creativity.

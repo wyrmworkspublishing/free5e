@@ -1,5 +1,6 @@
 ##### Magic Items #8
 
+<!-- spell-checker:disable -->
 | D100   | Magic Item                                |
 | :------ | :----------------------------------------- |
 | 1      | _<span class="item item-Bag_Of_Devouring_bag_of_devouring">Bag of Devouring</span>_ |
@@ -58,3 +59,4 @@
 | 78     | _<span class="item item-Wand_Of_Polymorph_wand_of_polymorph">Wand of Polymorph</span>_ |
 | 79–83  | _<span class="item item-Wand_Of_The_War_Mage_Plus_3_wand_of_the_war_mage_plus_3">Wand of the War Mage +3</span>_ |
 | 84–100 | _<span class="item item-Plus_3_Weapon_plus_3_weapon">+3 Weapon</span>_ |
+<!-- spell-checker:enable -->

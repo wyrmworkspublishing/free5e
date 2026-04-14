@@ -1,5 +1,6 @@
 ##### Magic Items #7
 
+<!-- spell-checker:disable -->
 | D100  | Magic Item                                     |
 | :----- | :---------------------------------------------- |
 | 1–2   | _<span class="item item-Amulet_Of_Health_amulet_of_health">Amulet of Health</span>_ |
@@ -51,3 +52,4 @@
 | 95–97 | _<span class="item item-Wand_Of_Fireballs_wand_of_fireballs">Wand of Fireballs</span>_ |
 | 98–99 | _<span class="item item-Wand_Of_Lightning_Bolts_wand_of_lightning_bolts">Wand of Lightning Bolts</span>_ |
 | 100   | _<span class="item item-Wand_Of_Wonder_wand_of_wonder">Wand of Wonder</span>_ |
+<!-- spell-checker:enable -->

@@ -1,5 +1,6 @@
 ##### Magic Items #2
 
+<!-- spell-checker:disable -->
 | D100   | Magic Item                           |
 | :------ | :------------------------------------ |
 | 1–10   | _<span class="item item-Plus_2_Ammunition_plus_2_ammunition">+2 Ammunition</span>_ |
@@ -20,3 +21,4 @@
 | 91–95  | _<span class="item item-Spell_Scroll_5th_Level_spell_scroll_5th_level">Spell Scroll (5th-Level)</span>_ |
 | 96–100 | _<span class="item item-Spell_Scroll_6th_Level_spell_scroll_6th_level">Spell Scroll (6th-Level)</span>_ |
 | 15–24  | _<span class="item item-Tefrias_Lucky_Feather_tefrias_lucky_feather">Tefria's Lucky Feather</span>_ |
+<!-- spell-checker:enable -->

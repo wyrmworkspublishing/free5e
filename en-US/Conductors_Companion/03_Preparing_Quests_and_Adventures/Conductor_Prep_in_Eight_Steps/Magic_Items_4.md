@@ -1,5 +1,6 @@
 ##### Magic Items #4
 
+<!-- spell-checker:disable -->
 | D100  | Magic Item                         |
 | :----- | :---------------------------------- |
 | 30–33 | _<span class="item item-Plus_1_Breastplate_plus_1_breastplate">+1 Breastplate</span>_ |
@@ -50,3 +51,4 @@
 | 93    | _<span class="item item-Wand_Of_Secrets_wand_of_secrets">Wand of Secrets</span>_ |
 | 94–99 | _<span class="item item-Wand_Of_The_War_Mage_Plus_1_wand_of_the_war_mage_plus_1">Wand of the War Mage +1</span>_ |
 | 100   | _<span class="item item-Wind_Fan_wind_fan">Wind Fan</span>_ |
+<!-- spell-checker:enable -->

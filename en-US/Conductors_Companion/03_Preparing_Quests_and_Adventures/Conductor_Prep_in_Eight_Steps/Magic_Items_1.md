@@ -1,5 +1,6 @@
 ##### Magic Items #1
 
+<!-- spell-checker:disable -->
 | D100   | Magic Item                          |
 | :------ | :----------------------------------- |
 | 1–10   | _<span class="item item-Plus_1_Ammunition_plus_1_ammunition">+1 Ammunition</span>_ |
@@ -22,3 +23,4 @@
 | 87–92  | _<span class="item item-Spell_Scroll_1st_Level_spell_scroll_1st_level">Spell Scroll (1st-Level)</span>_ |
 | 93–97  | _<span class="item item-Spell_Scroll_2nd_Level_spell_scroll_2nd_level">Spell Scroll (2nd-Level)</span>_ |
 | 98–100 | _<span class="item item-Spell_Scroll_3rd_Level_spell_scroll_3rd_level">Spell Scroll (3rd-Level)</span>_ |
+<!-- spell-checker:enable -->

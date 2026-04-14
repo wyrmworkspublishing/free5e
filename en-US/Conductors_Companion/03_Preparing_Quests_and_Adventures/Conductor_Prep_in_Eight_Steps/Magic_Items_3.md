@@ -1,5 +1,6 @@
 ##### Magic Items #3
 
+<!-- spell-checker:disable -->
 | D100   | Magic Item                     |
 | :------ | :------------------------------ |
 | 1–10   | _<span class="item item-Plus_3_Ammunition_plus_3_ammunition">+3 Ammunition</span>_ |
@@ -19,3 +20,4 @@
 | 87–91  | _<span class="item item-Spell_Scroll_8th_Level_spell_scroll_8th_level">Spell Scroll (8th-Level)</span>_ |
 | 92–96  | _<span class="item item-Spell_Scroll_9th_Level_spell_scroll_9th_level">Spell Scroll (9th-Level)</span>_ |
 | 97–100 | _<span class="item item-Universal_Solvent_universal_solvent">Universal Solvent</span>_ |
+<!-- spell-checker:enable -->

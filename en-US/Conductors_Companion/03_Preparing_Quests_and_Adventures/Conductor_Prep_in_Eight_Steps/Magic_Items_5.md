@@ -1,5 +1,6 @@
 ##### Magic Items #5
 
+<!-- spell-checker:disable -->
 | D100   | Magic Item                      |
 | :------ | :------------------------------- |
 | 1–9    | _<span class="item item-Armor_Of_Resistance_armor_of_resistance">Armor of Resistance</span>_ |
@@ -37,3 +38,4 @@
 | 74–77  | _<span class="item item-Wand_Of_Magic_Missiles_wand_of_magic_missiles">Wand of Magic Missiles</span>_ |
 | 78–79  | _<span class="item item-Yerocs_Summoning_Spiderwalk_yerocs_summoning_spiderwalk">Yeroc’s Summoning Spiderwalk</span>_ |
 | 80–100 | _<span class="item item-Plus_1_Weapon_plus_1_weapon">+1 Weapon</span>_ |
+<!-- spell-checker:enable -->
