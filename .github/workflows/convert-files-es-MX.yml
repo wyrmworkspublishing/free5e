@@ -1,5 +1,6 @@
 name: Convert the Mexican Spanish manuscripts into various formats
 run-name: Mexican Spanish file conversion triggered on on branch ${{ github.ref }} by ${{ github.actor }}...
+
 on:
   push:
     branches:
@@ -15,5 +16,13 @@ jobs:
     with:
       language: es-MX
       date_format: '%d.%m.%Y'
+      book_directory: 'es-MX/Pergamino_de_Personajes'
+      book_main_file: 'Pergamino_de_Personajes'
+
+  braille-characters-codex-es-mx:
+    name: Convert the es-MX Pergamino de Personajes into braille
+    uses: ./.github/workflows/convert-braille.yml
+    with:
+      language: es-MX
       book_directory: 'es-MX/Pergamino_de_Personajes'
       book_main_file: 'Pergamino_de_Personajes'

@@ -1,0 +1,68 @@
+name: Convert one manuscript into braille
+
+on:
+  workflow_call:
+    inputs:
+      language:
+        required: true
+        type: string
+      book_directory:
+        required: true
+        type: string
+      book_main_file:
+        required: true
+        type: string
+      brf_cells_per_line:
+        required: false
+        type: string
+        default: "40"
+      brf_lines_per_page:
+        required: false
+        type: string
+        default: "25"
+      frontmatter_page_threshold:
+        required: false
+        type: string
+        default: "5"
+
+permissions:
+  contents: read
+
+jobs:
+  convert-braille:
+    name: Convert ${{ inputs.language }} ${{ inputs.book_main_file }} into braille
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out manuscript source
+        uses: actions/checkout@v4
+
+      - name: Install braille conversion tools
+        run: |
+          set -euo pipefail
+
+          # Liblouis does the braille work. Pandoc keeps Markdown from throwing chairs.
+          sudo apt-get update
+          sudo apt-get install -y liblouis-bin liblouis-data pandoc
+
+      - name: Build braille artifacts
+        run: |
+          set -euo pipefail
+
+          python3 tools/braille/markdown_to_braille.py \
+            --language "${{ inputs.language }}" \
+            --book-directory "${{ inputs.book_directory }}" \
+            --book-main-file "${{ inputs.book_main_file }}" \
+            --out-dir "braille-output" \
+            --cells-per-line "${{ inputs.brf_cells_per_line }}" \
+            --lines-per-page "${{ inputs.brf_lines_per_page }}" \
+            --frontmatter-page-threshold "${{ inputs.frontmatter_page_threshold }}" \
+            --transcriber "Wyrmworks Publishing via Liblouis"
+
+      - name: Upload braille artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: braille-${{ inputs.language }}-${{ inputs.book_main_file }}
+          path: braille-output/
+          if-no-files-found: error
+          retention-days: 30
