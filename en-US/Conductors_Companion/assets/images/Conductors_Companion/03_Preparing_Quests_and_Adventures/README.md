@@ -1,0 +1,1 @@
+This directory will contain both the Markdown and AsciiDoc image file wrappers used in chapter 3 "Preparing Quests and Adventures" of the Conductor's Companion, as created via the `image_file_creator.py` script.
