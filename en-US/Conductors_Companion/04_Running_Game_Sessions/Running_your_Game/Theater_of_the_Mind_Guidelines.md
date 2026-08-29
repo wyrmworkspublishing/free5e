@@ -26,7 +26,7 @@ Instead, everyone will focus on the action and the story.
 
 [Locations, Features, Environment, and Terrain](./Locations_Features_Environment_and_Terrain.md)
 
-[Randomly Selected Targets](./Ramdomly_Selected_Targets.md)
+[Randomly Selected Targets](./Randomly_Selected_Targets.md)
 
 [Physical Traits and Identifying Enemies](./Physical_Traits_and_Identifying_Enemies.md)
 
