@@ -48,7 +48,7 @@ These reminders help you stay focused and flexible.
 
 [RPG Tricks](./RPG_Tricks.md)
 
-[Randomly Selected Targets](./Ramdomly_Selected_Targets.md)
+[Randomly Selected Targets](./Randomly_Selected_Targets.md)
 
 [Stars and Wishes](./Stars_and_Wishes.md)
 
