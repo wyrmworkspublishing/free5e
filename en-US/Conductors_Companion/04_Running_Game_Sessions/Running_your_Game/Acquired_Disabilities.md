@@ -8,7 +8,8 @@ The source doesn’t diminish the experience or its impact, and each character�
 > - Don’t force disabilities through random tables or “critical hit” results.
 > - Don’t treat disabilities as curses or moral punishments.
 
-**Adding a Disability in Play** If a character acquires a condition during the story, make it a collaborative choice between player and Conductor.
+##### Adding a Disability in Play
+If a character acquires a condition during the story, make it a collaborative choice between player and Conductor.
 Tie it to in-game events—a disease, accident, or trauma—and decide together on its traits, duration, and whether it’s permanent or temporary.
 The Conductor may allow a saving throw or recovery checks only if the player wishes.
 Disabilities, like all traits, should serve storytelling and respect real experiences.
