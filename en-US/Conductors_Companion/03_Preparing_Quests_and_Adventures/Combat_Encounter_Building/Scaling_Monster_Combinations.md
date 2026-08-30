@@ -43,7 +43,6 @@ These tables are built for hard encounters and common boss-and-allies combinatio
 | **Underling**  | A capable follower, weaker than a lieutenant but still a threat.        |
 | **Minion**     | A small or low-level creature that adds action to the scene.            |
 
-
 [Four Characters (Hard Encounters)](./Scaling_Monster_Combinations_4_Characters.md)
 
 [Five Characters (Hard Encounters)](./Scaling_Monster_Combinations_5_Characters.md)
