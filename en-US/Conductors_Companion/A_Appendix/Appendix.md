@@ -4,6 +4,6 @@
 
 [Appendix B: Sample Location](./A3_Sample_Location/Sample_Location.md)
 
-[Appendix C: Sample Adventure](./A4_Sample_Adventure/Sample_Adventure.md)
+[Appendix C: Sample Adventures](./A4_Sample_Adventure/Sample_Adventure.md)
 
 [Appendix D: Solo Free5e](./A5_Solo_Free5e/Solo_Free5e.md)

@@ -1,4 +1,6 @@
-## Sample Adventure
+## Sample Adventures
+
+### Boiling Point
 
 These adventures give you everything you need to start running a game right away—or to see how the [Eight Steps of Preparation](#Conductor_Prep_in_Eight_Steps_conductor_prep_in_eight_steps) come together in practice.
 
