@@ -56,7 +56,7 @@ You start with the following equipment, in addition to the equipment granted by 
 |   8th |        +3         | [Ability Score Improvement](#Dreadnought_asi)                                              |     4     |      +2     |
 |   9th |        +4         | [Brutal Critical](#Dreadnought_brutal_critical) (1 die)                                    |     4     |      +3     |
 |  10th |        +4         | Path feature                                                                               |     4     |      +3     |
-|  11th |        +4         | [Relentless Rage](#Dreadnought_relentless_rage)                                             |     4     |      +3     |
+|  11th |        +4         | [Relentless Rage](#Dreadnought_relentless_rage)                                            |     4     |      +3     |
 |  12th |        +4         | [Ability Score Improvement](#Dreadnought_asi)                                              |     5     |      +3     |
 |  13th |        +5         | [Brutal Critical](#Dreadnought_brutal_critical) (2 dice)                                   |     5     |      +3     |
 |  14th |        +5         | Path feature                                                                               |     5     |      +3     |
@@ -73,6 +73,8 @@ In battle, you fight with primal ferocity.
 On your turn, you can enter a rage as a bonus action.
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
+
+[Orc_woman](../../../assets/images/Characters_Codex/03_Creating_a_Character/Orc_woman___Adrian_Arduini_Adventures.md)
 
 - You have advantage on Strength checks and Strength saving throws.
 - When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a Dreadnought, as shown in the Rage Damage column of the [Dreadnought table](#Dreadnought_the_dreadnought_table).

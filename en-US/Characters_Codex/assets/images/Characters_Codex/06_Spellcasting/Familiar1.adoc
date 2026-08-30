@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Familiar1.png]
+image::assets/images/Characters_Codex/06_Spellcasting/Familiar1.png["whispy shadowy black cat"]
+// end::image[]

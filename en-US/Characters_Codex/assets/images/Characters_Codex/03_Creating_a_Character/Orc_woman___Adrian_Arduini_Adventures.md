@@ -1,0 +1,1 @@
+![rugged orc woman wearing mesh bikini, spiked bracers, other hide and spiked accessories, leaning confidently on large axe]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Orc woman - Adrian Arduini Adventures.jpg")

@@ -17,6 +17,7 @@ function convert_asciidoc_to_pdf {
       -a pdf-fontsdir="GEM_FONTS_DIR;${FONTS_BASE_DIR}" \
       -a pdf-themesdir="${THEMES_DIR}" \
       -a pdf-theme=pdf \
+      -r "$(dirname $0)/extended-pdf-converter.rb" \
       "${ADOC_MAIN_FILE}" \
       -o "${PDF_TARGET_FILE}"
 }

@@ -79,6 +79,8 @@ The attack must use a finesse or a ranged weapon.
 
 You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
 
+[PaolaHikari_Rogue.jpeg](../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Rogue.md)
+
 The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the [Rogue table](#Rogue_the_rogue_table).
 
 ##### Thieves’ Cant (1st Level) {#Rogue_thieves_cant}

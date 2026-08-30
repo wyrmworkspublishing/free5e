@@ -94,6 +94,8 @@ For example, if you know the 1st-level spell _[<span class="spell">Cure Wounds</
 \
 You know four 1st-level spells of your choice from the [Bard spell list](#Bard_Spells_bard_spells), section 17.1.
 
+[Roselysium_Bard_Greyscale.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Bard_Greyscale.md)
+
 The _Spells Known_ column of the [Bard table](#Bard_the_bard_table) shows when you learn more Bard spells of your choice.
 Each of these spells must be of a level for which you have spell slots, as shown on the table.
 For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.

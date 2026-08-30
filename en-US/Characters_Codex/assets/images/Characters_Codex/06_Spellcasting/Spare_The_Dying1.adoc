@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Spare_The_Dying1.png]
+image::assets/images/Characters_Codex/06_Spellcasting/Spare The Dying1.png["hooded skeleton cradling a body with a broken wrist shackle"]
+// end::image[]

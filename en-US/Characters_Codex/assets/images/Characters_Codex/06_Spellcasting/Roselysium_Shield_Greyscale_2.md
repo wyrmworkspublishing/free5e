@@ -1,0 +1,1 @@
+![Depiction of the Spell "Shield": The caster is standing behind a sparkling shield with their hands and arms reached out, fending off an incoming attack.]("../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_Shield_Greyscale_2.png")

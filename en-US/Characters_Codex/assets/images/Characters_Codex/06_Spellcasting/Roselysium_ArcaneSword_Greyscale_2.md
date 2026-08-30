@@ -1,0 +1,1 @@
+![Depiction of the Spell "Arcane Sword". - A glowing sword is hovering over an outstretched hand.]("../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_ArcaneSword_Greyscale_2.png")

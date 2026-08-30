@@ -1,0 +1,1 @@
+![Depiciton of the Spell "Moonbeam". The true form of a grotesque shapeshifter is revealed by the glow of the moon and its moonlight.]("../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_Moonbeam_Greyscale.png")

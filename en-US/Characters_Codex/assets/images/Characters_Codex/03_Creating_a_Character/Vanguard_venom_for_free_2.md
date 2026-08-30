@@ -1,0 +1,1 @@
+![a non-binary, black half-elven character. They are raising a broad sword and stand in a defense position that can be turned into an attack, half-covered by the sword.]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Vanguard_venom-for-free_2.png")

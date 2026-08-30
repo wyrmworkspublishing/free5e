@@ -1,0 +1,1 @@
+![A diverse group of people sitting around a table. In front of them is a battle map with minis and dice as the DM is smiling behind her home screen while the group engages in active conversation.]("../../../../../../assets/images/Characters_Codex/02_How_to_Play/GroupTable_venom-for-free.png")

@@ -5,6 +5,9 @@ While often misunderstood, orcs are deeply loyal and value strength, community, 
 Their cultures are as varied as their environments, ranging from nomadic hunters to urban warriors.
 
 #### Orc Traits
+
+[PaolaHikari_Orc.jpeg](../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Orc.md)
+
 Characters with orc ancestry share the following traits:
 \
 **Age.**

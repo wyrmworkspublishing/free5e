@@ -6,6 +6,8 @@ Humans' adaptability allows them to thrive in various climates, from rugged moun
 
 #### Human Traits
 
+[abyssinia_2029719.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/abyssinia_2029719.md)
+
 Your human character has a number of traits in common with all other humans.
 \
 **Age.**

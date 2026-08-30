@@ -5,7 +5,9 @@ They are long-lived, known for valuing art, knowledge, and harmony with their en
 
 #### Elf Traits
 Your elf character has a variety of natural abilities, the result of thousands of years of elven refinement.
-\
+
+[DnD_Elven_2.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/DnD_Elven_2.md)
+
 **Age.**
 Elves reach physical maturity around the same age as humans, but adulthood encompasses worldly experience.
 They typically claim adulthood and an adult name around 100 and can live up to 750 years.

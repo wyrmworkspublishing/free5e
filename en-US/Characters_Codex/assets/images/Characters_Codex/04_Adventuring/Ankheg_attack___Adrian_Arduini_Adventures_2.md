@@ -1,0 +1,1 @@
+![an ankheg attacking an armored dwarven warrior, elven archer, and a bearded elven wizard]("../../../../../../assets/images/Characters_Codex/04_Adventuring/Ankheg attack - Adrian Arduini Adventures_2.png")

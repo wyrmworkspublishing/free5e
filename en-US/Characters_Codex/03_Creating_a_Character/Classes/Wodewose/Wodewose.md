@@ -106,6 +106,8 @@ The following table shows how many spell slots you have to cast your spells of 1
 To cast one of these Wodewose spells, you must expend a slot of the spell’s level or higher.
 You regain all expended spell slots when you finish a long rest.
 
+[Wodewose_venom_for_free_2.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Wodewose_venom_for_free_2.md)
+
 You prepare the list of Wodewose spells that are available for you to cast, choosing from the [Wodewose spell list](#Wodewose_Spells_wodewose_spells).
 When you do so, choose a number of Wodewose spells equal to `your Wisdom modifier + your Wodewose level` (minimum of one spell).
 The spells must be of a level for which you have spell slots.

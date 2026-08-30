@@ -1,0 +1,1 @@
+![Fullbody artwork of a blind and obese wizard. She is wearing an oversized wizard hat and is using her staff as a cane. Her familiar, a black cat, is also present to offer aid as a guide animal.]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Wizard_Greyscale.jpg")

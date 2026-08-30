@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Roselysium_MixedAncestry_Greyscale.jpg]
+image::assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_MixedAncestry_Greyscale.jpg["A jolly, short man with horns and scales leans against a small keg, which he is barely taller than. He is of both Dragonborn and Halfling heritage.", pdfwidth=33%, scalewidth=33%, float=right, role="third-width related"]
+// end::image[]

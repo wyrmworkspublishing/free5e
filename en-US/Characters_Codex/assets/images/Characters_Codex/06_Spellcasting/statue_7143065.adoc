@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-statue-7143065.png]
+image::assets/images/Characters_Codex/06_Spellcasting/statue-7143065.png["statue of a warrior wearing a winged helmet holding a small axe, sword hanging from his belt"]
+// end::image[]

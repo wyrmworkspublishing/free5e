@@ -89,6 +89,8 @@ The table also shows what the level of those slots is; all of your spell slots a
 To cast one of your Warlock spells of 1st level or higher, you must expend a spell slot.
 You regain all expended spell slots when you finish a short or long rest.
 
+[Warlock_venom_for_free_2.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Warlock_venom_for_free_2.md)
+
 For example, when you are 5th level, you have two 3rd-level spell slots.
 To cast the 1st-level spell _[<span class="spell">Thunderwave</span>](#Thunderwave_thunderwave)_, you must spend one of those slots, and you cast it as a 3rd-level spell.
 \

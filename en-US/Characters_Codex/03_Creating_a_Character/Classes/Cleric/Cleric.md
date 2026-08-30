@@ -90,6 +90,8 @@ You prepare the list of Cleric spells that are available for you to cast, choosi
 When you do so, choose a number of Cleric spells equal to `your Wisdom modifier + your Cleric level` (minimum of one spell).
 The spells must be of a level for which you have spell slots.
 
+[Roselysium_Cleric_UPDATED_Greyscale.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Cleric_UPDATED_Greyscale.md)
+
 For example, if you are a 3rd-level Cleric, you have four 1st-level and two 2nd-level spell slots.
 With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
 If you prepare the 1st-level spell _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds), you can cast it using a 1st-level or 2nd-level slot.

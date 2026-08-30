@@ -97,6 +97,8 @@ The Spells Known column of the [Sorcerer table](#Sorcerer_the_sorcerer_table) sh
 Each of these spells must be of a level for which you have spell slots.
 For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
+[Roselysium_Sorcerer_Greyscale.jpg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Sorcerer_Greyscale.md)
+
 Additionally, when you gain a level in this class, you can choose one of the Sorcerer spells you know and replace it with another spell from the [Sorcerer spell list](#Sorcerer_Spells_sorcerer_spells), which also must be of a level for which you have spell slots.
 \
 **Spellcasting Ability**

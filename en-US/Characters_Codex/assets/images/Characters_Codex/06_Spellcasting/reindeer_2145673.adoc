@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-reindeer-2145673.png]
+image::assets/images/Characters_Codex/06_Spellcasting/reindeer-2145673.png["woman holding lyre walking through woods with reindeer buck and doe"]
+// end::image[]

@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-mountains-4065523.png]
+image::assets/images/Characters_Codex/04_Adventuring/mountains-4065523.png["circular image of mountains, dark sky with stars, planets, comet"]
+// end::image[]

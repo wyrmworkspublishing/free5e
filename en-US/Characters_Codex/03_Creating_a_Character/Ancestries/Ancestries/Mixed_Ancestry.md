@@ -2,6 +2,8 @@
 
 #### Mixed Traits
 
+[Roselysium_MixedAncestry_Greyscale.jpg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_MixedAncestry_Greyscale.md)
+
 Your parents descend from different ancestries from each other, and you have inherited a blend of traits from them.
 \
 **Age.**

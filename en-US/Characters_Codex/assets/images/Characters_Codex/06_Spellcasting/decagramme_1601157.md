@@ -1,0 +1,1 @@
+![concentric decagrams]("../../../../../../assets/images/Characters_Codex/06_Spellcasting/decagramme-1601157.png")

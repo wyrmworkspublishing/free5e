@@ -24,6 +24,8 @@ with open(csv_path, "r") as csv_file:
     index_artist_contact_portfolio = None
     index_rights = None
     index_file_path = None
+    index_width = None
+    index_alignment = None
     for row in image_data:
         # Skip the header row, which will be the first row in each CSV file
         if not header_encountered:
@@ -48,6 +50,10 @@ with open(csv_path, "r") as csv_file:
                     index_rights = index
                 elif column_name == "File path":
                     index_file_path = index
+                elif column_name == "Width":
+                    index_width = index
+                elif column_name == "Alignment":
+                    index_alignment = index
             header_encountered = True
             continue
         # Read the data from each row and store it in a dictionary
@@ -90,6 +96,10 @@ with open(csv_path, "r") as csv_file:
           rights = None
         if index_file_path is not None:
           file_path = row[index_file_path]
+        if index_width is not None:
+          width = row[index_width]
+        if index_alignment is not None:
+          alignment = row[index_alignment]
         else:
           # Skip files without a file path
           continue  
@@ -103,17 +113,19 @@ with open(csv_path, "r") as csv_file:
             'artist': artist,
             'artist_contact_portfolio': artist_contact_portfolio,
             'rights': rights,
-            'file_path': file_path
+            'file_path': file_path,
+            'width': width,
+            'alignment': alignment,
         })
 
 # A method for creating the Markdown wrapper file for an image
 def create_md_file_content(image_info):
     if (image_info['file_path'] and image_info['alt_text'] and image_info['caption']):
-        md_content = f"![{image_info['alt_text']}](/{image_info['file_path']} \"{image_info['caption']}\")"
+        md_content = f"![{image_info['alt_text']}](\"../../../../../../{image_info['file_path']}\" \"{image_info['caption']}\")"
     elif (image_info['file_path'] and image_info['alt_text']):
-        md_content = f"![{image_info['alt_text']}](/{image_info['file_path']})"
+        md_content = f"![{image_info['alt_text']}](\"../../../../../../{image_info['file_path']}\")"
     elif (image_info['file_path']):
-        md_content = f"![](/{image_info['file_path']})"
+        md_content = f"![](\"../../../../../../{image_info['file_path']}\")"
     else:
         md_content = ""
     if (image_info['caption']):
@@ -122,7 +134,8 @@ def create_md_file_content(image_info):
 
 # A method for creating the AsciiDoc wrapper file for an image
 def create_adoc_file_content(image_info):
-    adoc_content = ""
+    adoc_content = ":imagesdir: ../../../../../..\n\n"
+    adoc_content += "// tag::image[]\n"
 
     if (image_info['caption']):
         adoc_content += f".{image_info['caption']}\n"
@@ -133,9 +146,26 @@ def create_adoc_file_content(image_info):
     adoc_content += f"[{image_id}]\n"
 
     if (image_info['file_path'] and image_info['alt_text']):
-        adoc_content += f"image::{image_info['file_path']}[{image_info['alt_text']}]"
+        adoc_content += f"image::{image_info['file_path']}"
     elif (image_info['file_path']):
-        adoc_content += f"image::{image_info['file_path']}[]"
+        adoc_content += f"image::{image_info['file_path']}"
+
+    adoc_content += f"[\"{image_info['alt_text']}\""
+    roles = []
+    if (image_info['width'] == "half"):
+       roles.append("half-width")
+       adoc_content += ", pdfwidth=50%, scalewidth=50%"
+    elif (image_info['width'] == "third"):
+      roles.append("third-width")
+      adoc_content += ", pdfwidth=33%, scalewidth=33%"
+    if (image_info['alignment']):
+       roles.append("related")
+       adoc_content += f", float={image_info['alignment']}"
+    if roles:
+       adoc_content += f", role=\"{' '.join(roles)}\""
+    adoc_content += "]"
+
+    adoc_content += "\n// end::image[]\n"
     return adoc_content
 
 # The following loop will create all of the Markdown and AsciiDoc wrapper files for the images in the CSV file, using the image information that was read from the CSV file
@@ -148,7 +178,7 @@ for image in image_information:
     if not os.path.isdir(target_directory):
         os.makedirs(target_directory)
 
-    filename_without_extension = Path(image_file_path).stem
+    filename_without_extension = Path(image_file_path).stem.replace(" ", "_").replace("-", "_")
 
     md_path = os.path.join(target_directory, filename_without_extension + ".md")
     md_content = create_md_file_content(image)

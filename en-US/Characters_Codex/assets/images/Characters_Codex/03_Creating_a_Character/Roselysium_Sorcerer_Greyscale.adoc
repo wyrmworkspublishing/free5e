@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Roselysium_Sorcerer_Greyscale.jpg]
+image::assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Sorcerer_Greyscale.jpg["A draconic bloodline sorceress has her hands clasped together as if trying to contain the magic within her. Draconic scales dot her arms and wings sprout from her back.", pdfwidth=50%, scalewidth=50%, float=left, role="half-width related"]
+// end::image[]

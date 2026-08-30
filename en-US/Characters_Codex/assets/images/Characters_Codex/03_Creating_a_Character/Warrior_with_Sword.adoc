@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Warrior_with_Sword.jpg]
+image::assets/images/Characters_Codex/03_Creating_a_Character/Warrior with Sword.jpg["caped man wearing plate armor and spiked helm holding a sword", pdfwidth=50%, scalewidth=50%, float=right, role="half-width related"]
+// end::image[]
