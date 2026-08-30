@@ -10,7 +10,7 @@
 [_metadata_:components_verbal]:- "true"
 [_metadata_:components_somatic]:- "true"
 [_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water"
+[_metadata_:components_material_description]:- "a small quantity of elemental conduit defined by the Conductor for the chosen element, such as incense, clay, sulfur, water, hardened clay, or a sealed vessel of rarefied air"
 [_metadata_:concentration]:- "true"
 [_metadata_:duration]:- "1 hour"
 [_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
@@ -20,7 +20,7 @@ _5th-level conjuration_
 
 **Casting Time:** 1 minute \
 **Range:** 90 feet \
-**Components:** V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water) \
+**Components:** V, S, M (a small quantity of elemental conduit defined by the Conductor for the chosen element, such as incense, clay, sulfur, water, hardened clay, or a sealed vessel of rarefied air) \
 **Duration:** Concentration, up to 1 hour
 
 You call forth an elemental servant.
