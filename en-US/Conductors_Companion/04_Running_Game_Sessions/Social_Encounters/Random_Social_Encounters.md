@@ -1,4 +1,4 @@
-#### Random Social Encounters
+# Social Encounters
 <!-- spell-checker:words wineseller -->
 
 | d100 | Social Encounter                                                                                                                          |
