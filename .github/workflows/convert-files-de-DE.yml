@@ -1,5 +1,6 @@
 name: Convert the German manuscripts into various formats
 run-name: German file conversion triggered on on branch ${{ github.ref }} by ${{ github.actor }}...
+
 on:
   push:
     branches:
@@ -18,3 +19,11 @@ jobs:
       book_directory: 'de-DE/Codex_der_Charaktere'
       book_main_file: 'Codex_der_Charaktere'
       spell_descriptions_path: de-DE/Codex_der_Charaktere/06_Zauberwirken/Beschreibungen_der_Zauber/
+
+  braille-characters-codex-de-de:
+    name: Convert the de-DE Codex für Charaktere into braille
+    uses: ./.github/workflows/convert-braille.yml
+    with:
+      language: de-DE
+      book_directory: 'de-DE/Codex_der_Charaktere'
+      book_main_file: 'Codex_der_Charaktere'
