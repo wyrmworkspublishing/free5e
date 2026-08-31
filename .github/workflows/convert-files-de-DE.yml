@@ -8,6 +8,10 @@ on:
       - 'translations/**'
       - 'convert/**'
 
+permissions:
+  pages: write
+  id-token: write
+
 jobs:
   convert-characters-codes-de-DE:
     name: Convert the de-DE Codex für Charaktere
