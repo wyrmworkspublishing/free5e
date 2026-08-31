@@ -6,7 +6,8 @@ This style of combat works just like any other scene in your game.
 On each player's turn, you describe the current situation, the players describe their intent, and you adjudicate what happens as a result.
 Theater-of-the-mind combat requires that the players trust you as the Conductor, knowing that you'll describe the situation and adjudicate the results of the characters' actions fairly.
 As the Conductor, you'll earn this trust by favoring the players whenever possible, and by focusing on sharing an action-packed story.
-Running theater-of-the-mind combat removes agency from the players.
+Theater-of-the-mind combat limits players’ direct control over positioning compared to a gridded map.
+To preserve their agency, ask for their intent, clearly define important constraints or risks, and help them achieve the closest version of their intent within the situation.
 It takes away their ability to control every aspect of how their characters move and what they do.
 As the Conductor, you can mitigate this by asking each player for their intent each turn, then helping them meet that intent.
 For example, a player who says "I move close to the orcs" potentially leaves too many possibilities open.
