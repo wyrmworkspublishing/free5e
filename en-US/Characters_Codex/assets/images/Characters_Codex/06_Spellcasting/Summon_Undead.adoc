@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Summon_Undead.png]
+image::assets/images/Characters_Codex/06_Spellcasting/Summon Undead.png["skeleton swinging a curved sword, whisps around its feet"]
+// end::image[]

@@ -1,0 +1,1 @@
+![A slim, wodewose medic is sitting in their wheelchair, bandaging another person's hand. The wheels of their chair are intricately designed with carvings of vines and berries.]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Wisdom_Greyscale.png")

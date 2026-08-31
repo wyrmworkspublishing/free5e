@@ -123,8 +123,6 @@ You prepare the list of Wizard spells that are available for you to cast.
 To do so, choose a number of Wizard spells from your spellbook equal to `your Intelligence modifier + your Wizard level` (minimum of one spell).
 The spells must be of a level for which you have spell slots.
 
-[Roselysium_Wizard_Greyscale.jpg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Wizard_Greyscale.md)
-
 For example, if you’re a 3rd-level Wizard, you have four 1st-level and two 2nd-level spell slots.
 With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook.
 If you prepare the 1st-level spell _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_, you can cast it using a 1st-level or a 2nd-level slot.
@@ -142,6 +140,8 @@ In addition, you use your Intelligence modifier when setting the saving throw DC
 > **Spell save DC** = `8 + your proficiency bonus + your Intelligence modifier`
 > \
 > **Spell attack modifier** = `your proficiency bonus + your Intelligence modifier`
+
+[Roselysium_Wizard_Greyscale.jpg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Wizard_Greyscale.md)
 
 **Ritual Casting**
 \

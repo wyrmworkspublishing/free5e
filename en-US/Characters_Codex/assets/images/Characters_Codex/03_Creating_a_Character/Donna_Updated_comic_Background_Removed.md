@@ -1,0 +1,1 @@
+![A femme-presenting dwarf in a wheelchair with a big double-bladed axe]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Donna-Updated-comic Background Removed.png")

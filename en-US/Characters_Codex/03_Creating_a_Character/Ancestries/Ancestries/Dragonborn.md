@@ -4,6 +4,9 @@ Dragonborn are towering humanoids with draconic features, including scales in a 
 They possess imposing physiques and a proud heritage.
 
 #### Dragonborn Traits
+
+[Roselysium_Dragonborn_Greyscale.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Dragonborn_Greyscale.md)
+
 Your draconic heritage manifests in a variety of traits you share with other dragonborn.
 \
 **Age.**
