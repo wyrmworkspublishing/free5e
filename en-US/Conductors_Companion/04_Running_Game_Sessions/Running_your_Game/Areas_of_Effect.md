@@ -1,5 +1,5 @@
 #### Areas of Effect
-The following guidelines offer a rough baseline for determining the number of targets that fall within an area of effect.
+The following guidelines offer a rough baseline for determining the number of Medium targets that fall within an area of effect.
 The circumstances of a battle can increase or decrease this number.
 For example, for larger monsters or monsters that are more spread out, an area of effect might target only half the normal number of creatures.
 For smaller monsters or monsters that are packed close together, an area of effect might include up to double the normal number of targets.
