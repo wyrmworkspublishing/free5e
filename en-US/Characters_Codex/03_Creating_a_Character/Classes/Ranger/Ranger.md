@@ -90,7 +90,7 @@ When you make an Intelligence or Wisdom check related to your favored terrain, y
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
 
-[Roselysium_Ranger_Screentone.jpg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Ranger_Screentone.md)
+[Roselysium_Ranger_Screentone.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Ranger_Screentone.md)
 
 - Difficult terrain doesn’t slow your group’s travel.
 - Your group can’t become lost except by magical means.

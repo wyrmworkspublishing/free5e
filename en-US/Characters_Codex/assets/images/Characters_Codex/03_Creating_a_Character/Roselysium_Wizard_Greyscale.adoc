@@ -1,6 +1,6 @@
 :imagesdir: ../../../../../..
 
 // tag::image[]
-[#img-Roselysium_Wizard_Greyscale.jpg]
-image::assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Wizard_Greyscale.jpg["Fullbody artwork of a blind and obese wizard. She is wearing an oversized wizard hat and is using her staff as a cane. Her familiar, a black cat, is also present to offer aid as a guide animal.", pdfwidth=50%, scalewidth=50%, float=right, role="half-width related"]
+[#img-Roselysium_Wizard_Greyscale.png]
+image::assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Wizard_Greyscale.png["Fullbody artwork of a blind and obese wizard. She is wearing an oversized wizard hat and is using her staff as a cane. Her familiar, a black cat, is also present to offer aid as a guide animal.", pdfwidth=50%, scalewidth=50%, float=right, role="half-width related"]
 // end::image[]

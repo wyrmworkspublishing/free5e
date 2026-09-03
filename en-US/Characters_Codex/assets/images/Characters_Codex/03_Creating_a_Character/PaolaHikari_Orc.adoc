@@ -1,6 +1,6 @@
 :imagesdir: ../../../../../..
 
 // tag::image[]
-[#img-PaolaHikari_Orc.jpeg]
-image::assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Orc.jpeg["bust of an orc dressed as a warrior with his arms crossed", pdfwidth=33%, scalewidth=33%, float=right, role="third-width related"]
+[#img-PaolaHikari_Orc.png]
+image::assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Orc.png["bust of an orc dressed as a warrior with his arms crossed", pdfwidth=50%, scalewidth=50%, float=right, role="half-width related"]
 // end::image[]

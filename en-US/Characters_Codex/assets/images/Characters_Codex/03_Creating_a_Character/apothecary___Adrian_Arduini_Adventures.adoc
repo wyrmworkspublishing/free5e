@@ -1,6 +1,0 @@
-:imagesdir: ../../../../../..
-
-// tag::image[]
-[#img-apothecary_-_Adrian_Arduini_Adventures.png]
-image::assets/images/Characters_Codex/03_Creating_a_Character/apothecary - Adrian Arduini Adventures.png["feminine elf wearing an apron holding vials of liquid"]
-// end::image[]

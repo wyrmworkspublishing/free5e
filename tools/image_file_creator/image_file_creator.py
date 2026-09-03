@@ -130,6 +130,7 @@ def create_md_file_content(image_info):
         md_content = ""
     if (image_info['caption']):
         md_content += f"\n_{image_info['caption']}_"
+    md_content += "\n"
     return md_content
 
 # A method for creating the AsciiDoc wrapper file for an image
@@ -153,16 +154,16 @@ def create_adoc_file_content(image_info):
     adoc_content += f"[\"{image_info['alt_text']}\""
     roles = []
     if (image_info['width'] == "half"):
-       roles.append("half-width")
-       adoc_content += ", pdfwidth=50%, scalewidth=50%"
+      roles.append("half-width")
+      adoc_content += ", pdfwidth=50%, scalewidth=50%"
     elif (image_info['width'] == "third"):
       roles.append("third-width")
       adoc_content += ", pdfwidth=33%, scalewidth=33%"
-    if (image_info['alignment']):
-       roles.append("related")
-       adoc_content += f", float={image_info['alignment']}"
+    if (image_info['alignment'] and image_info['alignment'] != "center"):
+      roles.append("related")
+      adoc_content += f", float={image_info['alignment']}"
     if roles:
-       adoc_content += f", role=\"{' '.join(roles)}\""
+      adoc_content += f", role=\"{' '.join(roles)}\""
     adoc_content += "]"
 
     adoc_content += "\n// end::image[]\n"
@@ -179,6 +180,7 @@ for image in image_information:
         os.makedirs(target_directory)
 
     filename_without_extension = Path(image_file_path).stem.replace(" ", "_").replace("-", "_")
+    filename_without_extension = re.sub(r"__+", "_", filename_without_extension)
 
     md_path = os.path.join(target_directory, filename_without_extension + ".md")
     md_content = create_md_file_content(image)

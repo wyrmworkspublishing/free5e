@@ -17,6 +17,8 @@ Typical situations include trying to fast-talk a guard, con a merchant, earn mon
 When you attempt to influence someone through overt threats, hostile actions, and physical violence, the Conductor might ask you to make a Charisma (_Intimidation_) check.
 Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision.
 
+[Bard___Adrian_Arduini_Adventures](../../assets/images/Characters_Codex/03_Creating_a_Character/Bard_Adrian_Arduini_Adventures_2.md)
+
 **Performance.**
 Your Charisma (_Performance_) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment.
 

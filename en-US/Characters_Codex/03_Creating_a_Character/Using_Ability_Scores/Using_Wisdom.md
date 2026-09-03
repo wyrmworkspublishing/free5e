@@ -7,6 +7,8 @@ Wisdom reflects how attuned you are to the world around you and represents perce
 A Wisdom check might reflect an effort to read body language, understand someone’s feelings, notice things about the environment, or care for an injured person.
 The _Animal Handling_, _Insight_, _Medicine_, _Perception_, and _Survival_ skills reflect aptitude in certain kinds of Wisdom checks.
 
+[Roselysium_Wisdom](../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Wisdom_Greyscale.md)
+
 **Animal Handling.**
 When there is any question whether you can calm down a domesticated animal, keep a mount from getting spooked, or intuit an animal’s intentions, the Conductor might call for a Wisdom (_Animal Handling_) check.
 You also make a Wisdom (_Animal Handling_) check to control your mount when you attempt a risky maneuver.

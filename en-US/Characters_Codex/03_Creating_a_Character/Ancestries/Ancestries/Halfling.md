@@ -3,9 +3,9 @@
 Halflings are small, typically with round features and a penchant for comfort and community.
 Their ingenuity and resourcefulness shine in their love for storytelling and exploration.
 
-[Halfling_venom_for_free.jpeg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Halfling_venom_for_free.md)
-
 #### Halfling Traits
+
+[Halfling_venom_for_free_2.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Halfling_venom_for_free_2.md)
 
 Your halfling character has a number of traits in common with all other halflings.
 \

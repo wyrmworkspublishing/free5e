@@ -93,7 +93,7 @@ Your training allows you to harness the mystic energy of focus points.
 Your access to this energy is represented by a number of focus points.
 Your Adept level determines the number of points you have, as shown in the Focus Points column of the [Adept table](#Adept_the_adept_table).
 
-[PaolaHikari_Adept.jpeg](../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Adept.md)
+[PaolaHikari_Adept.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Adept.md)
 
 You can spend these points to fuel various focus features.
 You start knowing three such features: _Flurry of Blows_, _Patient Defense_, and _Step of the Wind_.

@@ -1,5 +1,7 @@
 ## Feats
 
+[Sorcerer_Adrian_Arduini_Adventures](../../assets/images/Characters_Codex/03_Creating_a_Character/Sorcerer_Adrian_Arduini_Adventures_2.md)
+
 A feat represents a character’s special capabilities, embodying training, experience, and abilities above and beyond a class’s capabilities.
 
 At certain levels, your class grants the Ability Score Improvement feature.

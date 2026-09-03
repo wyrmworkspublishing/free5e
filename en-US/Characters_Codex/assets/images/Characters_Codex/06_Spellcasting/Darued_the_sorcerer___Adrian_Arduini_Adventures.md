@@ -1,1 +1,0 @@
-![bald masculine human magician with Egyptian-style goatee and caped tunic leaning on table with scrolls (one open), candle, and quill in inkwell. A goblin peeks out from behind the table.]("../../../../../../assets/images/Characters_Codex/06_Spellcasting/Darued the sorcerer - Adrian Arduini Adventures.png")

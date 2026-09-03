@@ -14,6 +14,8 @@ The Conductor might also call for a Dexterity (_Acrobatics_) check to determine 
 Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (_Sleight of Hand_) check.
 The Conductor might also call for a Dexterity (_Sleight of Hand_) check to determine whether you can lift a coin purse off another person or slip something out of another person’s pocket.
 
+[Roselysium_Dexterity](../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Dexterity_BackerComm_Screentone_2.md)
+
 **Stealth.**
 Make a Dexterity (_Stealth_) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being observed.
 

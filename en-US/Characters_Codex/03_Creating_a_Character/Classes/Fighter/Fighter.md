@@ -93,11 +93,11 @@ You can’t take a Fighting Style option more than once, even if you later get t
 
 [**Protection**](../_Fighting_Styles/Protection.md)
 
+[Warrior_with_Sword.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Warrior_with_Sword.md)
+
 ###### Two-Weapon Fighting
 
 [**Two-Weapon Fighting**](../_Fighting_Styles/Two-Weapon_Fighting.md)
-
-[Warrior_with_Sword.jpg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Warrior_with_Sword.md)
 
 ##### Second Wind (1st Level) {#Fighter_second_wind}
 

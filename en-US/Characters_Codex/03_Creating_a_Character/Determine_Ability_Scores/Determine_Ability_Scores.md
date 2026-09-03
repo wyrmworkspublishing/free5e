@@ -40,9 +40,9 @@ _Ability Score Point Cost_
 
 ___
 
-[dice-160388_2.png](../../assets/images/Characters_Codex/03_Creating_a_Character/dice-160388_2.md)
-
 ### Ability Modifiers
 
 Your final ability scores determine your modifiers.
 Find your modifier by subtracting 10 from the ability score and dividing by 2 (round down).
+
+[dice-160388_2.png](../../assets/images/Characters_Codex/03_Creating_a_Character/dice_160388_2.md)

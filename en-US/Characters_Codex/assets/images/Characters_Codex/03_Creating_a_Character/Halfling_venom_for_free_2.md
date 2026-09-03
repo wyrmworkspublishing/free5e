@@ -1,0 +1,1 @@
+![A halfling Adept named Poppy in robes and a battle stance with her arms raised and her hair flowing in the wind.]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Halfling_venom-for-free_2.png")

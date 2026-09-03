@@ -1,1 +1,0 @@
-![A draconic bloodline sorceress has her hands clasped together as if trying to contain the magic within her. Draconic scales dot her arms and wings sprout from her back.]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Sorcerer_Greyscale.jpg")

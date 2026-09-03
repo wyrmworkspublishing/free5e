@@ -2,5 +2,5 @@
 
 // tag::image[]
 [#img-PaolaHikari_Using_Ability_Scores.png]
-image::assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Using_Ability_Scores.png["a dragonborn picking the lock of a treasure chest"]
+image::assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Using_Ability_Scores.png["a dragonborn picking the lock of a treasure chest", pdfwidth=50%, scalewidth=50%, float=left, role="half-width related"]
 // end::image[]

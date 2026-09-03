@@ -4,9 +4,9 @@ Gnomes are small, typically with bright eyes and animated expressions that refle
 Their colorful hair and eccentric clothing often hint at their inventive or magical inclinations.
 Gnomes have a reputation for creativity, humor, and discovery.
 
-[Fiora.jpeg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Fiora.md)
-
 #### Gnome Traits
+
+[Fiora](../../../assets/images/Characters_Codex/03_Creating_a_Character/Fiora.md)
 
 Your gnome character has certain characteristics in common with all other gnomes.
 \

@@ -9,6 +9,8 @@ For example, if two different rules allow you to add your proficiency bonus to a
 
 If you have expertise in a skill, you double your proficiency bonus when using that skill.
 
+[apothecary___Adrian_Arduini_Adventures](../../assets/images/Characters_Codex/03_Creating_a_Character/apothecary_Adrian_Arduini_Adventures.md)
+
 For example, the Rogue’s Expertise feature doubles the proficiency bonus for certain ability checks.
 If a circumstance suggests that your proficiency bonus applies more than once to the same roll, you still add it only once and multiply or divide it only once.
 

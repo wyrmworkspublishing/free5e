@@ -74,7 +74,7 @@ On your turn, you can enter a rage as a bonus action.
 
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
 
-[Orc_woman](../../../assets/images/Characters_Codex/03_Creating_a_Character/Orc_woman___Adrian_Arduini_Adventures.md)
+[Orc_woman](../../../assets/images/Characters_Codex/03_Creating_a_Character/Orc_woman_Adrian_Arduini_Adventures_2.md)
 
 - You have advantage on Strength checks and Strength saving throws.
 - When you make a melee weapon attack using Strength, you gain a bonus to the damage roll that increases as you gain levels as a Dreadnought, as shown in the Rage Damage column of the [Dreadnought table](#Dreadnought_the_dreadnought_table).
