@@ -1,11 +1,12 @@
 ### Tiefling
+<!-- spell-checker:words Roselysium -->
 
 Tieflings are humanoids marked by fiendish ancestry, often with horns, tails, and skin tones ranging from human-like hues to deep reds, blues, or purples.
 Their feet may be cloven hooves or humanlike with clawed toenails.
 
 #### Tiefling Traits
 
-[Roselysium_Tiefling_Greyscale.jpg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Tiefling_Greyscale.md)
+[Roselysium_Tiefling](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Tiefling_Greyscale.md)
 
 Tieflings share certain inherited traits as a result of their infernal descent.
 \

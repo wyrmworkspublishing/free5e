@@ -2,5 +2,5 @@
 
 // tag::image[]
 [#img-mountains-4065523.png]
-image::assets/images/Characters_Codex/04_Adventuring/mountains-4065523.png["circular image of mountains, dark sky with stars, planets, comet"]
+image::assets/images/Characters_Codex/04_Adventuring/mountains-4065523.png["circular image of mountains, dark sky with stars, planets, comet", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
 // end::image[]

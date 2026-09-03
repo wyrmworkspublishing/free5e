@@ -5,6 +5,7 @@ Their colorful hair and eccentric clothing often hint at their inventive or magi
 Gnomes have a reputation for creativity, humor, and discovery.
 
 #### Gnome Traits
+<!-- spell-checker:words Fiora -->
 
 [Fiora](../../../assets/images/Characters_Codex/03_Creating_a_Character/Fiora.md)
 

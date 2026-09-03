@@ -1,4 +1,6 @@
 #### Dexterity
+<!-- spell-checker:words Roselysium -->
+
 Dexterity measures agility, reflexes, and balance.
 
 ##### Dexterity Checks

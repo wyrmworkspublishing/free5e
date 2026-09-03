@@ -1,4 +1,5 @@
 ### Wizard
+<!-- spell-checker:words Roselysium -->
 
 Through study, discipline, and boundless curiosity, Wizards unravel the secrets of magic, bending reality through sheer knowledge.
 
@@ -141,7 +142,7 @@ In addition, you use your Intelligence modifier when setting the saving throw DC
 > \
 > **Spell attack modifier** = `your proficiency bonus + your Intelligence modifier`
 
-[Roselysium_Wizard_Greyscale.jpg](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Wizard_Greyscale.md)
+[Roselysium_Wizard](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Wizard_Greyscale.md)
 
 **Ritual Casting**
 \

@@ -1,1 +1,1 @@
-![a young male elf dressed in simple clothing standing on one leg, in a meditative pose, with his eyes closed]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Adept.png")
+![a young male elf dressed in simple clothing standing on one leg, in a meditative pose, with his eyes closed](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Adept.png)

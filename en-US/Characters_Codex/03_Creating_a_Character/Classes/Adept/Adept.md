@@ -1,4 +1,5 @@
 ### Adept
+<!-- spell-checker:words PaolaHikari -->
 
 Adepts are masters of martial arts who use superior focus to unlock hidden potential within themselves, achieving feats that others consider impossible.
 

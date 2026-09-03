@@ -1,1 +1,1 @@
-![3 black suckered tentacles]("../../../../../../assets/images/Characters_Codex/06_Spellcasting/tentacles-6137610.png")
+![3 black suckered tentacles](../../../../../../assets/images/Characters_Codex/06_Spellcasting/tentacles-6137610.png)

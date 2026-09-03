@@ -1,4 +1,5 @@
 ## Backgrounds
+<!-- spell-checker:words Arduini -->
 
 [Ketch___Adrian_Arduini_Adventures](../../assets/images/Characters_Codex/03_Creating_a_Character/Ketch_Adrian_Arduini_Adventures_2.md)
 

@@ -1,5 +1,7 @@
 ## Combat
 
+[Ankheg_attack_Adrian_Arduini_Adventures](../assets/images/Characters_Codex/04_Adventuring/Ankheg_attack_Adrian_Arduini_Adventures_2.md)
+
 A typical combat encounter is a clash between two sides, a flurry of weapon swings, feints, parries, footwork, and spellcasting.
 The game organizes the chaos of combat into a cycle of rounds and turns.
 A **round** represents about 6 seconds in the game world.

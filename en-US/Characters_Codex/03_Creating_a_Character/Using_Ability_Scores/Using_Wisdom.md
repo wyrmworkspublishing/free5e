@@ -1,4 +1,5 @@
 #### Wisdom
+<!-- spell-checker:words Roselysium -->
 
 Wisdom reflects how attuned you are to the world around you and represents perceptiveness and intuition.
 

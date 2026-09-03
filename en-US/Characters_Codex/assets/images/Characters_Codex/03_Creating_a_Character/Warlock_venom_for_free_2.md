@@ -1,1 +1,1 @@
-![a female, black warlock, standing with her hands extended to the sides in a summoning pose. Most of her face and body are covered by a cloak. Her left leg is prosthetic.]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Warlock_venom-for-free_2.png")
+![a female, black warlock, standing with her hands extended to the sides in a summoning pose. Most of her face and body are covered by a cloak. Her left leg is prosthetic.](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Warlock_venom-for-free_2.png)

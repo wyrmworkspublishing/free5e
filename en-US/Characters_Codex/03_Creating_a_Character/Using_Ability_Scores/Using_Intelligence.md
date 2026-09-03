@@ -1,4 +1,5 @@
 #### Intelligence
+<!-- spell-checker:words Arduini -->
 
 Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
 

@@ -1,4 +1,5 @@
 ### Proficiency Bonus
+<!-- spell-checker:words Arduini -->
 
 Characters and monsters have a proficiency bonus determined by level, which is incorporated into their stat blocks and used in ability checks, saving throws, and attack rolls.
 

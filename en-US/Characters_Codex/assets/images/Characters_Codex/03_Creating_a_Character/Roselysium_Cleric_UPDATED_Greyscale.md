@@ -1,1 +1,1 @@
-![a black cleric. She is holding a spiked mace in one hand as her holy symbol is engulfed and floating in her other hand.]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Cleric_UPDATED_Greyscale.png")
+![a black cleric. She is holding a spiked mace in one hand as her holy symbol is engulfed and floating in her other hand.](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Cleric_UPDATED_Greyscale.png)

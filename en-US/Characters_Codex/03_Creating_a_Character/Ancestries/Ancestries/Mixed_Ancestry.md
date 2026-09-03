@@ -1,4 +1,5 @@
 ### Mixed Ancestry
+<!-- spell-checker:words Roselysium -->
 
 #### Mixed Traits
 

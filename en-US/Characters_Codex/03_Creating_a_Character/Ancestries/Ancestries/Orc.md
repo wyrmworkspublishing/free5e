@@ -1,4 +1,5 @@
 ### Orc
+<!-- spell-checker:words PaolaHikari -->
 
 [PaolaHikari_Orc](../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Orc.md)
 

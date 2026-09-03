@@ -1,1 +1,1 @@
-![an halfling who is keeping a hellhound from biting down on her by holding its jaws open with her bare hands]("../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Strength.png")
+![an halfling who is keeping a hellhound from biting down on her by holding its jaws open with her bare hands](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Strength.png)

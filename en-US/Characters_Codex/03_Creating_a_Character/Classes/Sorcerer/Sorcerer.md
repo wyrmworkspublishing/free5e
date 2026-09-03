@@ -1,4 +1,5 @@
 ### Sorcerer
+<!-- spell-checker:words Roselysium -->
 
 Magic flows through Sorcerers like blood in their veins, manifesting as raw, instinctive power rather than studied technique.
 

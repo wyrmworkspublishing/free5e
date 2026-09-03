@@ -1,4 +1,5 @@
 ### Rogue
+<!-- spell-checker:words PaolaHikari -->
 
 Rogues are quick-thinking and skilled, exploiting weaknesses, evading danger, and turning every situation to their advantage.
 

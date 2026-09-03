@@ -1,1 +1,1 @@
-![masculine dwarf bartender smiling and cleaning a stein. Bottles in background. Brick circular frame.]("../../../../../../assets/images/Characters_Codex/04_Adventuring/Hagil Thorinsond free5e - Adrian Arduini Adventures_2.png")
+![masculine dwarf bartender smiling and cleaning a stein. Bottles in background. Brick circular frame.](../../../../../../assets/images/Characters_Codex/04_Adventuring/Hagil%20Thorinsond%20free5e%20-%20Adrian%20Arduini%20Adventures_2.png)

@@ -1,1 +1,1 @@
-![A party of adventurers confronting a massive, blue dragon looming in the foreground. The foreground is a pile of skulls, and the 3 adventurers look hesitant.]("../../../../../../assets/images/Characters_Codex/00_Cover/Free5e_Playerbook.png")
+![A party of adventurers confronting a massive, blue dragon looming in the foreground. The foreground is a pile of skulls, and the 3 adventurers look hesitant.](../../../../../../assets/images/Characters_Codex/00_Cover/Free5e_Playerbook.png)

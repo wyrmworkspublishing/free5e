@@ -1,4 +1,5 @@
 ### Dragonborn
+<!-- spell-checker:words Roselysium -->
 
 Dragonborn are towering humanoids with draconic features, including scales in a spectrum of colors and reptilian eyes.
 They possess imposing physiques and a proud heritage.

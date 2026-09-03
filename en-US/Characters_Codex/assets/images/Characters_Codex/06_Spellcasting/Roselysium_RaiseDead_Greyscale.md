@@ -1,1 +1,1 @@
-![Depiction of the Spell "Raise Dead". A skeleton is floating over an arcane circle. There is magical light sprouting from its body as the spell takes effect.]("../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_RaiseDead_Greyscale.png")
+![Depiction of the Spell "Raise Dead". A skeleton is floating over an arcane circle. There is magical light sprouting from its body as the spell takes effect.](../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_RaiseDead_Greyscale.png)

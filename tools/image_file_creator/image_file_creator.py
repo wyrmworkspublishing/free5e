@@ -120,12 +120,13 @@ with open(csv_path, "r") as csv_file:
 
 # A method for creating the Markdown wrapper file for an image
 def create_md_file_content(image_info):
-    if (image_info['file_path'] and image_info['alt_text'] and image_info['caption']):
-        md_content = f"![{image_info['alt_text']}](\"../../../../../../{image_info['file_path']}\" \"{image_info['caption']}\")"
-    elif (image_info['file_path'] and image_info['alt_text']):
-        md_content = f"![{image_info['alt_text']}](\"../../../../../../{image_info['file_path']}\")"
-    elif (image_info['file_path']):
-        md_content = f"![](\"../../../../../../{image_info['file_path']}\")"
+    filePath = (image_info['file_path'] or "").replace(" ", "%20")
+    if (filePath and image_info['alt_text'] and image_info['caption']):
+        md_content = f"![{image_info['alt_text']}](../../../../../../{filePath} \"{image_info['caption']}\")"
+    elif (filePath and image_info['alt_text']):
+        md_content = f"![{image_info['alt_text']}](../../../../../../{filePath})"
+    elif (filePath):
+        md_content = f"![](../../../../../../{filePath})"
     else:
         md_content = ""
     if (image_info['caption']):
@@ -159,9 +160,11 @@ def create_adoc_file_content(image_info):
     elif (image_info['width'] == "third"):
       roles.append("third-width")
       adoc_content += ", pdfwidth=33%, scalewidth=33%"
-    if (image_info['alignment'] and image_info['alignment'] != "center"):
+    if (image_info['alignment']):
       roles.append("related")
-      adoc_content += f", float={image_info['alignment']}"
+      if image_info['alignment'] == "center":
+      else:
+        adoc_content += f", float={image_info['alignment']}, align=text-{image_info['alignment']}"
     if roles:
       adoc_content += f", role=\"{' '.join(roles)}\""
     adoc_content += "]"

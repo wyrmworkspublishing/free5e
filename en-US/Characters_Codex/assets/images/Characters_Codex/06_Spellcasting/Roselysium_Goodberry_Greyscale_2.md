@@ -1,1 +1,1 @@
-![Depiction of the Spell "Goodberry". A singular Raspberry-like berry is surrounded by a magical glow.]("../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_Goodberry_Greyscale_2.png")
+![Depiction of the Spell "Goodberry". A singular Raspberry-like berry is surrounded by a magical glow.](../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_Goodberry_Greyscale_2.png)

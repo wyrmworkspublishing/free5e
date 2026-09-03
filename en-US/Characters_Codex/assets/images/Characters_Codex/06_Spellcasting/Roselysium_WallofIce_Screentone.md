@@ -1,1 +1,1 @@
-![Depiction of the Spell "Wall of Ice" - A giant wall of ice is separating the caster from 4 enemies who can be vaguely seen through the ice]("../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_WallofIce_Screentone.png")
+![Depiction of the Spell "Wall of Ice" - A giant wall of ice is separating the caster from 4 enemies who can be vaguely seen through the ice](../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_WallofIce_Screentone.png)

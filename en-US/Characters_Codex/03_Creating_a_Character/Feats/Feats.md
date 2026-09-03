@@ -1,4 +1,5 @@
 ## Feats
+<!-- spell-checker:words Arduini -->
 
 [Sorcerer_Adrian_Arduini_Adventures](../../assets/images/Characters_Codex/03_Creating_a_Character/Sorcerer_Adrian_Arduini_Adventures_2.md)
 

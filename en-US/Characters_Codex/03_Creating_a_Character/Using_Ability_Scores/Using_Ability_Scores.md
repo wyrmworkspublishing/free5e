@@ -1,4 +1,5 @@
 ## Using Ability Scores
+<!-- spell-checker:words PaolaHikari -->
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
 
