@@ -1,1 +1,1 @@
-![an ankheg attacking an armored dwarven warrior, elven archer, and a bearded elven wizard](../../../../../../assets/images/Characters_Codex/04_Adventuring/Ankheg%20attack%20-%20Adrian%20Arduini%20Adventures_2.png)
+![an ankheg attacking an armored dwarven warrior, elven archer, and a bearded elven wizard](../../../../../../assets/images/Characters_Codex/04_Adventuring/Ankheg_attack_-_Adrian_Arduini_Adventures_2.png)

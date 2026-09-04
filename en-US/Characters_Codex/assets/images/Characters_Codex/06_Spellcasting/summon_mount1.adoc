@@ -2,5 +2,5 @@
 
 // tag::image[]
 [#img-summon_mount1.png]
-image::assets/images/Characters_Codex/06_Spellcasting/summon mount1.png["ghostly horse with dark mist background"]
+image::assets/images/Characters_Codex/06_Spellcasting/summon_mount1.png["ghostly horse with dark mist background"]
 // end::image[]

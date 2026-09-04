@@ -2,5 +2,5 @@
 
 // tag::image[]
 [#img-Wizard_-_Adrian_Arduini_Adventures.png]
-image::assets/images/Characters_Codex/03_Creating_a_Character/Wizard - Adrian Arduini Adventures.png["wizard with pointed brimmed hat stroking beard, round frame", pdfwidth=50%, scalewidth=50%, float=right, align=text-right, role="half-width related"]
+image::assets/images/Characters_Codex/03_Creating_a_Character/Wizard_-_Adrian_Arduini_Adventures.png["wizard with pointed brimmed hat stroking beard, round frame", pdfwidth=50%, scalewidth=50%, float=right, align=text-right, role="half-width related"]
 // end::image[]

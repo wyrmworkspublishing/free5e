@@ -5,6 +5,7 @@ doctype: book
 lang: en
 toc: true
 toclevels: 2
+front-cover-image: image:../../../assets/images/Characters_Codex/00_Cover/Free5e_Playerbook.png[Front Cover,1127,1595]
 ---
 # Free5e Character's Codex: Player’s Guide to Free5e
 
