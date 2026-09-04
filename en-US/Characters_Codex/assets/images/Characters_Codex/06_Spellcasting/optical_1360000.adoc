@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-optical-1360000.png]
+image::assets/images/Characters_Codex/06_Spellcasting/optical-1360000.png["circular optical pattern"]
+// end::image[]

@@ -1,4 +1,5 @@
 ### Sorcerer
+<!-- spell-checker:words Roselysium -->
 
 Magic flows through Sorcerers like blood in their veins, manifesting as raw, instinctive power rather than studied technique.
 
@@ -107,6 +108,8 @@ In addition, you use your Charisma modifier when setting the saving throw DC for
 > **Spell save DC** = `8 + your proficiency bonus + your Charisma modifier`
 > \
 > **Spell attack modifier** = `your proficiency bonus + your Charisma modifier`
+
+[Roselysium_Sorcerer](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Sorcerer_Greyscale_2.md)
 
 **Spellcasting Focus**
 \

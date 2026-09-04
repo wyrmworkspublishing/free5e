@@ -1,6 +1,9 @@
 ## Using Ability Scores
+<!-- spell-checker:words PaolaHikari -->
 
 Six abilities provide a quick description of every creature’s physical and mental characteristics:
+
+[PaolaHikari_Using_Ability_Scores](../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Using_Ability_Scores.md)
 
 - **Strength**, measuring physical power
 - **Dexterity**, measuring agility

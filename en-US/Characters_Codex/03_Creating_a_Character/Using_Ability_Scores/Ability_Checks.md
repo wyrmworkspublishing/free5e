@@ -55,6 +55,8 @@ Proficiency in _Stealth_ enhances Dexterity checks related to sneaking and hidin
 The skills typically related to each ability score are listed below.
 See an ability’s description for examples of skill usage.
 
+[d20_7136921_1920](../../assets/images/Characters_Codex/03_Creating_a_Character/d20_7136921_1920.md)
+
 <!-- markdownlint-disable blanks-around-lists no-emphasis-as-heading -->
 **Strength**
 - Athletics

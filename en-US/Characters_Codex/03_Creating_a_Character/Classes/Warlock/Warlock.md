@@ -96,6 +96,8 @@ To cast the 1st-level spell _[<span class="spell">Thunderwave</span>](#Thunderwa
 \
 At 1st level, you know two 1st-level spells of your choice from the [Warlock spell list](#Warlock_Spells_warlock_spells).
 
+[Warlock_venom_for_free_2.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Warlock_venom_for_free_2.md)
+
 The Spells Known column of the [Warlock table](#Warlock_the_warlock_table) shows when you learn more Warlock spells of your choice of 1st level and higher.
 A spell you choose must be of a level no higher than what’s shown in the table’s _Slot Level_ column for your level.
 When you reach 6th level, for example, you learn a new Warlock spell, which can be 1st, 2nd, or 3rd level.

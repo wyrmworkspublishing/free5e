@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-decagramme-1601157.png]
+image::assets/images/Characters_Codex/06_Spellcasting/decagramme-1601157.png["concentric decagrams"]
+// end::image[]

@@ -1,0 +1,1 @@
+![masculine dwarf bartender smiling and cleaning a stein. Bottles in background. Brick circular frame.](../../../../../../assets/images/Characters_Codex/04_Adventuring/Hagil_Thorinsond_free5e_-_Adrian_Arduini_Adventures_2.png)

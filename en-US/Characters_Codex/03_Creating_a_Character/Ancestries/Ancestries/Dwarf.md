@@ -5,6 +5,9 @@ Their intricate beards and braids often represent cultural pride.
 Dwarves have a reputation for craftsmanship and have a deep connection to the earth, often favoring mountainous or underground regions.
 
 #### Dwarf Traits
+
+[DnD_Dwarf](../../../assets/images/Characters_Codex/03_Creating_a_Character/DnD_Dwarf_2.md)
+
 Your dwarf character has an assortment of inborn abilities, part and parcel of dwarven nature.
 \
 **Age.**

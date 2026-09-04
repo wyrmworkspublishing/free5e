@@ -1,0 +1,1 @@
+![Fullbody artwork of a black woman with vitilIgo leaping backwards in order to avoid a spike trap that has suddenly shot up from the ground.](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Dexterity_BackerComm_Screentone_2.png)

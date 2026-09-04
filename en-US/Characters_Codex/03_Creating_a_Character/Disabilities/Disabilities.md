@@ -29,3 +29,5 @@ Here are three methods to achieve this:
 If you use trait and assistance mechanics, assistive items appear in the [Equipment](#Equipment_equipment) section under [Assistive Items](#Assistive_Items_assistive_items).
 These items support characters in navigating the game with disability traits and include both mundane and magical tools.
 They do not negate the disability but help the character adapt or access their environment in new ways.
+
+[Donna](../../assets/images/Characters_Codex/03_Creating_a_Character/Donna_Updated_comic_Background_Removed.md)

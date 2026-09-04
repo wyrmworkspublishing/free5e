@@ -1,9 +1,12 @@
 # Spellcasting
+<!-- spell-checker:words Darued Arduini -->
 
 Magic rules fantasy gaming worlds, often as spells.
 This section covers spellcasting.
 Character classes and monsters have unique spell learning and preparation methods.
 Regardless of origin, spells follow these rules.
+
+[Darued_the_sorcerer_Adrian_Arduini_Adventures](../assets/images/Characters_Codex/06_Spellcasting/Darued_the_sorcerer_Adrian_Arduini_Adventures.md)
 
 ## What Is a Spell?
 

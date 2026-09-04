@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Hagil_Thorinsond_free5e_-_Adrian_Arduini_Adventures_2.png]
+image::assets/images/Characters_Codex/04_Adventuring/Hagil_Thorinsond_free5e_-_Adrian_Arduini_Adventures_2.png["masculine dwarf bartender smiling and cleaning a stein. Bottles in background. Brick circular frame.", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
+// end::image[]

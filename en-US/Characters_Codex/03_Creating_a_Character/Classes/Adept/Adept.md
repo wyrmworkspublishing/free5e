@@ -1,4 +1,5 @@
 ### Adept
+<!-- spell-checker:words PaolaHikari -->
 
 Adepts are masters of martial arts who use superior focus to unlock hidden potential within themselves, achieving feats that others consider impossible.
 
@@ -92,6 +93,8 @@ Whatever name you use for an Adept weapon, you can use the game statistics provi
 Your training allows you to harness the mystic energy of focus points.
 Your access to this energy is represented by a number of focus points.
 Your Adept level determines the number of points you have, as shown in the Focus Points column of the [Adept table](#Adept_the_adept_table).
+
+[PaolaHikari_Adept.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Adept.md)
 
 You can spend these points to fuel various focus features.
 You start knowing three such features: _Flurry of Blows_, _Patient Defense_, and _Step of the Wind_.

@@ -10,3 +10,5 @@ dictionaryDefinitions:
     addWords: true
 dictionaries:
   - free5e
+ignorePaths:
+  - '**/assets/images/**'

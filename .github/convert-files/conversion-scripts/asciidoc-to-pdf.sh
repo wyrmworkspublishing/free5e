@@ -17,6 +17,7 @@ function convert_asciidoc_to_pdf {
       -a pdf-fontsdir="GEM_FONTS_DIR;${FONTS_BASE_DIR}" \
       -a pdf-themesdir="${THEMES_DIR}" \
       -a pdf-theme=pdf \
+      -r "$(dirname $0)/extended-pdf-converter.rb" \
       "${ADOC_MAIN_FILE}" \
       -o "${PDF_TARGET_FILE}"
 }
@@ -30,7 +31,8 @@ mkdir -p "${PDF_TARGET_DIR}"
 
 # Create a symbolic link to the assets directory, so that we can include all assets in future generated files
 ASSETS_DIR="$(pwd)/assets"
-ln -s "${ASSETS_DIR}" "${ADOC_SOURCE_DIR}" || echo "assets link already exists"
+cp -r "${ASSETS_DIR}/fonts" "${ADOC_SOURCE_DIR}/assets/fonts" || echo "fonts dir already exists"
+cp -RL "${ASSETS_DIR}/images" "${ADOC_SOURCE_DIR}/assets/"
 FONTS_BASE_DIR="${ADOC_SOURCE_DIR}/assets/fonts"
 
 THEMES_DIR="$(pwd)/${INPUT_BOOK_DIRECTORY}/themes"

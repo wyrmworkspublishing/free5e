@@ -1,4 +1,5 @@
 ### Ranger
+<!-- spell-checker:words Roselysium -->
 
 Rangers navigate both the wilds and society’s fringes, striking with precision and a deep understanding of their environment.
 
@@ -89,6 +90,8 @@ Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mo
 When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you’re proficient in.
 
 While traveling for an hour or more in your favored terrain, you gain the following benefits:
+
+[Roselysium_Ranger](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Ranger_Screentone.md)
 
 - Difficult terrain doesn’t slow your group’s travel.
 - Your group can’t become lost except by magical means.

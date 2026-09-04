@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Dominate_Monster1.png]
+image::assets/images/Characters_Codex/06_Spellcasting/Dominate_Monster1.png["dizzy death dog laying down"]
+// end::image[]

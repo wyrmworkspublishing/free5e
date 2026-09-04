@@ -1,0 +1,1 @@
+![elderly woman wearing a diklo, holding up a card from table in foreground. Table has spread cards, candle, and crystal ball](../../../../../../assets/images/Characters_Codex/06_Spellcasting/Madam_Zulya_-_Adrian_Arduini_Adventures_2.png)

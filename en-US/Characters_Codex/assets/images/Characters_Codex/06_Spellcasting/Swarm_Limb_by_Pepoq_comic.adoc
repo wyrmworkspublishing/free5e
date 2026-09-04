@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Swarm_Limb_by_Pepoq-comic.png]
+image::assets/images/Characters_Codex/06_Spellcasting/Swarm_Limb_by_Pepoq-comic.png["leg made of mice"]
+// end::image[]

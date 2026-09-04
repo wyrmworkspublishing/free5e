@@ -1,0 +1,1 @@
+![a woman looking warily behind her back. She wears many weapons and holds a knife in one hand and a ripped wanted poster with her face on it on the other.](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Rogue.jpeg)

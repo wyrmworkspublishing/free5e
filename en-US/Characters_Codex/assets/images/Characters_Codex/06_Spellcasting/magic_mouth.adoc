@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-magic-mouth.png]
+image::assets/images/Characters_Codex/06_Spellcasting/magic-mouth.png["brick wall with mouth"]
+// end::image[]

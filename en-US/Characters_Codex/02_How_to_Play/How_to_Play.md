@@ -157,3 +157,5 @@ The battle continues, with the party using teamwork and clever spells to face do
 In every game, describe your actions, roll dice to succeed, and react to the unfolding story.
 The rules guide you, but the fun comes from your shared stories.
 Let your imagination soar!
+
+[GroupTable_venom-for-free.png](../assets/images/Characters_Codex/02_How_to_Play/GroupTable_venom_for_free.md)

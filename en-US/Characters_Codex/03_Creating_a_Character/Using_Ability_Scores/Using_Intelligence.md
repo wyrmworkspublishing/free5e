@@ -1,4 +1,5 @@
 #### Intelligence
+<!-- spell-checker:words Arduini -->
 
 Intelligence measures mental acuity, accuracy of recall, and the ability to reason.
 
@@ -9,6 +10,8 @@ The _Arcana_, _History_, _Investigation_, _Nature_, and _Religion_ skills reflec
 
 **Arcana.**
 Your Intelligence (_Arcana_) check measures your ability to recall lore about spells, magic items, eldritch symbols, magical traditions, the [planes of existence](#Planes_of_Existence_planes_of_existence), and the inhabitants of those planes.
+
+[Wizard___Adrian_Arduini_Adventures](../../assets/images/Characters_Codex/03_Creating_a_Character/Wizard_Adrian_Arduini_Adventures.md)
 
 **History.**
 Your Intelligence (_History_) check measures your ability to recall lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost cultures.

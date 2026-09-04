@@ -65,6 +65,8 @@ Minor missing information—color, markings, posture—may cause imperfect repli
 
 The presence or absence of light in an environment creates three categories of illumination: bright light, dim light, and darkness.
 
+[mountains_4065523](../assets/images/Characters_Codex/04_Adventuring/mountains_4065523.md)
+
 **Bright light** lets most creatures see normally.
 Even gloomy days provide bright light, as do torches, lanterns, fires, and other sources of illumination within a specific radius.
 

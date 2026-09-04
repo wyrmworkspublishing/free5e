@@ -14,7 +14,7 @@ with open (adoc_file, 'r') as adoc:
         print(line, end='')
     else:
       if not title_printed:
-        matchTitle = re.search('^[*](.*)[*] \+', line)
+        matchTitle = re.search('^[*](.*)[*] \\+', line)
         if matchTitle:
           print('.' + matchTitle.group(1))
           print('****')

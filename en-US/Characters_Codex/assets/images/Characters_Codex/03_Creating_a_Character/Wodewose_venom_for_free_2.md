@@ -1,0 +1,1 @@
+![an elderly Halfling woman. She is holding a wood grown wand and has her right foot elevated on a stone in a pose of readiness.](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Wodewose_venom-for-free_2.png)

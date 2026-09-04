@@ -1,5 +1,7 @@
 ## Cultures
 
+[person_with_donkey](../../assets/images/Characters_Codex/03_Creating_a_Character/person_with_donkey_2028403_2.md)
+
 Your culture describes how and where you were raised.
 Choose a culture for your character.
 While some cultures are closely associated with a specific ancestry, depending on your character’s past, you may choose any culture for them.

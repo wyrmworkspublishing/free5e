@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-DnD_Elven_2.png]
+image::assets/images/Characters_Codex/03_Creating_a_Character/DnD_Elven_2.png["feminine elf wearing scale mail looking back toward the viewer over her shoulder", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
+// end::image[]
