@@ -31,6 +31,7 @@ function convert_asciidoc_to_epub {
       -a outlinelevels=4 \
       -a series-name="Free5e" \
       -a imagesdir="assets/images" \
+      -a front-cover-image="image:${FRONT_IMAGE_FILE}[Front Cover,1127,1595]"
       "${ADOC_MAIN_FILE}" \
       -o "${EPUB_TARGET_FILE}"
 
@@ -46,6 +47,7 @@ function convert_asciidoc_to_epub {
 
 ARTIFACTS_TARGET_DIRECTORY="${INPUT_ARTIFACTS_TARGET_DIR:-artifacts}"
 GENERATED_FILES_TARGET_DIRECTORY="${INPUT_GENERATED_FILES_TARGET_DIRECTORY:-generated}"
+FRONT_IMAGE_FILE="${INPUT_FRONT_IMAGE_FILE}"
 
 ADOC_ORIGINAL_DIR="$(pwd)/${ARTIFACTS_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/adoc"
 ADOC_SOURCE_DIR="$(pwd)/${ARTIFACTS_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/adoc-png"
