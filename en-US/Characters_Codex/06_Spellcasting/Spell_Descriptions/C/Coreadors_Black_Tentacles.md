@@ -25,6 +25,8 @@
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _4th-level conjuration_
 
+[tentacles_6137610](../../../assets/images/Characters_Codex/06_Spellcasting/tentacles_6137610.md)
+
 **Casting Time:** 1 action \
 **Range:** 90 feet \
 **Components:** V, S, M (a piece of tentacle from a giant octopus or a giant squid) \

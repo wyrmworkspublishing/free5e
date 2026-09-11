@@ -28,6 +28,8 @@ _6th-level necromancy_
 You reanimate up to three corpses of Medium or Small humanoids as undead and transform them into <span class="monster monster-Ghouls_ghouls">ghouls</span> under your control.
 This spell cannot be cast in sunlight.
 
+[Summon_Undead](../../../assets/images/Characters_Codex/06_Spellcasting/Summon_Undead.md)
+
 While within 120 feet you can use a bonus action to mentally command the undead.
 When you command multiple undead using this spell, you must give them all the same command.
 You may decide the action the undead take and where they move during their next turn, or you can issue a general command, such as guarding an area.

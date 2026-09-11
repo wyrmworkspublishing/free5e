@@ -2,5 +2,5 @@
 
 // tag::image[]
 [#img-Swarm_Limb_by_Pepoq-comic.png]
-image::assets/images/Characters_Codex/06_Spellcasting/Swarm_Limb_by_Pepoq-comic.png["leg made of mice"]
+image::assets/images/Characters_Codex/06_Spellcasting/Swarm_Limb_by_Pepoq-comic.png["leg made of mice", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
 // end::image[]

@@ -2,5 +2,5 @@
 
 // tag::image[]
 [#img-tentacles-6137610.png]
-image::assets/images/Characters_Codex/06_Spellcasting/tentacles-6137610.png["3 black suckered tentacles"]
+image::assets/images/Characters_Codex/06_Spellcasting/tentacles-6137610.png["3 black suckered tentacles", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
 // end::image[]

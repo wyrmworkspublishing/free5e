@@ -2,5 +2,5 @@
 
 // tag::image[]
 [#img-decagramme-1601157.png]
-image::assets/images/Characters_Codex/06_Spellcasting/decagramme-1601157.png["concentric decagrams"]
+image::assets/images/Characters_Codex/06_Spellcasting/decagramme-1601157.png["concentric decagrams", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
 // end::image[]

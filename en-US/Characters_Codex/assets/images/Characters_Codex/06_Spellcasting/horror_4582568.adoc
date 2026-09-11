@@ -2,5 +2,5 @@
 
 // tag::image[]
 [#img-horror-4582568.png]
-image::assets/images/Characters_Codex/06_Spellcasting/horror-4582568.png["shambling zombie with big eyes"]
+image::assets/images/Characters_Codex/06_Spellcasting/horror-4582568.png["shambling zombie with big eyes", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
 // end::image[]

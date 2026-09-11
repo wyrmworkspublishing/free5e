@@ -2,5 +2,5 @@
 
 // tag::image[]
 [#img-Roselysium_ArcaneSword_Greyscale_2.png]
-image::assets/images/Characters_Codex/06_Spellcasting/Roselysium_ArcaneSword_Greyscale_2.png["Depiction of the Spell "Arcane Sword". - A glowing sword is hovering over an outstretched hand."]
+image::assets/images/Characters_Codex/06_Spellcasting/Roselysium_ArcaneSword_Greyscale_2.png["Depiction of the Spell "Arcane Sword". - A glowing sword is hovering over an outstretched hand.", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
 // end::image[]

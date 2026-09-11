@@ -1,5 +1,7 @@
 ## Roleplay
 
+[Hagil_Thorinsond_free5e_Adrian_Arduini_Adventures](../assets/images/Characters_Codex/04_Adventuring/Hagil_Thorinsond_free5e_Adrian_Arduini_Adventures_2.md)
+
 Roleplay, the core of collaborative storytelling, allows players to embody characters, interact with the world, and influence its course through dialogue, decisions, and relationships.
 It enhances the narrative beyond combat and exploration by expressing characters’ personalities, motivations, and quirks.
 
