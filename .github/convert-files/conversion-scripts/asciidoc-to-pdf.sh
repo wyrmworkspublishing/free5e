@@ -28,10 +28,14 @@ ADOC_SOURCE_DIR="$(pwd)/${ARTIFACTS_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/ad
 PDF_TARGET_DIR="$(pwd)/${GENERATED_FILES_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/pdf"
 mkdir -p "${PDF_TARGET_DIR}"
 
-# Create a symbolic link to the assets directory, so that we can include all assets in future generated files
+# Copy the assets directory, so that we can include all assets in future generated files
 ASSETS_DIR="$(pwd)/assets"
-ln -s "${ASSETS_DIR}" "${ADOC_SOURCE_DIR}" || echo "assets link already exists"
 FONTS_BASE_DIR="${ADOC_SOURCE_DIR}/assets/fonts"
+mkdir -p "${FONTS_BASE_DIR}"
+cp -r "${ASSETS_DIR}/fonts" "${ADOC_SOURCE_DIR}/assets/" || echo "No fonts directory found, skipping copy."
+cp -RL "${ASSETS_DIR}/images" "${ADOC_SOURCE_DIR}/assets/" || echo "No images directory found, skipping copy."
+echo "The assets directory ${ADOC_SOURCE_DIR}/assets now contains the following objects:"
+tree "${ADOC_SOURCE_DIR}/assets"
 
 THEMES_DIR="$(pwd)/${INPUT_BOOK_DIRECTORY}/themes"
 
