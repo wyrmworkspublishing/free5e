@@ -115,12 +115,21 @@ include::attributes.adoc[]\
   done
 
   popd
+
+  # Copy over image assets
+  mkdir -p "${ADOC_TARGET_DIR}/assets/images/"
+  echo "Copying \"${IMAGE_ASSET_DIR}/*\" to \"${ADOC_TARGET_DIR}/assets/images/${INPUT_BOOK_MAIN_FILE}/\"..."
+  mkdir -p "${GENERATED_FILES_TARGET_DIRECTORY}/assets/images/${INPUT_BOOK_MAIN_FILE}/"
+  cp -RL "${IMAGE_ASSET_DIR}/" "${GENERATED_FILES_TARGET_DIRECTORY}/assets/images/${INPUT_BOOK_MAIN_FILE}/"
 }
 
 echo "Converting all Markdown files in $(pwd) to AsciiDoc. The settings are: language=${INPUT_LANGUAGE}, book_directory=${INPUT_BOOK_DIRECTORY}, book_main_markdown_file=${INPUT_BOOK_MAIN_FILE}"
 
+BASE_DIR="$(pwd)"
 GENERATED_FILES_TARGET_DIRECTORY="${INPUT_GENERATED_FILES_TARGET_DIRECTORY:-generated}"
-ADOC_TARGET_DIR="$(pwd)/${GENERATED_FILES_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/adoc"
+ADOC_TARGET_DIR="${BASE_DIR}/${GENERATED_FILES_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/adoc"
+ASSETS_DIR="${BASE_DIR}/assets"
+IMAGE_ASSET_DIR="${ASSETS_DIR}/images/${INPUT_BOOK_MAIN_FILE}"
 mkdir -p "${ADOC_TARGET_DIR}"
 echo "About to generate files to ${ADOC_TARGET_DIR}..."
 
