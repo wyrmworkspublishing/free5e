@@ -1,9 +1,12 @@
 ### Mixed Ancestry
+<!-- spell-checker:words Roselysium -->
 
 #### Mixed Traits
 
 Your parents descend from different ancestries from each other, and you have inherited a blend of traits from them.
-\
+
+[Roselysium_MixedAncestry](../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_MixedAncestry_Greyscale.md)
+
 **Age.**
 You age and mature at roughly the average rate of your parents.
 \

@@ -1,0 +1,1 @@
+![bearded man in cape holding staff in his right hand and fire in his left hand](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Sorcerer_-_Adrian_Arduini_Adventures_2.png)

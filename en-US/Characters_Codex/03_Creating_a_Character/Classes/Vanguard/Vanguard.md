@@ -115,6 +115,8 @@ You can’t take a Fighting Style option more than once, even if you later get t
 
 [**Defense**](../_Fighting_Styles/Defense.md)
 
+[Vanguard_venom_for_free_2.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Vanguard_venom_for_free_2.md)
+
 ###### Dueling
 
 [**Dueling**](../_Fighting_Styles/Dueling.md)

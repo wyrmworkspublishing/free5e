@@ -1,5 +1,6 @@
 #### Katy's Spectral Sword
 <!-- previously "Arcane Sword" -->
+<!-- spell-checker:words Roselysium -->
 <!-- markdownlint-disable link-image-reference-definitions -->
 [_metadata_:spell_name]:- "Katy's Spectral Sword"
 [_metadata_:spell_original_name]:- "Arcane Sword"
@@ -24,6 +25,8 @@
 [_metadata_:spell_original_name]:- "Arcane Sword"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _7th-level evocation_
+
+[Roselysium_ArcaneSword](../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_ArcaneSword_Greyscale_2.md)
 
 **Casting Time:** 1 action \
 **Range:** 60 feet \

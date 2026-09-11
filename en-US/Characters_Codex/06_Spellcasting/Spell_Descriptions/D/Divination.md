@@ -1,4 +1,5 @@
 #### Divination
+<!-- spell-checker:words Zulya Arduini -->
 <!-- markdownlint-disable link-image-reference-definitions -->
 [_metadata_:spell_name]:- "Divination"
 [_metadata_:spell_level]:- "4"
@@ -23,6 +24,8 @@ _4th-level divination_
 **Range:** Self \
 **Components:** V, S, M (incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp, which the spell consumes) \
 **Duration:** Instantaneous
+
+[Madam_Zulya_Adrian_Arduini_Adventures](../../../assets/images/Characters_Codex/06_Spellcasting/Madam_Zulya_Adrian_Arduini_Adventures_2.md)
 
 You ask your higher powers a single question about something that will (or could) happen in the next 7 days.
 The Conductor offers a truthful reply, which may be cryptic or even nonverbal as appropriate to the being in question.

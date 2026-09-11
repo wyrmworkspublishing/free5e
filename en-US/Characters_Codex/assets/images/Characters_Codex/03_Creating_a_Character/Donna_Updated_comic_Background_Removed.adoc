@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Donna-Updated-comic_Background_Removed.png]
+image::assets/images/Characters_Codex/03_Creating_a_Character/Donna-Updated-comic_Background_Removed.png["A femme-presenting dwarf in a wheelchair with a big double-bladed axe"]
+// end::image[]

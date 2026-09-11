@@ -22,6 +22,8 @@ While traveling, a group of adventurers can move at a normal, fast, or slow pace
 The table states how far the party can move in a period of time and whether the pace has any effect.
 A fast pace makes characters less perceptive, while a slow pace makes it possible to sneak around and to search an area more carefully.
 
+[animal_1299530](../assets/images/Characters_Codex/04_Adventuring/animal_1299530.md)
+
 **Forced March.**
 The Travel Pace table assumes that characters travel for 8 hours per day.
 They can push on beyond that limit, at the risk of exhaustion.

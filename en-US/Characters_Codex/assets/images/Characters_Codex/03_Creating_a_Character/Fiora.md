@@ -1,0 +1,1 @@
+![gnome with braided hair, rugged half shirt & loincloth, tribal tattoos, dagger on belt, bracelet, glowing daisy ring](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Fiora.png)

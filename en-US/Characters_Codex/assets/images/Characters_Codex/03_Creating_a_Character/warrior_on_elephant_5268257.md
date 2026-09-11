@@ -1,0 +1,1 @@
+![person riding an elephant holding a 2-pronged spear and curved sword](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/warrior_on_elephant-5268257.png)

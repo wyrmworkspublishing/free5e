@@ -1,0 +1,1 @@
+![Depiction of the Spell "Chill Touch". A disembodied ghostly hand reaches for the viewer with clawed fingers.](../../../../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_ChillTouch_Greyscale.png)

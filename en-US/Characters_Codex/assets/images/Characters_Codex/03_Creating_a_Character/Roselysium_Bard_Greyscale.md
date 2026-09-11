@@ -1,0 +1,1 @@
+![a young bard playing the panflute. Magical music notes swirl around them.](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Bard_Greyscale.png)

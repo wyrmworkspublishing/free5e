@@ -1,0 +1,1 @@
+![an androgynous, nonbinary Tiefling with shoulder-length flowing hair. The curved, ridged horns atop their head almost meet at the tips. They are wearing a somewhat regal outfit denoting their potentially noble background.](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Tiefling_Greyscale.png)

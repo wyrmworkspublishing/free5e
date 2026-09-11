@@ -20,6 +20,8 @@
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _8th-level enchantment_
 
+[Dominate_Monster1](../../../assets/images/Characters_Codex/06_Spellcasting/Dominate_Monster1.md)
+
 **Casting Time:** 1 action \
 **Range:** 60 feet \
 **Components:** V, S \

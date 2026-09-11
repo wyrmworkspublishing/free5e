@@ -11,6 +11,11 @@ function convert_markdown_to_asciidoc {
   echo "Converting Markdown files from $(pwd) to AsciiDoc..."
 
   for md in $(find . -name '*.md'); do
+    if [[ $md == *"/assets/images/"* ]]; then
+      echo "Skipping image file ${md}..."
+      continue
+    fi
+
     md_filepath="$(dirname -- $md)"
     md_filename="${md##*/}"
     adoc_filepath="${ADOC_TARGET_DIR}/${md_filepath}"
@@ -21,6 +26,7 @@ function convert_markdown_to_asciidoc {
     echo "Converting ${md} to ${adoc_filepath}/${adoc_filename}..."
     kramdoc \
       -a icons=font \
+      -a imagesdir="${BASE_DIR}" \
       -a partnums \
       -a reproducible \
       -a revdate="$(LANG="${INPUT_LANGUAGE}" git log -1 --pretty="format:%cd" --date=format:"${INPUT_DATE_FORMAT}" .)" \
@@ -107,6 +113,9 @@ include::attributes.adoc[]\
       sed -i'.images.bak' -e 's/image:[\.\/]*assets/image:assets/g' $adoc
       sed -i'.images.bak' -e 's/image::[\.\/]*assets/image::assets/g' $adoc
     fi
+    if grep -q 'include::' "$adoc"; then
+      sed -i'.images.bak' -e 's/include::\([.\/]*assets\/images\/[a-zA-Z_0-9\/.-]*\)\[\]/include::\1[tag=image]/g' $adoc
+    fi
   done
 
   # If everything worked, remove the temporary backup files
@@ -115,12 +124,30 @@ include::attributes.adoc[]\
   done
 
   popd
+
+  # Copy over image assets
+  mkdir -p "${ADOC_TARGET_DIR}/assets/images/"
+  cp -r "assets/images" "${ADOC_TARGET_DIR}/assets"
+  echo "Copying \"${IMAGE_ASSET_DIR}/*\" to \"${ADOC_TARGET_DIR}/assets/images/${INPUT_BOOK_MAIN_FILE}/\"..."
+  mkdir -p "${GENERATED_FILES_TARGET_DIRECTORY}/assets/images/${INPUT_BOOK_MAIN_FILE}/"
+  cp -RL "${IMAGE_ASSET_DIR}/" "${GENERATED_FILES_TARGET_DIRECTORY}/assets/images/${INPUT_BOOK_MAIN_FILE}/"
+  # Delete the Markdown files that were created for the images, since we don't need them in the AsciiDoc version
+  for imageMd in $(find "${ADOC_TARGET_DIR}/assets/images/${INPUT_BOOK_MAIN_FILE}/" -name '*.md'); do
+    rm $imageMd
+  done
+  # Update the images dir in the AsciiDoc files for the images to point to the correct location
+  for imageAdoc in $(find "${ADOC_TARGET_DIR}/assets/images/${INPUT_BOOK_MAIN_FILE}/" -name '*.adoc'); do
+    sed -i'.images.bak' -e 's/^:imagesdir: [\.\/]*$/:imagesdir: ..\/..\/..\/..\/..\/..\/..\/../' $imageAdoc
+  done
 }
 
 echo "Converting all Markdown files in $(pwd) to AsciiDoc. The settings are: language=${INPUT_LANGUAGE}, book_directory=${INPUT_BOOK_DIRECTORY}, book_main_markdown_file=${INPUT_BOOK_MAIN_FILE}"
 
+BASE_DIR="$(pwd)"
 GENERATED_FILES_TARGET_DIRECTORY="${INPUT_GENERATED_FILES_TARGET_DIRECTORY:-generated}"
-ADOC_TARGET_DIR="$(pwd)/${GENERATED_FILES_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/adoc"
+ADOC_TARGET_DIR="${BASE_DIR}/${GENERATED_FILES_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/adoc"
+ASSETS_DIR="${BASE_DIR}/assets"
+IMAGE_ASSET_DIR="${ASSETS_DIR}/images/${INPUT_BOOK_MAIN_FILE}"
 mkdir -p "${ADOC_TARGET_DIR}"
 echo "About to generate files to ${ADOC_TARGET_DIR}..."
 

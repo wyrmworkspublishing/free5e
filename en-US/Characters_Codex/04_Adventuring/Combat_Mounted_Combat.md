@@ -6,6 +6,8 @@ A willing creature that is at least one size larger than you and that has an app
 
 #### Mounting and Dismounting
 
+[knight_6204325](../assets/images/Characters_Codex/04_Adventuring/knight_6204325.md)
+
 Mounting or dismounting a creature within 5 feet costs half your speed in movement.
 For instance, at 30 feet speed, you must spend 15 feet of movement to mount a horse.
 You can’t mount if you lack movement or have 0 speed.

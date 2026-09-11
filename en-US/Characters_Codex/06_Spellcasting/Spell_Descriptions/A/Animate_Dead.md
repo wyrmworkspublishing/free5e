@@ -26,6 +26,8 @@ _3rd-level necromancy_
 
 You animate a mortal’s remains of a Medium or Small creature to become your undead servant.
 
+[horror_4582568](../../../assets/images/Characters_Codex/06_Spellcasting/horror_4582568.md)
+
 If the spell is cast upon bones you create a skeleton, and if cast upon a corpse you can choose to create a skeleton or a zombie.
 The Conductor has the undead’s statistics.
 

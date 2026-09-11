@@ -1,8 +1,11 @@
 #### Strength
+<!-- spell-checker:words PaolaHikari -->
 
 Strength measures bodily power, athletic training, and the extent to which you can exert raw physical force.
 
 ##### Strength Checks
+
+[PaolaHikari_Strength](../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Strength.md)
 
 A Strength check can model any attempt to lift, push, pull, or break something, to force your body through a space, or to otherwise apply brute force to a situation.
 The _Athletics_ skill reflects aptitude in certain kinds of Strength checks.

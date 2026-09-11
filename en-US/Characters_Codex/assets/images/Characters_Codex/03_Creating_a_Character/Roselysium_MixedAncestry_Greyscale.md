@@ -1,0 +1,1 @@
+![A jolly, short man with horns and scales leans against a small keg, which he is barely taller than. He is of both Dragonborn and Halfling heritage.](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_MixedAncestry_Greyscale.png)

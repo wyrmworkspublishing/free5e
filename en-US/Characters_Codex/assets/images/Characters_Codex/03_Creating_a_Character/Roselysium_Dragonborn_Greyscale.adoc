@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-Roselysium_Dragonborn_Greyscale.png]
+image::assets/images/Characters_Codex/03_Creating_a_Character/Roselysium_Dragonborn_Greyscale.png["an androgynous dragonborn with soft features and their coiled hair in a ponytail.", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
+// end::image[]

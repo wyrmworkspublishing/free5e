@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-PaolaHikari_Adept.png]
+image::assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Adept.png["a young male elf dressed in simple clothing standing on one leg, in a meditative pose, with his eyes closed", pdfwidth=50%, scalewidth=50%, float=right, align=text-right, role="half-width related"]
+// end::image[]

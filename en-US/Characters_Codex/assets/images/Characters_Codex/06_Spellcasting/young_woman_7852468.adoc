@@ -1,0 +1,6 @@
+:imagesdir: ../../../../../..
+
+// tag::image[]
+[#img-young-woman-7852468.png]
+image::assets/images/Characters_Codex/06_Spellcasting/young-woman-7852468.png["floating woman being struck by lightning", pdfwidth=33%, scalewidth=33%, float=right, align=text-right, role="third-width related"]
+// end::image[]

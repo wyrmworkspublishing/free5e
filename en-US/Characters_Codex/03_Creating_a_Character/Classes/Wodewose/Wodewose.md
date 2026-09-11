@@ -110,6 +110,8 @@ You prepare the list of Wodewose spells that are available for you to cast, choo
 When you do so, choose a number of Wodewose spells equal to `your Wisdom modifier + your Wodewose level` (minimum of one spell).
 The spells must be of a level for which you have spell slots.
 
+[Wodewose_venom_for_free_2.png](../../../assets/images/Characters_Codex/03_Creating_a_Character/Wodewose_venom_for_free_2.md)
+
 For example, if you are a 3rd-level Wodewose, you have four 1st-level and two 2nd-level spell slots.
 With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination.
 If you prepare the 1st-level spell _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_, you can cast it using a 1st-level or 2nd-level slot.

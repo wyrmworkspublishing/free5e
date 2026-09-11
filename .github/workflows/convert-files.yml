@@ -19,6 +19,10 @@ on:
         description: The name of the main markdown file in the book_directory, excluding the file suffix.
         type: string
         required: true
+      front_image_file:
+        description: The path to the front cover image file, relative to the main book file.
+        type: string
+        required: false
       generated_files_target_directory:
         description: The directory, where the generated files are stored. "generated" by default.
         type: string
@@ -149,6 +153,7 @@ jobs:
           date_format: ${{ inputs.date_format }}
           book_directory: ${{ inputs.book_directory }}
           book_main_file: ${{ inputs.book_main_file }}
+          front_image_file: ${{ inputs.front_image_file }}
           generated_files_target_directory: 'generated'
           artifacts_target_directory: 'artifacts'
           conversion: 'asciidoc-to-epub'

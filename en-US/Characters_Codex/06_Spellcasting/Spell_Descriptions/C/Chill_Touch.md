@@ -1,4 +1,5 @@
 #### Chill Touch
+<!-- spell-checker:words Roselysium -->
 <!-- markdownlint-disable link-image-reference-definitions -->
 [_metadata_:spell_name]:- "Chill Touch"
 [_metadata_:spell_level]:- "0"
@@ -19,6 +20,8 @@
 [_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
 <!-- markdownlint-disable-next-line no-emphasis-as-heading -->
 _Necromancy cantrip_
+
+[Roselysium_ChillTouch](../../../assets/images/Characters_Codex/06_Spellcasting/Roselysium_ChillTouch_Greyscale.md)
 
 **Casting Time:** 1 action \
 **Range:** 120 feet \

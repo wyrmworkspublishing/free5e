@@ -1,10 +1,14 @@
 ### Orc
+<!-- spell-checker:words PaolaHikari -->
+
+[PaolaHikari_Orc](../../../assets/images/Characters_Codex/03_Creating_a_Character/PaolaHikari_Orc.md)
 
 Orcs are tall and powerfully built, with greenish, gray, or brown skin, and prominent tusks.
 While often misunderstood, orcs are deeply loyal and value strength, community, and perseverance.
 Their cultures are as varied as their environments, ranging from nomadic hunters to urban warriors.
 
 #### Orc Traits
+
 Characters with orc ancestry share the following traits:
 \
 **Age.**

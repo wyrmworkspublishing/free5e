@@ -1,0 +1,1 @@
+![masculine dwarf holding an axe over his shoulder](../../../../../../assets/images/Characters_Codex/03_Creating_a_Character/DnD_Dwarf_2.png)
