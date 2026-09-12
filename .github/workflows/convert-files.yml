@@ -94,6 +94,25 @@ jobs:
           path: ${{ github.workspace }}/generated/
       - run: echo "🐉 This job's status is ${{ job.status }}."
 
+  validate-asciidoc:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} Validate AsciiDoc
+    runs-on: ubuntu-latest
+    needs: convert-markdown-to-asciidoc
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: 'artifacts'
+      - run: ls && ls artifacts
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Validate the AsciiDoc files
+        run: asciidoctor -v --failure-level=WARNING "${{ inputs.generated_files_target_directory }}/${{ inputs.language }}/${{ inputs.book_main_file }}.adoc"
+      - run: echo "📄 AsciiDoc documents have been validated"
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
   convert-asciidoc-to-docbook:
     name: ${{ inputs.language }}/${{ inputs.book_main_file }} AsciiDoc -> DocBook
     runs-on: ubuntu-latest
