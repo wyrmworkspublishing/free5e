@@ -16,6 +16,10 @@ inputs:
   book_main_file:
     description: The name of the main markdown file in the book_directory, excluding the file suffix.
     required: true
+  front_image_file:
+    description: The path to the front cover image file, relative to the main book file.
+    type: string
+    required: false
   generated_files_target_directory:
     description: The directory, where the generated files are stored. "generated" by default.
     required: false
