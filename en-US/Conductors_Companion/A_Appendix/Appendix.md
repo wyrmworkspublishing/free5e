@@ -6,4 +6,4 @@
 
 [Appendix C: Sample Adventures](./A4_Sample_Adventure/Sample_Adventure.md)
 
-[Appendix D: Solo 5e](./A5_Solo_Free5e/Solo_Free5e.md)
+[Appendix D: Solo Free5e](./A5_Solo_Free5e/Solo_Free5e.md)
