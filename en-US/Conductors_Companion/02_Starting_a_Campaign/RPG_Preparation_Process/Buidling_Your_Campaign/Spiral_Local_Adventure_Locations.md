@@ -2,7 +2,7 @@
 
 As the campaign spirals outward, the characters will become aware of local adventuring locations.
 Drop three such adventure locations into the areas close by the starting location.
-And if you need help filling out an adventure location, you can find many ideas in the adventure idea generators in [Appendix B](#Adventure_Ideas_Generators_adventure_ideas_generators).
+<!--And if you need help filling out an adventure location, you can find many ideas in the adventure idea generators in [Appendix B](#Adventure_Ideas_Generators_adventure_ideas_generators).-->
 
 | 1d20 | Adventure Locations |
 |:----:|:--------------------|

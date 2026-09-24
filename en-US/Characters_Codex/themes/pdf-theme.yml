@@ -28,22 +28,29 @@ base:
 page:
   size: Letter
 title-page:
+  background-image: image:../../../assets/images/Characters_Codex/00_Cover/Free5e_Playerbook.png[pdfwidth=100vw,fit=cover]
+  font-color: #b77a2b
+  font-family: AtkinsonHyperlegibleNext
   logo:
     align: left
     image: image:../../../assets/images/Free5e-Logo-Gold-Ring.png[pdfwidth=20%]
     top: 0%
   title:
     font-color: #b77a2b
-    font-family: Helvetica
     font-size: 32
     font-style: bold
-    top: 15%
+    top: 5%
+  subtitle:
+    font-color: #afafaf
+    font-size: 24
   authors:
     content:
       name_only: '{author}'
-    font-color: #29326a
-    font-family: Helvetica
+    font-color: #dedede
+    font-family: AtkinsonHyperlegibleNext
     font-size: 20
+  revision:
+    display: none
 heading:
   font-color: #b77a2b
 footer:
