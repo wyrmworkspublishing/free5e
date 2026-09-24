@@ -77,8 +77,12 @@ include::attributes.adoc[]\
   for appendix_parent in $(find . -maxdepth 2 -type d -name 'A_*'); do
     for appendix_dir in $(ls -d $appendix_parent/*); do
       if [ -d "$appendix_dir" ]; then
-        APPENDIX_FILE="$(ls $appendix_dir/*.adoc | head -n 1)"
-        sed -i'.appendix.bak' '1s/^/[appendix]\n/' "$APPENDIX_FILE"
+        if [ -n "$(find -maxdepth 1 -type f -name $appendix_dir/*.adoc -print -quit)" ];  then
+          APPENDIX_FILE="$(ls $appendix_dir/*.adoc | head -n 1)"
+          sed -i'.appendix.bak' '1s/^/[appendix]\n/' "$APPENDIX_FILE"
+        else
+          echo "No AsciiDoc files found in $appendix_dir, skipping..."
+        fi
       fi
     done
   done
