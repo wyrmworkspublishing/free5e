@@ -1,5 +1,6 @@
 # Información Legal
 
+<!-- markdownlint-disable MD024 -->
 <!-- notitle -->
 ## Información Legal
 
