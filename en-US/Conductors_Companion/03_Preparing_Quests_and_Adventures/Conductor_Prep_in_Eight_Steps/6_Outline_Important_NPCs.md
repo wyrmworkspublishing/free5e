@@ -226,6 +226,9 @@ Describe what characters notice, the NPC's routines, and the support that helps 
 | 87–92  | Developmental difference      | Learns or socializes outside cultural expectations             | Adaptability; resilience; unique problem-solving      | Time, explanation, patient teaching, consistent cues         |
 | 93–100 | Other physical difference     | Any other body difference not covered above                    | Practical ingenuity; customized solutions             | Case-by-case support; ask what helps                         |
 
+These are broad descriptive categories, not diagnoses.
+Individual experiences, terminology, adaptations, and support needs vary; use the specific terms an NPC would use for themself when relevant.
+
 ___
 
 ##### Step 4: Worldview
