@@ -1,4 +1,4 @@
-## Other Quick Tricks
+#### Other Quick Tricks
 The following tricks make excellent additions to every Conductor's toolbox:
 
 * Keep a list of random names on hand to use for NPCs, villains, and monsters.  
