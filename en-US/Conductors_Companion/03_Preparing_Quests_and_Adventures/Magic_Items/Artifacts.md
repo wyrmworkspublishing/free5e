@@ -6,7 +6,7 @@ Finding one can signal major changes.
 Artifacts are not ordinary items; they are plot points as much as equipment.
 Their search can be the goal of an entire adventure or long-term quest: to reclaim them from villains, traverse dangerous demiplanes, or prevent factions from war.
 
-### Recognizing Artifacts
+#### Recognizing Artifacts
 Artifacts can often be recognized without knowing everything about them due to their historical significance and numerous tales.
 Success on an ability check reveals information from its Legends and Lore, but not what a typical check to identify a magic item would reveal.
 
