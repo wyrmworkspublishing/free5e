@@ -299,7 +299,7 @@ Roll on the table that best fits the region.
 These tables reflect commonness, not value judgments.
 Use the nearest fit for mixed terrain: settled coasts use **Settled Lands**; untamed coasts use **Green Lands**; marshy ruins below ground use **Underlands**.
 
-Lycanthropy is a template, not an ancestry; add it only if it fits the NPC or campaign.
+**Lycanthropy** is a template, not an ancestry; add it only if it fits the NPC or campaign.
 **Oddity** includes artifacts, intelligent items, wizard's familiars, and similar exceptions.
 
 ###### Settled Lands
