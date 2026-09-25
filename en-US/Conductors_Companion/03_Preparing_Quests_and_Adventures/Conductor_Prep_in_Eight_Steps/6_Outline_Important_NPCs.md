@@ -437,3 +437,8 @@ They resist rushed demands, favor clear procedures, and respond best to orderly,
 **Artifact** and **intelligent item** may be carried, mounted, installed in a place of power, or otherwise treated as an NPC with motives and means of interaction.
 **Wizard's familiar** assumes unusual independence, intelligence, or social presence beyond a normal animal companion.
 Use **Other oddity suited to the setting** for rare exceptions that still fit the tone of the campaign.
+
+\* These are not player ancestries in the _Character's Codex_, but can be found as monsters in the _Monstrous Manuscript_. \
+\*\* See the _<span class="spell spell-Awaken_awaken">Awaken</class>_ spell. \
+\*\*\* This is a category of creatures, examples of which can be found in the _Monstrous Manuscript_. \
+\*\*\*\* Any suitable monster from the _Monstrous Manuscript_ with an Intelligence score of at least 3 and a language can make an interesting NPC. \
