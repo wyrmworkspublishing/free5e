@@ -350,15 +350,15 @@ Lycanthropy is a template, not an ancestry; add it only if it fits the NPC or ca
 | 49–56  | Orc |
 | 57–63  | Gnome |
 | 64–69  | Elf |
-| 70–75  | Kobold |
-| 76–81  | Goblin |
+| 70–75  | Kobold\* |
+| 76–81  | Goblin\* |
 | 82–86  | Mixed ancestry |
 | 87–90  | Halfling |
-| 91–93  | Giant |
-| 94–95  | Construct |
-| 96–97  | Lizardfolk |
+| 91–93  | Giant\* |
+| 94–95  | Construct\*\*\* |
+| 96–97  | Lizardfolk\* |
 | 98     | Tiefling |
-| 99     | Dragon |
+| 99     | Dragon\*\*\* |
 | 100    | Oddity |
 
 ###### Wetlands
