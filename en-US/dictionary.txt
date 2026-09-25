@@ -167,6 +167,7 @@ nonplayer
 nonsolid*
 nonvisual*
 Nortengaal*
+notitle
 nunchaku
 oathbound
 Oathbow*

@@ -59,6 +59,12 @@ include::attributes.adoc[]\
     sed -i'.include.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
   done
 
+  # Hide notitle chapters
+  echo "Hide notitle chapters..."
+  for adoc in $(find . -name '*.adoc'); do
+    sed -i'.notitle.bak' -e ':a' -e 'N' -e '$!ba' -e 's/\/\/ notitle\n/[%notitle]/g' $adoc
+  done
+
   # Mark the first chapter as the preface
   echo "Marking the first chapter as the preface..."
   for dir in $(find . -maxdepth 2 -type d -name '01_*'); do

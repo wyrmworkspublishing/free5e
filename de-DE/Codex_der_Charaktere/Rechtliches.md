@@ -1,5 +1,9 @@
 # Rechtliches
 
+<!-- markdownlint-disable MD024 -->
+<!--notitle-->
+## Rechtliches
+
 Dieses Werk enthält Material aus dem A5E System Reference Document ("A5ESRD") von EN Publishing, das unter [A5ESRD.com](https://A5ESRD.com) verfügbar ist.
 Das A5ESRD ist lizenziert gemäß der Creative Commons Namensnennung 4.0 International Lizenz, die unter [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de) verfügbar ist.
 

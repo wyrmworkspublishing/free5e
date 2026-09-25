@@ -1,5 +1,9 @@
 # Wie gespielt wird
 
+<!-- markdownlint-disable MD024 -->
+<!-- notitle -->
+## Wie gespielt wird
+
 Ein Pen-&-Paper-Rollenspiel (TTRPG) zu spielen bedeutet, sich eine Figur in einer Fantasiewelt vorzustellen und mit Würfeln zu bestimmen, was geschieht.  
 So funktioniert es:
 
