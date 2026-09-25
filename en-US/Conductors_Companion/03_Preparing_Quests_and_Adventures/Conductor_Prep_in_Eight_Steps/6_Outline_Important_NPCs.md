@@ -313,11 +313,11 @@ Lycanthropy is a template, not an ancestry; add it only if it fits the NPC or ca
 | 69–76  | Gnome |
 | 77–83  | Dragonborn |
 | 84–88  | Mixed ancestry |
-| 89–91  | Goblin |
-| 92–94  | Kobold |
+| 89–91  | Goblin\* |
+| 92–94  | Kobold\* |
 | 95–96  | Tiefling |
-| 97–98  | Awakened beast |
-| 99     | Construct |
+| 97–98  | Awakened beast\*\* |
+| 99     | Construct\*\*\* |
 | 100    | Oddity |
 
 ###### Green Lands
