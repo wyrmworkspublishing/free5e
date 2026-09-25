@@ -96,7 +96,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 
 ### Destroying an Artifact
 Legends are in the hands of adventurers, but they could destroy them—a necessary task.
-Destroying a powerful magical item is part of a campaign’s plot, and artifacts are indestructible otherwise.
+Destroying a powerful magical item can be part of a campaign’s plot, and artifacts are indestructible otherwise.
 Every artifact has a weakness, but finding and using it may be a quest in itself, as can stopping a villain from destroying it.
 
 While the Conductor decides how a particular artifact can be destroyed, here are some suggestions:
