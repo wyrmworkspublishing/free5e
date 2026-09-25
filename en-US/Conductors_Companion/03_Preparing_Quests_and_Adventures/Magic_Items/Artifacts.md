@@ -84,7 +84,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **8** | **Potion Thinner.** Potions within 10 ft. lose their magic. |
 | **9** | **Ink Eater.** Scrolls within 10 ft. are destroyed. |
 | **10** | **Vampiric Desire.** To use the artifact, you must first deal yourself or another creature at least `1d4` damage. |
-| **11–12** | **Soul-Burn.** Each time you use the artifact, take 1d6 fire damage per spell level or effect tier (ignores resistance/immunity). |
+| **11–12** | **Soul-Burn.** Each time you use the artifact, take `1d6` fire damage per spell level or effect tier (ignores resistance/immunity). |
 | **13** | **Psychic Scream.** When you attune, take 4d10 psychic damage. |
 | **14** | **Path of Filth.** A trail of slime or ash follows you; creatures gain advantage to track you. |
 | **15** | **Fickle Fate.** When you attune, an enemy of the Conductor’s choice gains a benefit. |
