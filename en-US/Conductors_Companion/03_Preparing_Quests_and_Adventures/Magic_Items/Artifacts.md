@@ -1,4 +1,4 @@
-## Artifacts
+### Artifacts
 In a world of flaming swords and cursed axes, some magical items surpass the capabilities of wizards or demons.
 These potent relics are legendary, leaving marks on history and spawning tales.
 Finding one can signal major changes.
