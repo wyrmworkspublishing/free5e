@@ -387,21 +387,21 @@ Lycanthropy is a template, not an ancestry; add it only if it fits the NPC or ca
 |  d100  | Ancestry |
 |:------:|:---------|
 | 01–26  | Dwarf |
-| 27–40  | Goblin |
+| 27–40  | Goblin\* |
 | 41–50  | Gnome |
-| 51–58  | Kobold |
+| 51–58  | Kobold\* |
 | 59–65  | Orc |
 | 66–71  | Human |
 | 72–76  | Tiefling |
-| 77–81  | Construct |
+| 77–81  | Construct\*\*\* |
 | 82–86  | Dragonborn |
 | 87–90  | Elf |
 | 91–93  | Mixed ancestry |
-| 94     | Ghost |
-| 95     | Fiend |
-| 96–97  | Dragon |
-| 98     | Intelligent monster |
-| 99     | Awakened beast |
+| 94     | Ghost\* |
+| 95     | Fiend\*\*\* |
+| 96–97  | Dragon\*\*\* |
+| 98     | Intelligent monster\*\*\*\* |
+| 99     | Awakened beast\*\* |
 | 100    | Oddity |
 
 ___
