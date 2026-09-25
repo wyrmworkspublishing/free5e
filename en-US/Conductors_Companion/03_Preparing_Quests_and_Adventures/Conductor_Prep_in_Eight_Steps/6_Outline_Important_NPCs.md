@@ -419,6 +419,7 @@ Vei serves as a court recordkeeper trusted to maintain continuity during transit
 They resist rushed demands, favor clear procedures, and respond best to orderly, well-reasoned requests grounded in precedent.
 
 ###### Oddities
+<!-- spell-checker:words Shapechanged -->
 
 |  d100  | Ancestry |
 |:------:|:---------|
