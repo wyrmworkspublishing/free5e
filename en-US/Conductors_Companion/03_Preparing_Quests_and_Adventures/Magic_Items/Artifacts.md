@@ -88,7 +88,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **13** | **Psychic Scream.** When you attune, take `4d10` psychic damage. |
 | **14** | **Path of Filth.** A trail of slime or ash follows you; creatures gain advantage to track you. |
 | **15** | **Fickle Fate.** When you attune, an enemy of the Conductor’s choice gains a benefit. |
-| **16** | **Ability Drain.** One ability score (randomly chosen) is reduced by 2. Restored only by _Greater Restoration_. |
+| **16** | **Ability Drain.** One ability score (randomly chosen) is reduced by 2. Restored only by _<span class="spell spell-Greater_Restoration_greater_restoration">Greater Restoration</span>_. |
 | **17** | **Double Trouble.** A duplicate of you appears with the goal of killing you. |
 | **18** | **Astral Beacon.** Extraplanar creatures can sense your location within 1 mile. Hostile ones are drawn to you. |
 | **19** | **Weakness.** You are vulnerable to all damage types. |
