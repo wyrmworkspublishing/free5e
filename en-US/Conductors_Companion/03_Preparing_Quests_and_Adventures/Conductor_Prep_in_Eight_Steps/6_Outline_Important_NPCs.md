@@ -231,7 +231,7 @@ ___
 ##### Step 4: Worldview
 
 Worldview describes how an NPC reads other people, judges risk, and decides what matters.
-Start with a baseline DC 12 for social checks.
+Start with a baseline `DC 12` for social checks.
 Roll or choose one worldview.
 If the approach aligns with what the NPC values, lower the DC by the listed amount.
 If it presses on what they distrust or fear, raise the DC by that amount.
