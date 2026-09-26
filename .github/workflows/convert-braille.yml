@@ -31,19 +31,11 @@ permissions:
 jobs:
   convert-braille:
     name: Convert ${{ inputs.language }} ${{ inputs.book_main_file }} into braille
-    runs-on: ubuntu-latest
+    runs-on: blalasaadri/free5e-conversion-base:latest
 
     steps:
       - name: Check out manuscript source
         uses: actions/checkout@v4
-
-      - name: Install braille conversion tools
-        run: |
-          set -euo pipefail
-
-          # Liblouis does the braille work. Pandoc keeps Markdown from throwing chairs.
-          sudo apt-get update
-          sudo apt-get install -y liblouis-bin liblouis-data pandoc
 
       - name: Build braille artifacts
         run: |
