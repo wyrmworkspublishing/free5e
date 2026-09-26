@@ -6,4 +6,6 @@
 
 [Average Handfuls of Dice](./Average_Handfuls_of_Dice.md)
 
+[Use Passive Scores](./Passive_Scores.md)
+
 [Cinematic Advantage](./Cinematic_Advantage.md)
