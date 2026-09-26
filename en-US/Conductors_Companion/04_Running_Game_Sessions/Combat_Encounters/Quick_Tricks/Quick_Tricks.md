@@ -1,9 +1,9 @@
-### Quick Tricks for Combat Encounters
+## Other Quick Tricks
+The following tricks make excellent additions to every Conductor's toolbox:
 
-[Use Index Cards for Initiative](./Index_Cards.md)
-
-[Passive Monster Initiative](./Passive_Monster_Initiative.md)
-
-[Average Handfuls of Dice](./Average_Handfuls_of_Dice.md)
-
-[Cinematic Advantage](./Cinematic_Advantage.md)
+* Keep a list of random names on hand to use for NPCs, villains, and monsters.  
+* Describe the world through the eyes of the characters, actively narrating what they observe and know about the world around them.  
+* Don't ask for a d20 roll if there isn't a chance for failure, or if failure wouldn't be interesting. This can help you remember to never bury useful or vital information behind an ability check.  
+* Reskin bandit, thug, ogre, and giant stat blocks to make new hard-hitting monsters of all different sizes.  
+* Reveal monster ACs and the DCs for ability checks to the players, and help them calculate ahead of time what they'll need on their d20 roll to succeed. This lets the players focus on the excitement of the die roll rather than the math.  
+* When appropriate, roll on a character's behalf so the player doesn't know the result for something their character wouldn't know.
