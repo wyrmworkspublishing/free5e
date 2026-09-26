@@ -19,6 +19,10 @@ on:
         description: The name of the main markdown file in the book_directory, excluding the file suffix.
         type: string
         required: true
+      front_image_file:
+        description: The path to the front cover image file, relative to the main book file.
+        type: string
+        required: false
       generated_files_target_directory:
         description: The directory, where the generated files are stored. "generated" by default.
         type: string
@@ -94,6 +98,39 @@ jobs:
           path: ${{ github.workspace }}/generated/
       - run: echo "🐉 This job's status is ${{ job.status }}."
 
+  validate-asciidoc:
+    name: ${{ inputs.language }}/${{ inputs.book_main_file }} Validate AsciiDoc
+    runs-on: ubuntu-latest
+    needs: convert-markdown-to-asciidoc
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: Download AsciiDoc files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
+          path: 'artifacts'
+      - run: |
+          echo "ls ."
+          ls
+          echo "ls artifacts"
+          ls -Rpo artifacts || echo "No artifacts found"
+          echo "ls generated"
+          ls -Rpo generated || echo "No generated files found"
+      - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
+      - name: Validate the AsciiDoc files
+        uses: ./.github/convert-files
+        with:
+          language: ${{ inputs.language }}
+          date_format: ${{ inputs.date_format }}
+          book_directory: ${{ inputs.book_directory }}
+          book_main_file: ${{ inputs.book_main_file }}
+          generated_files_target_directory: 'generated'
+          artifacts_target_directory: 'artifacts'
+          conversion: 'validate-asciidoc'
+      - run: echo "📄 AsciiDoc documents have been validated"
+      - run: echo "🐉 This job's status is ${{ job.status }}."
+
   convert-asciidoc-to-docbook:
     name: ${{ inputs.language }}/${{ inputs.book_main_file }} AsciiDoc -> DocBook
     runs-on: ubuntu-latest
@@ -108,7 +145,13 @@ jobs:
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
           path: 'artifacts'
-      - run: ls && ls artifacts
+      - run: |
+          echo "ls ."
+          ls
+          echo "ls artifacts"
+          ls -Rpo artifacts || echo "No artifacts found"
+          echo "ls generated"
+          ls -Rpo generated || echo "No generated files found"
       - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Convert the AsciiDoc files to a single DocBook file
         uses: ./.github/convert-files
@@ -140,7 +183,13 @@ jobs:
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
           path: 'artifacts'
-      - run: ls && ls artifacts
+      - run: |
+          echo "ls ."
+          ls
+          echo "ls artifacts"
+          ls -Rpo artifacts || echo "No artifacts found"
+          echo "ls generated"
+          ls -Rpo generated || echo "No generated files found"
       - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Convert the AsciiDoc files to a single EPUB file
         uses: ./.github/convert-files
@@ -149,6 +198,7 @@ jobs:
           date_format: ${{ inputs.date_format }}
           book_directory: ${{ inputs.book_directory }}
           book_main_file: ${{ inputs.book_main_file }}
+          front_image_file: ${{ inputs.front_image_file }}
           generated_files_target_directory: 'generated'
           artifacts_target_directory: 'artifacts'
           conversion: 'asciidoc-to-epub'
@@ -172,7 +222,13 @@ jobs:
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
           path: 'artifacts'
-      - run: ls && ls artifacts
+      - run: |
+          echo "ls ."
+          ls
+          echo "ls artifacts"
+          ls -Rpo artifacts || echo "No artifacts found"
+          echo "ls generated"
+          ls -Rpo generated || echo "No generated files found"
       - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Convert the AsciiDoc files to a single HTML file
         uses: ./.github/convert-files
@@ -204,7 +260,13 @@ jobs:
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
           path: 'artifacts'
-      - run: ls && ls artifacts
+      - run: |
+          echo "ls ."
+          ls
+          echo "ls artifacts"
+          ls -Rpo artifacts || echo "No artifacts found"
+          echo "ls generated"
+          ls -Rpo generated || echo "No generated files found"
       - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Convert the AsciiDoc files to a single Markdown file
         uses: ./.github/convert-files
@@ -236,7 +298,13 @@ jobs:
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-adoc-${{ needs.convert-markdown-to-asciidoc.outputs.timestamp }}
           path: 'artifacts'
-      - run: ls && ls artifacts
+      - run: |
+          echo "ls ."
+          ls
+          echo "ls artifacts"
+          ls -Rpo artifacts || echo "No artifacts found"
+          echo "ls generated"
+          ls -Rpo generated || echo "No generated files found"
       - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Convert the AsciiDoc files to a single PDF file
         uses: ./.github/convert-files
@@ -268,7 +336,13 @@ jobs:
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-docbook-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
           path: 'artifacts'
-      - run: ls && ls artifacts
+      - run: |
+          echo "ls ."
+          ls
+          echo "ls artifacts"
+          ls -Rpo artifacts || echo "No artifacts found"
+          echo "ls generated"
+          ls -Rpo generated || echo "No generated files found"
       - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Convert the DocBook file to a DOCX file
         uses: ./.github/convert-files
@@ -300,7 +374,13 @@ jobs:
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-docbook-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
           path: 'artifacts'
-      - run: ls && ls artifacts
+      - run: |
+          echo "ls ."
+          ls
+          echo "ls artifacts"
+          ls -Rpo artifacts || echo "No artifacts found"
+          echo "ls generated"
+          ls -Rpo generated || echo "No generated files found"
       - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Convert the DocBook file to a LaTeX file
         uses: ./.github/convert-files
@@ -332,7 +412,13 @@ jobs:
         with:
           name: ${{ inputs.book_main_file }}-${{ inputs.language }}-docbook-${{ needs.convert-asciidoc-to-docbook.outputs.timestamp }}
           path: 'artifacts'
-      - run: ls && ls artifacts
+      - run: |
+          echo "ls ."
+          ls
+          echo "ls artifacts"
+          ls -Rpo artifacts || echo "No artifacts found"
+          echo "ls generated"
+          ls -Rpo generated || echo "No generated files found"
       - run: echo "📥 The ${{ github.repository }} repository has been cloned to the runner."
       - name: Convert the DocBook file to an ODT file
         uses: ./.github/convert-files

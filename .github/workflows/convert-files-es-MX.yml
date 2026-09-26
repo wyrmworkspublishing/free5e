@@ -18,6 +18,7 @@ jobs:
       date_format: '%d.%m.%Y'
       book_directory: 'es-MX/Pergamino_de_Personajes'
       book_main_file: 'Pergamino_de_Personajes'
+      front_image_file: '../../../assets/images/Characters_Codex/00_Cover/Free5e_Playerbook.png'
 
   braille-characters-codex-es-mx:
     name: Convert the es-MX Pergamino de Personajes into braille

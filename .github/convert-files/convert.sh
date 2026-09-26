@@ -12,6 +12,10 @@ case "${INPUT_CONVERSION}" in
     ${SCRIPT_DIR}/conversion-scripts/markdown-to-asciidoc.sh
     ;;
 
+  validate-asciidoc)
+    ${SCRIPT_DIR}/conversion-scripts/validate-asciidoc.sh
+    ;;
+
   asciidoc-to-docbook)
     ${SCRIPT_DIR}/conversion-scripts/asciidoc-to-docbook.sh
     ;;

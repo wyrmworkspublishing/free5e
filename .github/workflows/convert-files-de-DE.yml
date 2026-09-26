@@ -18,6 +18,7 @@ jobs:
       date_format: '%d.%m.%Y'
       book_directory: 'de-DE/Codex_der_Charaktere'
       book_main_file: 'Codex_der_Charaktere'
+      front_image_file: '../../../assets/images/Characters_Codex/00_Cover/Free5e_Playerbook.png'
       spell_descriptions_path: de-DE/Codex_der_Charaktere/06_Zauberwirken/Beschreibungen_der_Zauber/
 
   braille-characters-codex-de-de:

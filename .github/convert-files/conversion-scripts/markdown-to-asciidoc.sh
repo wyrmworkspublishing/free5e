@@ -59,6 +59,12 @@ include::attributes.adoc[]\
     sed -i'.include.bak' -e 's/^xref:\(.*\).adoc\[.*\]/include::\1.adoc[]/g' $adoc
   done
 
+  # Hide notitle chapters
+  echo "Hide notitle chapters..."
+  for adoc in $(find . -name '*.adoc'); do
+    sed -i'.notitle.bak' -e ':a' -e 'N' -e '$!ba' -e 's/\/\/ notitle\n/[%notitle]/g' $adoc
+  done
+
   # Mark the first chapter as the preface
   echo "Marking the first chapter as the preface..."
   for dir in $(find . -maxdepth 2 -type d -name '01_*'); do
@@ -71,8 +77,12 @@ include::attributes.adoc[]\
   for appendix_parent in $(find . -maxdepth 2 -type d -name 'A_*'); do
     for appendix_dir in $(ls -d $appendix_parent/*); do
       if [ -d "$appendix_dir" ]; then
-        APPENDIX_FILE="$(ls $appendix_dir/*.adoc | head -n 1)"
-        sed -i'.appendix.bak' '1s/^/[appendix]\n/' "$APPENDIX_FILE"
+        APPENDIX_FILE="$(ls $appendix_dir/*.adoc | head -n 1 || echo "")"
+        if [ -n "$APPENDIX_FILE" ]; then
+          sed -i'.appendix.bak' '1s/^/[appendix]\n/' "$APPENDIX_FILE"
+        else
+          echo "No .adoc file found in $appendix_dir, skipping."
+        fi
       fi
     done
   done
@@ -115,12 +125,23 @@ include::attributes.adoc[]\
   done
 
   popd
+
+  # Copy over image assets
+  echo "Preparing the image assets..."
+  mkdir -p "${ADOC_TARGET_DIR}/assets/images/"
+  cp -r "assets/images" "${ADOC_TARGET_DIR}/assets" || echo "No directory $(pwd)/assets/images exists (yet), skipping copy."
+  echo "Copying \"${IMAGE_ASSET_DIR}/*\" to \"${ADOC_TARGET_DIR}/assets/images/${INPUT_BOOK_MAIN_FILE}/\"..."
+  mkdir -p "${GENERATED_FILES_TARGET_DIRECTORY}/assets/images/${INPUT_BOOK_MAIN_FILE}/"
+  cp -RL "${IMAGE_ASSET_DIR}/" "${GENERATED_FILES_TARGET_DIRECTORY}/assets/images/${INPUT_BOOK_MAIN_FILE}/" || echo "No image assets found in ${IMAGE_ASSET_DIR}, skipping copy."
 }
 
 echo "Converting all Markdown files in $(pwd) to AsciiDoc. The settings are: language=${INPUT_LANGUAGE}, book_directory=${INPUT_BOOK_DIRECTORY}, book_main_markdown_file=${INPUT_BOOK_MAIN_FILE}"
 
+BASE_DIR="$(pwd)"
 GENERATED_FILES_TARGET_DIRECTORY="${INPUT_GENERATED_FILES_TARGET_DIRECTORY:-generated}"
-ADOC_TARGET_DIR="$(pwd)/${GENERATED_FILES_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/adoc"
+ADOC_TARGET_DIR="${BASE_DIR}/${GENERATED_FILES_TARGET_DIRECTORY}/${INPUT_BOOK_MAIN_FILE}/adoc"
+ASSETS_DIR="${BASE_DIR}/assets"
+IMAGE_ASSET_DIR="${ASSETS_DIR}/images/${INPUT_BOOK_MAIN_FILE}"
 mkdir -p "${ADOC_TARGET_DIR}"
 echo "About to generate files to ${ADOC_TARGET_DIR}..."
 
