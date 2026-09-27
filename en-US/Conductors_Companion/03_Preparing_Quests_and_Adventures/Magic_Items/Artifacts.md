@@ -28,7 +28,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **7–8** | **Mind’s Bastion.** Immune to being _<span class="condition condition-Conditions_charmed">Charmed</span>_ or _<span class="condition condition-Conditions_frightened">Frightened</span>_. |
 | **9–10** | **Bulwark.** Resistance to one damage type (Conductor’s choice). |
 | **11–12** | **Minor Magic.** Cast one Cantrip (Conductor’s choice). |
-| **13–14** | **Spell Weaver (Basic).** Cast one 1st-level spell. After casting, roll 1d6; on 1–5, you cannot use this again until the next dawn. |
+| **13–14** | **Spell Weaver (Basic).** Cast one 1st-level spell. After casting, roll `1d6`; on 1–5, you cannot use this again until the next dawn. |
 | **15–16** | **Spell Weaver (Advanced).** As above, but a 2nd-level spell. |
 | **17–18** | **Spell Weaver (Mastery).** As above, but a 3rd-level spell. |
 | **19–20** | **Aegis.** +1 AC. |
