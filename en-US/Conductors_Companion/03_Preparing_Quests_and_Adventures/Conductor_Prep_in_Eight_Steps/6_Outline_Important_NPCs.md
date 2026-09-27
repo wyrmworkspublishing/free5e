@@ -273,9 +273,11 @@ Roll once on the table or choose a row.
 | 11  | Lore or magic               | Schools, archives, or orders | Their knowledge is valued |
 | 12  | Guiding, fixing, or brokering | Roads, camps, or crossroads | They get results |
 
-**Example:** **Crafted goods / Trades or guilds / They're skilled** implies a blacksmith, artisan, or apothecary.
-
 ___
+
+<!-- style:example -->
+> **Example** \
+> _Crafted goods / Trades or guilds / They're skilled_ implies a blacksmith, artisan, or apothecary.
 
 ##### Step 6: Behavior
 
