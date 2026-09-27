@@ -94,7 +94,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **19** | **Weakness.** You are vulnerable to all damage types. |
 | **20** | **Divine Reclamation.** On attunement, 10% chance a divine avatar arrives to reclaim the artifact. |
 
-### Destroying an Artifact
+#### Destroying an Artifact
 Legends are in the hands of adventurers, but they could destroy them—a necessary task.
 Destroying a powerful magical item can be part of a campaign’s plot, and artifacts are indestructible otherwise.
 Every artifact has a weakness, but finding and using it may be a quest in itself, as can stopping a villain from destroying it.
