@@ -415,17 +415,18 @@ Use the nearest fit for mixed terrain: settled coasts use **Settled Lands**; unt
 
 ___
 
-##### NPC Example
-
-**Results:** **Name:** Vei sworn to Toren.
-**Ancestry:** Underlands → Dwarf.
-**Physical:** Hands — ink-stained fingers, callused palms, missing finger.
-**Worldview:** Guarded / Cautious / Stability / ±2.
-**Social Role:** Records or law / Courts or offices / They hold office.
-**Behavior:** Reserved / Formal / Deliberate / Precise.
-
-Vei serves as a court recordkeeper trusted to maintain continuity during transitions.
-They resist rushed demands, favor clear procedures, and respond best to orderly, well-reasoned requests grounded in precedent.
+<!-- spell-checker:words Toren recordkeeper -->
+<!-- style:example -->
+> **NPC Example** \
+> **Name:** Vei sworn to Toren \
+> **Ancestry:** Underlands → Dwarf \
+> **Physical:** Hands — ink-stained fingers, callused palms, missing finger \
+> **Worldview:** Guarded / Cautious / Stability / ±2 \
+> **Social Role:** Records or law / Courts or offices / They hold office \
+> **Behavior:** Reserved / Formal / Deliberate / Precise
+>
+> Vei serves as a court recordkeeper trusted to maintain continuity during transitions.
+> They resist rushed demands, favor clear procedures, and respond best to orderly, well-reasoned requests grounded in precedent.
 
 ###### Oddities
 <!-- spell-checker:words Shapechanged -->
