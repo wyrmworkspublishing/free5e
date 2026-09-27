@@ -248,9 +248,11 @@ If it presses on what they distrust or fear, raise the DC by that amount.
 | 5  | Welcoming      | Bold         | Belonging       |   ±2     |
 | 6  | Idealizing     | Reckless     | Impact          |   ±3     |
 
-**Example:** **Guarded / Cautious / Stability / ±2** resists rushed demands, prefers clear plans, and responds best to promises of order and continuity.
-
 ___
+
+<!-- style:example -->
+> **Example** \
+> _Guarded / Cautious / Stability / ±2_ resists rushed demands, prefers clear plans, and responds best to promises of order and continuity.
 
 ##### Step 5: Social Role
 
