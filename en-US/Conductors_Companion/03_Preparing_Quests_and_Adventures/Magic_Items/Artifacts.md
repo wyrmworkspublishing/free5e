@@ -47,7 +47,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **17–18** | **Magus Magic (Epic).** As above, but a 7th-level spell. |
 | **19–20** | **Pure Body.** Immune to Nullified, Petrified, and Stunned. |
 
-###### Table: Lesser Artifact Detriments
+##### Table: Lesser Artifact Detriments
 
 | d20 | Effect |
 | :---- | :---- |
