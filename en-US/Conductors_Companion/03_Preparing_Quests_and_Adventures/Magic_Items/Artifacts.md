@@ -19,7 +19,7 @@ An artifact can have a maximum of four lesser benefits and two greater benefits,
 Unless otherwise noted, the following properties apply when attuned to an artifact and wielding or possessing it.
 Any cantrips or spells granted by an artifact are chosen by the Conductor.
 
-#### Table: Lesser Artifact Benefits
+##### Table: Lesser Artifact Benefits
 
 | d20 | Effect |
 | :---- | :---- |
