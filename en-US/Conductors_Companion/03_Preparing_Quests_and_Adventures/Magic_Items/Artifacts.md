@@ -58,7 +58,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **5–6** | **Foul.** Noticeable stench within 10 ft. |
 | **7** | **Desecrate.** Holy water within 10 ft. is destroyed. |
 | **8** | **Ether Sickness.** Disadvantage on saves against planar and teleportation effects. |
-| **9** | **Crystal Bloom.** Crystals sprout from you; carrying capacity halved, disadvantage on Stealth. |
+| **9** | **Crystal Bloom.** Crystals sprout from you; carrying capacity halved, disadvantage on _Stealth (Dexterity)_ checks. |
 | **10** | **Shapeshift.** Appearance changes (Conductor decides). |
 | **11** | **Echo-Bound.** Beyond 10 ft. of the artifact, your words repeat as eerie echoes; you cannot speak clearly. |
 | **12** | **Ember Maw.** Mundane food turns to ash in your mouth. You can only gain nourishment from meals worth at least 1 gp. |
