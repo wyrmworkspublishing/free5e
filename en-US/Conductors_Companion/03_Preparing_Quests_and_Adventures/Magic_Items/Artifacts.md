@@ -38,7 +38,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | d20 | Effect |
 | :---- | :---- |
 | **1–4** | **Perfectionist.** Increase one ability score by 2 (max 24). |
-| **5–6** | **Healer.** If you have at least 1 hp, regain 1d6 hp at the start of each of your turns. |
+| **5–6** | **Healer.** If you have at least 1 hp, regain `1d6` hp at the start of each of your turns. |
 | **7–8** | **Warrior.** On a hit with a weapon attack, deal +1d6 damage of the same type. |
 | **9–10** | **Strider.** Speed +10 ft. |
 | **11–12** | **Magus Magic (Basic).** Cast one 4th-level spell. After casting, roll 1d6; on 1–5, you cannot use this again until the next dawn. |
