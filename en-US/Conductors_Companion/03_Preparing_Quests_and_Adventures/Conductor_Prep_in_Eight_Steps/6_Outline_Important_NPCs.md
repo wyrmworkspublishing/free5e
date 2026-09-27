@@ -296,9 +296,11 @@ Roll once per column or choose.
 | 5  | Bold        | Pushy         | Decisive       | Brash          |
 | 6  | Weary       | Distant       | Deliberate     | Dry humor      |
 
-**Example:** **Stern + Superior + Deliberate + Precise** = haughty.
-
 ___
+
+<!-- style:example -->
+> **Example** \
+> _Stern + Superior + Deliberate + Precise_ = haughty.
 
 ##### Step 7: Ancestry
 
