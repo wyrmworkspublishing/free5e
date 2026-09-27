@@ -76,7 +76,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | :---- | :---- |
 | **1** | **Withering Aura.** Plants within 10 ft. wither; creatures finishing a long rest within 10 ft. regain half normal hit points. |
 | **2** | **Cosmic Alignment.** Each dawn roll `1d4`; until next dawn, _<span class="spell spell-Protection_from_Evil_and_Good_protection_from_evil_and_good">Protection from Evil and Good</span>_ treats you as a random creature type (Celestial, Fiend, Fey, Aberration). |
-| **3** | **Quest Giver.** On first attunement, you are compelled to complete a quest as if under _Geas_. |
+| **3** | **Quest Giver.** On first attunement, you are compelled to complete a quest as if under the _<span class="spell spell-Geas_geas">Geas</span>_ spell. |
 | **4** | **Possessive.** When you use the artifact, 50% chance an entity attempts to possess you (DC 20 Charisma save). Failure: it controls you until banished by _Dispel Evil and Good_. |
 | **5** | **Deadly Aura.** Plants and CR 0 creatures within 10 ft. drop to 0 hp. |
 | **6** | **Eldritch Prison.** When you use the artifact, 10% chance a forgotten god breaks free and attacks. |
