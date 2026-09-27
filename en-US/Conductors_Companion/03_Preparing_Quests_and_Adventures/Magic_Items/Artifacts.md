@@ -65,7 +65,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **13** | **Bitter Tongue.** Your speaking or signing twists unnaturally; you have disadvantage on _Persuasion (Charisma)_ checks. |
 | **14** | **Ill Wind.** Nonmagical flames within 30 ft. extinguish. |
 | **15–16** | **Insomnia.** Creatures within 300 ft. cannot finish a short or long rest. |
-| **17** | **Flora Bane.** Plants (not creatures) take 1d6 necrotic damage from your touch. |
+| **17** | **Flora Bane.** Plants (not creatures) take `1d6` necrotic damage from your touch. |
 | **18** | **Unnatural Presence.** Beasts within 30 ft. are hostile. |
 | **19** | **Flickerform.** Your body shimmers; attack rolls against you have advantage until you start your next turn after taking damage. |
 | **20** | **Flawed.** Your flaws are magnified (Conductor decides details). |
