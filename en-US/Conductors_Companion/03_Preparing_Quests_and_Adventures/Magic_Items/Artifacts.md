@@ -62,7 +62,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **10** | **Shapeshift.** Appearance changes (Conductor decides). |
 | **11** | **Echo-Bound.** Beyond 10 ft. of the artifact, your words repeat as eerie echoes; you cannot speak clearly. |
 | **12** | **Ember Maw.** Mundane food turns to ash in your mouth. You can only gain nourishment from meals worth at least 1 gp. |
-| **13** | **Bitter Tongue.** Your speaking or signing twists unnaturally; you have disadvantage on Persuasion checks. |
+| **13** | **Bitter Tongue.** Your speaking or signing twists unnaturally; you have disadvantage on _Persuasion (Charisma)_ checks. |
 | **14** | **Ill Wind.** Nonmagical flames within 30 ft. extinguish. |
 | **15–16** | **Insomnia.** Creatures within 300 ft. cannot finish a short or long rest. |
 | **17** | **Flora Bane.** Plants (not creatures) take 1d6 necrotic damage from your touch. |
