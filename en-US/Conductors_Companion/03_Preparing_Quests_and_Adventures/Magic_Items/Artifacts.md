@@ -45,7 +45,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **13–14** | **Magus Magic (Advanced).** As above, but a 5th-level spell. |
 | **15–16** | **Magus Magic (Mastery).** As above, but a 6th-level spell. |
 | **17–18** | **Magus Magic (Epic).** As above, but a 7th-level spell. |
-| **19–20** | **Pure Body.** Immune to Nullified, Petrified, and Stunned. |
+| **19–20** | **Pure Body.** Immune to _<span class="condition condition-Conditions_nullified">Nullified</span>_, _<span class="condition condition-Conditions_petrified">Petrified</span>_, and _<span class="condition condition-Conditions_stunned">Stunned</span>_. |
 
 ##### Table: Lesser Artifact Detriments
 
