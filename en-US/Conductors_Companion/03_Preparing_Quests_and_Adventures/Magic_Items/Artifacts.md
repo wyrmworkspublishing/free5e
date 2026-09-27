@@ -70,7 +70,7 @@ Any cantrips or spells granted by an artifact are chosen by the Conductor.
 | **19** | **Flickerform.** Your body shimmers; attack rolls against you have advantage until you start your next turn after taking damage. |
 | **20** | **Flawed.** Your flaws are magnified (Conductor decides details). |
 
-###### Table: Greater Artifact Detriments
+##### Table: Greater Artifact Detriments
 
 | d20 | Effect |
 | :---- | :---- |
