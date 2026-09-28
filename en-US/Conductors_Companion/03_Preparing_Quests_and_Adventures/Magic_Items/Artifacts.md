@@ -10,6 +10,9 @@ Their search can be the goal of an entire adventure or long-term quest: to recla
 Artifacts can often be recognized without knowing everything about them due to their historical significance and numerous tales.
 Success on an ability check reveals information from its Legends and Lore, but not what a typical check to identify a magic item would reveal.
 
+Characters can investigate an artifact through research, knowledgeable sources, ability checks, or magic.
+Arcana or History may reveal known lore at a DC set by the Conductor; *Detect Magic* reveals its magic and school, if any; *Identify* reveals some of its magical properties and how to use them, subject to the spell’s limits; and *Legend Lore* reveals significant information about an artifact of legendary renown.
+
 #### Artifact Properties
 Artifacts, like magical items, have unique properties that can be chosen by the Conductor or randomly.
 These properties shift upon appearance and are not permanent.
