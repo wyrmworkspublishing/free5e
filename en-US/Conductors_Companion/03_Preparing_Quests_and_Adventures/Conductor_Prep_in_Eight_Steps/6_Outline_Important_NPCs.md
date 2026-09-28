@@ -333,7 +333,8 @@ Use the nearest fit for mixed terrain: settled coasts use **Settled Lands**; unt
 
 |  d100  | Ancestry |
 |:------:|:---------|
-| 01–22  | Human |
+| 01–20  | Human |
+| 21–22  | Tiefling |
 | 23–38  | Elf |
 | 39–48  | Halfling |
 | 49–57  | Awakened beast |
