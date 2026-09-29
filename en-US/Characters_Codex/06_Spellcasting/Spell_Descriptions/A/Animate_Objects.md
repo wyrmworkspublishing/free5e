@@ -1,26 +1,10 @@
-#### Animate Objects
-<!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Animate Objects"
-[_metadata_:spell_level]:- "5"
-[_metadata_:spell_school]:- "transmutation"
-[_metadata_:ritual]:- "false"
-[_metadata_:casting_time_amount]:- "1"
-[_metadata_:casting_time_unit]:- "action"
-[_metadata_:range]:- "120 feet"
-[_metadata_:components_verbal]:- "false"
-[_metadata_:components_somatic]:- "false"
-[_metadata_:components_material]:- "false"
-[_metadata_:duration]:- "1 minute"
-[_metadata_:concentration]:- "true"
-[_metadata_:target]:- "up to 6 unattended nonmagical Small or Tiny objects (or fewer Medium, Large, or Huge objects)"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
-<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+# Animate Objects
+
 _5th-level transmutation_
 
-**Casting Time:** 1 action \
-**Range:** 120 feet \
-**Components:** V, S \
+**Casting Time:** 1 action\
+**Range:** 120 feet\
+**Components:** V, S\
 **Duration:** Concentration, up to 1 minute
 
 Choose up to 6 unattended nonmagical Small or Tiny objects.
@@ -28,26 +12,26 @@ You may also choose larger objects; treat Medium objects as 2 objects, Large obj
 
 Until the spell ends or a target is reduced to 0 hit points, you animate the targets and turn them into constructs under your control.
 
-Each construct has Constitution 10, Intelligence 3, Wisdom 3, and Charisma 1, as well as a flying speed of 30 feet and the ability to hover (if securely fastened to something larger, it has a Speed of 0), and [parasense](#Exploration_Environment_parasense) (choose one: auditory or optical echolocation, electrolocation, kinetoreception, or thermoreception) to a range of 30 feet (_[<span class="condition">nullified</span>](#Conditions_nullified)_ of that sense beyond that distance).
+[parasense](#parasense) (choose one: auditory or optical echolocation, electrolocation, kinetoreception, or thermoreception) to a range of 30 feet; it cannot use that parasense beyond this distance.
 Otherwise a construct’s statistics are determined by its size.
 
-| Size                    |   HP   | AC | Attack                                             | STR | DEX |
-|:------------------------|:------:|:--:|:--------------------------------------------------:|:---:|:---:|
-| Tiny                    |    5   | 14 | +6 to hit, `1d4 – 3` damage                        |  4  | 18  |
-| Small                   |   10   | 12 | +4 to hit, `1d6 – 2` damage                        |  6  | 14  |
-| Swarm of Tiny and Small | varies | 13 | +5 to hit, `2d6` damage (`1d6` damage if bloodied) |  5  | 16  |
-| Medium                  |   20   | 11 | +3 to hit, `1d8` damage                            | 10  | 12  |
-| Large                   |   40   | 10 | +4 to hit, `2d8 + 2` damage                        | 14  | 10  |
-| Huge                    |   80   |  8 | +6 to hit, `2d12 + 4` damage                       | 18  |  6  |
+| Size | HP | AC | Attack | STR | DEX |
+| :-- | :-: | :-: | :-: | :-: | :-: |
+| Tiny | 5 | 14 | +6 to hit, `1d4 – 3` damage | 4 | 18 |
+| Small | 10 | 12 | +4 to hit, `1d6 – 2` damage | 6 | 14 |
+| Swarm of Tiny and Small | varies | 13 | +5 to hit, `2d6` damage (`1d6` damage if bloodied) | 5 | 16 |
+| Medium | 20 | 11 | +3 to hit, `1d8` damage | 10 | 12 |
+| Large | 40 | 10 | +4 to hit, `2d8 + 2` damage | 14 | 10 |
+| Huge | 80 | 8 | +6 to hit, `2d12 + 4` damage | 18 | 6 |
 
 If you animate 4 or more Small or Tiny objects, instead of controlling each construct individually they function as a construct swarm.
-Add together all swarm’s total hit points.
+Add together the total hit points of all constructs in the swarm.
 Attacks against a construct swarm deal half damage.
-The construct swarm reverts to individual constructs when it is reduced to 15 hit points or less.
+When the swarm is reduced to 15 hit points or fewer, it reverts to bloodied individual constructs. Choose which constructs survive, but their combined hit points can’t exceed the swarm’s remaining hit points. The rest are destroyed.
 
 You can use a bonus action to mentally command any construct made with this spell while within 500 feet of it.
 When you command multiple constructs using this spell, you must give them all the same command.
-You may decide the creature’s exact action and move, or you can issue a general command, such as guarding an area, which it follows until the task is complete or you issue it a new command.
+You may decide the action each commanded construct takes and where it moves during its next turn, or you can issue a general command, such as guarding an area, which it follows until the task is complete or you issue it a new command.
 If not given a command, the construct only defends itself.
 
 When you command a construct to attack, it makes a slam, a melee attack, against a creature within 5 feet of it.

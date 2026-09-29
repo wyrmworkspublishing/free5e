@@ -1,26 +1,10 @@
-#### Arcane Eye
-<!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Arcane Eye"
-[_metadata_:spell_school]:- "divination"
-[_metadata_:spell_level]:- "1"
-[_metadata_:casting_time_amount]:- "1"
-[_metadata_:casting_time_unit]:- "action"
-[_metadata_:ritual]:- "false"
-[_metadata_:range]:- "60 feet"
-[_metadata_:components_verbal]:- "true"
-[_metadata_:components_somatic]:- "true"
-[_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a mushroom-shaped piece of wood inside a universal joint"
-[_metadata_:concentration]:- "true"
-[_metadata_:duration]:- "1 hour"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_same"
-<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_4th-level divination_
+# Arcane Eye
 
-**Casting Time:** 1 action \
-**Range:** 60 feet \
-**Components:** V, S, M (a mushroom-shaped piece of wood inside a universal joint) \
+_4th-level divination (ritual)_
+
+**Casting Time:** 1 action\
+**Range:** 60 feet\
+**Components:** V, S, M (a mushroom-shaped piece of wood inside a universal joint)\
 **Duration:** Concentration, up to 1 hour
 
 You create an invisible, floating magical eye through which you can see.
