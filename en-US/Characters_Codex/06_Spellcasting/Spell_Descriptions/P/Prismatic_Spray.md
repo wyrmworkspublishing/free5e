@@ -1,35 +1,14 @@
-#### Prismatic Spray
-<!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Prismatic Spray"
-[_metadata_:spell_level]:- "7"
-[_metadata_:spell_school]:- "evocation"
-[_metadata_:ritual]:- "false"
-[_metadata_:casting_time_amount]:- "1"
-[_metadata_:casting_time_unit]:- "action"
-[_metadata_:range]:- "Self"
-[_metadata_:target]:- "60-foot cone"
-[_metadata_:components_verbal]:- "true"
-[_metadata_:components_somatic]:- "true"
-[_metadata_:components_material]:- "false"
-[_metadata_:duration]:- "Instantaneous"
-[_metadata_:concentration]:- "false"
-[_metadata_:saving_throw]:- "Dexterity, Constitution, Wisdom"
-[_metadata_:saving_throw_success]:- "avoids_effect, special, ends_effect"
-[_metadata_:damage_formula]:- "10d6 or 0"
-[_metadata_:damage_type]:- "varies"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_different_wording_different"
-<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+# Prismatic Spray
+
 _7th-level evocation_
 
-**Casting Time:** 1 action \
-**Range:** Self (60-foot cone) \
-**Components:** V, S \
+**Casting Time:** 1 action\
+**Range:** Self (60-foot cone)\
+**Components:** V, S\
 **Duration:** Instantaneous
 
 You unleash 8 rays of light, each with a different purpose and effect.
-Each creature in a 60-foot cone must make a Dexterity saving throw, taking half damage on a successful save.
-Roll a d8 for each target to determine the ray that affects it.
+Each creature in the cone must make a Dexterity saving throw. Roll a d8 for each target to determine the ray that affects it. On a successful save, a creature takes half damage from each damaging ray and ignores each ray that does not deal damage.
 
 1. **Red:**
   The target takes `10d6` fire damage.
@@ -42,12 +21,12 @@ Roll a d8 for each target to determine the ray that affects it.
 5. **Blue:**
   The target takes `10d6` cold damage.
 6. **Indigo:**
-  The target is _[<span class="condition">restrained</span>](#Conditions_restrained)_ and at the end of each of its turns it makes a Constitution saving throw.
-  Once it accumulates three failed saves it permanently turns to stone, or when it accumulates three successful saves the effect ends.
+  The target is _<span class="condition condition-Conditions_restrained">restrained</span>_ and at the end of each of its turns it makes a Constitution saving throw.
+  Once it accumulates three failed saves it permanently turns to stone and is petrified. When it accumulates three successful saves, the effect ends.
 7. **Violet:**
-  The target is _[<span class="condition">nullified (sight)</span>](#Conditions_nullified)_.
+  The target is _<span class="condition condition-Conditions_nullified">nullified (sight)</span>_.
   At the start of your next turn, the target makes a Wisdom saving throw, ending the effect on a success.
-  On a failed save, the target is banished to another random [plane](#Planes_of_Existence_planes_of_existence) and is no longer nullified (sight).
+  On a failed save, the target is banished to another random [plane](#planes-of-existence) and is no longer nullified (sight).
   Typically if it originated from another plane it returns there, while other creatures are generally cast into the Astral Plane or Ethereal Plane.
 8. **Special:**
   The target is hit by two rays.

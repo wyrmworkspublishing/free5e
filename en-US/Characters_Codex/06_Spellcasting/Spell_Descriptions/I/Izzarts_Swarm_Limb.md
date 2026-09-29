@@ -1,36 +1,17 @@
-#### Iz’zart's Swarm Limb
-<!-- markdownlint-disable link-image-reference-definitions -->
-<!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Iz’zart's Swarm Limb"
-[_metadata_:spell_level]:- "1"
-[_metadata_:spell_school]:- "conjuration"
-[_metadata_:ritual]:- "false"
-[_metadata_:casting_time_amount]:- "1"
-[_metadata_:casting_time_unit]:- "action"
-[_metadata_:range]:- "Self"
-[_metadata_:target]:- "Self"
-[_metadata_:components_verbal]:- "true"
-[_metadata_:components_somatic]:- "true"
-[_metadata_:components_material]:- "false"
-[_metadata_:concentration]:- "false"
-[_metadata_:duration]:- "1 hour"
-[_metadata_:compared_to_wotc_srd_5.1]:- "added"
-[_metadata_:compared_to_a5e_srd]:- "added"
-<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+# Iz'zart's Swarm Limb
+
 _1st-level conjuration_
 
-**Casting Time:** 1 action \
-**Range:** Self \
-**Components:** V, S \
+**Casting Time:** 1 action\
+**Range:** Self\
+**Components:** V, S\
 **Duration:** 1 hour
 
-You summon a swarm of fey spirits that take the form of a swarm of beasts of Challenge Rating 1/2 or lower shaped as an adaptive limb, responding to telepathic commands like the appendage it's replacing.
+You summon a swarm of fey spirits that take the form of a swarm of beasts of Challenge Rating 1/2 or lower shaped as an adaptive limb, responding to telepathic commands like the appendage it’s replacing.
 This spell cannot add an extra limb beyond those typical for your ancestry.
 
 The summoned swarm is also considered fey, and it disappears when it drops to 0 hit points or when the spell ends.
 
-The swarm gets no actions of its own, but you can use its bite as an unarmed attack.
+The swarm gets no actions of its own. While it is attached, you can use it to make unarmed strikes, using your normal attack and damage for an unarmed strike; the strike can deal piercing damage instead of its normal damage type.
 
-The swarm can detach on command as a bonus action.
-While detached, it retains its link and can attack and follow simple commands up to 30 feet away from you.
-If it moves further away, the spell ends.
+As a bonus action, you can detach the swarm and command it to move up to 30 feet and make a melee spell attack against one creature within 5 feet of it. On a hit, the target takes `1d6` piercing damage. The swarm remains detached until you use a bonus action to reattach it. If it moves more than 30 feet from you, the spell ends.
