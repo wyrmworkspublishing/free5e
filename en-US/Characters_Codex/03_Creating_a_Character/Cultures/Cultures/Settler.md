@@ -1,4 +1,4 @@
-### Settler
+# Settler
 
 This culture, pragmatic and determined, values resilience, resourcefulness, and community-building.
 Its people tirelessly build and protect their homes.
@@ -6,7 +6,7 @@ Its people tirelessly build and protect their homes.
 \
 **Claim Staker.**
 Whenever you begin a long rest, you can choose to spend the first hour of that rest making the area into a fortified position for the duration.
-While resting in a fortified position, the ground in a 60-foot radius area around you is considered difficult terrain for any creatures other than those you consider allies.
+While resting in a fortified position, the ground within 60 feet of you is considered difficult terrain for any creatures other than those you consider allies.
 In addition, the first time a hidden creature enters the fortified area, it makes a Dexterity saving throw (DC `8 + your Wisdom modifier + your proficiency bonus`).
 On a failed save, the creature inadvertently makes loud noises and is no longer hidden.
 \
@@ -14,7 +14,7 @@ On a failed save, the creature inadvertently makes loud noises and is no longer 
 You are proficient in the _Insight_ and _Survival_ skills.
 \
 **Strange Forager.**
-You gain [expertise](#Proficiency_Bonus_expertise) on any check made to determine whether something is poisonous.
+You gain [expertise](#expertise) on any check made to determine whether something is poisonous.
 \
 **Languages.**
 You can understand and communicate in Common and two additional languages.

@@ -1,9 +1,8 @@
-## Ancestries
+# Ancestries
 
-### Ancestral Traits
+## Ancestral Traits
 
-Your ancestry is usually determined by who your parents were.
-The description of each ancestry includes inherited traits that are common to members of that ancestry.
+Your ancestry represents inherited traits and physical lineage.
 The following entries appear among the traits of most ancestries.
 Some ancestries have variants with traits of the parent ancestry and variant-specific traits.
 
@@ -18,35 +17,14 @@ For instance, a young or old character might have low Strength or Constitution, 
 \
 Characters of most ancestries are Medium, between 4 and 8 feet tall.
 A few ancestries are Small (2 to 4 feet tall), and some game rules may affect them differently.
-Small characters may struggle with heavy weapons, as explained in ["Equipment"](#Equipment_equipment).
+Small characters may struggle with heavy weapons, as explained in ["Equipment"](#equipment).
 
 **Speed**
 \
-Your speed determines how far you can move when traveling (["Adventuring"](#Adventuring_adventuring)) and fighting ([“Combat”](#Combat_combat)).
+Your speed determines how far you can move when traveling (["Adventuring"](#adventuring)) and fighting ([<q>Combat</q>](#combat)).
 
-<!-- style:sidebar -->
-> **Senses** \
-> Most members of most ancestries (including all ancestries listed here) have _sight_ as a precise sense (as detailed in [the section "The Environment" in chapter 14: Exploration](#Exploration_Environment_pinpoint)).
-> However this is not the case for every individual of that ancestry.
->
-> Playing without a precise sense will make life more difficult, but it can be done.
-> If you're interested in playing a character who doesn't have such a sense due to a disability, you can find more information about that in [chapter 7: Variant Rule: Disabilities](#Disabilities_variant_rule_disabilities).
-> If you're interested in playing a character who either doesn't have precise sense for a different reason, or who has a precise sense other than sight, talk to your Conductor about what makes sense in your world.
+**Senses**
 
-[**Dragonborn**](./Ancestries/Dragonborn.md)
+Most members of most ancestries, including all ancestries listed here, have _sight_ as a precise sense, as detailed under The Environment in chapter 14, Exploration. However, this is not true of every individual.
 
-[**Dwarf**](./Ancestries/Dwarf.md)
-
-[**Elf**](./Ancestries/Elf.md)
-
-[**Gnome**](./Ancestries/Gnome.md)
-
-[**Halfling**](./Ancestries/Halfling.md)
-
-[**Human**](./Ancestries/Human.md)
-
-[**Orc**](./Ancestries/Orc.md)
-
-[**Tiefling**](./Ancestries/Tiefling.md)
-
-[**Mixed Ancestry**](./Ancestries/Mixed_Ancestry.md)
+A character can live and adventure without a precise sense, using adaptations, training, assistive tools, magic, or other methods. For disability-related options, see chapter 7, Variant Rule: Disabilities. If your character lacks a precise sense for another reason or uses a precise sense other than sight, work with your Conductor to determine how that functions in the campaign.
