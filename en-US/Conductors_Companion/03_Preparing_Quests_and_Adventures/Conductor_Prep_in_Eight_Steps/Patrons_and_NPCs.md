@@ -1,6 +1,6 @@
-___
+### Patrons and NPCs
 
-Use this table to generate a patron or NPC for your adventure, applying an NPC stat block to create villains, hirelings, rivals, or heralds.
+Use these tables to generate a patron or NPC for your adventure, applying an NPC stat block to create villains, hirelings, rivals, or heralds.
 
 | d20 | Behavior      | Ancestry          |
 |:---:|:--------------|:------------------|

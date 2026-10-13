@@ -1,7 +1,7 @@
-### Treasure
-
 This list lets you add treasure to the adventure as appropriate.
 Roll a `d10` to determine monetary treasure, or a `d20` for monetary and magical treasure.
+
+___
 
 | d10 or d20 | Treasures              |
 |:----------:|:-----------------------|
