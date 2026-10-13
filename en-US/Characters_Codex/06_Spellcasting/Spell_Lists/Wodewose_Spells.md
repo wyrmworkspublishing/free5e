@@ -25,7 +25,7 @@
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - [Goodberry](#Goodberry_goodberry)
 - [Healing Word](#Healing_Word_healing_word)
-- [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
+- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Jump](#Jump_jump)
 - [Longstrider](#Longstrider_longstrider)
 - [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
