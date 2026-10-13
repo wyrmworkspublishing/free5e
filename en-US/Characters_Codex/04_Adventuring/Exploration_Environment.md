@@ -45,6 +45,7 @@ Sight, tremorsense*, and [truesight](#truesight) are precise senses while hearin
 If hearing or scent become strong and precise enough to be considered precise senses, they become parasenses; for example, _parasense: auditory echolocation_ is a precise sense derived from hearing.
 \
 \
+
 * See the chapter _Monster Information_ in the _Monstrous Manuscript_ for more information on tremorsense.
 
 Environmental factors such as noise or wind can reduce a sense’s effectiveness and may obscure the area for that sense.

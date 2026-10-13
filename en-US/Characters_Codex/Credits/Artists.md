@@ -1,10 +1,10 @@
 # Credits
 
-Project Lead & Writer: Dale Critchley https://wyrmworkspublishing.com
+Project Lead & Writer: Dale Critchley <https://wyrmworkspublishing.com>
 \
-Collaborator, Writer, & Editor: PJ Coffey https://homebrewandhacking.com/
+Collaborator, Writer, & Editor: PJ Coffey <https://homebrewandhacking.com/>
 \
-Layout & Accessibility: Chris Hopper https://bio.link/chrishopper
+Layout & Accessibility: Chris Hopper <https://bio.link/chrishopper>
 \
 Additional Editing and Feedback from the Wyrmworks Publishing Hoard, Free5e Backers, and Knights of the Braille
 \
@@ -20,29 +20,29 @@ To everyone who has offered input, spotted errors, suggested improvements, or sh
 
 The _Character’s Codex_ contains artwork by the following artists:
 
-**Adrian Arduini**, https://legacy.drivethrurpg.com/browse/pub/16116/Adrian-Arduini
+**Adrian Arduini**, <https://legacy.drivethrurpg.com/browse/pub/16116/Adrian-Arduini>
 \
-**Danilo E. Valdez Jr.**, https://daniloevaldez.artstation.com/
+**Danilo E. Valdez Jr.**, <https://daniloevaldez.artstation.com/>
 \
-**Erin Z Anderson**, http://erinzandersonillustration.com/
+**Erin Z Anderson**, <http://erinzandersonillustration.com/>
 \
-**Kalman Andrasofszky**, https://iamkalman.artstation.com/
+**Kalman Andrasofszky**, <https://iamkalman.artstation.com/>
 \
-**Lady of Hats**, https://commons.wikimedia.org/wiki/User:LadyofHats
+**Lady of Hats**, <https://commons.wikimedia.org/wiki/User:LadyofHats>
 \
-**Matheus Zastawny**, https://www.artstation.com/veinofart
+**Matheus Zastawny**, <https://www.artstation.com/veinofart>
 \
-**Paola Recalcati**, https://hikari_illustrations.artstation.com/
+**Paola Recalcati**, <https://hikari_illustrations.artstation.com/>
 \
-**Pepoq**, https://buhitter.com/author/Pepoq_sama
+**Pepoq**, <https://buhitter.com/author/Pepoq_sama>
 \
-**Roselysium**, https://roselysium.carrd.co/
+**Roselysium**, <https://roselysium.carrd.co/>
 \
-**Stoneshore**, https://stoneshore.itch.io/
+**Stoneshore**, <https://stoneshore.itch.io/>
 \
-**The Basic Expert**, https://thebasicexpert.com/
+**The Basic Expert**, <https://thebasicexpert.com/>
 \
-**Venom for Free**, https://bsky.app/profile/venom-for-free.bsky.social
+**Venom for Free**, <https://bsky.app/profile/venom-for-free.bsky.social>
 
 ## Primary Sources
 

@@ -153,4 +153,5 @@ _Multiclass Spellcaster: Spell Slots per Spell Level (table)_
 | 18th | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
 | 19th | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
 | 20th | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
-___
+
+---

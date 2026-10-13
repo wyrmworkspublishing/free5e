@@ -9,6 +9,11 @@ config:
   line-length: false
   link-fragments: false
   no-inline-html: false
+  MD001: false
+  MD024:
+    siblings_only: true
+  MD025: false
+  MD036: false
 
 # Fix any fixable errors
 fix: false

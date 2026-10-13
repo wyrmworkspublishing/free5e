@@ -285,4 +285,5 @@ _Container Capacity (table)_
 | Waterskin | 4 pints liquid |
 
 * You can also strap items, such as a bedroll or a coil of rope, to the outside of a backpack.
-___
+
+---

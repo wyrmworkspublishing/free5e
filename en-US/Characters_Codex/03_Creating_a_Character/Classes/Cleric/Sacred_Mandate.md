@@ -120,7 +120,6 @@ As a bonus action, choose a creature whose location you know within 30 feet.
   * If the creature is an enemy, it must make a Wisdom saving throw.
   On a failure, it uses its reaction to make a weapon attack or a spell attack with a cantrip, targeting a creature you choose.
 
-+
 **6th Level:**
 When you use this ability, you may choose whether affected creatures can be frightened or charmed until the end of their next turn.
 
