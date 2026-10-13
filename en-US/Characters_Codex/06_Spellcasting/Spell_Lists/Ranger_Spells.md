@@ -13,7 +13,7 @@
 - [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
 - [Goodberry](#Goodberry_goodberry)
 - [Hunter's Mark](#Hunters_Mark_hunters_mark) (concentration)
-- [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
+- [Iz'zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
 - [Jump](#Jump_jump)
 - [Longstrider](#Longstrider_longstrider)
 

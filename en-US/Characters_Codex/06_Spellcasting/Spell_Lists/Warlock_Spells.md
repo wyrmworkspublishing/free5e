@@ -18,7 +18,7 @@
 * [Expeditious Retreat](#expeditious-retreat) (concentration)
 * [Hellish Rebuke](#hellish-rebuke)
 * [Illusory Script](#illusory-script) (ritual)
-* [Iz’zart’s Swarm Limb](#iz'zart's-swarm-limb)
+* [Iz'zart's Swarm Limb](#iz'zart's-swarm-limb)
 * [Protection from Evil and Good](#protection-from-evil-and-good) (concentration)
 * [Unseen Servant](#unseen-servant) (ritual)
 

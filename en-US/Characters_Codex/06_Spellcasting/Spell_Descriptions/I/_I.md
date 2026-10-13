@@ -16,4 +16,4 @@
 
 [Insect Plague](./Insect_Plague.md)
 
-[Iz’zart's Swarm Limb](./Izzarts_Swarm_Limb.md)
+[Iz'zart's Swarm Limb](./Izzarts_Swarm_Limb.md)

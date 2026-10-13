@@ -34,7 +34,7 @@
 * [Grease](#grease)
 * [Identify](#identify) (ritual)
 * [Illusory Script](#illusory-script) (ritual)
-* [Iz’zart’s Swarm Limb](#iz'zart's-swarm-limb)
+* [Iz'zart's Swarm Limb](#iz'zart's-swarm-limb)
 * [Jump](#jump)
 * [Longstrider](#longstrider)
 * [Mage Armor](#mage-armor)

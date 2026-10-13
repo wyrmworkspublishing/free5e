@@ -3,8 +3,10 @@
 +s
 Abadía
 aboleth*
+Alasdair
 Alia
 Alphastream
+Andrasofszky
 ankheg*
 antilife
 antimagic
@@ -13,6 +15,7 @@ Arcanist
 archdevil*
 archmag*
 archmage*
+Arduini
 Auran
 Azer*
 backstab
@@ -39,11 +42,13 @@ chuul*
 cloaker*
 Cloudkill
 Cobwheel*
+Collinson
 Coreador
 countercharm
 counterspell
 crafter*
 Critchley
+Danilo
 darkmantle*
 darkvision
 demiplane*
@@ -121,7 +126,8 @@ insaneangel
 interplanar
 invisiblity
 Ioun
-Iz’zart*
+Iz'zart*
+Kalman
 K’myla
 Kavari*
 Keenhand*
@@ -143,10 +149,12 @@ magoreception
 malcubus
 marilith*
 Marouflage*
+Matheus
 Melestrua*
 mephit*
 metamagic
 midjump
+Mindfire
 mithral
 Morscheck*
 Mouther*
@@ -159,6 +167,7 @@ Natalex
 Naturecraft
 Neshari*
 neurodivergence
+nonbeneficial
 Nondetection
 nonhostile
 nonhumanoid
@@ -173,15 +182,19 @@ oathbound
 Oathbow*
 ogrekin
 openfontlicense
+Orobas
 Orrelious
 Osmus
 Othur*
 otyugh*
 owlbear*
+Paola
 Paoliello
 parasense*
 Passwall
 pegasi
+Pepoq
+Pixabay
 planetar*
 polearm
 Popess
@@ -194,6 +207,7 @@ quarterstaff*
 quasit*
 Quipper*
 Rantock*
+Recalcati
 reflavor
 reskin
 respirate
@@ -201,6 +215,7 @@ Restauration
 Roisterous
 Rokku*
 roleplay
+Roselysium
 rumormonger*
 sahuagin
 sanist*
@@ -223,6 +238,7 @@ Spiderwalk*
 sporolocation
 stirge*
 stonecunning
+Stoneshore
 Stoneskin
 stoneworthy
 subbasement*
@@ -250,6 +266,7 @@ twentyfold
 ultroloth*
 Umara
 Undercommon
+Underdark
 Underland*
 Underworks
 Underworldly
@@ -277,7 +294,9 @@ wychwood
 Wyrd
 wyrm*
 Wyrmworks
+wyrmworkspublishing
 Yeroc*
 yooperlite
 yugoloth*
+Zastawny
 Ziraji

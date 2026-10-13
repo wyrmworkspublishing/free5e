@@ -91,7 +91,7 @@ Specifically, the following spells were added:
 - Charm Monster (taken from the A5ESRD and reworded)
 - Friends (taken from the A5ESRD and modified to better fit Free5e)
 - Hex (created specifically for Free5e)
-- Iz’zart's Swarm Limb (created for _[Limitless Heroics](https://wyrmworkspublishing.com/product/limitless-heroics/?utm_source=migration-doc&utm_medium=document&utm_campaign=Free5e)_ by Wyrmworks Publishing and released into CC-BY 4.0 for Free5e)
+- Iz'zart's Swarm Limb (created for _[Limitless Heroics](https://wyrmworkspublishing.com/product/limitless-heroics/?utm_source=migration-doc&utm_medium=document&utm_campaign=Free5e)_ by Wyrmworks Publishing and released into CC-BY 4.0 for Free5e)
 
 ## Magic Item Changes
 
