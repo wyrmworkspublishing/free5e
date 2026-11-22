@@ -1,28 +1,10 @@
-#### Hex
-<!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Hex"
-[_metadata_:spell_level]:- "1"
-[_metadata_:spell_school]:- "enchantment"
-[_metadata_:ritual]:- "false"
-[_metadata_:casting_time_amount]:- "1"
-[_metadata_:casting_time_unit]:- "reaction"
-[_metadata_:casting_time_reaction_trigger]:- "successfully hitting a creature"
-[_metadata_:range]:- "90 feet"
-[_metadata_:target]:- "one creature"
-[_metadata_:components_verbal]:- "true"
-[_metadata_:components_somatic]:- "true"
-[_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "a small straw doll"
-[_metadata_:concentration]:- "true"
-[_metadata_:duration]:- "1 hour"
-[_metadata_:compared_to_wotc_srd_5.1]:- "added"
-[_metadata_:compared_to_a5e_srd]:- "added"
-<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+# Hex
+
 _1st-level enchantment_
 
-**Casting Time:** 1 reaction, which you take after successfully hitting a creature \
-**Range:** 90 feet \
-**Components:** V, S, M (a small straw doll) \
+**Casting Time:** 1 reaction, which you take after successfully hitting a creature\
+**Range:** 90 feet\
+**Components:** V, S, M (a small straw doll)\
 **Duration:** Concentration, up to 1 hour
 
 After successfully hitting a creature with a cantrip spell attack, you can use your reaction to place a Hex on the target, choosing one of their ability scores.
@@ -30,6 +12,4 @@ The creature then subtracts a `d4` from all saving throws and ability checks rel
 When the target is reduced to 0 hit points or incapacitated, you can use your reaction to transfer the Hex to another creature you successfully hit with a cantrip spell attack.
 
 **At Higher Levels.**
-At 2nd level you may extend your concentration to 4 hours.
-At 3rd level 8 hours.
-At 5th level, you may extend it until you complete a long rest.
+When you cast this spell using a 2nd-level spell slot, you can maintain concentration for up to 4 hours. Using a 3rd- or 4th-level spell slot extends the duration to 8 hours. Using a spell slot of 5th level or higher extends the duration until you complete a long rest.

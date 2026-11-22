@@ -1,21 +1,21 @@
-##### Path of the Berserker
+# Path of the Berserker
 
-For some Dreadnoughts, rage is a means to an end—that end being violence.
+For some Dreadnoughts, rage is a means to an end--that end being violence.
 The Path of the Berserker is a path of untrammeled fury, slick with blood.
 As you enter the berserker’s rage, you thrill in the chaos of battle, heedless of your own health or well-being.
 
-###### Frenzy (3rd Level)
+## Frenzy (3rd Level)
 
 You can go into a frenzy when you rage.
 If you do so, for the duration of your rage you can make a single melee weapon attack as a bonus action on each of your turns after this one.
-When your rage ends, you suffer one level of [<span class="condition">exhaustion</span>](#Conditions_exhaustion) (as described in [appendix A, "Conditions"](#Conditions_conditions)).
+When your rage ends, you suffer one level of <span class="condition condition-Conditions_exhaustion">exhaustion</span> (as described in <span class="condition condition-Conditions_conditions">appendix A, "Conditions"</span>).
 
-###### Mindless Rage (6th Level)
+## Mindless Rage (6th Level)
 
 You can’t be charmed or frightened while raging.
 If you are charmed or frightened when you enter your rage, the effect is suspended for the duration of the rage.
 
-###### Intimidating Presence
+## Intimidating Presence (10th Level)
 
 You can use your action to frighten someone with your menacing presence.
 When you do so, choose one creature that you can pinpoint within 30 feet of you.
@@ -25,6 +25,6 @@ This effect ends if the creature ends its turn out of line of sight or more than
 
 If the creature succeeds on its saving throw, you can’t use this feature on that creature again for 24 hours.
 
-###### Retaliation (14th Level)
+## Retaliation (14th Level)
 
 When you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature.

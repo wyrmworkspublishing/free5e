@@ -1,34 +1,16 @@
-#### Find Familiar
-<!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Find Familiar"
-[_metadata_:spell_level]:- "1"
-[_metadata_:spell_school]:- "evocation"
-[_metadata_:ritual]:- "false"
-[_metadata_:casting_time_amount]:- "1"
-[_metadata_:casting_time_unit]:- "hour"
-[_metadata_:range]:- "10 feet"
-[_metadata_:target]:- "An unoccupied space"
-[_metadata_:components_verbal]:- "true"
-[_metadata_:components_somatic]:- "true"
-[_metadata_:components_material]:- "true"
-[_metadata_:components_material_description]:- "10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier"
-[_metadata_:components_material_cost]:- "10 gp"
-[_metadata_:duration]:- "Instantaneous"
-[_metadata_:concentration]:- "false"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_different_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
-<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
-_1st-level evocation_
+# Find Familiar
 
-**Casting Time:** 1 hour \
-**Range:** 10 feet \
-**Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier) \
+_1st-level conjuration (ritual)_
+
+**Casting Time:** 1 hour\
+**Range:** 10 feet\
+**Components:** V, S, M (10 gp worth of charcoal, incense, and herbs that must be consumed by fire in a brass brazier)\
 **Duration:** Instantaneous
 
 Your familiar, a spirit that takes the form of any challenge rating 0 beast of Small or Tiny size, appears in an unoccupied space within range.
-It has the statistics of the chosen form, but is your choice of a celestial, fey, or fiend (instead of a beast).
+It has the statistics of the chosen form, but its creature type is celestial, fey, or fiend (your choice) instead of beast.
 
-Your familiar is an independent creature that rolls its own initiative and acts on its own turn in combat (but cannot take the [Attack action](#Combat_Actions_attack)).
+Your familiar is an independent creature that rolls its own initiative and acts on its own turn in combat (but cannot take the [Attack action](#attack)).
 However, it is loyal to you and always obeys your commands.
 
 When the familiar drops to 0 hit points, it vanishes without a trace.

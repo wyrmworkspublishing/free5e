@@ -1,8 +1,5 @@
 # How to Play
 
-<!--notitle-->
-## How to play
-
 Playing a tabletop roleplaying game (TTRPG) is all about imagining a character in a fantasy world and using dice to determine what happens.
 Here’s how it works:
 
@@ -82,7 +79,7 @@ Higher rolls are better!
 > 15!
 > I’m first!
 > I try to confuse it with a quick spell.
-> I cast _<span class="spell spell-Vicious_Mockery_vicious_mockery">Vicious Mockery</span>_, shouting, ‘You look like something the forest spit out!’
+> I cast _[.spell.spell-Vicious_Mockery_vicious_mockery]#Vicious Mockery#_, shouting, <q>You look like something the forest spit out!</q>
 > It needs to make a Wisdom saving throw.
 > \
 > **Conductor:**
@@ -95,8 +92,7 @@ Higher rolls are better!
 > It takes 3 psychic damage and has disadvantage on its next attack!
 > \
 > **Conductor:**
-> The creature seems momentarily stunned, its many eyes narrowing as it hisses.
-> Osmus, your turn!
+The creature recoils from the insult, its many eyes narrowing as it hisses. Osmus, your turn!
 > \
 > **Osmus:**
 > I fire an arrow at it!
@@ -137,7 +133,7 @@ Higher rolls are better!
 > What’s your next move?
 > \
 > **Sylvana:**
-> I step back and cast _<span class="spell spell-Command_command">Command</span>_ on the creature and shout “Flee!” to force it to flee!
+> I step back and cast _[.spell.spell-Command_command]#Command#_ on the creature and shout <q>Flee!</q> to force it to flee!
 > It needs to make a Wisdom saving throw, DC 13.
 > \
 > **Conductor:**
@@ -146,11 +142,10 @@ Higher rolls are better!
 > It fails!
 > \
 > **Sylvana:**
-> It must use its reaction to move as far away as possible!
+> On its next turn, it must move as far away from me as it can!
 > \
 > **Conductor:**
-> The creature screeches in pain, skittering across the ceiling to the far corner, giving you space.
-> It looks weakened but still dangerous.
+The creature skitters across the ceiling to the far corner, scrambling as far away from you as it can and putting plenty of distance between you.
 > \
 > **Osmus:**
 > Let’s finish this!

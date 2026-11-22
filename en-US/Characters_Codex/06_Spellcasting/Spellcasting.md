@@ -16,19 +16,15 @@ Some might be recorded in ancient spellbooks or trapped in the minds of dead god
 ### Spell Level
 
 Spells have levels from 0 to 9, indicating their power.
-_[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ is 1st level, while _[<span class="spell">Wish</span>](#Wish_wish)_ is 9th.
-Cantrips are simple but powerful spells cast almost by rote, level 0.
-Higher level spells require higher character level.
+_<span class="spell spell-Magic_Missile_magic_missile">Magic Missile</span>_ is 1st level, while _<span class="spell spell-Wish_wish">Wish</span>_ is 9th.
+Cantrips—simple but powerful spells cast almost by rote—are level 0. Higher-level spells usually require a higher character level.
 Spell level and character level don’t directly correspond.
 A character usually needs to be at least 17th level, not 9th, to cast a 9th-level spell.
 
 ### Known and Prepared Spells
 
-Before using a spell, a spellcaster must mentally fix it or access it in a magic item.
-Some classes, like Bards and Sorcerers, have a limited list of fixed spells.
-Many magic-using monsters also have fixed spells.
-Other spellcasters, like Clerics and Wizards, prepare spells, which varies by class.
-The number of fixed spells a caster can have depends on their level.
+
+Before using a spell, a spellcaster must have the spell fixed in mind or access it through a magic item. Some classes, such as Bards and Sorcerers, know a limited number of spells. Many spellcasting monsters also know a fixed selection of spells. Other classes, such as Clerics and Wizards, prepare spells according to their class rules. The number of spells a caster knows or prepares usually depends on their level.
 
 ### Spell Slots
 
@@ -39,7 +35,7 @@ For instance, the 3rd-level Wizard Umara has four 1st-level and two 2nd-level sl
 
 When casting a spell, a character expends a slot of that level or higher, effectively filling it.
 A spell slot is a groove of a specific size, with 1st-level slots being the smallest and 9th-level slots being the largest.
-So, when Umara casts _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_, a 1st-level spell, she spends one slot and has three remaining.
+So, when Umara casts _<span class="spell spell-Magic_Missile_magic_missile">Magic Missile</span>_, a 1st-level spell, she spends one slot and has three remaining.
 
 Finishing a long rest restores expended spell slots.
 Some characters and monsters have special abilities that allow them to cast spells without using spell slots, such as Warlocks choosing certain eldritch invocations and pit fiends from the Nine Hells.
@@ -47,10 +43,10 @@ Some characters and monsters have special abilities that allow them to cast spel
 #### Casting a Spell at a Higher Level
 
 When a spellcaster casts a spell with a higher-level slot, the spell assumes that level.
-For example, if Umara casts _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ with a 2nd-level slot, it’s 2nd level.
-Some spells, like Magic Missile and _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_, have more powerful effects at higher levels, as detailed in the spell’s description.
+For example, if Umara casts _<span class="spell spell-Magic_Missile_magic_missile">Magic Missile</span>_ with a 2nd-level slot, it’s 2nd level.
+Some spells, like Magic Missile and _<span class="spell spell-Cure_Wounds_cure_wounds">Cure Wounds</span>_, have more powerful effects at higher levels, as detailed in the spell’s description.
 
-### Casting in Armor <!-- In the WotC SRD, this is an info box. -->
+### Casting in Armor
 
 Because of the mental focus and precise gestures required for spellcasting, you must be proficient with the armor you are wearing to cast a spell.
 You are otherwise too distracted and physically hampered by your armor for spellcasting.
@@ -63,10 +59,8 @@ Cantrips have a spell level of 0.
 
 ### Rituals
 
-Certain spells have a "ritual" tag.
-Casting a ritual spell follows normal spellcasting rules, but it takes 10 minutes longer and doesn’t expend a spell slot.
-To cast a ritual spell, a spellcaster must have a feature granting this ability, such as Clerics or Wodewoses.
-The caster must also have the spell prepared or on their spell list, unless specified otherwise by their ritual feature, like Wizards.
+
+Certain spells have a “ritual” tag. Casting a spell as a ritual follows the normal spellcasting rules, but takes 10 minutes longer and does not expend a spell slot. A spellcaster can do so only if a feature grants ritual casting and the caster meets that feature’s requirements. For example, Bards can ritually cast qualifying Bard spells they know; Clerics and Wodewoses must have the spell prepared; Wizards need it in their spellbook but need not have it prepared.
 
 ## Casting a Spell
 
@@ -99,7 +93,7 @@ To try again, start over.
 ### Range
 
 The target of a spell must be within its range.
-For example, _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ targets a creature, while _[<span class="spell">Fireball</span>](#Fireball_fireball)_ targets the point of fire’s eruption.
+For example, _<span class="spell spell-Magic_Missile_magic_missile">Magic Missile</span>_ targets a creature, while _<span class="spell spell-Fireball_fireball">Fireball</span>_ targets the point of fire’s eruption.
 
 Spell ranges are usually expressed in feet.
 Some spells target only a creature you touch, while others affect only you (self range).
@@ -153,20 +147,20 @@ You can end concentration anytime.
 Normal activity doesn’t interfere.
 The following can break concentration:
 
-- **Casting another spell that requires concentration.**
-  You lose concentration on a spell if you cast another spell that requires concentration.
-  You can’t concentrate on two spells at once.
-- **Taking damage.**
-  Whenever you take damage while concentrating on a spell, make a Constitution saving throw to maintain concentration.
-  The DC is 10 or half the damage, whichever is higher.
-  If you take damage from multiple sources, make a separate saving throw for each.
-- **Being incapacitated or killed.**
-  You lose concentration on a spell if incapacitated or die.
-  The Conductor may also require a DC 10 Constitution saving throw to maintain concentration on a spell due to certain environmental phenomena, like a crashing wave on a storm-tossed ship.
+* **Casting another spell that requires concentration.**
+You lose concentration on a spell if you cast another spell that requires concentration.
+You can’t concentrate on two spells at once.
+* **Taking damage.**
+Whenever you take damage while concentrating on a spell, make a Constitution saving throw to maintain concentration.
+The DC is 10 or half the damage, whichever is higher.
+If you take damage from multiple sources, make a separate saving throw for each.
+* **Being incapacitated or killed.**
+You lose concentration on a spell if you are incapacitated or die.
+The Conductor may also require a DC 10 Constitution saving throw to maintain concentration on a spell due to certain environmental phenomena, like a crashing wave on a storm-tossed ship.
 
 ### Targets
 
-A spell typically targets one or more creatures, objects, or an area of effect’s origin.
+A spell typically targets one or more creatures, objects, or a point of origin for an area of effect.
 Unless a spell has a noticeable effect, a creature might not know it was targeted.
 For instance, crackling lightning is obvious, but subtle effects like reading a creature’s thoughts go unnoticed unless the spell states otherwise.
 
@@ -179,18 +173,16 @@ If you place an area of effect at a point that you can’t pinpoint and an obstr
 #### Targeting Yourself
 
 If a spell targets a creature of your choice, you can choose yourself, unless it must be hostile or a creature other than you.
-If you’re in the spell’s area of effect, you can target yourself.
+If you are within a spell’s area of effect, the spell can affect you.
 
 ### Areas of Effect
 
-Spells like _[<span class="spell">Burning Hands</span>](#Burning_Hands_burning_hands)_ and _[<span class="spell">Cone of Cold</span>](#Cone_of_Cold_cone_of_cold)_ cover an area, affecting multiple creatures.
+Spells like _<span class="spell spell-Burning_Hands_burning_hands">Burning Hands</span>_ and _<span class="spell spell-Cone_of_Cold_cone_of_cold">Cone of Cold</span>_ cover an area, affecting multiple creatures.
 The spell’s description specifies its area of effect, which can be a cone, cube, cylinder, line, or sphere.
 Each shape has a point of origin, from which the spell’s energy erupts.
 The rules specify how to position the point of origin.
 It’s usually a point in space, but some spells have a creature or object as the origin.
-The effect expands in straight lines from the origin.
-If no unblocked line extends to the area, that location isn’t included.
-To block one of these lines, an obstruction must provide total cover.
+The effect expands in straight lines from the point of origin. A location is included in the area only if at least one unblocked straight line extends from the origin to that location. An obstruction must provide total cover to block such a line.
 
 ### Cone
 
@@ -207,11 +199,8 @@ A cube’s point of origin is not included in the cube’s area of effect, unles
 
 #### Cylinder
 
-A cylinder’s origin is the center of a circle of a specific radius, as per the spell description.
-The circle must be on the ground or at the spell’s effect height.
-Energy expands in straight lines from the origin to the circle’s perimeter, forming the cylinder’s base.
-The spell’s effect shoots up or down from the base or top to the cylinder’s height.
-The point of origin is included in the area of effect.
+
+A cylinder’s point of origin is the center of a circle with the radius given in the spell’s description. The circle must be either on the ground or at the height of the spell’s effect. Energy expands in straight lines from the point of origin to the circle’s perimeter, forming the cylinder’s base. The effect then extends upward from the base or downward from the top for a distance equal to the cylinder’s height. The point of origin is included in the area of effect.
 
 #### Line
 
@@ -229,7 +218,7 @@ A sphere’s point of origin is included in the sphere’s area of effect.
 Many spells allow targets to make a saving throw to avoid some or all of their effects.
 The spell specifies the ability used for the save and the outcome of a success or failure.
 
-The DC to resist a spell equals 8 + your spellcasting ability modifier + proficiency bonus + any special modifiers.
+The DC to resist a spell equals 8 + your spellcasting ability modifier + your proficiency bonus + any special modifiers.
 
 ### Attack Rolls
 
@@ -238,7 +227,7 @@ Your spell attack bonus equals your spellcasting ability modifier plus your prof
 Most spell attack rolls involve ranged attacks.
 You have disadvantage on a ranged attack roll if you’re within 5 feet of a hostile creature that can pinpoint you and isn’t incapacitated.
 
-### The Schools of Magic <!-- In the WotC SRD, this is an info box. -->
+### The Schools of Magic
 
 Academies of magic group spells into eight schools of magic, believing that all magic functions similarly, regardless of its source.
 Scholars, especially Wizards, apply these categories to all spells.
@@ -263,32 +252,13 @@ Some create phantom images, while others plant images directly in minds.
 
 **Necromancy** spells manipulate life and death energies.
 They grant life force reserves, drain life, create undead, or resurrect the dead.
-Creating undead through _[<span class="spell">Animate Dead</span>](#Animate_Dead_animate_dead)_ is evil and rarely used.
+Creating undead through _<span class="spell spell-Animate_Dead_animate_dead">Animate Dead</span>_ is evil and rarely used.
 
 **Transmutation** spells change properties, turning enemies into harmless creatures, bolstering allies, making objects move at will, or enhancing healing.
 
 ### Combining Magical Effects
 
-The effects of different spells combine while their durations overlap.
-However, the most potent effect from multiple castings applies while their durations overlap.
-For instance, if two Clerics cast _[<span class="spell">Bless</span>](#Bless_bless)_ on the same target, the character gains the spell’s benefit only once, not twice.
+The effects of different spells combine while their durations overlap. The effects of the same spell cast multiple times do not combine; while their durations overlap, only the most potent effect applies.
+For instance, if two Clerics cast _<span class="spell spell-Bless_bless">Bless</span>_ on the same target, the character gains the spell’s benefit only once, not twice.
 
 ## Spell Lists
-
-[Bard Spells](./Spell_Lists/Bard_Spells.md)
-
-[Cleric Spells](./Spell_Lists/Cleric_Spells.md)
-
-[Ranger Spells](./Spell_Lists/Ranger_Spells.md)
-
-[Sorcerer Spells](./Spell_Lists/Sorcerer_Spells.md)
-
-[Vanguard Spells](./Spell_Lists/Vanguard_Spells.md)
-
-[Warlock Spells](./Spell_Lists/Warlock_Spells.md)
-
-[Wizard Spells](./Spell_Lists/Wizard_Spells.md)
-
-[Wodewose Spells](./Spell_Lists/Wodewose_Spells.md)
-
-[**Spell Descriptions**](./Spell_Descriptions.md)

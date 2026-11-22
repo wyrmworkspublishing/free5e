@@ -1,7 +1,6 @@
-## Conditions
+# Conditions
 
-Conditions temporarily alter a creature’s capabilities, arising from spells, class features, monster attacks, or other effects.
-Most impairments, like blinded, but some advantages, like invisible, exist.
+Conditions temporarily alter a creature’s capabilities, arising from spells, class features, monster attacks, or other effects. Most conditions impair a creature, though some can provide benefits in certain situations.
 
 Conditions last until countered or specified duration.
 Multiple effects impose the same condition, each with its duration, but effects don’t worsen.
@@ -9,29 +8,29 @@ A creature has a condition or not.
 
 These definitions specify what happens to a creature under a condition.
 
-### Bloodied (Variant Rule)
+## Bloodied (Variant Rule)
 
-- A creature is bloodied when reduced to half of its maximum hit points or less.
+* A creature is bloodied when reduced to half of its maximum hit points or less.
 
-### Charmed
+## Charmed
 
-- A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
-- The charmer has advantage on any ability check to interact socially with the creature.
+* A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
+* The charmer has advantage on any ability check to interact socially with the creature.
 
-### Exhaustion
+## Exhaustion
 
 Some special abilities and environmental hazards, such as starvation and the long-term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion.
 Exhaustion is measured in six levels.
 An effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.
 
-| Level | Effect                                         |
-|------:|:-----------------------------------------------|
-|     1 | Disadvantage on ability checks                 |
-|     2 | Speed halved                                   |
-|     3 | Disadvantage on attack rolls and saving throws |
-|     4 | Hit point maximum halved                       |
-|     5 | Speed reduced to 0                             |
-|     6 | Death                                          |
+| Level | Effect |
+| --: | :-- |
+| 1 | Disadvantage on ability checks |
+| 2 | Speed halved |
+| 3 | Disadvantage on attack rolls and saving throws |
+| 4 | Hit point maximum halved |
+| 5 | Speed reduced to 0 |
+| 6 | Death |
 
 If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect’s description.
 
@@ -42,111 +41,99 @@ An effect that removes exhaustion reduces its level as specified in the effect�
 
 Finishing a long rest reduces a creature’s exhaustion level by 1, provided that the creature has also ingested some food and drink.
 
-### Frightened
+## Frightened
 
-- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
-- The creature can’t willingly move closer to the source of its fear.
+* A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+* The creature can’t willingly move closer to the source of its fear.
 
-### Grappled
+## Grappled
 
-- A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
-- The condition ends if the grappler is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition).
-- The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the _[<span class="spell">Thunderwave</span>](#Thunderwave_thunderwave)_ spell.
+* A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
+* The condition ends if the grappler is _<span class="condition condition-Conditions_incapacitated">incapacitated</span>_ (see the condition).
+* The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the _<span class="spell spell-Thunderwave_thunderwave">Thunderwave</span>_ spell.
 
-### Impaired
+## Impaired
 
-When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of [parasense](#Exploration_Environment_parasense)).
+When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of [parasense](#parasense)).
 
-- Ability checks that rely on the affected sense are made with disadvantage.
-- If this condition impairs all of your precise senses, you make attack rolls with a –2 penalty.
-  (Depending on the extent of the impairment, the Conductor might adjust the penalty from –1 to –5.)
-- Passive scores that rely on the affected sense are reduced by 5.
+* Ability checks that rely on the affected sense are made with disadvantage.
+* If this condition impairs all of your precise senses, you make attack rolls with a --2 penalty.
+(Depending on the extent of the impairment, the Conductor might adjust the penalty from --1 to --5.)
+* Passive scores that rely on the affected sense are reduced by 5.
 
-### Imperceptible
+## Imperceptible
 
-This condition always relates to a specific sense, which may be a specific form of [parasense](#Exploration_Environment_parasense).
+This condition always relates to a specific sense, which may be a specific form of [parasense](#parasense).
 Some common types of imperceptibility are:
 
-- _Imperceptible (sight)_, also called _invisible_
-- _Imperceptible (hearing)_, also called _inaudible_
-- _Imperceptible (smell)_, also called _odorless_
+* _Imperceptible (sight)_, also called _invisible_
+* _Imperceptible (hearing)_, also called _inaudible_
+* _Imperceptible (smell)_, also called _odorless_
 
 When a something is _Imperceptible_ to a parasense, it must always relate to a specific secondary sense.
-For example, a creature could have the condition _Imperceptible (parasense: electrolocation)_ and hide from a <span class="monster monster-Giant_Shark_giant_shark">giant sharks'</span> electric sense, or _Imperceptible (parasense: auditory echolocation)_ and thereby hide from a <span class="monster monster-Bat_bat">bat's</span> echolocation.
+For example, a creature could have the condition _Imperceptible (parasense: electrolocation)_ and hide from a giant sharks' electric sense, or _Imperceptible (parasense: auditory echolocation)_ and thereby hide from a bat’s echolocation.
 
 A creature can benefit from one or several forms of the _Imperceptible_ condition at the same time.
 The following rules are valid for each individual case:
 
-- An imperceptible creature is impossible to pinpoint by the sense in question without the aid of magic or a special sense.
-  For the purpose of hiding, the creature is [heavily obscured](#Exploration_Environment_senses_and_awareness).
-  The creature’s location can be detected by things detectable by other senses, e.g. noises an invisible creature makes or any tracks it leaves.
-- Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
-- A creature cannot benefit from this condition if it is perceived by any accurate sense.
-  So for example, a <span class="monster monster-Bat_bat">bat</span> using auditory echolocation could ignore the _Imperceptible (sight)_ condition of another creature.
+* An imperceptible creature is impossible to pinpoint by the sense in question without the aid of magic or a special sense.
+For the purpose of hiding, the creature is [heavily obscured](#senses-and-awareness).
+The creature’s location can be detected by things detectable by other senses, e.g. noises an invisible creature makes or any tracks it leaves.
+* Attack rolls against the creature have disadvantage, and the creature’s attack rolls have advantage.
+* A creature cannot benefit from this condition if it is perceived by any accurate sense.
+So for example, a bat using auditory echolocation could ignore the _Imperceptible (sight)_ condition of another creature.
 
-### <a id="Conditions_incapacitated"></a>Incapacitated
+## Incapacitated
 
-- An incapacitated creature can’t take actions or reactions.
+* An incapacitated creature can’t take actions or reactions.
 
-### Nullified
+## Nullified
 
-> **Note:**
-> This condition is not the same as being blind or deaf, the permanent disabilities, as most of the disadvantage is due to sudden changes without time to adapt to them.
-> Blind and deaf creatures are more accustomed to using their other senses, and these disabilities each have a spectrum of experiences.
+**📌 NOTE**\
 
-When you gain this condition, it applies to one or more specific senses (such as sight, hearing, or a type of [parasense](#Exploration_Environment_parasense)).
+This condition represents a sudden or temporary loss of access to a sense, not the lived experience of a sensory disability. A creature accustomed to limited or no access to a sense may use adaptations, training, or assistive tools that make these rules inappropriate; the Conductor and player should use rules that fit that character.
+## Paralyzed
 
-- You cannot use the affected sense and automatically fail any ability check that relies on it.
-- If this condition blocks all of your precise senses, you have disadvantage on attack rolls, and attack rolls against you have advantage.
-- If a supporting sense is _nullified_, dependent parasenses are also _nullified_ (e.g., _nullified (hearing)_ also nullifies auditory echolocation).
+**📌 NOTE**\
 
-### Paralyzed
+This condition represents a sudden or temporary loss of voluntary movement, not the lived experience of paralysis as a disability. A character who lives with paralysis may use adaptations, training, or assistive tools that make these rules inappropriate.
+## Petrified
 
-> **Note:**
-> This condition is not the same as paralysis, the permanent disability, as paralysis has a spectrum of experiences, and people with this disability learn to adapt in creative ways to accomplish their goals.
+* A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone).
+Its weight increases by a factor of ten, and it ceases aging.
+* The creature is _<span class="condition condition-Conditions_incapacitated">incapacitated</span>_ (see the condition), can’t move or speak, and is unaware of its surroundings.
+* Attack rolls against the creature have advantage.
+* The creature automatically fails Strength and Dexterity saving throws.
+* The creature has resistance to all damage.
+* The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
 
-- A paralyzed creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition) and can’t move or speak.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+## Poisoned
 
-### Petrified
+* A poisoned creature has disadvantage on attack rolls and ability checks.
 
-- A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone).
-  Its weight increases by a factor of ten, and it ceases aging.
-- The creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition), can’t move or speak, and is unaware of its surroundings.
-- Attack rolls against the creature have advantage.
-- The creature automatically fails Strength and Dexterity saving throws.
-- The creature has resistance to all damage.
-- The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.
+## Prone
 
-### Poisoned
+* A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
+* The creature has disadvantage on attack rolls.
+* An attack roll against the creature has advantage if the attacker is within 5 feet of the creature.
+Otherwise, the attack roll has disadvantage.
 
-- A poisoned creature has disadvantage on attack rolls and ability checks.
+## Restrained
 
-### Prone
+* A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
+* Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
+* The creature has disadvantage on Dexterity saving throws.
 
-- A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.
-- The creature has disadvantage on attack rolls.
-- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature.
-  Otherwise, the attack roll has disadvantage.
+## Stunned
 
-### Restrained
+* A stunned creature is _<span class="condition condition-Conditions_incapacitated">incapacitated</span>_ (see the condition), can’t move, and can speak only falteringly.
+* The creature automatically fails Strength and Dexterity saving throws.
+* Attack rolls against the creature have advantage.
 
-- A restrained creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
-- Attack rolls against the creature have advantage, and the creature’s attack rolls have disadvantage.
-- The creature has disadvantage on Dexterity saving throws.
+## Unconscious
 
-### Stunned
-
-- A stunned creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition), can’t move, and can speak only falteringly.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
-
-### Unconscious
-
-- An unconscious creature is _[<span class="condition">incapacitated</span>](#Conditions_incapacitated)_ (see the condition), can’t move or speak, and is unaware of its surroundings
-- The creature drops whatever it’s holding and falls prone.
-- The creature automatically fails Strength and Dexterity saving throws.
-- Attack rolls against the creature have advantage.
-- Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.
+* An unconscious creature is _<span class="condition condition-Conditions_incapacitated">incapacitated</span>_ (see the condition), can’t move or speak, and is unaware of its surroundings.
+* The creature drops whatever it’s holding and falls prone.
+* The creature automatically fails Strength and Dexterity saving throws.
+* Attack rolls against the creature have advantage.
+* Any attack that hits the creature is a critical hit if the attacker is within 5 feet of the creature.

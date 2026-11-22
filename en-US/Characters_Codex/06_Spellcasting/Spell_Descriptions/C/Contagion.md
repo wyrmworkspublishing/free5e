@@ -1,28 +1,10 @@
-#### Contagion
-<!-- markdownlint-disable link-image-reference-definitions -->
-[_metadata_:spell_name]:- "Contagion"
-[_metadata_:spell_level]:- "5"
-[_metadata_:spell_school]:- "necromancy"
-[_metadata_:ritual]:- "false"
-[_metadata_:casting_time_amount]:- "1"
-[_metadata_:casting_time_unit]:- "action"
-[_metadata_:range]:- "Touch"
-[_metadata_:target]:- "One creature"
-[_metadata_:components_verbal]:- "false"
-[_metadata_:components_somatic]:- "false"
-[_metadata_:components_material]:- "false"
-[_metadata_:duration]:- "7 days"
-[_metadata_:concentration]:- "false"
-[_metadata_:saving_throw]:- "Constitution"
-[_metadata_:saving_throw_success]:- "ends_effect"
-[_metadata_:compared_to_wotc_srd_5.1]:- "mechanics_same_wording_different"
-[_metadata_:compared_to_a5e_srd]:- "mechanics_same_wording_different"
-<!-- markdownlint-disable-next-line no-emphasis-as-heading -->
+# Contagion
+
 _5th-level necromancy_
 
-**Casting Time:** 1 action \
-**Range:** Touch \
-**Component:** V, S \
+**Casting Time:** 1 action\
+**Range:** Touch\
+Components: V, S
 **Duration:** 7 days
 
 Make a melee spell attack against a creature.
@@ -30,21 +12,20 @@ On a hit, the target contracts a disease chosen from the list below.
 
 The target must make a Constitution saving throw at the end of each of its turns.
 After three failed saves, the disease lasts for the duration and the creature stops making saves, or after three successful saves, the creature recovers and the spell ends.
-A _[<span class="spell">Greater Restoration</span>](#Greater_Restoration_greater_restoration)_ spell or similar effect also ends the disease.
+A _<span class="spell spell-Greater_Restoration_greater_restoration">Greater Restoration</span>_ spell or similar effect also ends the disease.
 
-<!-- spell-checker:words Mindfire -->
-- **Omen Plague.**
-  Illusory portents cloud the target's vision.
-  It is _[<span class="condition">nullified (sight)</span>](#Conditions_nullified)_ and has disadvantage on Wisdom checks and Wisdom saving throws.
-- **Filth Fever.**
-  The target has disadvantage when using Strength for an ability check, attack roll, or saving throw.
-- **Flesh Rot.**
-  The target has disadvantage on Charisma ability checks and becomes vulnerable to all damage.
-- **Mindfire.**
-  During combat the target is confused (as if under the effects of the _[<span class="spell">Confusion</span>](#Confusion_confusion)_ spell), and it has disadvantage when using Intelligence for an ability check or saving throw.
-- **Rattling Cough.**
-  The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
-- **Slimy Doom.**
-  The target bleeds uncontrollably.
-  It has disadvantage when using Constitution for an ability check or saving throw.
-  Whenever it takes damage, the target is _[<span class="condition">stunned</span>](#Conditions_stunned)_ until the end of its next turn.
+* **Omen Plague.**
+Illusory portents cloud the target’s vision.
+It is _<span class="condition condition-Conditions_nullified">nullified (sight)</span>_ and has disadvantage on Wisdom checks and Wisdom saving throws.
+* **Filth Fever.**
+The target has disadvantage when using Strength for an ability check, attack roll, or saving throw.
+* **Flesh Rot.**
+The target has disadvantage on ability checks using Charisma and becomes vulnerable to all damage.
+* **Mindfire.**
+During combat the target is confused (as if under the effects of the _<span class="spell spell-Confusion_confusion">Confusion</span>_ spell), and it has disadvantage when using Intelligence for an ability check or saving throw.
+* **Rattling Cough.**
+The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
+* **Slimy Doom.**
+The target bleeds uncontrollably.
+It has disadvantage when using Constitution for an ability check or saving throw.
+Whenever it takes damage, the target is _<span class="condition condition-Conditions_stunned">stunned</span>_ until the end of its next turn.

@@ -1,244 +1,251 @@
-### Wizard Spells
-<!-- Since Wizards have ritual casting, all ritual spells are marked as such. -->
+# Wizard Spells
 
-#### Cantrips (0 Level)
+## Cantrips (0 Level)
 
-- [Acid Splash](#Acid_Splash_acid_splash)
-- [Chill Touch](#Chill_Touch_chill_touch)
-- [Dancing Lights](#Dancing_Lights_dancing_lights) (concentration)
-- [Fire Bolt](#Fire_Bolt_fire_bolt)
-- [Friends](#Friends_friends)
-- [Light](#Light_light)
-- [Mage Hand](#Mage_Hand_mage_hand)
-- [Mending](#Mending_mending)
-- [Message](#Message_message)
-- [Minor Illusion](#Minor_Illusion_minor_illusion)
-- [Poison Spray](#Poison_Spray_poison_spray)
-- [Prestidigitation](#Prestidigitation_prestidigitation)
-- [Ray of Frost](#Ray_of_Frost_ray_of_frost)
-- [Shocking Grasp](#Shocking_Grasp_shocking_grasp)
-- [True Strike](#True_Strike_true_strike) (concentration)
+* <span class="spell spell-Acid_Splash_acid_splash">Acid Splash</span>
+* <span class="spell spell-Chill_Touch_chill_touch">Chill Touch</span>
+* <span class="spell spell-Dancing_Lights_dancing_lights">Dancing Lights</span> (concentration)
+* <span class="spell spell-Fire_Bolt_fire_bolt">Fire Bolt</span>
+* <span class="spell spell-Friends_friends">Friends</span>
+* <span class="spell spell-Light_light">Light</span>
+* <span class="spell spell-Mage_Hand_mage_hand">Mage Hand</span>
+* <span class="spell spell-Mending_mending">Mending</span>
+* <span class="spell spell-Message_message">Message</span>
+* <span class="spell spell-Minor_Illusion_minor_illusion">Minor Illusion</span>
+* <span class="spell spell-Poison_Spray_poison_spray">Poison Spray</span>
+* <span class="spell spell-Prestidigitation_prestidigitation">Prestidigitation</span>
+* <span class="spell spell-Ray_of_Frost_ray_of_frost">Ray of Frost</span>
+* <span class="spell spell-Shocking_Grasp_shocking_grasp">Shocking Grasp</span>
+* <span class="spell spell-True_Strike_true_strike">True Strike</span> (concentration)
 
-#### 1st Level
+## 1st Level
 
-- [Alarm](#Alarm_alarm) (ritual)
-- [Burning Hands](#Burning_Hands_burning_hands)
-- [Charm Person](#Charm_Person_charm_person)
-- [Color Spray](#Color_Spray_color_spray)
-- [Comprehend Languages](#Comprehend_Languages_comprehend_languages) (ritual)
-- [Detect Magic](#Detect_Magic_detect_magic) (ritual, concentration)
-- [Disguise Self](#Disguise_Self_disguise_self)
-- [Expeditious Retreat](#Expeditious_Retreat_expeditious_retreat) (concentration)
-- [False Life](#False_Life_false_life)
-- [Feather Fall](#Feather_Fall_feather_fall)
-- [Find Familiar](#Find_Familiar_find_familiar) (ritual)
-- [Fog Cloud](#Fog_Cloud_fog_cloud) (concentration)
-- [Grease](#Grease_grease)
-- [Identify](#Identify_identify) (ritual)
-- [Illusory Script](#Illusory_Script_illusory_script) (ritual)
-- [Iz’zart's Swarm Limb](#Izzarts_Swarm_Limb_izzarts_swarm_limb)
-- [Jump](#Jump_jump)
-- [Longstrider](#Longstrider_longstrider)
-- [Mage Armor](#Mage_Armor_mage_armor)
-- [Magic Missile](#Magic_Missile_magic_missile)
-- [Paoliello's Hideous Laughter](#Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter) <!-- previously "Hideous Laughter" --> (concentration)
-- [Pelham's Hovering Platter](#Pelhams_Hovering_Platter_pelhams_hovering_platter) <!-- previously "Floating Disk" --> (ritual)
-- [Protection from Evil and Good](#Protection_from_Evil_and_Good_protection_from_evil_and_good) (concentration)
-- [Shield](#Shield_shield)
-- [Silent Image](#Silent_Image_silent_image) (concentration)
-- [Sleep](#Sleep_sleep)
-- [Thunderwave](#Thunderwave_thunderwave)
-- [Unseen Servant](#Unseen_Servant_unseen_servant) (ritual)
+* <span class="spell spell-Alarm_alarm">Alarm</span> (ritual)
+* <span class="spell spell-Burning_Hands_burning_hands">Burning Hands</span>
+* <span class="spell spell-Charm_Person_charm_person">Charm Person</span>
+* <span class="spell spell-Color_Spray_color_spray">Color Spray</span>
+* <span class="spell spell-Comprehend_Languages_comprehend_languages">Comprehend Languages</span> (ritual)
+* <span class="spell spell-Detect_Magic_detect_magic">Detect Magic</span> (ritual, concentration)
+* <span class="spell spell-Disguise_Self_disguise_self">Disguise Self</span>
+* <span class="spell spell-Expeditious_Retreat_expeditious_retreat">Expeditious Retreat</span> (concentration)
+* <span class="spell spell-False_Life_false_life">False Life</span>
+* <span class="spell spell-Feather_Fall_feather_fall">Feather Fall</span>
+* <span class="spell spell-Find_Familiar_find_familiar">Find Familiar</span> (ritual)
+* <span class="spell spell-Fog_Cloud_fog_cloud">Fog Cloud</span> (concentration)
+* <span class="spell spell-Grease_grease">Grease</span>
+* <span class="spell spell-Identify_identify">Identify</span> (ritual)
+* <span class="spell spell-Illusory_Script_illusory_script">Illusory Script</span> (ritual)
+* <span class="spell spell-Izzarts_Swarm_Limb_izzarts_swarm_limb">Iz’zart’s Swarm Limb</span>
+* <span class="spell spell-Jump_jump">Jump</span>
+* <span class="spell spell-Longstrider_longstrider">Longstrider</span>
+* <span class="spell spell-Mage_Armor_mage_armor">Mage Armor</span>
+* <span class="spell spell-Magic_Missile_magic_missile">Magic Missile</span>
+* <span class="spell spell-Paoliellos_Hideous_Laughter_paoliellos_hideous_laughter">Paoliello’s Hideous Laughter</span>
+(concentration)
+* <span class="spell spell-Pelhams_Hovering_Platter_pelhams_hovering_platter">Pelham’s Hovering Platter</span>
+(ritual)
+* <span class="spell spell-Protection_from_Evil_and_Good_protection_from_evil_and_good">Protection from Evil and Good</span> (concentration)
+* <span class="spell spell-Shield_shield">Shield</span>
+* <span class="spell spell-Silent_Image_silent_image">Silent Image</span> (concentration)
+* <span class="spell spell-Sleep_sleep">Sleep</span>
+* <span class="spell spell-Thunderwave_thunderwave">Thunderwave</span>
+* <span class="spell spell-Unseen_Servant_unseen_servant">Unseen Servant</span> (ritual)
 
-#### 2nd Level
+## 2nd Level
 
-- [Alter Self](#Alter_Self_alter_self) (concentration)
-- [Arcane Lock](#Arcane_Lock_arcane_lock)
-- [Augury](#Augury_augury) (ritual)
-- [Blur](#Blur_blur) (concentration)
-- [Bragolbeleg's Acid Bolt](#Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt) <!-- previously "Acid Arrow" -->
-- [Continual Flame](#Continual_Flame_continual_flame)
-- [Darkness](#Darkness_darkness) (concentration)
-- [Darkvision](#Darkvision_darkvision)
-- [Detect Thoughts](#Detect_Thoughts_detect_thoughts) (concentration)
-- [DT's Magic Aura](#DTs_Magic_Aura_dts_magic_aura) <!-- previously "Arcanist's Magic Aura --> (concentration)
-- [Enhance Ability](#Enhance_Ability_enhance_ability) (concentration)
-- [Enlarge/Reduce](#Enlarge_Reduce_enlargereduce) (concentration)
-- [Flaming Sphere](#Flaming_Sphere_flaming_sphere) (concentration)
-- [Gentle Repose](#Gentle_Repose_gentle_repose) (ritual)
-- [Gust of Wind](#Gust_of_Wind_gust_of_wind) (concentration)
-- [Hold Person](#Hold_Person_hold_person) (concentration)
-- [Imperceptibility](#Imperceptibility_imperceptibility) (concentration) <!-- previously "Invisibility" -->
-- [Knock](#Knock_knock)
-- [Levitate](#Levitate_levitate) (concentration)
-- [Locate Object](#Locate_Object_locate_object) (concentration)
-- [Magic Mouth](#Magic_Mouth_magic_mouth) (ritual)
-- [Magic Weapon](#Magic_Weapon_magic_weapon) (concentration)
-- [Mirror Image](#Mirror_Image_mirror_image)
-- [Misty Step](#Misty_Step_misty_step)
-- [Nullify Sense](#Nullify_Sense_nullify_sense) <!-- previously "Blindness/Deafness" -->
-- [Perceive the Imperceptible](#Perceive_the_Imperceptible_perceive_the_imperceptible) <!-- previously "See Invisibility" -->
-- [Ray of Enfeeblement](#Ray_of_Enfeeblement_ray_of_enfeeblement) (concentration)
-- [Rope Trick](#Rope_Trick_rope_trick)
-- [Scorching Ray](#Scorching_Ray_scorching_ray)
-- [Shatter](#Shatter_shatter)
-- [Spider Climb](#Spider_Climb_spider_climb) (concentration)
-- [Suggestion](#Suggestion_suggestion) (concentration)
-- [Web](#Web_web) (concentration)
+* <span class="spell spell-Alter_Self_alter_self">Alter Self</span> (concentration)
+* <span class="spell spell-Arcane_Lock_arcane_lock">Arcane Lock</span>
+* <span class="spell spell-Augury_augury">Augury</span> (ritual)
+* <span class="spell spell-Blur_blur">Blur</span> (concentration)
+* <span class="spell spell-Bragolbelegs_Acid_Bolt_bragolbelegs_acid_bolt">Bragolbeleg’s Acid Bolt</span>
+* <span class="spell spell-Continual_Flame_continual_flame">Continual Flame</span>
+* <span class="spell spell-Darkness_darkness">Darkness</span> (concentration)
+* <span class="spell spell-Darkvision_darkvision">Darkvision</span>
+* <span class="spell spell-Detect_Thoughts_detect_thoughts">Detect Thoughts</span> (concentration)
+<span class="spell spell-DTs_Magic_Aura_dts_magic_aura">DT’s Magic Aura</span>
+* <span class="spell spell-Enhance_Ability_enhance_ability">Enhance Ability</span> (concentration)
+* [Enlarge/Reduce](#enlarge/reduce) (concentration)
+* <span class="spell spell-Flaming_Sphere_flaming_sphere">Flaming Sphere</span> (concentration)
+* <span class="spell spell-Gentle_Repose_gentle_repose">Gentle Repose</span> (ritual)
+* <span class="spell spell-Gust_of_Wind_gust_of_wind">Gust of Wind</span> (concentration)
+* <span class="spell spell-Hold_Person_hold_person">Hold Person</span> (concentration)
+* <span class="spell spell-Imperceptibility_imperceptibility">Imperceptibility</span> (concentration)
+* <span class="spell spell-Knock_knock">Knock</span>
+* <span class="spell spell-Levitate_levitate">Levitate</span> (concentration)
+* <span class="spell spell-Locate_Object_locate_object">Locate Object</span> (concentration)
+* <span class="spell spell-Magic_Mouth_magic_mouth">Magic Mouth</span> (ritual)
+* <span class="spell spell-Magic_Weapon_magic_weapon">Magic Weapon</span> (concentration)
+* <span class="spell spell-Mirror_Image_mirror_image">Mirror Image</span>
+* <span class="spell spell-Misty_Step_misty_step">Misty Step</span>
+* <span class="spell spell-Nullify_Sense_nullify_sense">Nullify Sense</span>
+* <span class="spell spell-Perceive_the_Imperceptible_perceive_the_imperceptible">Perceive the Imperceptible</span>
+* <span class="spell spell-Ray_of_Enfeeblement_ray_of_enfeeblement">Ray of Enfeeblement</span> (concentration)
+* <span class="spell spell-Rope_Trick_rope_trick">Rope Trick</span>
+* <span class="spell spell-Scorching_Ray_scorching_ray">Scorching Ray</span>
+* <span class="spell spell-Shatter_shatter">Shatter</span>
+* <span class="spell spell-Spider_Climb_spider_climb">Spider Climb</span> (concentration)
+* <span class="spell spell-Suggestion_suggestion">Suggestion</span> (concentration)
+* <span class="spell spell-Web_web">Web</span> (concentration)
 
-#### 3rd Level
+## 3rd Level
 
-- [Animate Dead](#Animate_Dead_animate_dead)
-- [Bestow Curse](#Bestow_Curse_bestow_curse) (concentration)
-- [Blink](#Blink_blink)
-- [Clairvoyance](#Clairvoyance_clairvoyance) (concentration)
-- [Counterspell](#Counterspell_counterspell)
-- [Dispel Magic](#Dispel_Magic_dispel_magic)
-- [Fear](#Fear_fear) (concentration)
-- [Fireball](#Fireball_fireball)
-- [Fly](#Fly_fly) (concentration)
-- [Gaseous Form](#Gaseous_Form_gaseous_form) (concentration)
-- [Glyph of Warding](#Glyph_of_Warding_glyph_of_warding)
-- [Haste](#Haste_haste) (concentration)
-- [Hypnotic Pattern](#Hypnotic_Pattern_hypnotic_pattern) (concentration)
-- [Lightning Bolt](#Lightning_Bolt_lightning_bolt)
-- [Magic Circle](#Magic_Circle_magic_circle)
-- [Major Image](#Major_Image_major_image) (concentration)
-- [Melestrua's Marvelous Marquee](#Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee) <!-- previously "Tiny Hut" --> (ritual)
-- [Nondetection](#Nondetection_nondetection)
-- [Phantom Steed](#Phantom_Steed_phantom_steed) (ritual)
-- [Protection from Energy](#Protection_from_Energy_protection_from_energy) (concentration)
-- [Question the Dead](#Question_the_Dead_question_the_dead) <!-- previously "Speak with Dead" -->
-- [Remove Curse](#Remove_Curse_remove_curse)
-- [Sending](#Sending_sending)
-- [Sleet Storm](#Sleet_Storm_sleet_storm) (concentration)
-- [Slow](#Slow_slow) (concentration)
-- [Stinking Cloud](#Stinking_Cloud_stinking_cloud) (concentration)
-- [Tongues](#Tongues_tongues)
-- [Vampiric Touch](#Vampiric_Touch_vampiric_touch) (concentration)
-- [Water Breathing](#Water_Breathing_water_breathing) (ritual)
+* <span class="spell spell-Animate_Dead_animate_dead">Animate Dead</span>
+* <span class="spell spell-Bestow_Curse_bestow_curse">Bestow Curse</span> (concentration)
+* <span class="spell spell-Blink_blink">Blink</span>
+* <span class="spell spell-Clairvoyance_clairvoyance">Clairvoyance</span> (concentration)
+* <span class="spell spell-Counterspell_counterspell">Counterspell</span>
+* <span class="spell spell-Dispel_Magic_dispel_magic">Dispel Magic</span>
+* <span class="spell spell-Fear_fear">Fear</span> (concentration)
+* <span class="spell spell-Fireball_fireball">Fireball</span>
+* <span class="spell spell-Fly_fly">Fly</span> (concentration)
+* <span class="spell spell-Gaseous_Form_gaseous_form">Gaseous Form</span> (concentration)
+* <span class="spell spell-Glyph_of_Warding_glyph_of_warding">Glyph of Warding</span>
+* <span class="spell spell-Haste_haste">Haste</span> (concentration)
+* <span class="spell spell-Hypnotic_Pattern_hypnotic_pattern">Hypnotic Pattern</span> (concentration)
+* <span class="spell spell-Lightning_Bolt_lightning_bolt">Lightning Bolt</span>
+* <span class="spell spell-Magic_Circle_magic_circle">Magic Circle</span>
+* <span class="spell spell-Major_Image_major_image">Major Image</span> (concentration)
+* <span class="spell spell-Melestruas_Marvelous_Marquee_melestruas_marvelous_marquee">Melestrua’s Marvelous Marquee</span>
+(ritual)
+* <span class="spell spell-Nondetection_nondetection">Nondetection</span>
+* <span class="spell spell-Phantom_Steed_phantom_steed">Phantom Steed</span> (ritual)
+* <span class="spell spell-Protection_from_Energy_protection_from_energy">Protection from Energy</span> (concentration)
+* <span class="spell spell-Question_the_Dead_question_the_dead">Question the Dead</span>
+* <span class="spell spell-Remove_Curse_remove_curse">Remove Curse</span>
+* <span class="spell spell-Sending_sending">Sending</span>
+* <span class="spell spell-Sleet_Storm_sleet_storm">Sleet Storm</span> (concentration)
+* <span class="spell spell-Slow_slow">Slow</span> (concentration)
+* <span class="spell spell-Stinking_Cloud_stinking_cloud">Stinking Cloud</span> (concentration)
+* <span class="spell spell-Tongues_tongues">Tongues</span>
+* <span class="spell spell-Vampiric_Touch_vampiric_touch">Vampiric Touch</span> (concentration)
+* <span class="spell spell-Water_Breathing_water_breathing">Water Breathing</span> (ritual)
 
-#### 4th Level
+## 4th Level
 
-- [Arcane Eye](#Arcane_Eye_arcane_eye) (concentration)
-- [Banishment](#Banishment_banishment) (concentration)
-- [Blight](#Blight_blight)
-- [Cerilsen's Secret Chest](#Cerilsens_Secret_Chest_cerilsens_secret_chest) <!-- previously "Secret Chest" -->
-- [Charm Monster](#Charm_Monster_charm_monster)
-- [Chloe's Faithful Hound](#Chloes_Faithful_Hound_chloes_faithful_hound) <!-- previously "Faithful Hound" -->
-- [Confusion](#Confusion_confusion) (concentration)
-- [Conjure Minor Elementals](#Conjure_Minor_Elementals_conjure_minor_elementals) (concentration)
-- [Control Water](#Control_Water_control_water) (concentration)
-- [Coreador's Black Tentacles](#Coreadors_Black_Tentacles_coreadors_black_tentacles) <!-- previously "Black Tentacles" --> (concentration)
-- [Dimension Door](#Dimension_Door_dimension_door)
-- [Divination](#Divination_divination) (ritual)
-- [Fabricate](#Fabricate_fabricate)
-- [Fire Shield](#Fire_Shield_fire_shield)
-- [Greater Imperceptibility](#Greater_Imperceptibility_greater_imperceptibility) (concentration) <!-- previously "Greater Invisibility" -->
-- [Hallucinatory Terrain](#Hallucinatory_Terrain_hallucinatory_terrain)
-- [Ice Storm](#Ice_Storm_ice_storm)
-- [Jess's Private Sanctum](#Jesss_Private_Sanctum_jesss_private_sanctum) <!-- previously "Private Sanctum" -->
-- [Locate Creature](#Locate_Creature_locate_creature) (concentration)
-- [Phantasmal Killer](#Phantasmal_Killer_phantasmal_killer) (concentration)
-- [Polymorph](#Polymorph_polymorph) (concentration)
-- [Resilient Sphere](#Resilient_Sphere_resilient_sphere) <!-- Might be renamed --> (concentration)
-- [Stone Shape](#Stone_Shape_stone_shape)
-- [Stoneskin](#Stoneskin_stoneskin) (concentration)
-- [Wall of Fire](#Wall_of_Fire_wall_of_fire) (concentration)
+* <span class="spell spell-Arcane_Eye_arcane_eye">Arcane Eye</span> (concentration)
+* <span class="spell spell-Banishment_banishment">Banishment</span> (concentration)
+* <span class="spell spell-Blight_blight">Blight</span>
+* <span class="spell spell-Cerilsens_Secret_Chest_cerilsens_secret_chest">Cerilsen’s Secret Chest</span>
+* <span class="spell spell-Charm_Monster_charm_monster">Charm Monster</span>
+* <span class="spell spell-Chloes_Faithful_Hound_chloes_faithful_hound">Chloe’s Faithful Hound</span>
+* <span class="spell spell-Confusion_confusion">Confusion</span> (concentration)
+* <span class="spell spell-Conjure_Minor_Elementals_conjure_minor_elementals">Conjure Minor Elementals</span> (concentration)
+* <span class="spell spell-Control_Water_control_water">Control Water</span> (concentration)
+* <span class="spell spell-Coreadors_Black_Tentacles_coreadors_black_tentacles">Coreador’s Black Tentacles</span>
+(concentration)
+* <span class="spell spell-Dimension_Door_dimension_door">Dimension Door</span>
+* <span class="spell spell-Divination_divination">Divination</span> (ritual)
+* <span class="spell spell-Fabricate_fabricate">Fabricate</span>
+* <span class="spell spell-Fire_Shield_fire_shield">Fire Shield</span>
+* <span class="spell spell-Greater_Imperceptibility_greater_imperceptibility">Greater Imperceptibility</span> (concentration)
+* <span class="spell spell-Hallucinatory_Terrain_hallucinatory_terrain">Hallucinatory Terrain</span>
+* <span class="spell spell-Ice_Storm_ice_storm">Ice Storm</span>
+* <span class="spell spell-Jesss_Private_Sanctum_jesss_private_sanctum">Jess’s Private Sanctum</span>
+* <span class="spell spell-Locate_Creature_locate_creature">Locate Creature</span> (concentration)
+* <span class="spell spell-Phantasmal_Killer_phantasmal_killer">Phantasmal Killer</span> (concentration)
+* <span class="spell spell-Polymorph_polymorph">Polymorph</span> (concentration)
+* <span class="spell spell-Resilient_Sphere_resilient_sphere">Resilient Sphere</span>
+(concentration)
+* <span class="spell spell-Stone_Shape_stone_shape">Stone Shape</span>
+* <span class="spell spell-Stoneskin_stoneskin">Stoneskin</span> (concentration)
+* <span class="spell spell-Wall_of_Fire_wall_of_fire">Wall of Fire</span> (concentration)
 
-#### 5th Level
+## 5th Level
 
-- [Animate Objects](#Animate_Objects_animate_objects) (concentration)
-- [Cloudkill](#Cloudkill) (concentration)
-- [Cone of Cold](#Cone_of_Cold_cone_of_cold)
-- [Conjure Elemental](#Conjure_Elemental_conjure_elemental) (concentration)
-- [Contact other Plane](#Contact_other_Plane_contact_other_plane) (ritual)
-- [Creation](#Creation_creation)
-- [Dominate Person](#Dominate_Person_dominate_person) (concentration)
-- [Dream](#Dream)
-- [Geas](#Geas_geas)
-- [Hold Monster](#Hold_Monster_hold_monster) (concentration)
-- [Legend Lore](#Legend_Lore_legend_lore)
-- [Mislead](#Mislead_mislead) (concentration)
-- [Modify Memory](#Modify_Memory_modify_memory) (concentration)
-- [Morscheck's Hand](#Morschecks_Hand_morschecks_hand) <!-- previously "Arcane Hand" --> (concentration)
-- [Passwall](#Passwall_passwall)
-- [Planar Binding](#Planar_Binding_planar_binding)
-- [Rantock's Telepathic Bond](#Rantocks_Telepathic_Bond_rantocks_telepathic_bond) <!-- previously "Telepathic Bond" --> (ritual)
-- [Scrying](#Scrying_scrying) (concentration)
-- [Seeming](#Seeming_seeming)
-- [Telekinesis](#Telekinesis_telekinesis) (concentration)
-- [Teleportation Circle](#Teleportation_Circle_teleportation_circle)
-- [Wall of Force](#Wall_of_Force_wall_of_force) (concentration)
-- [Wall of Stone](#Wall_of_Stone_wall_of_stone) (concentration)
+* <span class="spell spell-Animate_Objects_animate_objects">Animate Objects</span> (concentration)
+* <span class="spell spell-Cloudkill_cloudkill">Cloudkill</span> (concentration)
+* <span class="spell spell-Cone_of_Cold_cone_of_cold">Cone of Cold</span>
+* <span class="spell spell-Conjure_Elemental_conjure_elemental">Conjure Elemental</span> (concentration)
+* <span class="spell spell-Contact_other_Plane_contact_other_plane">Contact other Plane</span> (ritual)
+* <span class="spell spell-Creation_creation">Creation</span>
+* <span class="spell spell-Dominate_Person_dominate_person">Dominate Person</span> (concentration)
+* <span class="spell spell-Dream_dream">Dream</span>
+* <span class="spell spell-Geas_geas">Geas</span>
+* <span class="spell spell-Hold_Monster_hold_monster">Hold Monster</span> (concentration)
+* <span class="spell spell-Legend_Lore_legend_lore">Legend Lore</span>
+* <span class="spell spell-Mislead_mislead">Mislead</span> (concentration)
+* <span class="spell spell-Modify_Memory_modify_memory">Modify Memory</span> (concentration)
+* <span class="spell spell-Morschecks_Hand_morschecks_hand">Morscheck’s Hand</span>
+(concentration)
+* <span class="spell spell-Passwall_passwall">Passwall</span>
+* <span class="spell spell-Planar_Binding_planar_binding">Planar Binding</span>
+* <span class="spell spell-Rantocks_Telepathic_Bond_rantocks_telepathic_bond">Rantock’s Telepathic Bond</span>
+(ritual)
+* <span class="spell spell-Scrying_scrying">Scrying</span> (concentration)
+* <span class="spell spell-Seeming_seeming">Seeming</span>
+* <span class="spell spell-Telekinesis_telekinesis">Telekinesis</span> (concentration)
+* <span class="spell spell-Teleportation_Circle_teleportation_circle">Teleportation Circle</span>
+* <span class="spell spell-Wall_of_Force_wall_of_force">Wall of Force</span> (concentration)
+* <span class="spell spell-Wall_of_Stone_wall_of_stone">Wall of Stone</span> (concentration)
 
-#### 6th Level
+## 6th Level
 
-- [Chain Lightning](#Chain_Lightning_chain_lightning)
-- [Circle of Death](#Circle_of_Death_circle_of_death)
-- [Contingency](#Contingency_contingency)
-- [Create Undead](#Create_Undead_create_undead)
-- [Disintegrate](#Disintegrate_disintegrate)
-- [Emma's Irresistible Dance](#Emmas_Irresistible_Dance_emmas_irresistible_dance) <!-- previously "Irresistible Dance" --> (concentration)
-- [Eyebite](#Eyebite_eyebite) (concentration)
-- [Fiona's Freezing Sphere](#Fionas_Freezing_Sphere_fionas_freezing_sphere) <!-- previously "Freezing Sphere" -->
-- [Flesh to Stone](#Flesh_to_Stone_flesh_to_stone) (concentration)
-- [Globe of Invulnerability](#Globe_of_Invulnerability_globe_of_invulnerability) (concentration)
-- [Guards and Wards](#Guards_and_Wards_guards_and_wards)
-- [Magic Jar](#Magic_Jar_magic_jar)
-- [Mass Suggestion](#Mass_Suggestion_mass_suggestion)
-- [Move Earth](#Move_Earth_move_earth) (concentration)
-- [Natalex's Instant Summons](#Natalexs_Instant_Summons_natalexs_instant_summons) <!-- previously "Instant Summons"? --> (ritual)
-- [Programmed Illusion](#Programmed_Illusion_programmed_illusion)
-- [Sunbeam](#Sunbeam_sunbeam) (concentration)
-- [True Seeing](#True_Seeing_true_seeing)
-- [Wall of Ice](#Wall_of_Ice_wall_of_ice) (concentration)
+* <span class="spell spell-Chain_Lightning_chain_lightning">Chain Lightning</span>
+* <span class="spell spell-Circle_of_Death_circle_of_death">Circle of Death</span>
+* <span class="spell spell-Contingency_contingency">Contingency</span>
+* <span class="spell spell-Create_Undead_create_undead">Create Undead</span>
+* <span class="spell spell-Disintegrate_disintegrate">Disintegrate</span>
+* <span class="spell spell-Emmas_Irresistible_Dance_emmas_irresistible_dance">Emma’s Irresistible Dance</span>
+(concentration)
+* <span class="spell spell-Eyebite_eyebite">Eyebite</span> (concentration)
+* <span class="spell spell-Fionas_Freezing_Sphere_fionas_freezing_sphere">Fiona’s Freezing Sphere</span>
+* <span class="spell spell-Flesh_to_Stone_flesh_to_stone">Flesh to Stone</span> (concentration)
+* <span class="spell spell-Globe_of_Invulnerability_globe_of_invulnerability">Globe of Invulnerability</span> (concentration)
+* <span class="spell spell-Guards_and_Wards_guards_and_wards">Guards and Wards</span>
+* <span class="spell spell-Magic_Jar_magic_jar">Magic Jar</span>
+* <span class="spell spell-Mass_Suggestion_mass_suggestion">Mass Suggestion</span>
+* <span class="spell spell-Move_Earth_move_earth">Move Earth</span> (concentration)
+* <span class="spell spell-Natalexs_Instant_Summons_natalexs_instant_summons">Natalex’s Instant Summons</span>
+(ritual)
+* <span class="spell spell-Programmed_Illusion_programmed_illusion">Programmed Illusion</span>
+* <span class="spell spell-Sunbeam_sunbeam">Sunbeam</span> (concentration)
+* <span class="spell spell-True_Seeing_true_seeing">True Seeing</span>
+* <span class="spell spell-Wall_of_Ice_wall_of_ice">Wall of Ice</span> (concentration)
 
-#### 7th Level
+## 7th Level
 
-- [Alia's Magnificent Mansion](#Alias_Magnificent_Mansion_alias_magnificent_mansion) <!-- previously "Magnificent Mansion" -->
-- [Delayed Blast Fireball](#Delayed_Blast_Fireball_delayed_blast_fireball) (concentration)
-- [Etherealness](#Etherealness_etherealness)
-- [Finger of Death](#Finger_of_Death_finger_of_death)
-- [Forcecage](#Forcecage_forcecage)
-- [Katy's Spectral Sword](#Katys_Spectral_Sword_katys_spectral_sword) (concentration) <!-- previously "Arcane Sword" -->
-- [Mirage Arcane](#Mirage_Arcane_mirage_arcane)
-- [Plane Shift](#Plane_Shift_plane_shift)
-- [Prismatic Spray](#Prismatic_Spray_prismatic_spray)
-- [Project Image](#Project_Image_project_image) (concentration)
-- [Reverse Gravity](#Reverse_Gravity_reverse_gravity) (concentration)
-- [Sequester](#Sequester_sequester)
-- [Simulacrum](#Simulacrum_simulacrum)
-- [Symbol](#Symbol_symbol)
-- [Teleport](#Teleport_teleport)
+* <span class="spell spell-Alias_Magnificent_Mansion_alias_magnificent_mansion">Alia’s Magnificent Mansion</span>
+* <span class="spell spell-Delayed_Blast_Fireball_delayed_blast_fireball">Delayed Blast Fireball</span> (concentration)
+* <span class="spell spell-Etherealness_etherealness">Etherealness</span>
+* <span class="spell spell-Finger_of_Death_finger_of_death">Finger of Death</span>
+* <span class="spell spell-Forcecage_forcecage">Forcecage</span>
+* <span class="spell spell-Katys_Spectral_Sword_katys_spectral_sword">Katy’s Spectral Sword</span> (concentration)
+* <span class="spell spell-Mirage_Arcane_mirage_arcane">Mirage Arcane</span>
+* <span class="spell spell-Plane_Shift_plane_shift">Plane Shift</span>
+* <span class="spell spell-Prismatic_Spray_prismatic_spray">Prismatic Spray</span>
+* <span class="spell spell-Project_Image_project_image">Project Image</span> (concentration)
+* <span class="spell spell-Reverse_Gravity_reverse_gravity">Reverse Gravity</span> (concentration)
+* <span class="spell spell-Sequester_sequester">Sequester</span>
+* <span class="spell spell-Simulacrum_simulacrum">Simulacrum</span>
+* <span class="spell spell-Symbol_symbol">Symbol</span>
+* <span class="spell spell-Teleport_teleport">Teleport</span>
 
-#### 8th Level
+## 8th Level
 
-<!-- spell-checker:words Feeblemind -->
-- [Antimagic Field](#Antimagic_Field_antimagic_field) (concentration)
-- [Antipathy/Sympathy](#Antipathy_Sympathy_antipathysympathy)
-- [Clone](#Clone)
-- [Confound](#Confound_confound) <!-- previously "Feeblemind" -->
-- [Control Weather](#Control_Weather_control_weather) (concentration)
-- [Demiplane](#Demiplane_demiplane)
-- [Dominate Monster](#Dominate_Monster_dominate_monster) (concentration)
-- [Incendiary Cloud](#Incendiary_Cloud_incendiary_cloud) (concentration)
-- [Maze](#Maze_maze) (concentration)
-- [Mind Blank](#Mind_Blank_mind_blank)
-- [Power Word Stun](#Power_Word_Stun_power_word_stun)
-- [Sunburst](#Sunburst_sunburst)
+* <span class="spell spell-Antimagic_Field_antimagic_field">Antimagic Field</span> (concentration)
+* [Antipathy/Sympathy](#antipathy/sympathy)
+* <span class="spell spell-Clone_clone">Clone</span>
+* <span class="spell spell-Confound_confound">Confound</span>
+* <span class="spell spell-Control_Weather_control_weather">Control Weather</span> (concentration)
+* <span class="spell spell-Demiplane_demiplane">Demiplane</span>
+* <span class="spell spell-Dominate_Monster_dominate_monster">Dominate Monster</span> (concentration)
+* <span class="spell spell-Incendiary_Cloud_incendiary_cloud">Incendiary Cloud</span> (concentration)
+* <span class="spell spell-Maze_maze">Maze</span> (concentration)
+* <span class="spell spell-Mind_Blank_mind_blank">Mind Blank</span>
+* <span class="spell spell-Power_Word_Stun_power_word_stun">Power Word Stun</span>
+* <span class="spell spell-Sunburst_sunburst">Sunburst</span>
 
-#### 9th Level
+## 9th Level
 
-- [Astral Projection](#Astral_Projection_astral_projection)
-- [Foresight](#Foresight_foresight)
-- [Gate](#Gate_gate) (concentration)
-- [Imprisonment](#Imprisonment_imprisonment)
-- [Meteor Swarm](#Meteor_Swarm_meteor_swarm)
-- [Power Word Kill](#Power_Word_Kill_power_word_kill)
-- [Prismatic Wall](#Prismatic_Wall_prismatic_wall)
-- [Shapechange](#Shapechange_shapechange) (concentration)
-- [Time Stop](#Time_Stop_time_stop)
-- [True Polymorph](#True_Polymorph_true_polymorph) (concentration)
-- [Weird](#Weird_weird) (concentration)
-- [Wish](#Wish_wish)
+* <span class="spell spell-Astral_Projection_astral_projection">Astral Projection</span>
+* <span class="spell spell-Foresight_foresight">Foresight</span>
+* <span class="spell spell-Gate_gate">Gate</span> (concentration)
+* <span class="spell spell-Imprisonment_imprisonment">Imprisonment</span>
+* <span class="spell spell-Meteor_Swarm_meteor_swarm">Meteor Swarm</span>
+* <span class="spell spell-Power_Word_Kill_power_word_kill">Power Word Kill</span>
+* <span class="spell spell-Prismatic_Wall_prismatic_wall">Prismatic Wall</span>
+* <span class="spell spell-Shapechange_shapechange">Shapechange</span> (concentration)
+* <span class="spell spell-Time_Stop_time_stop">Time Stop</span>
+* <span class="spell spell-True_Polymorph_true_polymorph">True Polymorph</span> (concentration)
+* <span class="spell spell-Weird_weird">Weird</span> (concentration)
+* <span class="spell spell-Wish_wish">Wish</span>

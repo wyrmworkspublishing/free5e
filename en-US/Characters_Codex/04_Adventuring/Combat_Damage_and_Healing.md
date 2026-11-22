@@ -1,9 +1,9 @@
-### Damage and Healing
+# Damage and Healing
 
 Injury and the risk of death are constant companions of those who explore fantasy gaming worlds.
-The thrust of a sword, a well-placed arrow, or a blast of flame from a _[<span class="spell">Fireball</span>](#Fireball_fireball)_ spell all have the potential to damage, or even kill, the hardiest of creatures.
+The thrust of a sword, a well-placed arrow, or a blast of flame from a _<span class="spell spell-Fireball_fireball">Fireball</span>_ spell all have the potential to damage, or even kill, the hardiest of creatures.
 
-#### Hit Points
+## Hit Points
 
 Hit points represent a combination of physical and mental durability, the will to live, and luck.
 Creatures with more hit points are more difficult to kill.
@@ -15,29 +15,29 @@ This number changes frequently as a creature takes damage or receives healing.
 Whenever a creature takes damage, that damage is subtracted from its hit points.
 The loss of hit points has no effect on a creature’s capabilities until the creature drops to 0 hit points.
 
-#### Damage Rolls
+## Damage Rolls
 
 Each weapon, spell, and harmful monster ability specifies the damage it deals.
 You roll the damage die or dice, add any modifiers, and apply the damage to your target.
 Magic weapons, special abilities, and other factors can grant a bonus to damage.
 With a penalty, it is possible to deal 0 damage, but never negative damage.
 
-When attacking with a **weapon**, you add your ability modifier—the same modifier used for the attack roll—to the damage.
+When attacking with a **weapon**, you add your ability modifier--the same modifier used for the attack roll--to the damage.
 A **spell** tells you which dice to roll for damage and whether to add any modifiers.
 
 If a spell or other effect deals damage to **more than one target** at the same time, roll the damage once for all of them.
-For example, when a Wizard casts _[<span class="spell">Fireball</span>](#Fireball_fireball)_ or a Cleric casts _[<span class="spell">Flame Strike</span>](#Flame_Strike_flame_strike)_, the spell’s damage is rolled once for all creatures caught in the blast.
+For example, when a Wizard casts _<span class="spell spell-Fireball_fireball">Fireball</span>_ or a Cleric casts _<span class="spell spell-Flame_Strike_flame_strike">Flame Strike</span>_, the spell’s damage is rolled once for all creatures caught in the blast.
 
-##### Critical Hits
+### Critical Hits
 
-When you score a [critical hit](#Combat_Making_an_Attack_rolling_1_or_20), roll the attack’s damage dice twice and add them together.
+When you score a [critical hit](#rolling-1-or-20), roll the attack’s damage dice twice and add them together.
 Add any relevant modifiers.
 To speed up play, roll all damage dice at once.
 
 For example, with a dagger, roll 2d4 for damage instead of 1d4.
 If the attack involves other damage dice, roll them twice.
 
-##### Damage Types
+### Damage Types
 
 Different attacks, damaging spells, and other harmful effects deal different types of damage.
 Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types.
@@ -45,46 +45,46 @@ Damage types have no rules of their own, but other rules, such as damage resista
 The damage types follow, with examples to help a Conductor assign a damage type to a new effect.
 
 **Acid.**
-The corrosive spray of a <span class="monster monster-Black_Dragon_black_dragon">black dragon’s</span> breath and the dissolving enzymes secreted by a <span class="monster monster-Black_Pudding_black_pudding">black pudding</span> deal acid damage.
+The corrosive spray of a black dragon’s breath and the dissolving enzymes secreted by a black pudding deal acid damage.
 
 **Bludgeoning.**
-Blunt force attacks—hammers, falling, constriction, and the like—deal bludgeoning damage.
+Blunt force attacks--hammers, falling, constriction, and the like--deal bludgeoning damage.
 
 **Cold.**
-The infernal chill radiating from an ice devil’s spear and the frigid blast of a <span class="monster monster-White_Dragon_white_dragon">white dragon’s</span> breath deal cold damage.
+The infernal chill radiating from an ice devil’s spear and the frigid blast of a white dragon’s breath deal cold damage.
 
 **Fire.**
-<span class="monster monster-Red_Dragon_red_dragon">Red dragons</span> breathe fire, and many spells conjure flames to deal fire damage.
+Red dragons breathe fire, and many spells conjure flames to deal fire damage.
 
 **Force.**
 Force is pure magical energy focused into a damaging form.
-Most effects that deal force damage are spells, including _[<span class="spell">Magic Missile</span>](#Magic_Missile_magic_missile)_ and _[<span class="spell">Spiritual Weapon</span>](#Spiritual_Weapon_spiritual_weapon)_.
+Most effects that deal force damage are spells, including _<span class="spell spell-Magic_Missile_magic_missile">Magic Missile</span>_ and _<span class="spell spell-Spiritual_Weapon_spiritual_weapon">Spiritual Weapon</span>_.
 
 **Lightning.**
-A _[<span class="spell">Lightning Bolt</span>](#Lightning_Bolt_lightning_bolt)_ spell and a <span class="monster monster-Blue_Dragon_blue_dragon">blue dragon’s</span> breath deal lightning damage.
+A _<span class="spell spell-Lightning_Bolt_lightning_bolt">Lightning Bolt</span>_ spell and a blue dragon’s breath deal lightning damage.
 
 **Necrotic.**
-Necrotic damage, dealt by certain undead and a spell such as _[<span class="spell">Chill Touch</span>](#Chill_Touch_chill_touch)_, withers matter and even the soul.
+Necrotic damage, dealt by certain undead and a spell such as _<span class="spell spell-Chill_Touch_chill_touch">Chill Touch</span>_, withers matter and even the soul.
 
 **Piercing.**
 Puncturing and impaling attacks, including spears and monsters’ bites, deal piercing damage.
 
 **Poison.**
-Venomous stings and the toxic gas of a <span class="monster monster-Green_Dragon_green_dragon">green dragon’s</span> breath deal poison damage.
+Venomous stings and the toxic gas of a green dragon’s breath deal poison damage.
 
 **Psychic.**
-Mental abilities such as a <span class="monster monster-Chain_Devil_chain_devil">chain devil’s</span> unnerving mask deal psychic damage.
+Mental abilities such as a chain devil’s unnerving mask deal psychic damage.
 
 **Radiant.**
-Radiant damage, dealt by a Cleric’s _[<span class="spell">Flame Strike</span>](#Flame_Strike_flame_strike)_ spell or an <span class="monster monster-Angels_angels">angel’s</span> smiting weapon, sears the flesh like fire and overloads the spirit with power.
+Radiant damage, dealt by a Cleric’s _<span class="spell spell-Flame_Strike_flame_strike">Flame Strike</span>_ spell or an angel’s smiting weapon, sears the flesh like fire and overloads the spirit with power.
 
 **Slashing.**
 Swords, axes, and monsters’ claws deal slashing damage.
 
 **Thunder.**
-A concussive burst of sound, such as the effect of the _[<span class="spell">Thunderwave</span>](#Thunderwave_thunderwave)_ spell, deals thunder damage.
+A concussive burst of sound, such as the effect of the _<span class="spell spell-Thunderwave_thunderwave">Thunderwave</span>_ spell, deals thunder damage.
 
-#### Damage Resistance and Vulnerability
+## Damage Resistance and Vulnerability
 
 Some creatures and objects are exceedingly difficult or unusually easy to hurt with certain types of damage.
 
@@ -92,42 +92,41 @@ If a creature or an object has **resistance** to a damage type, damage of that t
 If a creature or an object has **vulnerability** to a damage type, damage of that type is doubled against it.
 
 Resistance and vulnerability apply after other damage modifiers.
-For instance, a creature has bludgeoning resistance and takes 25 bludgeoning damage.
-A magical aura reduces all damage by 5, so the 25 is reduced to 10.
+For instance, a creature with bludgeoning resistance is dealt 25 bludgeoning damage. A magical aura first reduces the damage to 20, and resistance then halves it, so the creature takes 10 damage.
 
 Multiple instances of resistance or vulnerability for the same damage type count as one.
-For example, a creature has bludgeoning and nonmagical damage resistance, so nonmagical fire damage is reduced by half, not three-quarters.
+For example, a creature has resistance to bludgeoning damage and nonmagical damage, so nonmagical bludgeoning damage is reduced by half, not three-quarters.
 
-#### Healing
+## Healing
 
 Unless it results in death, damage isn’t permanent.
 Even death is reversible through powerful magic.
-Rest can restore a creature’s hit points, and magical methods such as a _[<span class="spell">Cure Wounds</span>](#Cure_Wounds_cure_wounds)_ spell or a _<span class="item item-Potion_of_Healing_potion_of_healing">potion of healing</span>_ can remove damage in an instant.
+Rest can restore a creature’s hit points, and magical methods such as a _<span class="spell spell-Cure_Wounds_cure_wounds">Cure Wounds</span>_ spell or a _<span class="spell spell-Revivify_revivify">.item.item-Potion_of_Healing_potion_of_healing]#potion of healing#_ can remove damage in an instant.
 
 When a creature receives healing of any kind, hit points regained are added to its current hit points.
 A creature’s hit points can’t exceed its hit point maximum, so any hit points regained in excess of this number are lost.
 For example, a Wodewose grants a Ranger 8 hit points of healing.
 If the Ranger has 14 current hit points and has a hit point maximum of 20, the Ranger regains 6 hit points from the Wodewose, not 8.
 
-A creature that has died can’t regain hit points until magic such as the _[<span class="spell">Revivify</span>](#Revivify_revivify)_ spell has restored it to life.
+A creature that has died can’t regain hit points until magic such as the _[Revivify</span>_ spell has restored it to life.
 
-#### Dropping to 0 Hit Points
+## Dropping to 0 Hit Points
 
 When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
 
-##### Instant Death
+### Instant Death
 
 Massive damage can kill you instantly.
 When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
 
-##### Falling Unconscious
+### Falling Unconscious
 
-If damage reduces you to 0 hit points and fails to kill you, you fall _[<span class="condition">unconscious</span>](#Conditions_unconscious)_ (see [appendix A, "Conditions"](#Conditions_conditions)).
+If damage reduces you to 0 hit points and fails to kill you, you fall _<span class="condition condition-Conditions_unconscious">unconscious</span>_ (see <span class="condition condition-Conditions_conditions">appendix A, "Conditions"</span>).
 This unconsciousness ends if you regain any hit points.
 
-##### Death Saving Throws
+### Death Saving Throws
 
-Whenever starting with 0 hit points, make a death saving throw to determine your fate.
+Whenever you start your turn with 0 hit points, make a death saving throw to determine your fate.
 Unlike other saving throws, this one isn’t tied to an ability score.
 You rely on spells and features to improve your chances of success.
 
@@ -148,10 +147,10 @@ If you take any damage while you have 0 hit points, you suffer a death saving th
 If the damage is from a critical hit, you suffer two failures instead.
 If the damage equals or exceeds your hit point maximum, you suffer instant death.
 
-##### Stabilizing a Creature
+### Stabilizing a Creature
 
 To save a creature with 0 hit points, heal it.
-If healing is unavailable, stabilize it to prevent a failed death saving throw.
+If healing is unavailable, you can stabilize it to prevent it from making death saving throws.
 
 Use your action to administer first aid and attempt stabilization.
 This requires a successful DC 10 Wisdom (_Medicine_) check.
@@ -159,20 +158,20 @@ This requires a successful DC 10 Wisdom (_Medicine_) check.
 A **stable** creature doesn’t make death saving throws but remains unconscious.
 It regains 1 hit point after 1d4 hours if not healed.
 
-##### Monsters and Death
+### Monsters and Death
 
 Most Conductors have a monster die the instant it drops to 0 hit points, rather than having it fall unconscious and make death saving throws.
 
 Mighty villains and special nonplayer characters are common exceptions; the Conductor might have them fall unconscious and follow the same rules as player characters.
 
-#### Knocking a Creature Out
+## Knocking a Creature Out
 
 Sometimes an attacker wants to incapacitate a foe, rather than deal a killing blow.
 When an attacker reduces a creature to 0 hit points with a melee attack, the attacker can knock the creature out.
 The attacker can make this choice the instant the damage is dealt.
 The creature falls unconscious and is stable.
 
-#### Temporary Hit Points
+## Temporary Hit Points
 
 Temporary hit points are a buffer against damage, a pool of hit points that protect against injury.
 They are separate from your actual hit points and can exceed them.
@@ -185,6 +184,6 @@ You decide whether to keep or gain temporary hit points when receiving more.
 For instance, with 10 temporary hit points and a spell granting 12, you can have 12 or 10, not 22.
 
 Receiving temporary hit points doesn’t restore consciousness or stabilize you when you have 0 hit points.
-They can absorb damage, but only true healing saves you.
+They can absorb damage, but only regaining hit points restores consciousness.
 
-Temporary hit points last until depleted or after a long rest unless a feature has a duration.
+Temporary hit points last until depleted or until you finish a long rest, unless the feature granting them specifies a duration.

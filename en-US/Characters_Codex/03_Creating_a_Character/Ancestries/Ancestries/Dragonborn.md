@@ -1,14 +1,15 @@
-### Dragonborn
+# Dragonborn
 
 Dragonborn are towering humanoids with draconic features, including scales in a spectrum of colors and reptilian eyes.
 They possess imposing physiques and a proud heritage.
 
-#### Dragonborn Traits
+## Dragonborn Traits
+
 Your draconic heritage manifests in a variety of traits you share with other dragonborn.
 \
 **Age.**
 Young dragonborn grow rapidly.
-They walk hours after hatching, reach the size of a 10-year-old human child by 3, and become adults by 15.
+They walk within hours of hatching, reach the size of a 10-year-old human child by 3, and become adults by 15.
 They live to be around 80.
 \
 **Size.**
@@ -25,7 +26,7 @@ Choose the type of damage dealt by your breath weapon from the following list: a
 
 Additionally, choose between a 30-foot line that is 5 feet wide or a 15-foot cone for the area that your breath weapon affects.
 Each creature in the breath’s area makes a Dexterity saving throw.
-If your breath weapon deals psychic damage, a Wisdom saving throw is made instead of Dexterity; if cold, necrotic, poison, radiant, or thunder, a Constitution saving throw.
+If your breath weapon deals psychic damage, the creature instead makes a Wisdom saving throw; if it deals cold, necrotic, poison, radiant, or thunder damage, it instead makes a Constitution saving throw.
 The DC is 8 + your Constitution modifier + your proficiency bonus.
 
 A creature takes 2d6 damage on a failed saving throw, or half damage on a success.
