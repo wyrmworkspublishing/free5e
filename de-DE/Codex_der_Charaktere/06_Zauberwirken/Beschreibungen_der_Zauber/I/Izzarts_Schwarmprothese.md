@@ -1,9 +1,9 @@
-#### Iz’zart's Schwarmprothese
+#### Iz'zart's Schwarmprothese
 <!-- markdownlint-disable link-image-reference-definitions -->
 <!-- spell-checker:words added amount avoids casting concentration damage different duration emphasis ends english false formula hour halves hours kommagetrennt mechanics minutes reaction ritual same saving school somatic special spell throw true wording wotc -->
 <!-- spell-checker:words limb swarm -->
-[_metadata_:spell_name]:- "Iz’zart's Schwarmprothese"
-[_metadata_:spell_name_english]:- "Iz’zart's Swarm Limb"
+[_metadata_:spell_name]:- "Iz'zart's Schwarmprothese"
+[_metadata_:spell_name_english]:- "Iz'zart's Swarm Limb"
 [_metadata_:spell_school]:- "???"
 [_metadata_:spell_level]:- "???"
 [_metadata_:casting_time_amount]:- "???"

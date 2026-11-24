@@ -270,7 +270,7 @@
 
 [**Irrgarten**](./I/Irrgarten.md)
 
-[**Iz’zart's Schwarmprothese**](./I/Izzarts_Schwarmprothese.md)
+[**Iz'zart's Schwarmprothese**](./I/Izzarts_Schwarmprothese.md)
 
 ### J
 

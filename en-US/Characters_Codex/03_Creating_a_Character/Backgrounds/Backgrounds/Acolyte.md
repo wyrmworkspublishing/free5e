@@ -1,4 +1,4 @@
-### Acolyte
+# Acolyte
 
 You’ve dedicated your life to serving a temple or pantheon of gods, acting as an intermediary between the holy and mortal realms.
 While not necessarily a Cleric, you perform sacred rites and sacrifices to guide worshipers to the divine.
@@ -16,7 +16,7 @@ Two of your choice
 **Equipment:**
 A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of common clothes, and a pouch containing 15 gp
 \
-**Feature: Shelter of the Faithful** \
+**Feature: Shelter of the Faithful**\
 As an acolyte, you command respect and perform religious ceremonies.
 Adventuring companions receive free healing and care at faith-affiliated locations, but must provide spell components.
 
