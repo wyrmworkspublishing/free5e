@@ -18,6 +18,10 @@ Free5e is a fully open, community-built alternative to 5e tabletop roleplaying r
 
 Use this repo to contribute, build tools, translate, or develop your own projects using Free5e.
 
+## Join the community
+
+The Free5e Discord is open to everyone, with no purchase or Kickstarter pledge required. Ask rules questions, find other players, share your creations, and discuss contributions to Free5e. [Join the Free5e community](https://wyrmworkspublishing.com/free5e/community/).
+
 ## File formats
 
 The books in this repository are written in the Markdown format, specifically in [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
